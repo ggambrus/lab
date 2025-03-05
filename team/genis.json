@@ -1,0 +1,9 @@
+{
+    "name": "Flora Genis",
+    "photo": "profile_images\/FG.jpg",
+    "education": [
+		{"degree"    : "BSc (Hons) in Psychology (in progress)",
+		 "university": "Bournemouth University",
+		 "logo"      : "images\/logo_BU_64x64.png"}
+    ]
+    }

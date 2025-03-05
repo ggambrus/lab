@@ -42,6 +42,18 @@
         "publications": [ ]
     },
 
+	{
+        "name": "Flora Genis",
+        "title": "Research Assistant",
+		"alumni": false,
+		"cooperation": false,
+        "image": "profile_images\/FG.jpg",
+		"profile_page": "member.html#genis",
+        "bio": "",
+        "research_interests": "",
+        "publications": [ ]
+    },
+
 	
 	{
         "name": "Berfin Ozdemir, MSc",
