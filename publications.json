@@ -1,4 +1,9 @@
-[
+[	{
+        "title": "Shared Neural Dynamics of Facial Expression Processing",
+        "authors": "[@Ely, M. M.|member.html#ely], [@Géza Gergely Ambrus|member.html#ambrus]",
+        "abstract": "In this study, we investigated the shared neural dynamics of emotional face processing using an explicit facial emotion recognition task, where participants made two-alternative forced choice (2AFC) decisions on the displayed emotion. Our data-driven approach employed cross-participant multivariate classification and representational dissimilarity analysis on EEG data. The results demonstrate that EEG signals can effectively decode the sex, emotional expression, and identity of face stimuli across different stimuli and participants, indicating shared neural codes for facial expression processing. Multivariate classification analyses revealed that sex is decoded first, followed by identity, and then emotion. Emotional expressions (angry, happy, sad) were decoded earlier when contrasted with neutral expressions. While identity and sex information were modulated by image-level stimulus features, the effects of emotion were independent of visual image properties. Importantly, our findings suggest enhanced processing of face identity and sex for emotional expressions, particularly for angry faces and, to a lesser extent, happy faces.",
+        "doi": "https:\/\/doi.org\/10.1007\/s11571-025-10230-4"
+    },
     {
         "title": "Shared neural codes of recognition memory",
         "authors": "[@Géza Gergely Ambrus|member.html#ambrus]",

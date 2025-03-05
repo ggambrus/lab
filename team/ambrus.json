@@ -28,9 +28,9 @@
 				"year"    : "2025",
 				"title"   : "Shared Neural Dynamics of Facial Expression Processing",
 				"journal" : "Cognitive Neurodynamics",
-				"issnumpg": "accepted",
-				"doi"     : "10.1101\/2024.08.05.606517", 
-				"link"    : "https:\/\/doi.org\/10.1101\/2024.08.05.606517"},
+				"issnumpg": "19(1)",
+				"doi"     : "10.1007\/s11571-025-10230-4", 
+				"link"    : "https:\/\/doi.org\/10.1007\/s11571-025-10230-4"},
 		
 			{"authors": "[@Ambrus, G. G.|member.html#ambrus]",	"year": "2024",	"title": "Shared neural codes of recognition memory",	"journal": "Scientific Reports",	"issnumpg": "14(1), 15846",	"doi":"10.1038/s41598-024-66158-y", "link": "https:\/\/doi.org\/10.1038/s41598-024-66158-y "},
 			{"authors": "Klink, H., Kaiser, D., Stecher, R., <u>[@Ambrus, G. G.|member.html#ambrus], & Kovács, G.</u>",	"year": "2023",	"title": "Your place or mine? The neural dynamics of personally familiar scene recognition suggests category independent familiarity encoding",	"journal": "Cerebral Cortex",	"issnumpg": "33(24), 11634–11645",	"doi":"10.1093/cercor/bhad397", "link": "https:\/\/doi.org\/10.1093/cercor/bhad397"},
@@ -71,13 +71,6 @@
 			{"authors": "[@Ambrus, G. G.|member.html#ambrus], Paulus, W., & Antal, A.",	"year": "2010",	"title": "Cutaneous perception thresholds of electrical stimulation methods: comparison of tDCS and tRNS",	"journal": "Clinical Neurophysiology",	"issnumpg": "121(11), 1908–1914",	"doi":"10.1016/j.clinph.2010.04.020", "link": "https:\/\/doi.org\/10.1016/j.clinph.2010.04.020"}
         ],
 		"preprints":[
-			{"authors" : "[@Ely, M. M.|member.html#ely], [@Ambrus, G. G.|member.html#ambrus]",
-		 	 "year"    : "2024",
-			 "title"   : "Shared Neural Dynamics of Facial Expression Processing",
-			 "journal" : "bioRxiv",
-			 "issnumpg": "2024-08",
-			 "doi"     : "10.1101\/2024.08.05.606517", 
-			 "link"    : "https:\/\/doi.org\/10.1101\/2024.08.05.606517"},
 			{"authors" : "Stecher, R., Muukkonen, I., Salmela, V., Rostalski, S.-M., [@Ambrus, G. G.|member.html#ambrus], Kovács, G.",
 			 "year"    : "2021",	
 			 "title"   : "Prolonged and distributed processing of facial identity in the human brain",	"journal": "bioRxiv",

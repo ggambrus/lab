@@ -1,4 +1,11 @@
-[
+[	
+	{
+        "title": "New Research Published -  Shared Neural Dynamics of Facial Expression Processing",
+        "image": "news_images\/cognd2025.jpg",
+		"link": "https:\/\/link.springer.com\/article\/10.1007\/s11571-025-10230-4",
+		"date": "05-03-2025",
+        "text": "New research from our lab by [@Maddie|member.html#ely] and [@Géza|member.html#ambrus] was published on March 5, 2025 in the journal Cognitive Neurodynamics. In it, we demonstrate that EEG signals can be used effectively to decode the sex, emotional expression and identity of face stimuli across different stimuli and participants, indicating shared neural codes for facial expression processing. Furthermore we found enhanced processing of face identity and sex for emotional expressions, particularly for angry and, to a lesser extent, happy faces."
+    },
 	{
         "title": "BU 16th Annual Postgraduate Research Conference",
         "image": "news_images\/BUPGC2024.jpg",
