@@ -71,6 +71,11 @@
 			{"authors": "[@Ambrus, G. G.|member.html#ambrus], Paulus, W., & Antal, A.",	"year": "2010",	"title": "Cutaneous perception thresholds of electrical stimulation methods: comparison of tDCS and tRNS",	"journal": "Clinical Neurophysiology",	"issnumpg": "121(11), 1908–1914",	"doi":"10.1016/j.clinph.2010.04.020", "link": "https:\/\/doi.org\/10.1016/j.clinph.2010.04.020"}
         ],
 		"preprints":[
+			{"authors" : "[@Ely, M. M.|member.html#ely], [@Kelsey, C. A.|member.html#kelsey], [@Ambrus, G. G.|member.html#ambrus]",
+			 "year"    : "2025",
+			 "title"   : "Shared Neural Codes for Emotion Recognition in Emoji and Human Faces",
+			 "journal": "bioRxiv",
+			 "issnumpg": "2025-03",	"doi":"10.1101\/2025.03.21.640322", "link": "https:\/\/doi.org\/10.1101\/2025.03.21.640322"},
 			{"authors" : "Stecher, R., Muukkonen, I., Salmela, V., Rostalski, S.-M., [@Ambrus, G. G.|member.html#ambrus], Kovács, G.",
 			 "year"    : "2021",	
 			 "title"   : "Prolonged and distributed processing of facial identity in the human brain",	"journal": "bioRxiv",

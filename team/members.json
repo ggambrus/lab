@@ -28,7 +28,16 @@
 		"profile_page": "member.html#ely",
         "bio": "Madeline Ely\u0027s research focuses on neural mechanisms behind the perception and processing of facial expressions.",
         "research_interests": "Affective Neuroscience, Face Processing",
-        "publications": [ ]
+        "publications": [
+			{
+                "title": "Shared neural dynamics of facial expression processing",
+                "link": "https:\/\/doi.org\/10.1007\/s11571-025-10230-4"
+            },
+			{
+                "title": "Shared Neural Codes for Emotion Recognition in Emoji and Human Faces",
+                "link": "https:\/\/doi.org\/10.1101\/2025.03.21.640322"
+            }
+		]
     },
 	{
         "name": "Chloe Kelsey, BSc",
@@ -39,7 +48,12 @@
 		"profile_page": "member.html#kelsey",
         "bio": "Chloe Kelsey\u0027s research focuses on neural mechanisms behind the perception and processing of facial attributes.",
         "research_interests": "Affective Neuroscience, Face Processing",
-        "publications": [ ]
+        "publications": [
+			{
+                "title": "Shared Neural Codes for Emotion Recognition in Emoji and Human Faces",
+                "link": "https:\/\/doi.org\/10.1101\/2025.03.21.640322"
+            }		
+			]
     },
 
 	{

@@ -2,6 +2,7 @@
     "name": "Chloe Kelsey",
     "photo": "profile_images\/CK.jpg",
     "external_links": {
+        "orcid"       : "https:\/\/orcid.org\/0009-0002-7967-6507",
         "researchgate": "https:\/\/www.researchgate.net\/profile\/Chloe-Kelsey"
     },
     "education": [
@@ -15,7 +16,13 @@
     ],
 	
     "publications": {
-
+		"preprints":[
+			{"authors" : "[@Ely, M. M.|member.html#ely], [@Kelsey, C. A.|member.html#kelsey], [@Ambrus, G. G.|member.html#ambrus]",
+			 "year"    : "2025",
+			 "title"   : "Shared Neural Codes for Emotion Recognition in Emoji and Human Faces",
+			 "journal": "bioRxiv",
+			 "issnumpg": "2025-03",	"doi":"10.1101\/2025.03.21.640322", "link": "https:\/\/doi.org\/10.1101\/2025.03.21.640322"}
+		],
         "conferences": [
 			{"authors": "[@Ely, M. M.|member.html#ely], [@Kelsey, C.|member.html#kelsey] and [@Ambrus, G. G.|member.html#ambrus]", "year": "2024", "title": "Exploring Gender Information in the Processing of Emoji Faces", "event": "Broadmoor Hospital Seminar Series", "city": "Crowthorne", "country": "United Kingdom", "eventlink":"https://www.eventbrite.com/e/broadmoor-hospital-seminar-series-mental-disorder-and-the-internet-tickets-1040434797487"}	
 		]
