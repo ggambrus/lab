@@ -1,6 +1,13 @@
 [	
 	{
-        "title": "New Research Published -  Shared Neural Dynamics of Facial Expression Processing",
+			"title": "New Research Published - Shared Neural Signatures of Visual Memory",
+			"image": "news_images\/bres2025.jpg",
+			"link": "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0006899325001751",
+			"date": "03-04-2025",
+			"text": "New research from our lab by [@Berfin|member.html#ozdemir] and [@Géza|member.html#ambrus] was published on April 3, 2025 in the journal Brain Research. In this study, we investigated the shared neural dynamics underlying encoding and recognition processes across diverse visual object stimulus types in short term experimental familiarization, using EEG-based representational similarity analysis and multivariate cross-classification."
+		},
+	{
+        "title": "New Research Published - Shared Neural Dynamics of Facial Expression Processing",
         "image": "news_images\/cognd2025.jpg",
 		"link": "https:\/\/link.springer.com\/article\/10.1007\/s11571-025-10230-4",
 		"date": "05-03-2025",

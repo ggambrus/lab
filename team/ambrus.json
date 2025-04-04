@@ -24,6 +24,14 @@
     ],
     "publications": {
         "journal_articles": [
+			{"authors": "[@Ozdemir, B.|member.html#ozdemir], [@Ambrus, G. G.|member.html#ambrus]",
+				"year"    : "2025",
+				"title"   : "From encoding to recognition: Exploring the shared neural signatures of visual memory",
+				"journal" : "Brain Research",
+				"issnumpg": "in press",
+				"doi"     : "10.1016\/j.brainres.2025.149616", 
+				"link"    : "https:\/\/doi.org\/10.1016\/j.brainres.2025.149616"},
+				
 			{"authors": "[@Ely, M. M.|member.html#ely], [@Ambrus, G. G.|member.html#ambrus]",
 				"year"    : "2025",
 				"title"   : "Shared Neural Dynamics of Facial Expression Processing",

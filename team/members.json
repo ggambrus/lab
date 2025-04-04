@@ -77,6 +77,9 @@
 		"profile_page": "member.html#ozdemir",
         "bio": "Berfin Ozdemir\u0027s research focuses on the shared neural signatures of learning and memory.",
         "research_interests": "Learning, Memory",
-        "publications": [ ]
+        "publications": [{
+                "title": "From encoding to recognition: Exploring the shared neural signatures of visual memory",
+                "link": "https:\/\/doi.org\/10.1016\/j.brainres.2025.149616"
+            } ]
     }
 ]
