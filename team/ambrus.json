@@ -28,7 +28,7 @@
 				"year"    : "2025",
 				"title"   : "From encoding to recognition: Exploring the shared neural signatures of visual memory",
 				"journal" : "Brain Research",
-				"issnumpg": "in press",
+				"issnumpg": "149616",
 				"doi"     : "10.1016\/j.brainres.2025.149616", 
 				"link"    : "https:\/\/doi.org\/10.1016\/j.brainres.2025.149616"},
 				
@@ -113,6 +113,14 @@
 				{"title": "Investigating the face perception network", "date": "16 February 2017", "venue": "School of Psychology, Keynes College, University of Kent", "city": "Kent", "country": "United Kingdom"}
         ],
         "conferences": [
+				{
+					"authors": "[@Ely, M. M.|member.html#ely],[@Kelsey, C. A.|member.html#kelsey] and [@Ambrus, G. G.|member.html#ambrus]", "year":"2025", "title": "Neural Evidence of a 'Male Default' in Emoji Perception: A Cross-Classification Study Using EEG", "event": "DUCOG 16, Conference of the Central European Cognitive Science Association", "city": "Dubrovnik", "country": "Croatia", "eventlink": "https:\/\/ducog.cecog.eu\/"},
+				{
+					"authors": "[@Ambrus, G. G.|member.html#ambrus], [@Ely, M. M.|member.html#ely] and [@Kelsey, C. A.|member.html#kelsey]", "year":"2025", "title": "Spatiotemporal Dynamics of Face Processing in Pareidolia: A Cross-Dataset EEG MVPA Study", "event": "DUCOG 16, Conference of the Central European Cognitive Science Association", "city": "Dubrovnik", "country": "Croatia", "eventlink": "https:\/\/ducog.cecog.eu\/"},
+				{
+					"authors": "[@Ely, M. M.|member.html#ely] and [@Ambrus, G. G.|member.html#ambrus]", "year":"2025", "title": "Spatiotemporal neural signatures of facial expression and familiarity processing: A cross-dataset EEG study", "event": "GEM 2025, Generative Episodic Memory", "city": "Bochum", "country": "Germany", "eventlink": "https:\/\/for2812.rub.de\/gem2025"},
+				{
+					"authors": "[@Ambrus, G. G.|member.html#ambrus] and [@Ely, M. M.|member.html#ely]", "year":"2025", "title": "Neural dynamics of facial expression processing: implications for memory formation", "event": "GEM 2025, Generative Episodic Memory", "city": "Bochum", "country": "Germany", "eventlink": "https:\/\/for2812.rub.de\/gem2025"},
 				{
 					"authors": "[@Ambrus, G. G.|member.html#ambrus] and [@Ely, M. M.|member.html#ely]", "year":"2024", "title": "Exploring Emotional Face Familiarity Effects: Insights from EEG Multivariate Pattern Analysis", "event": "DUCOG 15, Conference of the Central European Cognitive Science Association", "city": "Dubrovnik", "country": "Croatia", "eventlink": "https:\/\/ducog.cecog.eu\/"},
 				{
