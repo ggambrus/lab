@@ -1,4 +1,13 @@
-[	
+[	{
+        "title": "GEM2025, conference on Generative Episodic Memory",
+        "image": "news_images\/GEM2025.jpg",
+        "text": "On June 3, 2025, we presented our latest findings at the Generative Episodic Memory (GEM2025) conference in Bochum, Germany."
+    },
+	{
+        "title": "DUCOG 16, Dubrovnik Conference on Cognitive Science",
+        "image": "news_images\/DUCOG2025.jpg",
+        "text": "On May 23, 2025, [@Maddie|member.html#ely] and [@Géza|member.html#ambrus] presented the latest research from our lab at the 16th Dubrovnik Conference on Cognitive Science, in Dubrovnik, Croatia."
+    },
 	{
 			"title": "New Research Published - Shared Neural Signatures of Visual Memory",
 			"image": "news_images\/bres2025.jpg",
