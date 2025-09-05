@@ -7,7 +7,10 @@
         "researchgate": "https:\/\/www.researchgate.net\/profile\/Madeline-Ely-2"
     },
     "education": [
-		 {"degree"   : "Master's by Research (in progress)",
+		 {"degree"   : "PhD in Psychology (in progress)",
+		 "university": "Bournemouth University",
+		 "logo"      : "images\/logo_BU_64x64.png"},
+		 {"degree"   : "Master's by Research",
 		 "university": "Bournemouth University",
 		 "logo"      : "images\/logo_BU_64x64.png"},
 		 {"degree"    : "BSc (Hons) in Psychology",
