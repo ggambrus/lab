@@ -24,6 +24,14 @@
     ],
     "publications": {
         "journal_articles": [
+			{"authors": "Ramasawmy, P., Iszak, K., Brüshaber, S., Kállay, V., [@Ambrus, G. G.|member.html#ambrus], Paulus, V., Antal, A.",
+				"year"    : "in press",
+				"title"   : "When genetics prevail: brain stimulation fails to overcome learning deficits from brain-derived neurotrophic factor <i>Val66Met<\/i>",
+				"journal" : "Clinical Neurophysiology Practice",
+				"issnumpg": "(in press)",
+				"doi"     : "10.1016\/j.cnp.2025.08.009", 
+				"link"    : "https:\/\/doi.org\/10.1016\/j.cnp.2025.08.009"},
+		
 			{"authors": "[@Ozdemir, B.|member.html#ozdemir], [@Ambrus, G. G.|member.html#ambrus]",
 				"year"    : "2025",
 				"title"   : "From encoding to recognition: Exploring the shared neural signatures of visual memory",
