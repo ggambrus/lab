@@ -6,7 +6,7 @@
         "orcid"         : "https:\/\/orcid.org\/0000-0002-8400-8178",
         "researchgate"  : "https:\/\/www.researchgate.net\/profile\/Geza-Ambrus",
 		"scopus"        : "https:\/\/www.scopus.com\/authid\/detail.uri?authorId=36015188000",
-        "google scholar": "https:\/\/scholar.google.com\/citations?user=Xb6yDtQAAAAJ"
+        "google scholar": "https:\/\/scholar.google.com\/citations?user=Xb6yDtQAAAAJ&pagesize=100"
     },
 	"social_media": {
 		"Mastodon"   : "https:\/\/fediscience.org\/@GGAmbrus",
