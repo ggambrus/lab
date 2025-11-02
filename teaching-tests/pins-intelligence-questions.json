@@ -1,0 +1,1450 @@
+[
+  {
+    "id": 1,
+    "question": "Who developed the first modern intelligence test?",
+    "options": ["Lewis Terman", "Alfred Binet", "Charles Spearman", "Francis Galton"],
+    "answer": "Alfred Binet"
+  },
+  {
+    "id": 2,
+    "question": "The concept of 'g' or general intelligence was proposed by:",
+    "options": ["Howard Gardner", "Robert Sternberg", "Charles Spearman", "John Carroll"],
+    "answer": "Charles Spearman"
+  },
+  {
+    "id": 3,
+    "question": "Which psychologist proposed the Triarchic Theory of Intelligence?",
+    "options": ["Howard Gardner", "Robert Sternberg", "Raymond Cattell", "David Wechsler"],
+    "answer": "Robert Sternberg"
+  },
+  {
+    "id": 4,
+    "question": "Fluid intelligence refers to:",
+    "options": ["Knowledge accumulated over time", "Ability to reason and solve novel problems", "Social intelligence", "Emotional understanding"],
+    "answer": "Ability to reason and solve novel problems"
+  },
+  {
+    "id": 5,
+    "question": "Crystallized intelligence involves:",
+    "options": ["Processing speed", "Working memory", "Accumulated knowledge and skills", "Motor coordination"],
+    "answer": "Accumulated knowledge and skills"
+  },
+  {
+    "id": 6,
+    "question": "Howard Gardner’s theory of Multiple Intelligences includes:",
+    "options": ["Linguistic, logical, spatial, and musical intelligences", "Only verbal and mathematical abilities", "Creative and practical intelligences", "IQ and EQ only"],
+    "answer": "Linguistic, logical, spatial, and musical intelligences"
+  },
+  {
+    "id": 7,
+    "question": "The WAIS and WISC were developed by:",
+    "options": ["Raymond Cattell", "David Wechsler", "Lewis Terman", "Jean Piaget"],
+    "answer": "David Wechsler"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following best describes emotional intelligence?",
+    "options": ["Ability to understand and manage emotions", "Ability to solve logical problems", "Ability to recall information", "Ability to manipulate symbols"],
+    "answer": "Ability to understand and manage emotions"
+  },
+  {
+    "id": 9,
+    "question": "Which intelligence test yields both a verbal and performance score?",
+    "options": ["Stanford–Binet Test", "Wechsler Adult Intelligence Scale", "Raven’s Progressive Matrices", "Cattell Culture Fair Test"],
+    "answer": "Wechsler Adult Intelligence Scale"
+  },
+  {
+    "id": 10,
+    "question": "The Flynn effect refers to:",
+    "options": ["The decline of intelligence over time", "The steady increase in average IQ scores across generations", "The role of genetics in intelligence", "Cultural bias in intelligence testing"],
+    "answer": "The steady increase in average IQ scores across generations"
+  },
+  {
+    "id": 11,
+    "question": "An IQ score of 100 represents:",
+    "options": ["Below-average intelligence", "The mean score for a given age group", "A genius-level score", "A measure of creativity"],
+    "answer": "The mean score for a given age group"
+  },
+  {
+    "id": 12,
+    "question": "Which statistical method is most associated with identifying underlying components of intelligence?",
+    "options": ["Regression", "Correlation", "Factor analysis", "ANOVA"],
+    "answer": "Factor analysis"
+  },
+  {
+    "id": 13,
+    "question": "Raymond Cattell divided general intelligence into:",
+    "options": ["Verbal and non-verbal", "Fluid and crystallized", "Analytical and creative", "Practical and academic"],
+    "answer": "Fluid and crystallized"
+  },
+  {
+    "id": 14,
+    "question": "Which of the following best defines intelligence from a psychometric perspective?",
+    "options": ["Capacity for abstract thought and reasoning", "Ability to adapt to the environment", "All cognitive abilities combined", "A construct measured by IQ tests"],
+    "answer": "A construct measured by IQ tests"
+  },
+  {
+    "id": 15,
+    "question": "Which test is considered culture-fair?",
+    "options": ["Raven’s Progressive Matrices", "Stanford–Binet", "WAIS", "WISC"],
+    "answer": "Raven’s Progressive Matrices"
+  },
+  {
+    "id": 16,
+    "question": "Which type of validity refers to whether a test measures what it claims to measure?",
+    "options": ["Reliability", "Predictive validity", "Construct validity", "Concurrent validity"],
+    "answer": "Construct validity"
+  },
+  {
+    "id": 17,
+    "question": "Who coined the term 'mental age'?",
+    "options": ["Charles Spearman", "Alfred Binet", "David Wechsler", "Robert Sternberg"],
+    "answer": "Alfred Binet"
+  },
+  {
+    "id": 18,
+    "question": "A test is said to be reliable if:",
+    "options": ["It measures what it is supposed to measure", "It yields consistent results over time", "It predicts future performance", "It is standardized"],
+    "answer": "It yields consistent results over time"
+  },
+  {
+    "id": 19,
+    "question": "Standardization of an intelligence test means:",
+    "options": ["It is used across cultures", "It has been normed on a representative sample", "It measures all types of intelligence", "It is easy to administer"],
+    "answer": "It has been normed on a representative sample"
+  },
+  {
+    "id": 20,
+    "question": "What is the main critique of IQ testing?",
+    "options": ["It is too simple to administer", "It may reflect cultural and socioeconomic biases", "It overestimates low performers", "It ignores genetic factors"],
+    "answer": "It may reflect cultural and socioeconomic biases"
+  },
+  {
+    "id": 21,
+    "question": "Savant syndrome refers to:",
+    "options": ["High IQ with social deficits", "Exceptional ability in a specific area despite overall limitations", "Learning disabilities due to brain injury", "Low emotional intelligence"],
+    "answer": "Exceptional ability in a specific area despite overall limitations"
+  },
+  {
+    "id": 22,
+    "question": "Which of Gardner’s intelligences involves understanding oneself?",
+    "options": ["Interpersonal", "Intrapersonal", "Bodily-kinesthetic", "Naturalistic"],
+    "answer": "Intrapersonal"
+  },
+  {
+    "id": 23,
+    "question": "The term 'IQ' was introduced by:",
+    "options": ["Alfred Binet", "William Stern", "Lewis Terman", "Francis Galton"],
+    "answer": "William Stern"
+  },
+  {
+    "id": 24,
+    "question": "Which of the following is NOT one of Sternberg’s three intelligences?",
+    "options": ["Analytical", "Creative", "Practical", "Interpersonal"],
+    "answer": "Interpersonal"
+  },
+  {
+    "id": 25,
+    "question": "Historically, the intelligence quotient (IQ) is calculated as:",
+    "options": ["(Mental age / Chronological age) × 100", "(Chronological age / Mental age) × 100", "Mental age × 100", "Chronological age × 100"],
+    "answer": "(Mental age / Chronological age) × 100"
+  },
+  {
+    "id": 26,
+    "question": "Which psychologist is known for pioneering work on eugenics and early intelligence measurement?",
+    "options": ["Charles Spearman", "Francis Galton", "Alfred Binet", "Lewis Terman"],
+    "answer": "Francis Galton"
+  },
+  {
+    "id": 27,
+    "question": "Which test was adapted from Binet’s original test for use in the U.S.?",
+    "options": ["Stanford–Binet", "WAIS", "Raven’s Matrices", "Cattell Culture Fair Test"],
+    "answer": "Stanford–Binet"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following best describes 'practical intelligence'?",
+    "options": ["Ability to use knowledge in real-world contexts", "Skill in solving mathematical problems", "Understanding emotions", "Remembering facts"],
+    "answer": "Ability to use knowledge in real-world contexts"
+  },
+  {
+    "id": 29,
+    "question": "What is the average IQ score according to the normal distribution?",
+    "options": ["85", "90", "100", "115"],
+    "answer": "100"
+  },
+  {
+    "id": 30,
+    "question": "Which term describes the consistency of a test’s results?",
+    "options": ["Validity", "Reliability", "Standardization", "Objectivity"],
+    "answer": "Reliability"
+  },
+  {
+    "id": 31,
+    "question": "The heritability of intelligence in adulthood is estimated to be around:",
+    "options": ["10%", "30%", "50%", "90%"],
+    "answer": "50%"
+  },
+  {
+    "id": 32,
+    "question": "What is the main feature of Raven’s Progressive Matrices?",
+    "options": ["Language-based reasoning", "Non-verbal pattern completion", "Vocabulary testing", "Arithmetic reasoning"],
+    "answer": "Non-verbal pattern completion"
+  },
+  {
+    "id": 33,
+    "question": "Which of the following is an example of crystallized intelligence?",
+    "options": ["Solving a new puzzle", "Remembering historical facts", "Learning a new programming language", "Adapting to a new environment"],
+    "answer": "Remembering historical facts"
+  },
+  {
+    "id": 34,
+    "question": "The correlation between identical twins’ IQs reared apart suggests:",
+    "options": ["Genetics plays a role in intelligence", "Environment fully determines intelligence", "IQ is fixed at birth", "Intelligence is unrelated to heredity"],
+    "answer": "Genetics plays a role in intelligence"
+  },
+  {
+    "id": 35,
+    "question": "Aptitude tests are designed to measure:",
+    "options": ["Current knowledge", "Potential to learn new skills", "Achievement in specific subjects", "Emotional intelligence"],
+    "answer": "Potential to learn new skills"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following would be considered an achievement test?",
+    "options": ["WAIS", "IQ Test", "Final exam in psychology", "Raven’s Matrices"],
+    "answer": "Final exam in psychology"
+  },
+  {
+    "id": 37,
+    "question": "Which intelligence theory emphasizes problem-solving in real-world contexts?",
+    "options": ["Triarchic Theory", "Multiple Intelligences", "Two-Factor Theory", "Three-Stratum Theory"],
+    "answer": "Triarchic Theory"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following describes 'social intelligence'?",
+    "options": ["Understanding and managing relationships", "Verbal fluency", "Numerical reasoning", "Spatial visualization"],
+    "answer": "Understanding and managing relationships"
+  },
+  {
+    "id": 39,
+    "question": "John Carroll’s three-stratum model includes:",
+    "options": ["General, broad, and narrow abilities", "Verbal, numerical, and spatial factors", "Analytical, creative, and practical levels", "Fluid and crystallized tiers"],
+    "answer": "General, broad, and narrow abilities"
+  },
+  {
+    "id": 40,
+    "question": "Cultural bias in intelligence testing refers to:",
+    "options": ["Scoring differences due to examiner errors", "Items that favor certain cultural experiences", "Errors in statistical scoring", "Gender differences in IQ"],
+    "answer": "Items that favor certain cultural experiences"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following best represents Gardner’s interpersonal intelligence?",
+    "options": ["Understanding other people’s emotions and motivations", "Understanding oneself", "Understanding physical space", "Understanding natural systems"],
+    "answer": "Understanding other people’s emotions and motivations"
+  },
+  {
+    "id": 42,
+    "question": "An individual who excels at music composition likely has high:",
+    "options": ["Spatial intelligence", "Linguistic intelligence", "Musical intelligence", "Intrapersonal intelligence"],
+    "answer": "Musical intelligence"
+  },
+  {
+    "id": 43,
+    "question": "Which of the following is NOT part of emotional intelligence?",
+    "options": ["Self-awareness", "Empathy", "Mathematical reasoning", "Self-regulation"],
+    "answer": "Mathematical reasoning"
+  },
+  {
+    "id": 44,
+    "question": "Who introduced the concept of 'mental orthopedics' to train children's attention and will?",
+    "options": ["Alfred Binet", "Lewis Terman", "Charles Spearman", "Francis Galton"],
+    "answer": "Alfred Binet"
+  },
+  {
+    "id": 45,
+    "question": "Which type of test item is least affected by cultural background?",
+    "options": ["Verbal analogies", "Vocabulary tests", "Non-verbal pattern completion", "Reading comprehension"],
+    "answer": "Non-verbal pattern completion"
+  },
+  {
+    "id": 46,
+    "question": "What does 'IQ' stand for?",
+    "options": ["Intelligence Quantity", "Intelligence Quotient", "Intellectual Quality", "Information Quotient"],
+    "answer": "Intelligence Quotient"
+  },
+  {
+    "id": 47,
+    "question": "Which intelligence test primarily measures non-verbal reasoning?",
+    "options": ["WAIS", "Stanford–Binet", "Raven’s Progressive Matrices", "WISC"],
+    "answer": "Raven’s Progressive Matrices"
+  },
+  {
+    "id": 48,
+    "question": "A child’s mental age is 12 and chronological age is 10. The IQ is:",
+    "options": ["80", "100", "120", "140"],
+    "answer": "120"
+  },
+  {
+    "id": 49,
+    "question": "Who emphasized the importance of motivation and creativity in defining intelligence?",
+    "options": ["Sternberg", "Spearman", "Cattell", "Terman"],
+    "answer": "Sternberg"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following best summarizes current views on intelligence?",
+    "options": ["It is purely genetic", "It results from interaction between heredity and environment", "It cannot be measured", "It is determined by culture alone"],
+    "answer": "It results from interaction between heredity and environment"
+  },  
+  {
+    "id": 51,
+    "question": "Which of the following best defines 'intelligence' in psychology?",
+    "options": ["Ability to perform physical tasks", "Capacity to learn from experience and adapt to new situations", "Knowledge of factual information", "Speed of sensory processing"],
+    "answer": "Capacity to learn from experience and adapt to new situations"
+  },
+  {
+    "id": 52,
+    "question": "Who proposed that intelligence is a hierarchy with general intelligence at the top?",
+    "options": ["Howard Gardner", "John Carroll", "Robert Sternberg", "David Wechsler"],
+    "answer": "John Carroll"
+  },
+  {
+    "id": 53,
+    "question": "The Cattell–Horn–Carroll (CHC) theory integrates ideas from which two psychologists?",
+    "options": ["Spearman and Binet", "Cattell and Carroll", "Gardner and Sternberg", "Terman and Galton"],
+    "answer": "Cattell and Carroll"
+  },
+  {
+    "id": 54,
+    "question": "Which of the following is a component of Sternberg’s analytical intelligence?",
+    "options": ["Problem-solving", "Creativity", "Emotional regulation", "Practical know-how"],
+    "answer": "Problem-solving"
+  },
+  {
+    "id": 55,
+    "question": "The reliability coefficient of a well-constructed intelligence test should ideally be:",
+    "options": ["0.1", "0.5", "0.7", "0.9"],
+    "answer": "0.9"
+  },
+  {
+    "id": 56,
+    "question": "Which brain region is most strongly associated with working memory and fluid intelligence?",
+    "options": ["Occipital lobe", "Cerebellum", "Prefrontal cortex", "Hippocampus"],
+    "answer": "Prefrontal cortex"
+  },
+  {
+    "id": 57,
+    "question": "Emotional intelligence was popularized by which psychologist?",
+    "options": ["Daniel Goleman", "Howard Gardner", "John Mayer", "Charles Spearman"],
+    "answer": "Daniel Goleman"
+  },
+  {
+    "id": 58,
+    "question": "Which of the following is NOT an aspect of emotional intelligence according to Mayer and Salovey?",
+    "options": ["Perceiving emotions", "Using emotions to facilitate thought", "Mathematical reasoning", "Managing emotions"],
+    "answer": "Mathematical reasoning"
+  },
+  {
+    "id": 59,
+    "question": "Which of the following is an example of an aptitude test?",
+    "options": ["UCAT", "History exam", "Final year psychology test", "Driving license test"],
+    "answer": "UCAT"
+  },
+  {
+    "id": 60,
+    "question": "An individual’s IQ score compared to others of the same age is based on:",
+    "options": ["Deviation IQ", "Ratio IQ", "Mental age", "Chronological age only"],
+    "answer": "Deviation IQ"
+  },
+  {
+    "id": 61,
+    "question": "Who developed the concept of 'factor analysis' for studying intelligence?",
+    "options": ["Charles Spearman", "Raymond Cattell", "David Wechsler", "Howard Gardner"],
+    "answer": "Charles Spearman"
+  },
+  {
+    "id": 62,
+    "question": "Which of Gardner’s intelligences is associated with the ability to understand natural phenomena?",
+    "options": ["Logical-mathematical", "Naturalistic", "Interpersonal", "Existential"],
+    "answer": "Naturalistic"
+  },
+  {
+    "id": 63,
+    "question": "Which intelligence theory includes 'existential intelligence'?",
+    "options": ["Spearman’s Two-Factor Theory", "Gardner’s Multiple Intelligences", "Cattell’s Fluid-Crystallized Theory", "Sternberg’s Triarchic Theory"],
+    "answer": "Gardner’s Multiple Intelligences"
+  },
+  {
+    "id": 64,
+    "question": "Which of the following statements is TRUE about the Flynn effect?",
+    "options": ["It shows IQ scores decreasing globally", "It is observed only in developing countries", "It suggests environmental improvements affect IQ", "It is caused solely by genetics"],
+    "answer": "It suggests environmental improvements affect IQ"
+  },
+  {
+    "id": 65,
+    "question": "In Wechsler’s scales, the performance subtests primarily measure:",
+    "options": ["Verbal ability", "Non-verbal reasoning", "Emotional regulation", "Cultural knowledge"],
+    "answer": "Non-verbal reasoning"
+  },
+  {
+    "id": 66,
+    "question": "A test that gives similar results each time it is taken demonstrates:",
+    "options": ["Validity", "Reliability", "Bias", "Accuracy"],
+    "answer": "Reliability"
+  },
+  {
+    "id": 67,
+    "question": "Which theorist emphasized sensory and perceptual speed as central to intelligence?",
+    "options": ["Francis Galton", "Howard Gardner", "Robert Sternberg", "Jean Piaget"],
+    "answer": "Francis Galton"
+  },
+  {
+    "id": 68,
+    "question": "Cognitive approaches to intelligence focus on:",
+    "options": ["Personality differences", "Mental processes underlying problem solving", "Cultural variations", "Genetic influences"],
+    "answer": "Mental processes underlying problem solving"
+  },
+  {
+    "id": 69,
+    "question": "Which of the following is most associated with practical intelligence?",
+    "options": ["Academic success", "Adapting to everyday life demands", "Memory span", "Abstract reasoning"],
+    "answer": "Adapting to everyday life demands"
+  },
+  {
+    "id": 70,
+    "question": "A child who struggles with reasoning but excels in language may illustrate which theory?",
+    "options": ["Spearman’s g factor", "Gardner’s Multiple Intelligences", "Triarchic Theory", "Cattell’s Theory"],
+    "answer": "Gardner’s Multiple Intelligences"
+  },
+  {
+    "id": 71,
+    "question": "Which of the following describes crystallized intelligence?",
+    "options": ["Learning new concepts quickly", "Accumulated knowledge and verbal skills", "Solving novel puzzles", "Speed of processing information"],
+    "answer": "Accumulated knowledge and verbal skills"
+  },
+  {
+    "id": 72,
+    "question": "In twin studies, which type of twins share 100% of their genes?",
+    "options": ["Fraternal twins", "Identical twins", "Dizygotic twins", "Adopted siblings"],
+    "answer": "Identical twins"
+  },
+  {
+    "id": 73,
+    "question": "What does a 'norm-referenced' intelligence test mean?",
+    "options": ["It compares performance to a fixed standard", "It compares performance to a representative group", "It tests only general knowledge", "It measures potential not performance"],
+    "answer": "It compares performance to a representative group"
+  },
+  {
+    "id": 74,
+    "question": "The term 'mental retardation' has been replaced by which modern term?",
+    "options": ["Cognitive disability", "Intellectual disability", "Learning difficulty", "Mental delay"],
+    "answer": "Intellectual disability"
+  },
+  {
+    "id": 75,
+    "question": "Individuals with IQ scores below 70 are typically classified as having:",
+    "options": ["High intelligence", "Borderline intelligence", "Intellectual disability", "Average intelligence"],
+    "answer": "Intellectual disability"
+  },
+  {
+    "id": 76,
+    "question": "What does 'construct validity' ensure in intelligence testing?",
+    "options": ["That test results are consistent", "That test measures the intended psychological trait", "That test predicts job performance", "That the test is free of bias"],
+    "answer": "That test measures the intended psychological trait"
+  },
+  {
+    "id": 77,
+    "question": "Which of the following best defines 'content validity'?",
+    "options": ["Extent to which a test appears to measure what it claims", "Degree to which test items represent the entire domain", "Consistency of scores across time", "Correlation with another measure"],
+    "answer": "Degree to which test items represent the entire domain"
+  },
+  {
+    "id": 78,
+    "question": "Who developed the Stanford–Binet Intelligence Scale?",
+    "options": ["David Wechsler", "Lewis Terman", "Alfred Binet", "Charles Spearman"],
+    "answer": "Lewis Terman"
+  },
+  {
+    "id": 79,
+    "question": "Which psychologist emphasized creativity as a part of intelligence?",
+    "options": ["Howard Gardner", "Robert Sternberg", "Charles Spearman", "David Wechsler"],
+    "answer": "Robert Sternberg"
+  },
+  {
+    "id": 80,
+    "question": "The term 'cultural-fair test' means the test:",
+    "options": ["Is based on linguistic knowledge", "Minimizes the influence of cultural experience", "Is translated into many languages", "Assesses cultural understanding"],
+    "answer": "Minimizes the influence of cultural experience"
+  },
+  {
+    "id": 81,
+    "question": "In Sternberg’s Triarchic Theory, creative intelligence is also called:",
+    "options": ["Contextual", "Experiential", "Analytical", "Social"],
+    "answer": "Experiential"
+  },
+  {
+    "id": 82,
+    "question": "The Wechsler scales divide IQ into which two major domains?",
+    "options": ["Fluid and crystallized", "Analytical and practical", "Verbal and performance", "Cognitive and affective"],
+    "answer": "Verbal and performance"
+  },
+  {
+    "id": 83,
+    "question": "Which of the following is NOT measured by traditional IQ tests?",
+    "options": ["Working memory", "Spatial reasoning", "Emotional understanding", "Vocabulary knowledge"],
+    "answer": "Emotional understanding"
+  },
+  {
+    "id": 84,
+    "question": "Which type of intelligence did Sternberg associate with 'street smarts'?",
+    "options": ["Analytical intelligence", "Practical intelligence", "Creative intelligence", "Social intelligence"],
+    "answer": "Practical intelligence"
+  },
+  {
+    "id": 85,
+    "question": "Which of the following statements best reflects Gardner’s view of intelligence?",
+    "options": ["Intelligence is a single measurable construct", "Intelligence consists of multiple independent abilities", "IQ tests accurately measure all intelligence", "Intelligence is fixed by genetics"],
+    "answer": "Intelligence consists of multiple independent abilities"
+  },
+  
+    {
+    "id": 86,
+    "question": "A subtest’s g-loading indicates:",
+    "options": [
+      "Its overall reliability",
+      "How strongly it reflects general intelligence",
+      "Whether it measures motivation",
+      "Its duration"
+    ],
+    "answer": "How strongly it reflects general intelligence"
+  },
+  
+  {
+    "id": 87,
+    "question": "Which of the following would likely correlate most strongly with academic performance?",
+    "options": ["Practical intelligence", "IQ score", "Emotional intelligence", "Social intelligence"],
+    "answer": "IQ score"
+  },
+  {
+    "id": 88,
+    "question": "The main goal of standardization in testing is to:",
+    "options": ["Ensure fairness and comparability of scores", "Increase the difficulty of questions", "Adapt to cultural differences", "Allow for flexible interpretation"],
+    "answer": "Ensure fairness and comparability of scores"
+  },
+  {
+    "id": 89,
+    "question": "Which of the following measures non-verbal abstract reasoning?",
+    "options": ["Raven’s Progressive Matrices", "Stanford–Binet Test", "WAIS Verbal Scale", "SAT"],
+    "answer": "Raven’s Progressive Matrices"
+  },
+  {
+    "id": 90,
+    "question": "Which type of test item is most culturally dependent?",
+    "options": ["Pattern completion", "Vocabulary", "Matrix reasoning", "Picture arrangement"],
+    "answer": "Vocabulary"
+  },
+  {
+    "id": 91,
+    "question": "Which factor is NOT typically considered a male advantage?",
+    "options": ["Navigation", "Mental rotation", "Spatial problem-solving", "Language-related abilities"],
+    "answer": "Language-related abilities"
+  },
+  {
+    "id": 92,
+    "question": "According to Sternberg, 'successful intelligence' includes:",
+    "options": ["Verbal, spatial, and numerical abilities", "Analytical, creative, and practical abilities", "Emotional, social, and cognitive factors", "Memory, reasoning, and learning"],
+    "answer": "Analytical, creative, and practical abilities"
+  },
+  {
+    "id": 93,
+    "question": "The IQ distribution follows which type of curve?",
+    "options": ["Skewed distribution", "Normal distribution", "Exponential curve", "Linear relation"],
+    "answer": "Normal distribution"
+  },
+  {
+    "id": 94,
+    "question": "An IQ score above 130 is typically classified as:",
+    "options": ["Average", "Gifted", "Below average", "Borderline"],
+    "answer": "Gifted"
+  },
+  {
+    "id": 95,
+    "question": "A high correlation between test and retest scores indicates:",
+    "options": ["High validity", "High reliability", "Cultural fairness", "Poor standardization"],
+    "answer": "High reliability"
+  },
+  {
+    "id": 96,
+    "question": "The relationship between intelligence and creativity is best described as:",
+    "options": ["Perfectly correlated", "Unrelated", "Moderately related", "Inversely related"],
+    "answer": "Moderately related"
+  },
+  {
+    "id": 97,
+    "question": "The concept of 'mental age' becomes less useful in adults because:",
+    "options": ["Mental development stops after adolescence", "IQ no longer changes with age", "Chronological and mental age increase together", "It does not account for adult differences"],
+    "answer": "It does not account for adult differences"
+  },
+  {
+    "id": 98,
+    "question": "Which of the following tests focuses primarily on non-verbal reasoning?",
+    "options": ["Raven’s Progressive Matrices", "WAIS Verbal Comprehension", "Stanford–Binet Verbal Scale", "SAT"],
+    "answer": "Raven’s Progressive Matrices"
+  },
+  {
+    "id": 99,
+    "question": "Which of the following would best measure fluid intelligence?",
+    "options": ["Solving novel puzzles", "Recalling historical facts", "Understanding proverbs", "Knowing vocabulary definitions"],
+    "answer": "Solving novel puzzles"
+  },
+  {
+    "id": 100,
+    "question": "Current perspectives on intelligence emphasize that it:",
+    "options": ["Is fixed and biologically determined", "Is dynamic and influenced by multiple factors", "Cannot be measured objectively", "Declines steadily after adolescence"],
+    "answer": "Is dynamic and influenced by multiple factors"
+  },
+  
+  { "id": 101,
+    "question": "Which skill is typically more developed in females on average?",
+    "options": [
+      "Verbal fluency",
+      "Spatial rotation",
+      "Mathematical reasoning",
+      "Mechanical reasoning"
+    ],
+    "answer": "Verbal fluency"
+  },
+  
+  {
+    "id": 102,
+    "question": "The Binet-Simon test was originally designed to:",
+    "options": ["Measure academic achievement", "Identify children needing special education", "Assess adult intelligence", "Diagnose mental illness"],
+    "answer": "Identify children needing special education"
+  },
+  {
+    "id": 103,
+    "question": "Who revised the Binet-Simon test for use in the United States?",
+    "options": ["Lewis Terman", "Robert Yerkes", "David Wechsler", "Howard Gardner"],
+    "answer": "Lewis Terman"
+  },
+  {
+    "id": 104,
+    "question": "The Stanford-Binet Intelligence Scale measures:",
+    "options": ["Emotional intelligence", "Social skills", "General intellectual ability", "Personality traits"],
+    "answer": "General intellectual ability"
+  },
+  {
+    "id": 105,
+    "question": "Who developed the Wechsler Adult Intelligence Scale (WAIS)?",
+    "options": ["Robert Sternberg", "David Wechsler", "John Carroll", "Raymond Cattell"],
+    "answer": "David Wechsler"
+  },
+  {
+    "id": 106,
+    "question": "Which Wechsler test is designed for children aged 6–16 years?",
+    "options": ["WAIS", "WPPSI", "WISC", "WJ-IV"],
+    "answer": "WISC"
+  },
+  {
+    "id": 107,
+    "question": "IQ scores on the Wechsler scales have a mean of ___ and a standard deviation of ___.",
+    "options": ["100, 10", "100, 15", "90, 15", "120, 20"],
+    "answer": "100, 15"
+  },
+  {
+    "id": 108,
+    "question": "The concept of deviation IQ refers to:",
+    "options": ["A ratio of mental to chronological age", "A score based on age norms", "An estimate of brain capacity", "A percentile rank in the population"],
+    "answer": "A score based on age norms"
+  },
+  {
+    "id": 109,
+    "question": "What was the purpose of the Army Alpha and Beta tests during World War I?",
+    "options": ["To test soldiers’ emotional stability", "To classify recruits by intelligence", "To measure creativity", "To identify learning disabilities"],
+    "answer": "To classify recruits by intelligence"
+  },
+  {
+    "id": 110,
+    "question": "The Raven’s Progressive Matrices test primarily measures:",
+    "options": ["Verbal reasoning", "Emotional intelligence", "Non-verbal reasoning", "Short-term memory"],
+    "answer": "Non-verbal reasoning"
+  },
+  {
+    "id": 111,
+    "question": "The Cattell Culture Fair Intelligence Test was designed to minimize:",
+    "options": ["Educational bias", "Age differences", "Memory effects", "Language and cultural influences"],
+    "answer": "Language and cultural influences"
+  },
+  {
+    "id": 112,
+    "question": "Which test is often used to assess infants’ cognitive development?",
+    "options": ["Bayley Scales of Infant Development", "WAIS", "WISC", "Raven’s Matrices"],
+    "answer": "Bayley Scales of Infant Development"
+  },
+  {
+    "id": 113,
+    "question": "The term 'mental age' was first introduced by:",
+    "options": ["Alfred Binet", "Lewis Terman", "Charles Spearman", "David Wechsler"],
+    "answer": "Alfred Binet"
+  },
+  {
+    "id": 114,
+    "question": "IQ = (Mental Age ÷ Chronological Age) × 100 is known as:",
+    "options": ["Deviation IQ formula", "Ratio IQ formula", "Wechsler formula", "Cattell formula"],
+    "answer": "Ratio IQ formula"
+  },
+  {
+    "id": 115,
+    "question": "A test that yields consistent results over time is said to be:",
+    "options": ["Valid", "Reliable", "Standardized", "Normed"],
+    "answer": "Reliable"
+  },
+  {
+    "id": 116,
+    "question": "A test that measures what it claims to measure is considered:",
+    "options": ["Standardized", "Reliable", "Valid", "Normed"],
+    "answer": "Valid"
+  },
+  {
+    "id": 117,
+    "question": "Standardization in testing ensures that:",
+    "options": ["All test items are equally difficult", "Scores are interpreted using norms", "Tests are administered at the same time", "Questions are randomly selected"],
+    "answer": "Scores are interpreted using norms"
+  },
+  {
+    "id": 118,
+    "question": "The Flynn effect refers to:",
+    "options": ["A decline in IQ over generations", "A rise in average IQ scores over time", "Differences in IQ by gender", "The effect of culture on intelligence"],
+    "answer": "A rise in average IQ scores over time"
+  },
+  {
+    "id": 119,
+    "question": "What type of intelligence do performance subtests of the WAIS primarily assess?",
+    "options": ["Crystallized intelligence", "Fluid intelligence", "Verbal comprehension", "Social intelligence"],
+    "answer": "Fluid intelligence"
+  },
+  {
+    "id": 120,
+    "question": "Crystallized intelligence involves:",
+    "options": ["Novel problem-solving", "Accumulated knowledge and vocabulary", "Perceptual speed", "Working memory capacity"],
+    "answer": "Accumulated knowledge and vocabulary"
+  },
+  {
+    "id": 121,
+    "question": "The Wechsler scales divide IQ into which main components?",
+    "options": ["Verbal and Performance", "Memory and Reasoning", "Analytical and Creative", "Crystallized and Fluid"],
+    "answer": "Verbal and Performance"
+  },
+  {
+    "id": 122,
+    "question": "The WAIS-IV includes which of the following index scores?",
+    "options": ["Verbal Comprehension Index", "Fluid Memory Index", "Kinesthetic Awareness Index", "Musical Ability Index"],
+    "answer": "Verbal Comprehension Index"
+  },
+  {
+    "id": 123,
+    "question": "Which of the following best defines a 'norm group'?",
+    "options": ["People who write the test", "A representative sample used to interpret scores", "The lowest scoring test-takers", "Experts validating the test"],
+    "answer": "A representative sample used to interpret scores"
+  },
+  {
+    "id": 124,
+    "question": "An IQ score two standard deviations below the mean (on Wechsler scales) indicates:",
+    "options": ["Average intelligence", "Giftedness", "Mild intellectual disability", "High creativity"],
+    "answer": "Mild intellectual disability"
+  },
+  
+  {
+    "id": 125,
+    "question": "Which brain region is most strongly associated with higher-order reasoning and problem solving?",
+    "options": ["Occipital lobe", "Frontal lobe", "Temporal lobe", "Parietal lobe"],
+    "answer": "Frontal lobe"
+  },
+  {
+    "id": 126,
+    "question": "The prefrontal cortex is primarily involved in:",
+    "options": ["Motor coordination", "Executive functions and planning", "Auditory processing", "Visual perception"],
+    "answer": "Executive functions and planning"
+  },
+  {
+    "id": 127,
+    "question": "Which part of the brain integrates sensory and motor information and contributes to complex problem solving?",
+    "options": ["Cerebellum", "Parietal lobe", "Amygdala", "Brainstem"],
+    "answer": "Parietal lobe"
+  },
+  {
+    "id": 128,
+    "question": "The 'Parieto-Frontal Integration Theory' (P-FIT) suggests that intelligence depends on:",
+    "options": ["Emotional processing", "Interactions between frontal and parietal regions", "Hippocampal volume", "Thalamic regulation"],
+    "answer": "Interactions between frontal and parietal regions"
+  },
+  {
+    "id": 129,
+    "question": "Neural efficiency refers to the observation that:",
+    "options": ["More intelligent people show higher overall brain activation", "Less intelligent people use more glucose when thinking", "More intelligent people use fewer neural resources to perform tasks", "Brain size directly predicts intelligence"],
+    "answer": "More intelligent people use fewer neural resources to perform tasks"
+  },
+  {
+    "id": 130,
+    "question": "Which of the following is most closely related to processing speed and intelligence?",
+    "options": ["Neural conduction velocity", "Cerebrospinal fluid pressure", "Cerebellar balance", "Amygdala reactivity"],
+    "answer": "Neural conduction velocity"
+  },
+  {
+    "id": 131,
+    "question": "Which brain imaging technique measures changes in blood oxygenation linked to neural activity?",
+    "options": ["EEG", "CT", "fMRI", "PET"],
+    "answer": "fMRI"
+  },
+  {
+    "id": 132,
+    "question": "Studies using MRI have shown that higher intelligence is moderately correlated with:",
+    "options": ["Greater total brain volume", "Smaller frontal lobes", "Increased amygdala size", "Reduced hippocampal volume"],
+    "answer": "Greater total brain volume"
+  },
+  {
+    "id": 133,
+    "question": "Myelination in neurons enhances:",
+    "options": ["Memory storage capacity", "Speed of neural transmission", "Neurogenesis", "Synaptic pruning"],
+    "answer": "Speed of neural transmission"
+  },
+  {
+    "id": 134,
+    "question": "White matter integrity is important for intelligence because it:",
+    "options": ["Stores long-term memories", "Improves communication between brain regions", "Controls emotional regulation", "Processes sensory input"],
+    "answer": "Improves communication between brain regions"
+  },
+  {
+    "id": 135,
+    "question": "Which neurotransmitter system has been most implicated in working memory and executive function?",
+    "options": ["Serotonin", "Dopamine", "Acetylcholine", "GABA"],
+    "answer": "Dopamine"
+  },
+  {
+    "id": 136,
+    "question": "Which structure plays a central role in forming new memories and contributes indirectly to intelligence?",
+    "options": ["Hippocampus", "Thalamus", "Cerebellum", "Amygdala"],
+    "answer": "Hippocampus"
+  },
+  {
+    "id": 137,
+    "question": "Brain plasticity refers to:",
+    "options": ["The fixed capacity of neurons", "The ability of the brain to change with experience", "A decrease in neural connectivity over time", "Genetically determined brain size"],
+    "answer": "The ability of the brain to change with experience"
+  },
+  {
+    "id": 138,
+    "question": "Which of the following brain characteristics has been associated with higher IQ in MRI studies?",
+    "options": ["Thicker cortical areas in the prefrontal cortex", "Smaller parietal volume", "Reduced white matter density", "Increased amygdala reactivity"],
+    "answer": "Thicker cortical areas in the prefrontal cortex"
+  },
+  {
+    "id": 139,
+    "question": "Gray matter in the brain primarily consists of:",
+    "options": ["Myelinated axons", "Neuronal cell bodies and dendrites", "Cerebrospinal fluid", "Glial sheaths only"],
+    "answer": "Neuronal cell bodies and dendrites"
+  },
+  {
+    "id": 140,
+    "question": "Which of the following best describes the relationship between brain size and intelligence?",
+    "options": ["Perfect correlation", "Moderate positive correlation", "No correlation", "Inverse correlation"],
+    "answer": "Moderate positive correlation"
+  },
+  {
+    "id": 141,
+    "question": "Twin studies indicate that the heritability of intelligence in adulthood is approximately:",
+    "options": ["10–20%", "30–40%", "50–70%", "90–100%"],
+    "answer": "50–70%"
+  },
+  {
+    "id": 142,
+    "question": "Which genetic condition is often associated with below-average intelligence?",
+    "options": ["Phenylketonuria (PKU)", "Marfan syndrome", "Huntington’s disease", "Turner syndrome"],
+    "answer": "Phenylketonuria (PKU)"
+  },
+  {
+    "id": 143,
+    "question": "Which process removes unused neural connections during development, improving efficiency?",
+    "options": ["Neurogenesis", "Synaptic pruning", "Lateralization", "Myelination"],
+    "answer": "Synaptic pruning"
+  },
+  {
+    "id": 144,
+    "question": "The 'default mode network' is primarily active when:",
+    "options": ["Focusing on external tasks", "Resting or daydreaming", "Performing physical activity", "Listening to external sounds"],
+    "answer": "Resting or daydreaming"
+  },
+  {
+    "id": 145,
+    "question": "Which of the following best describes the role of the anterior cingulate cortex in intelligence?",
+    "options": ["Language processing", "Emotional recognition", "Monitoring conflicts and errors in thinking", "Visual perception"],
+    "answer": "Monitoring conflicts and errors in thinking"
+  },
+  {
+    "id": 145,
+    "question": "Glial cells contribute to intelligence primarily by:",
+    "options": ["Directly encoding memories", "Supporting and insulating neurons", "Releasing neurotransmitters", "Producing hormones"],
+    "answer": "Supporting and insulating neurons"
+  },
+  {
+    "id": 147,
+    "question": "Environmental enrichment can lead to increased intelligence through:",
+    "options": ["Reducing synaptic density", "Enhancing synaptic connectivity and dendritic growth", "Decreasing neuroplasticity", "Increasing cortical rigidity"],
+    "answer": "Enhancing synaptic connectivity and dendritic growth"
+  },
+  {
+    "id": 148,
+    "question": "Which hormone has been linked to neurogenesis and cognitive performance?",
+    "options": ["Cortisol", "Dopamine", "Brain-derived neurotrophic factor (BDNF)", "Serotonin"],
+    "answer": "Brain-derived neurotrophic factor (BDNF)"
+  },
+  {
+    "id": 149,
+    "question": "Which of the following best summarizes biological influences on intelligence?",
+    "options": ["Genetic and environmental factors interact to shape brain development and function", "Genetic factors fully determine intelligence", "Environmental factors alone explain intelligence", "Brain structure has no link to cognitive ability"],
+    "answer": "Genetic and environmental factors interact to shape brain development and function"
+  },
+  
+  {
+    "id": 150,
+    "question": "What is the main goal of intelligence enhancement research?",
+    "options": ["To identify genetic causes of intelligence", "To improve cognitive performance through interventions", "To classify types of intelligence", "To measure intelligence differences across cultures"],
+    "answer": "To improve cognitive performance through interventions"
+  },
+  {
+    "id": 151,
+    "question": "Working memory training programs aim to improve which type of intelligence?",
+    "options": ["Crystallized intelligence", "Fluid intelligence", "Emotional intelligence", "Social intelligence"],
+    "answer": "Fluid intelligence"
+  },
+  {
+    "id": 152,
+    "question": "Which of the following best describes 'transfer of training' in cognitive enhancement?",
+    "options": ["Improvement only in the trained task", "Improvement in different, untrained tasks", "Improvement due to practice effects", "Decline in performance after training"],
+    "answer": "Improvement in different, untrained tasks"
+  },
+  {
+    "id": 153,
+    "question": "‘Near transfer’ refers to:",
+    "options": ["Improvement in unrelated abilities", "Improvement on tasks closely related to training", "Long-term changes in personality", "Biological brain changes after training"],
+    "answer": "Improvement on tasks closely related to training"
+  },
+  {
+    "id": 154,
+    "question": "‘Far transfer’ refers to:",
+    "options": ["Improvement in unrelated or complex abilities beyond the trained task", "Improvement within the same test", "Immediate memory recall enhancement", "Reduction in test anxiety"],
+    "answer": "Improvement in unrelated or complex abilities beyond the trained task"
+  },
+  {
+    "id": 155,
+    "question": "Which type of intelligence is generally most resistant to improvement through training?",
+    "options": ["Fluid intelligence", "Crystallized intelligence", "Spatial intelligence", "Emotional intelligence"],
+    "answer": "Crystallized intelligence"
+  },
+  {
+    "id": 156,
+    "question": "Research on working memory training has shown that:",
+    "options": ["It consistently produces large, long-term gains in IQ", "Effects on general intelligence are small or inconsistent", "It cannot change performance on any task", "It completely replaces test-taking strategies"],
+    "answer": "Effects on general intelligence are small or inconsistent"
+  },
+
+  {
+    "id": 157,
+    "question": "Which neurotransmitter system is most affected by stimulant 'smart drugs' like methylphenidate?",
+    "options": ["Serotonin", "Dopamine", "GABA", "Acetylcholine"],
+    "answer": "Dopamine"
+  },
+  {
+    "id": 158,
+    "question": "Methylphenidate (Ritalin) is primarily prescribed for which condition?",
+    "options": ["ADHD", "Depression", "Alzheimer’s disease", "Anxiety disorder"],
+    "answer": "ADHD"
+  },
+  {
+    "id": 159,
+    "question": "Which of the following best summarizes the evidence for cognitive enhancement from stimulant use in healthy adults?",
+    "options": ["Large and permanent IQ increases", "Small, task-specific benefits mainly for attention and motivation", "Strong long-term transfer effects", "No measurable impact on cognition"],
+    "answer": "Small, task-specific benefits mainly for attention and motivation"
+  },
+  {
+    "id": 160,
+    "question": "Which of the following substances has shown potential for mild cognitive enhancement by increasing wakefulness?",
+    "options": ["Modafinil", "Melatonin", "Sertraline", "Caffeine-free placebo"],
+    "answer": "Modafinil"
+  },
+  {
+    "id": 161,
+    "question": "Cognitive training aimed at improving test-taking performance often includes:",
+    "options": ["Practicing question formats and timing", "Learning new languages", "Increasing physical strength", "Reducing brain volume"],
+    "answer": "Practicing question formats and timing"
+  },
+  {
+    "id": 162,
+    "question": "Which of the following is a major criticism of commercial brain-training programs?",
+    "options": ["They require too much physical exercise", "They lack evidence for far transfer effects", "They only use emotional tasks", "They overemphasize group intelligence"],
+    "answer": "They lack evidence for far transfer effects"
+  },
+  {
+    "id": 163,
+    "question": "A factor physical exercise has been shown to improve cognition by:",
+    "options": ["Increasing cerebral blood flow", "Decreasing dopamine levels", "Reducing hippocampal plasticity", "Shrinking the prefrontal cortex"],
+    "answer": "Increasing cerebral blood flow"
+  },
+  {
+    "id": 164,
+    "question": "Which brain-derived molecule is often linked to learning, memory, and cognitive enhancement?",
+    "options": ["BDNF (Brain-Derived Neurotrophic Factor)", "Cortisol", "GABA", "Insulin"],
+    "answer": "BDNF (Brain-Derived Neurotrophic Factor)"
+  },
+  {
+    "id": 165,
+    "question": "Which non-invasive technique uses electrical stimulation to temporarily modulate brain activity?",
+    "options": ["tDCS (transcranial Direct Current Stimulation)", "EEG recording", "PET scanning", "TMS (Transcranial Magnetic Suppression)"],
+    "answer": "tDCS (transcranial Direct Current Stimulation)"
+  },
+  {
+    "id": 166,
+    "question": "Evidence for tDCS in improving cognitive performance shows:",
+    "options": ["Strong and reliable IQ gains", "Mixed and modest results depending on the task", "No measurable neural effects", "Only placebo effects in animals"],
+    "answer": "Mixed and modest results depending on the task"
+  },
+  {
+    "id": 167,
+    "question": "Which of the following strategies best improves crystallized intelligence?",
+    "options": ["Learning and education", "Brain stimulation", "Working memory games", "Caffeine consumption"],
+    "answer": "Learning and education"
+  },
+  {
+    "id": 168,
+    "question": "Sleep contributes to enhanced performance primarily through:",
+    "options": ["Cortical thinning", "Memory consolidation and neural repair", "Neural degeneration", "Reduced blood flow to the brain"],
+    "answer": "Memory consolidation and neural repair"
+  },
+  {
+    "id": 169,
+    "question": "Which dietary factor has been linked to improved cognitive functioning and neuroprotection?",
+    "options": ["Omega-3 fatty acids", "Saturated fats", "Refined sugars", "Trans fats"],
+    "answer": "Omega-3 fatty acids"
+  },
+  {
+    "id": 170,
+    "question": "Which of the following best summarizes current scientific consensus on intelligence enhancement?",
+    "options": ["Training leads to large permanent IQ increases", "Only genetic modification can alter intelligence", "Some interventions improve cognitive performance, but general IQ gains are limited", "All cognitive training effects are placebo-based"],
+    "answer": "Some interventions improve cognitive performance, but general IQ gains are limited"
+  },
+  {
+    "id": 171,
+    "question": "Ethical concerns about pharmacological cognitive enhancement include:",
+    "options": ["Fairness, coercion, and long-term safety", "Memory decay and improved empathy", "Reduced creativity only", "Lack of placebo controls in research"],
+    "answer": "Fairness, coercion, and long-term safety"
+  },
+  
+  
+  {
+    "id": 172,
+    "question": "Twin studies are primarily used in intelligence research to:",
+    "options": ["Measure environmental influences on health", "Estimate the heritability of intelligence", "Compare intelligence across cultures", "Determine test reliability"],
+    "answer": "Estimate the heritability of intelligence"
+  },
+  {
+    "id": 173,
+    "question": "Monozygotic twins share approximately what percentage of their genes?",
+    "options": ["25%", "50%", "75%", "100%"],
+    "answer": "100%"
+  },
+  {
+    "id": 174,
+    "question": "Dizygotic twins share approximately what percentage of their genes?",
+    "options": ["25%", "50%", "75%", "100%"],
+    "answer": "50%"
+  },
+  {
+    "id": 175,
+    "question": "If intelligence is highly heritable, we would expect:",
+    "options": ["High similarity in IQ among MZ twins reared apart", "No correlation between relatives", "Environmental effects to explain all IQ variance", "DZ twins to be more similar than MZ twins"],
+    "answer": "High similarity in IQ among MZ twins reared apart"
+  },
+  {
+    "id": 176,
+    "question": "The correlation of IQ scores between identical twins reared together is typically around:",
+    "options": ["0.20", "0.40", "0.70–0.80", "0.95"],
+    "answer": "0.70–0.80"
+  },
+
+  {
+    "id": 178,
+    "question": "The Minnesota Study of Twins Reared Apart suggested that:",
+    "options": ["Environment fully determines intelligence", "Genetic factors strongly influence IQ", "Twin IQ correlations are near zero", "Socioeconomic status overrides genetic effects"],
+    "answer": "Genetic factors strongly influence IQ"
+  },
+  
+  {
+    "id": 179,
+    "question": "Heritability of intelligence refers to:",
+    "options": ["The proportion of an individual's IQ caused by genes", "The proportion of variation in IQ in a population due to genetic differences", "The extent to which genes fix intelligence levels", "How much IQ changes over time"],
+    "answer": "The proportion of variation in IQ in a population due to genetic differences"
+  },
+  {
+    "id": 180,
+    "question": "Which of the following typically shows the lowest IQ correlation?",
+    "options": ["Identical twins reared together", "Identical twins reared apart", "Fraternal twins reared together", "Unrelated individuals reared together"],
+    "answer": "Unrelated individuals reared together"
+  },
+  {
+    "id": 181,
+    "question": "Twin studies help to disentangle:",
+    "options": ["Fluid and crystallized intelligence", "Genetic and environmental influences", "Long-term and short-term memory", "Cognitive and emotional processing"],
+    "answer": "Genetic and environmental influences"
+  },
+  {
+    "id": 182,
+    "question": "If MZ twins are more similar in IQ than DZ twins, this suggests:",
+    "options": ["Environmental effects dominate", "Genetic factors contribute to intelligence", "Measurement error explains differences", "Intelligence is random"],
+    "answer": "Genetic factors contribute to intelligence"
+  },
+  {
+    "id": 183,
+    "question": "The term 'shared environment' refers to:",
+    "options": ["Genetic similarity between twins", "Environmental factors making twins more alike", "Differences in individual experiences", "Unique personal environments"],
+    "answer": "Environmental factors making twins more alike"
+  },
+  {
+    "id": 184,
+    "question": "The term 'non-shared environment' refers to:",
+    "options": ["Genetic overlap between twins", "Environmental influences making twins different", "Parental education and SES", "School quality and curriculum"],
+    "answer": "Environmental influences making twins different"
+  },
+  {
+    "id": 185,
+    "question": "Heritability of intelligence tends to:",
+    "options": ["Decrease with age", "Stay constant throughout life", "Increase with age", "Be highest in childhood"],
+    "answer": "Increase with age"
+  },
+  {
+    "id": 186,
+    "question": "Which factor likely explains the increase in heritability of intelligence over time?",
+    "options": ["Genetic expression changes with maturation", "Shared environment strengthens over time", "IQ tests become less valid", "Environmental variability increases in adulthood"],
+    "answer": "Genetic expression changes with maturation"
+  },
+  {
+    "id": 187,
+    "question": "Adoption studies complement twin studies by showing:",
+    "options": ["Only shared environmental effects", "How unrelated individuals in the same environment resemble each other", "No effect of upbringing", "That IQ is random"],
+    "answer": "How unrelated individuals in the same environment resemble each other"
+  },
+  {
+    "id": 188,
+    "question": "A heritability estimate of 0.70 for intelligence means:",
+    "options": ["70% of an individual's IQ is genetic", "70% of IQ variation in the population is genetic", "IQ is fixed at 70%", "Genes fully determine IQ"],
+    "answer": "70% of IQ variation in the population is genetic"
+  },
+  {
+    "id": 189,
+    "question": "Which of the following can bias heritability estimates in twin studies?",
+    "options": ["Equal environments assumption violations", "Large sample size", "Accurate zygosity classification", "Random assignment of twins"],
+    "answer": "Equal environments assumption violations"
+  },
+  {
+    "id": 190,
+    "question": "The 'equal environments assumption' in twin studies means that:",
+    "options": ["MZ and DZ twins share environments to a similar extent", "All twins are genetically identical", "Environment has no effect on IQ", "Parenting style is identical for all twins"],
+    "answer": "MZ and DZ twins share environments to a similar extent"
+  },
+  {
+    "id": 191,
+    "question": "Which finding would support a strong environmental effect on intelligence?",
+    "options": ["High MZ twin correlation", "High DZ twin correlation close to MZ correlation", "Low correlation between adopted siblings", "High correlation among unrelated adults"],
+    "answer": "High DZ twin correlation close to MZ correlation"
+  },
+  {
+    "id": 192,
+    "question": "Which of the following represents the lowest genetic similarity?",
+    "options": ["Identical twins", "Fraternal twins", "Siblings", "Adoptive siblings"],
+    "answer": "Adoptive siblings"
+  },
+  {
+    "id": 193,
+    "question": "The combination of twin and adoption designs allows researchers to:",
+    "options": ["Isolate test bias effects", "Separate genetic influence from shared environment", "Measure reaction times", "Assess intelligence across cultures"],
+    "answer": "Separate genetic influence from shared environment"
+  },
+  
+  {"id":194,
+  "question": "In intelligence research, a consistent finding is that males", "options":["Show less variability in IQ than females",
+"More variability in IQ than females", "No variability compared to females","Equal IQ variability"], 
+"answer":"More variability in IQ than females"},
+  {
+    "id": 195,
+    "question": "In low socioeconomic environments, heritability of intelligence tends to be:",
+    "options": ["Higher than in wealthy environments", "Lower than in wealthy environments", "Unaffected by SES", "Impossible to measure"],
+    "answer": "Lower than in wealthy environments"
+  },
+  {
+    "id": 196,
+    "question": "Overall, twin studies suggest that:",
+    "options": ["Intelligence is purely environmental", "Genes and environment both contribute substantially to intelligence", "Genetic effects disappear in adulthood", "Twins are not useful for intelligence research"],
+    "answer": "Genes and environment both contribute substantially to intelligence"
+  },
+  
+  
+  {
+    "id": 197,
+    "question": "Cognitive epidemiology is the study of:",
+    "options": ["How intelligence affects health and longevity", "The spread of cognitive disorders", "Brain infections and memory loss", "Intelligence test bias across cultures"],
+    "answer": "How intelligence affects health and longevity"
+  },
+  {
+    "id": 198,
+    "question": "Heritability of intelligence refers to:",
+    "options": ["The proportion of IQ variance due to genetic differences in a population", "The genetic basis of a person’s fixed IQ", "The role of the environment in determining IQ", "The influence of education on intelligence"],
+    "answer": "The proportion of IQ variance due to genetic differences in a population"
+  },
+  {
+    "id": 199,
+    "question": "In behavioral genetics, ‘G × E interaction’ refers to:",
+    "options": ["The combined influence of genes and environment on behavior", "The dominance of genes over environment", "Purely environmental variance", "Measurement error in twin studies"],
+    "answer": "The combined influence of genes and environment on behavior"
+  },
+
+  {
+    "id": 201,
+    "question": "The heritability of intelligence in adulthood is typically estimated at:",
+    "options": ["20–30%", "40–50%", "60–80%", "90–100%"],
+    "answer": "60–80%"
+  },
+  {
+    "id": 202,
+    "question": "In childhood, shared environmental effects on intelligence are:",
+    "options": ["Typically large", "Nonexistent", "Smaller than in adulthood", "The same as genetic effects"],
+    "answer": "Typically large"
+  },
+  {
+    "id": 203,
+    "question": "The heritability of intelligence tends to:",
+    "options": ["Decrease with age", "Remain constant across the lifespan", "Increase with age", "Be highest in infancy"],
+    "answer": "Increase with age"
+  },
+  {
+    "id": 204,
+    "question": "Socioeconomic status (SES) interacts with heritability such that:",
+    "options": ["Heritability is higher in low-SES environments", "Heritability is higher in high-SES environments", "SES has no effect on heritability", "Genes determine SES"],
+    "answer": "Heritability is higher in high-SES environments"
+  },
+  
+  {
+    "id": 205,
+    "question": "The term 'positive manifold' refers to:",
+    "options": [
+      "Cognitive subtests being uncorrelated",
+      "Positive correlations among cognitive abilities",
+      "Differences between fluid and crystallized intelligence",
+      "High motivation during testing"
+    ],
+    "answer": "Positive correlations among cognitive abilities"
+  },
+
+  {
+    "id": 206,
+    "question": "Which of the following is a likely contributor to the Flynn effect?",
+    "options": ["Improved nutrition and education", "Genetic evolution over one generation", "Decline in test validity", "Reduced exposure to technology"],
+    "answer": "Improved nutrition and education"
+  },
+  {
+    "id": 207,
+    "question": "Which environmental factor has been strongly linked to improvements in cognitive development?",
+    "options": ["Severe stress", "Lead exposure", "Early education and cognitive stimulation", "Sleep deprivation"],
+    "answer": "Early education and cognitive stimulation"
+  },
+  {
+    "id": 208,
+    "question": "Gene expression can be altered by environmental influences through:",
+    "options": ["Epigenetic mechanisms", "Fixed DNA sequence changes", "Random mutation only", "Brain damage"],
+    "answer": "Epigenetic mechanisms"
+  },
+  {
+    "id": 209,
+    "question": "Which of the following best describes the main finding in cognitive epidemiology?",
+    "options": ["Higher intelligence predicts better physical health and longer life expectancy", "IQ has no relation to mortality risk", "Intelligence predicts mental health only", "Lower intelligence leads to better stress adaptation"],
+    "answer": "Higher intelligence predicts better physical health and longer life expectancy"
+  },
+  {
+    "id": 210,
+    "question": "One key proposed reason why higher intelligence predicts lower mortality is that:",
+    "options": ["More intelligent people tend to make healthier lifestyle choices", "IQ tests directly measure biological health", "Genes for intelligence always increase immunity", "IQ scores determine medical access"],
+    "answer": "More intelligent people tend to make healthier lifestyle choices"
+  },
+  {
+    "id": 211,
+    "question": "In large population studies, intelligence measured in youth correlates negatively with:",
+    "options": ["Education level", "Risk of death from cardiovascular disease", "Income", "Job satisfaction"],
+    "answer": "Risk of death from cardiovascular disease"
+  },
+  {
+    "id": 212,
+    "question": "Which of the following is NOT a plausible explanation for the intelligence–health association?",
+    "options": ["Health literacy differences", "Genetic overlap between brain and body health", "Measurement error in IQ tests", "Socioeconomic inequalities"],
+    "answer": "Measurement error in IQ tests"
+  },
+  {
+    "id": 213,
+    "question": "Which neurotransmitter gene variants have been implicated in small associations with cognitive performance?",
+    "options": ["DRD2 and COMT", "ACTN3 and MYH1", "INS and LEP", "COL1A1 and OPN1LW"],
+    "answer": "DRD2 and COMT"
+  },
+  {
+    "id": 214,
+    "question": "Genome-wide association studies (GWAS) have shown that intelligence is influenced by:",
+    "options": ["A few major genes with large effects", "Many genes with very small effects", "A single dominant gene", "Primarily environmental mutations"],
+    "answer": "Many genes with very small effects"
+  },
+  {
+    "id": 215,
+    "question": "Polygenic scores in intelligence research are used to:",
+    "options": ["Summarize the combined influence of many genetic variants", "Measure environmental variability", "Predict identical twin IQ differences", "Track prenatal brain growth"],
+    "answer": "Summarize the combined influence of many genetic variants"
+  },
+  {
+    "id": 216,
+    "question": "Which environmental toxin has been linked to cognitive deficits and lower IQ in children?",
+    "options": ["Lead", "Calcium", "Iron", "Vitamin D"],
+    "answer": "Lead"
+  },
+  {
+    "id": 217,
+    "question": "Prenatal factors influencing intelligence include:",
+    "options": ["Maternal nutrition and toxin exposure", "Father’s education only", "Birth order effects only", "Postnatal schooling only"],
+    "answer": "Maternal nutrition and toxin exposure"
+  },
+  {
+    "id": 218,
+    "question": "Studies suggest that early-life intelligence is associated with later-life:",
+    "options": ["Physical health, job performance, and longevity", "Only test-taking ability", "Memory loss and mortality", "Reduced mental health outcomes"],
+    "answer": "Physical health, job performance, and longevity"
+  },
+  {
+    "id": 219,
+    "question": "One possible genetic explanation for the intelligence–health link is:",
+    "options": ["Pleiotropy—where the same genes affect both brain and bodily health", "Environmental confounding only", "Measurement bias", "Test familiarity"],
+    "answer": "Pleiotropy—where the same genes affect both brain and bodily health"
+  },
+  {
+    "id": 221,
+    "question": "Overall, current evidence suggests that:",
+    "options": ["Intelligence arises from complex interactions between genes, environment, and life experience", "Genes alone determine IQ", "Environment fully overrides genetics", "IQ is unrelated to health outcomes"],
+    "answer": "Intelligence arises from complex interactions between genes, environment, and life experience"
+  },
+  
+    {
+    "id": 222,
+    "question": "A common critique of emotional intelligence is that:",
+    "options": [
+      "It overlaps substantially with personality traits",
+      "It is the same as general intelligence (g)",
+      "It is unrelated to social outcomes",
+      "It cannot be measured in adults"
+    ],
+    "answer": "It overlaps substantially with personality traits"
+  },
+  {
+    "id": 223,
+    "question": "One criticism of emotional intelligence measurement is that:",
+    "options": [
+      "Self-report EI measures may be biased by social desirability",
+      "It always perfectly predicts job performance",
+      "It only applies to children",
+      "It ignores emotional regulation entirely"
+    ],
+    "answer": "Self-report EI measures may be biased by social desirability"
+  },
+  {
+    "id": 224,
+    "question": "Skeptics of emotional intelligence argue that:",
+    "options": [
+      "There is limited evidence it adds predictive power beyond IQ and personality",
+      "It is entirely unrelated to workplace success",
+      "It contradicts all psychological theory",
+      "It measures intelligence only in artificial contexts"
+    ],
+    "answer": "There is limited evidence it adds predictive power beyond IQ and personality"
+  },
+  {
+    "id": 225,
+    "question": "A key critique of Gardner's multiple intelligences (MI) theory is that:",
+    "options": [
+      "There is limited empirical evidence supporting independent intelligences",
+      "It focuses too much on IQ testing",
+      "It only measures verbal and mathematical abilities",
+      "It ignores creativity entirely"
+    ],
+    "answer": "There is limited empirical evidence supporting independent intelligences"
+  },
+  {
+    "id": 226,
+    "question": "Critics of Gardner's multiple intelligences theory argue that some of Gardner’s proposed intelligences are better described as:",
+    "options": [
+      "Talents or personality traits rather than distinct cognitive abilities",
+      "IQ subtests",
+      "Learning disabilities",
+      "Cultural biases in education"
+    ],
+    "answer": "Talents or personality traits rather than distinct cognitive abilities"
+  },
+  {
+    "id": 227,
+    "question": "A common limitation of Gardner's multiple intelligences theory is that:",
+    "options": [
+      "It lacks standardized tests and psychometric validation",
+      "It only applies to adult learners",
+      "It predicts IQ perfectly",
+      "It ignores social skills entirely"
+    ],
+    "answer": "It lacks standardized tests and psychometric validation"
+  },
+  
+  {
+    "id": 228,
+    "question": "Robert Yerkes developed group-administered intelligence tests for:",
+    "options": [
+      "School students",
+      "Military recruits",
+      "University admissions",
+      "Industrial workforces"
+    ],
+    "answer": "Military recruits"
+  },  
+ 
+ {
+    "id": 229,
+    "question": "Which is a defining characteristic of modern intelligence tests?",
+    "options": [
+      "Always completed online within 10 minutes",
+      "Require expert administration for accuracy",
+      "Are purely subjective assessments",
+      "Measure personality rather than cognition"
+    ],
+    "answer": "Require expert administration for accuracy"
+  },
+
+  {
+    "id": 230,
+    "question": "The Block Design subtest of the WAIS primarily evaluates:",
+    "options": [
+      "Visual-spatial processing",
+      "Musical abilities",
+      "Abstract reasoning",
+      "Memory retrieval speed"
+    ],
+    "answer": "Visual-spatial processing"
+  },
+	{
+    "id": 231,  
+	"question": "Which brain area matures last in humans?", 
+	"options": ["Temporal cortex","Prefrontal cortex", "Insula", "Brainstem"],"answer": "Prefrontal cortex"
+  }
+	
+  
+]
+

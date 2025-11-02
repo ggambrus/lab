@@ -20,8 +20,8 @@
         ]
     },
     {
-        "name": "Madeline Ely, BSc",
-        "title": "Student Researcher (MRes)",
+        "name": "Madeline Ely, MRes",
+        "title": "PhD Student",
 		"alumni": false,
 		"cooperation": false,
         "image": "profile_images\/MME.jpg",
@@ -40,9 +40,9 @@
 		]
     },
 	{
-        "name": "Chloe Kelsey, BSc",
+        "name": "Chloe Kelsey, MSc",
         "title": "Student Researcher (MSc)",
-		"alumni": false,
+		"alumni": true,
 		"cooperation": false,
         "image": "profile_images\/CK.jpg",
 		"profile_page": "member.html#kelsey",
@@ -58,7 +58,7 @@
 
 	{
         "name": "Flora Genis",
-        "title": "Research Assistant",
+        "title": "Student Researcher (BSc)",
 		"alumni": false,
 		"cooperation": false,
         "image": "profile_images\/FG.jpg",
