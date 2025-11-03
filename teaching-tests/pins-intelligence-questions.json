@@ -1443,8 +1443,338 @@
     "id": 231,  
 	"question": "Which brain area matures last in humans?", 
 	"options": ["Temporal cortex","Prefrontal cortex", "Insula", "Brainstem"],"answer": "Prefrontal cortex"
-  }
+  },
+
+  {"id": 232,  
+    "question": "Tool use observed in corvids (such as crows and ravens) provides evidence for:",
+    "options": [
+	"Problem-solving ability in non-human species",
+      "A lack of reasoning ability",
+      "Divine inspiration in animals",
+      "Genetic similarity to primates"],"answer": "Problem-solving ability in non-human species"
+    },  
+
+  {"id": 233,  
+    "question": "Which of the following statements about intelligence is false?",
+    "options": [
+      "Spearman advocated for multiple independent intelligences",
+      "Intelligence differences often become visible through education",
+      "Binet and Simon developed assessments to identify children needing educational help",
+      "Learning style models have limited empirical support"
+    ],
+    "answer": "Spearman advocated for multiple independent intelligences"
+	},
 	
+	{"id": 234,  
+    "question": "Galton’s Anthropometric Laboratory (1884) was primarily designed to:",
+    "options": [
+      "Collect data on physical and mental traits in humans",
+      "Train gifted children for higher education",
+      "Measure brain size using early imaging devices",
+      "Provide early psychotherapy"
+    ],
+    "answer": "Collect data on physical and mental traits in humans"
+  },
+
+	{"id": 235,  
+    "question": "Galton’s aim in his anthropometric research was to:",
+    "options": [
+      "Describe human variation comprehensively",
+      "Develop standardized IQ scoring systems",
+      "Promote compulsory education for all",
+      "Exclude immigrants from testing"
+    ],
+    "answer": "Describe human variation comprehensively"
+  },
   
+	{"id": 236,  
+    "question": "Spearman’s ‘g’ refers to:",
+    "options": [
+      "A general factor underlying cognitive performance",
+      "Group-level intelligence shared by teams",
+      "Genetic inheritance patterns of IQ",
+      "Growth of brain size over time"
+    ],
+    "answer": "A general factor underlying cognitive performance"
+  },  
+  
+  {"id": 237,  
+    "question": "A 10–15 point fluctuation in IQ scores across testing sessions most likely reflects:",
+    "options": [
+      "Normal test–retest variability",
+      "A permanent decline in intelligence",
+      "Measurement error exceeding three standard deviations",
+      "Test-related anxiety only"
+    ],
+    "answer": "Normal test–retest variability"},
+	
+  {"id": 238,  
+    "question": "The Digit Span subtest is primarily used to assess:",
+    "options": [
+	  "Long-term recall ability",
+      "Working memory capacity",
+      "Visual–motor coordination",
+      "Processing speed"
+    ],
+    "answer": "Working memory capacity"
+  },	
+
+ {"id": 239,  
+    "question": "Spearman introduced the concept of:",
+      "options": [
+      "Triarchic theory",
+      "Fluid intelligence",
+	  "Positive manifold",
+      "Multiple intelligences"
+    ],
+    "answer": "Positive manifold"
+  },
+  
+  {"id": 240,  
+    "question": "The extent to which a subtest contributes to general intelligence is known as its:",
+    "options": [
+      "factor coefficient",
+      "Spearman ratio",
+      "eigenvalue",
+	  "g-loading"
+    ],
+    "answer": "g-loading"
+  },
+
+ {"id": 241,  
+    "question": "Research on learning styles generally shows:",
+    "options": [
+      "Large improvements in academic outcomes",
+      "Strong correlation with IQ levels",
+	  "No consistent evidence that matching instruction improves learning",
+      "Significant benefits in creative tasks only"],
+    "answer": "No consistent evidence that matching instruction improves learning"
+  },  
+  
+  {"id": 242,
+    "question": "A common real-world indicator of creativity linked with IQ is:",
+    "options": [
+      "Patents or artistic achievements",
+      "Reaction time in sports",
+      "Cooking proficiency",
+      "Typing speed"],
+    "answer": "Patents or artistic achievements"
+  },
+
+ {"id": 243,
+    "question": "The study of links between cognitive ability and health outcomes is called:",
+    "options": [
+      "Behavioral genetics",
+      "Health psychology",
+	  "Cognitive epidemiology",
+      "Evolutionary cognition"
+    ],
+    "answer": "Cognitive epidemiology"
+  },
+  
+  {"id": 244,
+    "question": "Which of the following statements about intelligence and health is false?",
+    "options": [
+      "There is no relationship between IQ and accidental death risk",
+      "Lower IQ may indicate poorer early-life environments",
+      "Cognitive ability may affect health behavior choices",
+      "Developmental factors can influence both IQ and health"
+    ],
+    "answer": "There is no relationship between IQ and accidental death risk"
+  },
+ 
+  {"id": 245,
+    "question": "One evolutionary cost of maintaining large brains is:",
+    "options": [
+      "Improved immune resistance",
+	  "High metabolic energy requirements",
+      "Lower developmental flexibility",
+      "Enhanced fertility rates"
+    ],
+    "answer": "High metabolic energy requirements"
+  },
+  
+  {"id": 246,
+    "question": "Dizygotic twins share approximately what proportion of their DNA?",
+    "options": [
+      "25%",
+      "75%",
+	  "50%",
+      "100%"
+    ],
+    "answer": "50%"
+  },
+  
+  {"id": 247,
+    "question": "Falconer’s Formula is used to estimate:",
+    "options": [
+      "Brain-to-body size ratio",
+      "Social network capacity",
+      "Correlation between intelligence and health",
+	  "Heritability of traits using twin study data"
+    ],
+    "answer": "Heritability of traits using twin study data"
+  },
+  
+  {"id": 248,
+    "question": "Adoption studies typically find that children’s IQs are most similar to their:",
+    "options": [
+      "Adoptive parents",
+	  "Biological parents",
+      "Adoptive siblings",
+      "Teachers"
+    ],
+    "answer": "Biological parents"
+  },
+  
+  {"id": 249,
+    "question": "A major assumption in twin studies that has been criticized is the:",
+    "options": [
+      "Equal environments assumption",
+      "Law of independent assortment",
+      "Theory of gene drift",
+      "Mendelian dominance rule"
+    ],
+    "answer": "Equal environments assumption"
+  },
+  
+  {"id": 250,
+    "question": "Down syndrome results from:",
+    "options": [
+      "An additional copy of chromosome 21",
+      "A single-gene mutation on chromosome 15",
+      "Loss of a sex chromosome",
+      "A mitochondrial DNA defect"
+    ],
+    "answer": "An additional copy of chromosome 21"
+  },
+  
+  {"id": 251,
+    "question": "In highly unequal societies, heritability estimates of intelligence tend to be:",
+    "options": [
+      "Lower",
+      "Higher",
+      "Unchanged",
+      "Unmeasurable"],
+    "answer": "Lower"
+  },
+  
+  {"id": 252,
+    "question": "Which research method identifies gene variants associated with specific traits across large samples?",
+    "options": [
+      "Genome-wide association study (GWAS)",
+      "Polymerase chain reaction (PCR)",
+      "Chromosomal microarray mapping",
+      "Pedigree tracing"],
+    "answer": "Genome-wide association study (GWAS)"
+  },
+  
+  {"id": 253,
+    "question": "Which statement is not one of Plomin’s ‘laws of complex traits’?",
+    "options": [
+      "All traits show some genetic influence",
+      "No trait is 100% heritable",
+	  "Heritability of intelligence decreases over development",
+      "Heritability is due to many genes of small effect"
+    ],
+    "answer": "Heritability of intelligence decreases over development"
+  },
+  
+  {"id": 254,
+    "question": "Choosing partners with similar characteristics is known as:",
+    "options": [
+      "Random mating",
+      "Exogamy",
+      "Homoplasy",
+	  "Assortative mating"
+    ],
+    "answer": "Assortative mating"
+  },
+  
+  {"id": 256,
+    "question": "The greater male variability hypothesis suggests that:",
+    "options": [
+      "Women display greater variability in all cognitive domains",
+      "Cognitive sex differences are entirely cultural",
+	  "Men are overrepresented at both high and low extremes of ability",
+      "Males and females have identical IQ distributions"
+    ],
+    "answer": "Men are overrepresented at both high and low extremes of ability"
+  },
+  
+  {"id": 250,
+    "question": "Research consistently finds that females show:",
+    "options": [
+      "Less variability in IQ than males",
+      "Greater IQ variability than males",
+      "No variability across tests",
+      "Exactly the same distribution shape as males"
+    ],
+    "answer": "Less variability in IQ than males"
+  },
+  
+  {"id": 256,
+    "question": "The brain region most associated with fluid intelligence is the:",
+    "options": [
+      "Frontal lobe",
+      "Occipital lobe",
+      "Temporal lobe",
+      "Cerebellum"
+    ], "answer": "Frontal lobe"
+  },
+  
+  {"id": 257,
+    "question": "Axonal degeneration is a common neurological effect of:",
+    "options": [
+      "Lead exposure",
+      "Mercury deficiency",
+      "Caffeine toxicity",
+      "Low oxygen levels during sleep"],
+    "answer": "Lead exposure"
+  },
+  
+  {"id": 258,
+    "question": "Which statement about IQ testing is true?",
+    "options": [
+      "IQ tests must be periodically re-normed to stay accurate",
+      "IQ is entirely genetic",
+      "Environmental effects are irrelevant to test performance",
+      "IQ measures emotional stability"
+    ],
+    "answer": "IQ tests must be periodically re-normed to stay accurate"
+  },
+  
+  {"id": 259,
+    "question": "The prefrontal cortex is notable because it:",
+    "options": [
+      "Is among the last brain regions to mature",
+      "Contains the hippocampus",
+      "Lacks both grey and white matter",
+      "Processes visual input exclusively"
+    ],
+    "answer": "Is among the last brain regions to mature"
+  },
+  
+  {"id": 260,
+    "question": "A major environmental indicator of rising IQ over generations is known as:",
+    "options": [
+      "The Matthew Effect",
+      "The Hawthorne Effect",
+      "The Pygmalion Effect",
+	  "The Flynn Effect"
+    ],
+    "answer": "The Flynn Effect"
+  },
+  
+  {"id": 261,
+    "question": "Which cognitive skill is not typically associated with a female advantage?",
+    "options": [
+      "Mental rotation",
+      "Verbal fluency",
+      "Reading comprehension",
+      "Language acquisition"
+    ],
+    "answer": "Mental rotation"
+  }
 ]
 
