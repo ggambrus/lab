@@ -1,0 +1,280 @@
+:root {
+    --primary-color: #3f51b5; /* Indigo */
+    --accent-color: #ff9800; /* Orange */
+    --background-light: #f4f7f9;
+    --card-background: #ffffff;
+    --text-color: #333;
+    --shadow-color: rgba(0, 0, 0, 0.1);
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-light);
+    color: var(--text-color);
+}
+
+header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 20px 40px;
+    box-shadow: 0 2px 4px var(--shadow-color);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+header p {
+    margin-top: 5px;
+    opacity: 0.8;
+}
+
+main {
+    display: flex;
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 0 20px;
+    gap: 20px;
+}
+
+#topic-sidebar {
+    width: 250px;
+    padding-right: 20px;
+    border-right: 1px solid #ddd;
+}
+
+#topic-sidebar h2 {
+    color: var(--primary-color);
+    margin-top: 0;
+    border-bottom: 2px solid var(--primary-color);
+    padding-bottom: 10px;
+}
+
+#topic-list {
+    list-style: none;
+    padding: 0;
+}
+
+#topic-list li {
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: var(--card-background);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s, box-shadow 0.2s;
+}
+
+#topic-list li:hover,
+#topic-list li.active {
+    background-color: var(--primary-color);
+    color: white;
+    box-shadow: 0 2px 5px var(--shadow-color);
+}
+
+#flashcard-area {
+    flex-grow: 1;
+    padding-left: 40px;
+}
+
+#flashcard-area h2 {
+    color: var(--text-color);
+    font-size: 1.8em;
+    margin-top: 0;
+}
+
+/* Flashcard Styles */
+#flashcard-container {
+    perspective: 1000px;
+    width: 100%;
+    height: 300px; /* Fixed height for card */
+    max-width: 600px;
+    margin: 30px auto;
+}
+
+.flashcard {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.6s;
+    cursor: pointer;
+    box-shadow: 0 10px 20px var(--shadow-color);
+    border-radius: 10px;
+}
+
+.flashcard.flipped {
+    transform: rotateY(180deg);
+}
+
+.flashcard-face {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: var(--card-background);
+    border: 3px solid var(--primary-color);
+    border-radius: 10px;
+}
+
+.flashcard-front {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+.flashcard-back {
+    transform: rotateY(180deg);
+    text-align: center;
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+.flashcard-back p {
+    padding: 0 10px;
+}
+
+.instruction-text {
+    position: absolute;
+    bottom: 10px;
+    font-size: 0.8em;
+    color: #999;
+}
+
+/* Navigation */
+#navigation-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    max-width: 600px;
+    margin: 20px auto;
+    flex-wrap: wrap;
+}
+
+#navigation-controls button {
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    background-color: var(--accent-color);
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+#navigation-controls button:hover:not(:disabled) {
+    background-color: #e68900;
+}
+
+#navigation-controls button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+#card-counter {
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+.hidden {
+    display: none !important;
+}
+
+.error-message {
+    color: #d32f2f;
+    text-align: center;
+    margin-top: 50px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+    border-top: 1px solid #ddd;
+    color: #666;
+}
+
+/* ===============================
+   Responsive Design
+   =============================== */
+
+@media (max-width: 900px) {
+    main {
+        flex-direction: column;
+        padding: 0 15px;
+    }
+
+    #topic-sidebar {
+        width: 100%;
+        border-right: none;
+        border-bottom: 1px solid #ddd;
+        padding-right: 0;
+        padding-bottom: 15px;
+        margin-bottom: 20px;
+    }
+
+    #flashcard-area {
+        padding-left: 0;
+    }
+
+    #flashcard-container {
+        height: 250px;
+    }
+
+    header {
+        padding: 15px 20px;
+    }
+
+    header h1 {
+        font-size: 1.6em;
+    }
+
+    #navigation-controls {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    #navigation-controls button {
+        width: 100%;
+        max-width: 300px;
+    }
+}
+
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 1.4em;
+    }
+
+    header p {
+        font-size: 0.9em;
+    }
+
+    #flashcard-container {
+        height: 200px;
+    }
+
+    .flashcard-front {
+        font-size: 1.2em;
+    }
+
+    .flashcard-back {
+        font-size: 0.8em;
+    }
+
+    .instruction-text {
+        font-size: 0.7em;
+    }
+
+    #card-counter {
+        font-size: 0.9em;
+    }
+}

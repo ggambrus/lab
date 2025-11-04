@@ -897,7 +897,7 @@
   },
   {
     "id": 148,
-    "question": "Which hormone has been linked to neurogenesis and cognitive performance?",
+    "question": "Which substance has been linked to neurogenesis and cognitive performance?",
     "options": ["Cortisol", "Dopamine", "Brain-derived neurotrophic factor (BDNF)", "Serotonin"],
     "answer": "Brain-derived neurotrophic factor (BDNF)"
   },
@@ -1775,6 +1775,269 @@
       "Language acquisition"
     ],
     "answer": "Mental rotation"
-  }
+  },
+  
+    {
+    "id": 262,
+    "question": "Howard Gardner proposed that intelligence is:",
+    "options": [
+      "A single measurable entity",
+      "Composed of multiple independent domains",
+      "Completely genetically determined",
+      "Unrelated to education or culture"
+    ],
+    "answer": "Composed of multiple independent domains"
+  },
+  
+    {
+    "id": 263,
+    "question": "Which of the following best describes heritability?",
+    "options": [
+      "The proportion of variance in a trait due to genetic factors",
+      "A measure of how much intelligence changes with age",
+      "The environmental effect on identical twins",
+      "The percentage of intelligence determined by parenting style"
+    ],
+    "answer": "The proportion of variance in a trait due to genetic factors"
+  },
+  
+    {
+    "id": 264,
+    "question": "Which study design best isolates genetic influences on intelligence?",
+    "options": [
+      "Cross-sectional studies",
+      "Twin and adoption studies",
+      "Longitudinal interviews",
+      "Case studies"
+    ],
+    "answer": "Twin and adoption studies"
+  },
+  
+  {
+    "id": 265,
+    "question": "The reliability of an intelligence test refers to:",
+    "options": [
+      "Its ability to predict future success",
+      "The accuracy of the examiner",
+      "The consistency of test scores across time",
+      "The test’s fairness across cultures"
+    ],
+    "answer": "The consistency of test scores across time"
+  },
+
+    {
+    "id": 266,
+    "question": "Which of the following best defines ‘cognitive epidemiology’?",
+    "options": [
+      "The study of how cognitive ability relates to health and mortality",
+      "The spread of cognitive disorders in populations",
+      "The genetic mapping of IQ",
+      "The neuroscience of mental illness"
+    ],
+    "answer": "The study of how cognitive ability relates to health and mortality"
+  },
+  
+    {
+    "id": 267,
+    "question": "Which factor best explains the increase in IQ scores over the 20th century?",
+    "options": [
+      "Improved nutrition, education, and cognitive stimulation",
+      "Genetic evolution in one century",
+      "Decreased population size",
+      "Elimination of cultural bias in tests"
+    ],
+    "answer": "Improved nutrition, education, and cognitive stimulation"
+  },
+	{
+    "id": 268,
+    "question": "Which of the following best represents the concept of ‘transferability’ in cognitive training?",
+    "options": [
+      "Skills learned in one context improving performance in another",
+      "Improving short-term memory only",
+      "Learning one language helps in memorizing vocabulary",
+      "Test performance that doesn’t change over time"
+    ],
+    "answer": "Skills learned in one context improving performance in another"
+  }, 
+
+  {
+    "id": 269,
+    "question": "Which psychometric method did Spearman use to support his theory of a general intelligence factor?",
+    "options": [
+      "Principal component analysis",
+      "Factor analysis of correlations between test scores",
+      "Structural equation modeling",
+      "Cluster analysis of personality traits"
+    ],
+    "answer": "Factor analysis of correlations between test scores"
+  },
+ 
+   {
+    "id": 270,
+    "question": "Which of the following cognitive operations is most strongly linked with fluid intelligence?",
+    "options": [
+      "Inductive reasoning and pattern recognition",
+      "Vocabulary recall",
+      "Semantic memory consolidation",
+      "Procedural learning"
+    ],
+    "answer": "Inductive reasoning and pattern recognition"
+  },
+  
+    {
+    "id": 271,
+    "question": "What was a major outcome of the Minnesota Twin Study regarding intelligence?",
+    "options": [
+      "Genetic factors explain a substantial portion of IQ variance, even when twins are reared apart",
+      "Shared environment accounts for most of the variance in adult IQ",
+      "IQ similarity between twins decreases with age",
+      "Monozygotic twins reared apart are no more alike than dizygotic twins"
+    ],
+    "answer": "Genetic factors explain a substantial portion of IQ variance, even when twins are reared apart"
+  },
+  
+  {
+    "id": 272,
+    "question": "Which finding challenges the assumption that heritability estimates are fixed across contexts?",
+    "options": [
+      "Heritability of IQ increases with socioeconomic status",
+      "Identical twins always have identical IQs",
+      "Adopted children’s IQs are unrelated to biological parents",
+      "Heritability of IQ is higher in impoverished environments"
+    ],
+    "answer": "Heritability of IQ increases with socioeconomic status"
+  },
+  
+  {
+    "id": 273,
+    "question": "The Parieto-Frontal Integration Theory (P-FIT) suggests that intelligence depends on:",
+    "options": [
+      "A distributed neural network connecting frontal and parietal regions",
+      "Activity in the occipital lobe only",
+      "Emotional regulation in limbic circuits",
+      "Cerebellar control of executive functioning"
+    ],
+    "answer": "A distributed neural network connecting frontal and parietal regions"
+  },
+  
+    {
+    "id": 274,
+    "question": "Which of the following is a limitation of genome-wide association studies (GWAS) in intelligence research?",
+    "options": [
+      "They identify single-gene causes of intelligence",
+      "They require extremely large samples to detect small effects",
+      "They cannot detect heritable variation",
+      "They ignore polygenic influences entirely"
+    ],
+    "answer": "They require extremely large samples to detect small effects"
+  },
+  
+   {
+    "id": 275,
+    "question": "Which kind of validity examines whether a test forecasts future performance or outcomes?",
+    "options": [
+      "Construct validity",
+      "Predictive validity",
+      "Content validity",
+      "Concurrent validity"
+    ],
+    "answer": "Predictive validity"
+  },
+  
+    {
+    "id": 276,
+    "question": "Which factor best explains the modest decline in IQ observed in late adulthood?",
+    "options": [
+      "Reduced processing speed and working memory efficiency",
+      "Decline in crystallized knowledge",
+      "Decreased motivation to perform tests",
+      "Test bias in favor of younger adults"
+    ],
+    "answer": "Reduced processing speed and working memory efficiency"
+  },
+  
+    {
+    "id": 277,
+    "question": "Which of the following statements about sex differences in intelligence is most accurate?",
+    "options": [
+      "Males show greater variance in IQ scores, though means are nearly equal",
+      "Females consistently outperform males on all IQ measures",
+      "Males score higher on verbal subtests",
+      "There are large and consistent sex differences in overall IQ"
+    ],
+    "answer": "Males show greater variance in IQ scores, though means are nearly equal"
+  },
+  
+  {
+    "id": 278,
+    "question": "Which of the following statements about working memory and intelligence is most accurate?",
+    "options": [
+      "Working memory capacity strongly correlates with fluid intelligence",
+      "Working memory and intelligence are unrelated constructs",
+      "Working memory only predicts crystallized ability",
+      "Working memory has no neural basis"
+    ],
+    "answer": "Working memory capacity strongly correlates with fluid intelligence"
+  },
+  
+  {
+    "id": 279,
+    "question": "In Carroll’s Three-Stratum Theory, where does processing speed primarily fit?",
+    "options": [
+      "Narrow ability at Stratum I",
+      "Broad ability at Stratum II",
+      "General factor at Stratum III",
+      "A separate non-cognitive domain"
+    ],
+    "answer": "Broad ability at Stratum II"
+  },
+  
+    {
+    "id": 280,
+    "question": "A key finding from neuroimaging meta-analyses of intelligence is that:",
+    "options": [
+      "Intelligence relies on localized regions only",
+      "Intelligence involves distributed, integrative brain networks",
+      "IQ is determined by gray matter volume in the hippocampus alone",
+      "Cognitive efficiency is unrelated to brain connectivity"
+    ],
+    "answer": "Intelligence involves distributed, integrative brain networks"
+  },
+  
+    {
+    "id": 281,
+    "question": "Which finding most strongly supports the Flynn Effect as environmentally driven?",
+    "options": [
+      "IQ gains occur too rapidly to reflect genetic change",
+      "IQ gains correlate with twin heritability coefficients",
+      "Brain volume increased dramatically in recent generations",
+      "IQ gains are largest among identical twins"
+    ],
+    "answer": "IQ gains occur too rapidly to reflect genetic change"
+  },
+  
+  {
+    "id": 282,
+    "question": "The efficiency of white matter tracts can be assessed using which neuroimaging technique?",
+    "options": [
+      "Diffusion Tensor Imaging (DTI)",
+      "Positron Emission Tomography (PET)",
+      "Electroencephalography (EEG)",
+      "Functional Near-Infrared Spectroscopy (fNIRS)"
+    ],
+    "answer": "Diffusion Tensor Imaging (DTI)"
+  },
+  
+  {
+    "id": 283,
+    "question": "Which phenomenon can bias estimates of cognitive decline in longitudinal studies?",
+    "options": [
+      "Selective attrition of lower-performing participants",
+      "Regression to the mean",
+      "Excessive test reliability",
+      "Overcorrection for cohort effects"
+    ],
+    "answer": "Selective attrition of lower-performing participants"
+  },
 ]
 

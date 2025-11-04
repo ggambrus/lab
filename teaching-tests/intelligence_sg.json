@@ -1,0 +1,439 @@
+[
+  {
+    "topic": "Lecture 1: Definition & History",
+    "flashcards": [
+      {
+        "question": "Gottfredson's (1997) Definition of Intelligence",
+        "answer": "Intelligence is a very general mental capability that, among other things, involves the ability to reason, plan, solve problems, think abstractly, comprehend complex ideas, learn quickly and learn from experience.||https://www1.udel.edu/educ/gottfredson/reprints/1997mainstream.pdf"
+      },
+      {
+        "question": "APA Dictionary's Definition of Intelligence",
+        "answer": "The ability to derive information, learn from experience, adapt to the environment, understand, and correctly utilize thought and reason.||https://dictionary.apa.org/intelligence"
+      },
+	  {
+        "question": "The Chinese Room thought experiment",
+        "answer": "It depicts a person in a room who doesn't understand Chinese, but can follow a rulebook to manipulate Chinese symbols and produce correct responses to questions, leading an observer outside the room to believe the person understands Chinese. Argument: a computer running a program cannot have true understanding or consciousness, even if it can mimic human behavior perfectly.||https://en.wikipedia.org/wiki/Chinese_room"
+      },
+	  
+	  {"question": "Tool use in crows and ravens",
+	   "answer"  : "Evidence of tool use in corvids is often cited as a key indicator of their advanced intelligence and sophisticated problem-solving skills. These in some cases rival those of great apes, challenging previous assumptions that complex tool use was a trait limited to primates."},
+	  
+	  {
+        "question": "Features of moden intelligence testing",
+        "answer": "The tests are typically given one-on-one, in a controlled environment. Procedures are highly standardized, meaning the exact same procedures must be followed for every test-taker. An expert administrator ensures strict adherence to these protocols, which is crucial for objective comparison of results to normative data."
+      },
+	  
+      {
+        "question": "Arthur Jensen's Two Reasons for Delayed Intelligence Measurement",
+        "answer": "1. **Divine Nature of Reason:** Seen as a divine gift, beyond human measurement. 2. **Limited Formal Education:** Intelligence differences are more visible in educational contexts, which were historically limited to a privileged few."
+      },
+      {
+        "question": "Who was Francis Galton?",
+        "answer": "Charles Darwin’s half-cousin. A pioneer in intelligence testing, he popularized the term **'nature and nurture'** and was motivated by questions of eminence (why some families are more successful). He is also known for eugenics and the Anthropometric Laboratory.||https://en.wikipedia.org/wiki/Francis_Galton"
+      },
+      {
+        "question": "Galton's Anthropometric Laboratory",
+        "answer": "An experiment in London (1884) where visitors paid to be measured in 17 categories, including physical measurements, reaction times, and sensory discrimination. Galton's goal was to 'sample a man with reasonable completeness'.||https://galton.org/essays/1880-1889/galton-1884-anthro-lab.pdf"
+      },
+      {
+        "question": "Who were Alfred Binet and Théodore Simon?",
+        "answer": "In 1904, they were tasked by the French government to develop objective tools to identify children needing special educational support. They created the first practical intelligence tests.||https://en.wikipedia.org/wiki/Alfred_Binet || https://en.wikipedia.org/wiki/Th%C3%A9odore_Simon"
+      },
+      {
+        "question": "Define 'Mental Age'",
+        "answer": "A concept related to the intelligence test developed by Binet and Simon. It's a measure of a child's intellectual development expressed as the average age at which children typically achieve a particular level of performance. Its limitation is the 'age ceiling' (less useful for adults). || https://en.wikipedia.org/wiki/Mental_age"
+      },
+      {
+        "question": "Who was H.H. Goddard?",
+        "answer": "He translated the Binet-Simon Scale into English in the U.S. and was a prominent champion of the eugenics movement. || https:\/\/en.wikipedia.org\/wiki\/Henry_H._Goddard"
+      },
+      {
+        "question": "Who was Lewis Terman?",
+        "answer": "He standardized the Binet-Simon Scale with a large U.S. sample, publishing the **Stanford-Binet Scale** in 1916. He aimed to find high-scoring children and follow them through life.||https://en.wikipedia.org/wiki/Lewis_Terman"
+      },
+      {
+        "question": "Who was Robert Yerkes?",
+        "answer": "A Harvard psychologist who developed group-administered intelligence tests (Army Alpha and Beta) to efficiently screen large numbers of U.S. Army recruits during World War I.||https://en.wikipedia.org/wiki/Robert_Yerkes"
+      },
+      {
+        "question": "Who was Charles Spearman?",
+        "answer": "A British psychologist who proposed the existence of **general intelligence ('g')**, a single factor that influences performance across various cognitive tasks, contrary to Binet's idea of separate abilities.||https://en.wikipedia.org/wiki/Charles_Spearman"
+      },
+      {
+        "question": "The 1944 Butler Education Act (UK)",
+        "answer": "Influenced by intelligence research, this act created a system of grammar schools for children who scored high on the **11-plus test** (an aptitude test taken at age 11).||https://en.wikipedia.org/wiki/Education_Act_1944"
+      },
+      {
+        "question": "What is 'Tracking' or 'Streaming' in education?",
+        "answer": "Separating students into groups based on assessed academic ability. This can apply to all subjects or specific classes.||https://en.wikipedia.org/wiki/Tracking_(education)"
+      },
+      {
+        "question": "Define Eugenics (Positive and Negative)",
+        "answer": "The idea of selectively breeding humans. **Positive Eugenics** involved encouraging 'higher' classes to have more children. **Negative Eugenics** involved discouraging 'lower' classes from reproducing. || https://en.wikipedia.org/wiki/Eugenics"
+      },
+      {
+        "question": "Define Correlation",
+        "answer": "A method for quantifying the strength of the relationship between two variables. Also called associations or links. It does not imply causation.||https://en.wikipedia.org/wiki/Correlation"
+      },
+      {
+        "question": "Define Regression (Statistical Technique)",
+        "answer": "A statistical technique that allows us to examine the relationship between two variables while **controlling for** (or holding constant) other variables.||https://en.wikipedia.org/wiki/Regression_analysis"
+      }
+    ]
+  },
+  {
+    "topic": "Lecture 2: Modern Testing & Theories",
+    "flashcards": [
+      {
+        "question": "Who was David Wechsler?",
+        "answer": "A pioneer in intelligence testing. His tests, first published in 1955 (WAIS), have been updated multiple times and are still widely used today (e.g., WAIS-5). || https://en.wikipedia.org/wiki/David_Wechsler || https://en.wikipedia.org/wiki/Wechsler_Adult_Intelligence_Scale || https://en.wikipedia.org/wiki/Wechsler_Intelligence_Scale_for_Children"
+      },
+      {
+        "question": "Define Reliability (External vs. Internal)",
+        "answer": "**External reliability** (test-retest) asks: Are the results consistent over time? **Internal reliability** asks: Do different items/subscales measuring the same construct produce similar scores? || https://en.wikipedia.org/wiki/Reliability_(statistics)"
+      },
+	  
+	  {
+        "question": "What is the typical test-retest correlation for IQ subtests?",
+        "answer": "The test-retest reliability correlation for individual IQ subtests is typically in the range of 0.70 to 0.92, with most in the **0.80s**. A fluctuation of about 15 IQ points within an individual between test sessions can be seen as normal."
+      },
+	  
+      {
+        "question": "Define Validity (Construct vs. Predictive)",
+        "answer": "**Construct validity** asks: Are you measuring what you _think_ you are measuring? **Predictive validity** asks: Does test performance tell us about a person’s _future_ (e.g., job performance)? || https://en.wikipedia.org/wiki/Validity_(statistics)"
+      },
+	  
+	  {"question":"Normal distribution",
+	  "answer":"The normal distribution, also known as the Gaussian distribution or bell curve, is a fundamental concept in statistics where data is distributed symmetrically around a central mean. Most values cluster around the mean, and the frequency of values tapers off as they move further away from the center.|| https://en.wikipedia.org/wiki/Normal_distribution"},
+	  
+      {
+        "question": "WAIS Subtest: Matrix Reasoning",
+        "answer": "A common task to assess **reasoning ability**. Involves identifying a rule in a sequence of pictures and selecting the option to complete it. || https://en.wikipedia.org/wiki/Wechsler_Adult_Intelligence_Scale"
+      },
+      {
+        "question": "WAIS Subtest: Block Design",
+        "answer": "Task: Assemble red-and-white blocks to match a pattern. Measures: **Visual-spatial processing**, problem-solving, and visual-motor construction. || https://en.wikipedia.org/wiki/Wechsler_Adult_Intelligence_Scale"
+      },
+      {
+        "question": "WAIS Subtest: Digit Span",
+        "answer": "Task: Listen to sequences of numbers and repeat them (forwards, backwards, in order). Measures: **Working memory**, attention, and auditory processing. || https://en.wikipedia.org/wiki/Memory_span"
+      },
+      {
+        "question": "WAIS Subtest: Coding Task",
+        "answer": "Task: Use a digit-symbol key to transcribe symbols. Measures: **Processing speed**, associative memory, and graphomotor speed. || https://en.wikipedia.org/wiki/Wechsler_Adult_Intelligence_Scale"
+      },
+      {
+        "question": "WAIS Subtest: Similarities Task",
+        "answer": "Task: Explain how two words (e.g., 'painting' and 'symphony') are alike. Measures: **Verbal reasoning** and the ability to form abstract concepts. || https://en.wikipedia.org/wiki/Wechsler_Adult_Intelligence_Scale"
+      },
+      {
+        "question": "WAIS Subtest: Information Task",
+        "answer": "Task: Answer general knowledge questions. Measures: **General knowledge** acquired from culture and education (a measure of Crystallized Intelligence)."
+      },
+      {
+        "question": "What is the General Ability Index (GAI)?",
+        "answer": "A specialized score from the WAIS-IV that combines Verbal Comprehension and Perceptual Reasoning scores. It's used to measure cognitive abilities that are less affected by impairments in processing speed and working memory.  || https://en.wikipedia.org/wiki/Wechsler_Adult_Intelligence_Scale"
+      },
+      {
+        "question": "How are IQ Scores Calculated?",
+        "answer": "Your total performance is compared to a **norming sample** (a large, representative group). The average score is set to 100, and scores follow a normal distribution (bell curve). || https://en.wikipedia.org/wiki/Intelligence_quotient"
+      },
+      {
+        "question": "What is the 'Positive Manifold'?",
+        "answer": "The key finding that scores on different mental tasks (e.g., reasoning, vocabulary, memory) tend to **correlate positively**. People who excel in one area tend to score well in others. || https://en.wikipedia.org/wiki/G_factor_(psychometrics)"
+      },
+      {
+        "question": "What is the '_g_' Factor (General Factor)?",
+        "answer": "The single common factor, identified by Charles Spearman using **factor analysis**, that underlies the positive manifold. It represents a broad measure of overall cognitive ability. || https://en.wikipedia.org/wiki/G_factor_(psychometrics)"
+      },
+      {
+        "question": "What are 'g Loadings'?",
+        "answer": "A measure of how much a specific subtest correlates with (or 'loads onto') the general 'g' factor. Complex tasks (like Matrix Reasoning) have high g-loadings. || https://en.wikipedia.org/wiki/G_factor_(psychometrics)"
+      },
+      {
+        "question": "Howard Gardner's Theory of Multiple Intelligences",
+        "answer": "The theory that intelligence is not a single ability but a combination of multiple, distinct intelligences (e.g., Linguistic, Logical-Mathematical, Musical, Spatial, Bodily-Kinesthetic, Interpersonal, Intrapersonal, Naturalistic). Every person has a unique mix of intelligences. || https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences"
+      },
+      {
+        "question": "Critique of Multiple Intelligences Theory",
+        "answer": "It lacks strong empirical evidence and clear measurement tools. Critically, the 'intelligences' Gardner proposes are not independent; they are positively correlated, which supports the existence of a 'g' factor. || https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences"
+      },
+      {
+        "question": "What is the 'Learning Styles' concept and its critique?",
+        "answer": "The idea that individuals learn best through specific modalities (visual, auditory, kinesthetic). Critique: There is a **lack of scientific evidence** that teaching to a preferred style improves learning outcomes. || https://en.wikipedia.org/wiki/Learning_styles"
+      },
+      {
+        "question": "Fluid Intelligence (Gf) vs. Crystallized Intelligence (Gc)",
+        "answer": "**Fluid Intelligence (Gf):** The ability to solve novel problems without prior knowledge (e.g., matrix reasoning). **Crystallized Intelligence (Gc):** The ability to use accumulated knowledge and experience (e.g., vocabulary). Originally conceptualized by Raymond Cattell. || https://en.wikipedia.org/wiki/Fluid_and_crystallized_intelligence"
+      },
+      {
+        "question": "John Carroll's Three-Stratum Theory",
+        "answer": "A hierarchical model of intelligence. **Stratum III** is 'g' (general intelligence). **Stratum II** contains 8 broad abilities (e.g., Gf, Gc, Memory, Processing Speed). **Stratum I** contains over 70 narrow, specific abilities. || https://en.wikipedia.org/wiki/Three-stratum_theory"
+      },
+      {
+        "question": "How do Gf and Gc change with age?",
+        "answer": "**Fluid Intelligence (Gf)** peaks in the mid-20s and then declines. **Crystallized Intelligence (Gc)** continues to grow or stay stable through adulthood."
+      },
+      {
+        "question": "Lothian Birth Cohort Study (Deary et al.)",
+        "answer": "A study that tested Scottish participants at age 11 and again at age 92. The correlation between their scores was high (r = 0.54), showing remarkable stability of intelligence differences over a lifetime. || https://en.wikipedia.org/wiki/Lothian_birth-cohort_studies"
+      }
+    ]
+  },
+  {
+    "topic": "Lecture 3: Intelligence & Life Outcomes",
+    "flashcards": [
+      {
+        "question": "What is the relationship between IQ and longevity?",
+        "answer": "Smarter people tend to live longer. Higher IQ scores are strongly predictive of longevity, with some studies finding IQ as predictive of mortality risk as smoking."
+      },
+      {
+        "question": "IQ and Education (Achievement & Duration)",
+        "answer": "IQ scores are strongly correlated with both educational **achievement** (exam results, r = 0.81 with GCSEs) and **duration** (how long you stay in school)."
+      },
+      {
+        "question": "What factors besides IQ predict educational success?",
+        "answer": "Other psychological traits are also important, such as **motivation**, **perseverance**, **conscientiousness**, and **self-control**."
+      },
+	  
+	  {"question":"Judith Rich Harris on the influence of parenting",
+	   "answer":"In her 2009 work, Judith Rich Harris argued that parental influence is significantly overestimated, challenging the '_nurture assumption_' that parents are the primary shapers of their children's personality. Instead, she proposed that a child's peer group is a far more powerful social force in developing their personality. She suggested that parents have more influence over how children behave at home, but peers and other outside environments are the primary source of long-term social and personality development."
+	  },
+	  
+      {
+        "question": "'_Smart fraction_' theory",
+        "answer": "High IQ scores are strongly linked to exceptional achievements. Even among the top 1% of SAT scorers, those with higher IQs earned more and attained more advanced degrees and drive economic growth. Intelligence continues to matter even at the highest levels, leading some to argue that the “smart fraction” of a population should be identified and educated separately to nurture their talents."
+      },
+	  
+      {
+        "question": "IQ and Workplace Performance",
+        "answer": "IQ is a strong predictor of workplace performance, including job efficiency, monetary value of output, and manager ratings. It is especially predictive for **complex jobs**."
+      },	  
+	  
+      {
+        "question": "IQ and Social Class",
+        "answer": "Intelligence correlates moderately (r = 0.30–0.50) with achieving a higher social status (income, job type, etc.)."
+      },
+      {
+        "question": "What is 'Emotional Intelligence' (EQ)?",
+        "answer": "The ability to understand and manage one's own emotions and the emotions of others. Advocates claim it's essential for interpersonal skills in the workplace. || https://en.wikipedia.org/wiki/Emotional_intelligence"
+      },
+      {
+        "question": "Critique of Emotional Intelligence (EQ)",
+        "answer": "EQ does not correlate as strongly with job performance as IQ. It also has **measurement issues** (hard to measure reliably) and may just be a repackaging of known concepts (IQ + personality traits). || https://en.wikipedia.org/wiki/Emotional_intelligence"
+      },
+      {
+        "question": "What is 'Cognitive Epidemiology'?",
+        "answer": "The field that explores the links between intellectual abilities (cognitive test scores) and health/mortality outcomes. It finds higher intelligence is linked to better health. || https://en.wikipedia.org/wiki/Cognitive_epidemiology"
+      },
+      {
+        "question": "Batty et al. (2009) study on IQ and mortality",
+        "answer": "A study of ~1 million Swedish men. Men in the lowest IQ category were **3 times more likely to die** over a 20-year period than those in the highest IQ category. https://doi.org/10.1097/ede.0b013e31818ba076"
+      },
+      {
+        "question": "Calvin et al. (2010) meta-analysis on IQ and mortality",
+        "answer": "Found that a 15-point increase in childhood IQ was associated with a **24% lower mortality risk** in later life. || https://academic.oup.com/ije/article/40/3/626/742085"
+      },
+      {
+        "question": "Explanation for IQ-Mortality Link: 'IQ as an Indicator'",
+        "answer": "Lower IQ might not _cause_ poor health, but both might be indicators of poorer early-life conditions (e.g., nutrition, developmental issues) that affect both brain and body development."
+      },
+      {
+        "question": "Explanation for IQ-Mortality Link: 'Genetic Correlation'",
+        "answer": "Shared genetic factors might influence both a healthier, more efficient body and a healthier, more efficient brain (higher IQ)."
+      },
+      {
+        "question": "Explanation for IQ-Mortality Link: 'Risk Perception'",
+        "answer": "Higher-IQ individuals may be better at recognizing, assessing, and avoiding risks (e.g., accidents, unhealthy behaviors), leading to a longer life."
+      },
+      {
+        "question": "IQ and Creativity",
+        "answer": "IQ correlates positively with creativity measures. Higher-IQ individuals tend to perform better on tasks like the 'Alternative Uses Task' and are more likely to produce creative real-world achievements (patents, artistic prizes)."
+      },
+      {
+        "question": "IQ and Social Skills",
+        "answer": "The common belief that high-IQ individuals lack social skills is not supported by research. The correlation between IQ and social skills is **close to zero**."
+      },
+      {
+        "question": "What is a known negative association of high IQ?",
+        "answer": "Short-sightedness (myopia). Smarter people are statistically more likely to need glasses, possibly due to early and frequent reading. Suggestive links to bipolar disorder have been proposed, but evidence is preliminary."
+      },
+      {
+        "question": "Study of Mathematically Precocious Youth (SMPY)",
+        "answer": "A longitudinal study of individuals who scored in the top 0.0001% on the SAT. 30 years later, they were found in high-ranking roles across society, demonstrating that IQ differences matter even at the very high end. || https://en.wikipedia.org/wiki/Study_of_Mathematically_Precocious_Youth"
+      }
+    ]
+  },
+  {
+    "topic": "Lecture 4: Biology & Genetics",
+    "flashcards": [
+      {
+        "question": "What is the 'Cognitive Niche'?",
+        "answer": "Steven Pinker's concept that, like other animals specialize in niches (e.S., flying), humans specialize in the niche of **intelligence**—using high-level thinking and problem-solving to survive. || https://en.wikipedia.org/wiki/Cognitive_specialization || https://www.pnas.org/doi/10.1073/pnas.0914630107"
+      },
+      {
+        "question": "Brain Size vs. Brain Complexity",
+        "answer": "Brain size has increased over evolution, but **complexity and organization** are more important than size alone. Larger brains are also very energy-intensive (consuming ~20% of body's energy). || https://en.wikipedia.org/wiki/Encephalization_quotient"
+      },
+      {
+        "question": "Twin Studies: Identical vs. Fraternal Twins",
+        "answer": "**Identical (Monozygotic - MZ)** twins develop from one egg and share ~100% of their DNA. **Fraternal (Dizygotic - DZ)** twins develop from two eggs and share ~50% of their DNA, just like regular siblings. || https://en.wikipedia.org/wiki/Twin"
+      },
+      {
+        "question": "How do twin studies estimate heritability?",
+        "answer": "By comparing the similarity of a trait (like IQ) in identical twins to the similarity in fraternal twins. If identical twins are more similar, it suggests a genetic influence. https://en.wikipedia.org/wiki/Twin_study"
+      },
+      {
+        "question": "Falconer’s Formula",
+        "answer": "A formula used to estimate heritability from twin studies: **h² = 2 x (r_identical - r_fraternal)**, where 'r' is the correlation. || https://en.wikipedia.org/wiki/Falconer%27s_formula"
+      },
+      {
+        "question": "How does heritability of intelligence change with age?",
+        "answer": "Heritability **increases with age**. In children, it's ~20-40%, but in adults, it can be as high as 80%. This means genetic factors become more important in explaining differences as we age. || https://en.wikipedia.org/wiki/Heritability_of_IQ"
+      },
+      {
+        "question": "Adoption Studies Methodology",
+        "answer": "These studies compare the IQ of adopted children to both their **biological parents** (who provided their genes) and their **adoptive parents** (who provided their environment). || https://en.wikipedia.org/wiki/Adoption_study"
+      },
+      {
+        "question": "Critique: The 'Equal Environments Assumption' (EEA)",
+        "answer": "The assumption in twin studies that identical and fraternal twins experience equally similar environments. Critics argue identical twins might be treated _more_ alike, which could inflate heritability estimates (though this effect is found to be modest)."
+      },
+      {
+        "question": "What does 'heritability' mean?",
+        "answer": "Heritability is a statistic that describes the proportion of **variation within a group** (i.e., the _differences_ between people) that can be attributed to genetic differences. It does NOT say how much of an _individual's_ trait is genetic. || https://en.wikipedia.org/wiki/Heritability"
+      },
+      {
+        "question": "Minnesota Study of Twins Reared Apart (MISTRA)",
+        "answer": "A famous study of identical and fraternal twins separated at birth. Finding: Identical twins reared apart were strikingly similar in IQ (correlation ~0.70), providing strong evidence for genetic influence. || https://en.wikipedia.org/wiki/Minnesota_Center_for_Twin_and_Family_Research"
+      },
+      {
+        "question": "Texas Adoption Project (Key Finding)",
+        "answer": "Found that adopted children's IQ scores correlated moderately with their **biological mothers'** IQs (r ~ 0.3) but had **zero correlation** with their adoptive mothers' IQs, highlighting the role of genetics over shared family environment. || https://en.wikipedia.org/wiki/Minnesota_Texas_Adoption_Research_Project"
+      },
+      {
+        "question": "OctoTwin Project (Key Finding)",
+        "answer": "A study of Swedish twins aged 80+. It found that the heritability of general intelligence ('g') remained very high, around 76%, even in very old age."
+      },
+      {
+        "question": "Turkheimer et al. (2003) SES Finding",
+        "answer": "Found that heritability of IQ **depends on socioeconomic status (SES)**. In low-SES families, shared environment was the dominant factor, while in high-SES families, genetics was the dominant factor. This suggests poor environments can suppress genetic potential. || https://doi.org/10.1046/j.0956-7976.2003.psci_1475.x"
+      },
+	  
+	  {"question":"Shared / Non-shared environment",
+	  "answer":"**Shared Environment**: Environmental factors that make siblings raised in the same family similar to one another. Examples include parental socioeconomic status, home environment quality, and school demographics.|**Non-shared Environment**: Unique experiences, interactions, and circumstances that individuals encounter that are not shared by other family members, causing differences between siblings. Examples include different friends, teachers, illnesses, or even reacting differently to the same objective environment."},
+	  
+      {
+        "question": "Gene-by-Environment Interaction (GxE)",
+        "answer": "The concept that heritability isn't fixed and can vary based on environmental conditions. Genetic potential is expressed more fully in supportive environments. || https://en.wikipedia.org/wiki/Gene%E2%80%93environment_interaction"
+      },
+	  
+	  {"question":"Social equality, environment and genetic factors",
+	  "answer":"**Low equality**: Environmental factors are dominant: In societies with significant environmental disparities (e.g., in quality education, nutrition, and healthcare access), outcomes are largely driven by these external factors.|**High equality**: Genetic factors gain explanatory power: When environmental provisions are uniformly accessible and barriers to opportunity are minimized, effects of genetic variation are amplified."},
+      {
+        "question": "What does it mean that intelligence is 'Polygenic'?",
+        "answer": "It is influenced by **thousands of genes**, each contributing a tiny effect. There is no single 'gene for intelligence'. This is a key finding from modern genetics."
+      },
+      {
+        "question": "Genome-Wide Association Studies (GWAS)",
+        "answer": "A method that analyzes the DNA of thousands of people to find tiny genetic variants (SNPs) that are correlated with a trait. It's used to find the many genes associated with intelligence. || https://en.wikipedia.org/wiki/Genome-wide_association_study"
+      },
+	  
+	  {"question":"Three 'laws' of the genetics of complex traits",
+	  "answer":"(1) All traits show significant genetic influence. (2) No traits are 100% heritable. (3) Heritability is caused by many genes of small effect. || https://pmc.ncbi.nlm.nih.gov/articles/PMC4270739/"},
+	  
+      {
+        "question": "Single-Gene Effects (e.g., PKU, Down Syndrome)",
+        "answer": "Large genetic errors (mutations or chromosomal abnormalities) can cause severe intellectual disabilities. However, these _do not_ explain the normal range of intelligence differences in the general population, which is polygenic. || see:  https://en.wikipedia.org/wiki/Pleiotropy"
+      },
+	  
+	  {"question":"Down syndrome",
+	   "answer":"Down syndrome, or trisomy 21, is a genetic disorder caused by the presence of an extra copy of chromosome 21, leading to a range of physical and intellectual characteristics. It typically occurs by chance during conception and results in mild to moderate intellectual disability and distinctive physical features.|| https://en.wikipedia.org/wiki/Down_syndrome"},
+	   
+	   {"question":"Phenylketonuria",
+	   "answer":"Phenylketonuria (PKU) is a rare, inherited metabolic disorder that prevents the body from properly breaking down the amino acid phenylalanine, which then builds up to harmful levels in the blood and brain. This can cause serious health problems, particularly brain damage and intellectual disabilities, if not treated early.|| https://en.wikipedia.org/wiki/Phenylketonuria"}
+	   
+    ]
+  },
+  {
+    "topic": "Lecture 5: Neuroscience & Environment",
+    "flashcards": [
+      {
+        "question": "What is 'Assortative Mating' for intelligence?",
+        "answer": "The strong tendency for individuals to choose partners who are similar to themselves in intelligence. The correlation between spouses' IQs is high (around 0.40), which is stronger than for personality or physical traits. || https:\/\/en.wikipedia.org\/wiki\/Assortative_mating"
+      },
+      {
+        "question": "Are there sex differences in _average_ IQ?",
+        "answer": "No. Large-scale studies (like the Scottish Mental Surveys) find no difference between the average IQ scores of boys and girls. || https://en.wikipedia.org/wiki/Sex_differences_in_intelligence"
+      },
+      {
+        "question": "Are there sex differences in _specific_ cognitive abilities?",
+        "answer": "Yes. On average, women tend to perform better on tasks related to verbal fluency and comprehension. Men tend to perform better on tasks requiring spatial ability and mental rotation. || https://en.wikipedia.org/wiki/Sex_differences_in_intelligence"
+      },
+      {
+        "question": "Are there sex differences in IQ _variability_?",
+        "answer": "Yes. Males show greater variability in IQ scores. This means men are over-represented at both the high (genius) and low (disability) extremes of the bell curve. || https://en.wikipedia.org/wiki/Variability_hypothesis"
+      },
+	  
+	  {"question":"Greater Male Variability Hypothesis",
+	  "answer":"The hypothesis suggests that if you were to plot men and women on a bell curve for a particular trait, the male curve would be wider and flatter than the female curve, even if the average score is the same for both. This wider spread means there are likely to be more men at the highest and lowest ends of the distribution."},
+	  
+      {
+        "question": "Brain Volume and IQ",
+        "answer": "There is a modest but consistent positive correlation between brain volume and IQ, around **r = 0.24**. This means it's a factor, but does not explain most of the variation."
+      },
+      {
+        "question": "Role of the Frontal Lobes",
+        "answer": "Critical for **fluid intelligence** (abstract thinking, planning, and reasoning). Damage to this area often impairs problem-solving. In high-IQ children, the cortex in this area remains thicker for longer. || https://en.wikipedia.org/wiki/Frontal_lobe"
+      },
+	  
+	  {"question":"In humans, what part of the brain matures last?",
+	  "answer":"The prefrontal cortex is the last part of the human brain to fully mature, typically finishing its development in a person's mid-to-late 20s. This region is responsible for higher-level executive functions such as planning, decision-making, impulse control, and prioritizing tasks."},
+	  
+      {
+        "question": "Role of White Matter",
+        "answer": "White matter consists of the axons (connections) between brain regions. Better white matter 'integrity' (efficiency) correlates with higher IQ scores, particularly in tasks involving processing speed. || https://en.wikipedia.org/wiki/White_matter"
+      },
+      {
+        "question": "Parieto-Frontal Integration Theory (P-FIT) Model",
+        "answer": "Proposes that intelligence relies on a **network** connecting the **frontal lobes** (reasoning) and the **parietal lobes** (organizing perception). Efficient communication between these regions is essential for complex thought. || https://en.wikipedia.org/wiki/Parieto-frontal_integration_theory"
+      },
+      {
+        "question": "Impact of Lead Exposure",
+        "answer": "Lead is a neurotoxin that damages the central nervous system, particularly in children. Exposure is associated with decreased IQ scores, memory impairment, and attention difficulties. Axonal degeneration is thought to be a major factor. || https://en.wikipedia.org/wiki/Lead_poisoning"
+      },
+      {
+        "question": "What is the 'Flynn Effect'?",
+        "answer": "The observation that IQ scores increased significantly throughout the 20th century. Someone scoring 100 (average) in 1920 would score much higher (e.g., 130) on a modern test. It is an indication of environmental effects on intelligence. || https://en.wikipedia.org/wiki/Flynn_effect"
+      },
+      {
+        "question": "Possible Explanations for the Flynn Effect",
+        "answer": "Improved education (focus on abstract thinking), better nutrition, technological advancements (more cognitive stimulation), urbanization, and smaller family sizes. || https://en.wikipedia.org/wiki/Flynn_effect"
+      },
+      {
+        "question": "Plateau or Reversal of the Flynn Effect",
+        "answer": "In some developed countries, the Flynn Effect appears to have slowed down, stopped, or even reversed in recent years. || https://en.wikipedia.org/wiki/Flynn_effect"
+      },
+	  
+	  {"question":"Consequences of the Flynn Effect",
+	  "answer":"A rising average IQ score means that IQ tests need to be renormed periodically to keep the average score at 100. || https://en.wikipedia.org/wiki/Flynn_effect"},
+	  
+      {
+        "question": "Cognitive Training (Near vs. Far Transfer)",
+        "answer": "Training on brain games (e.g., Lumosity) shows **modest near transfer** (improvement on similar tasks) but **weak or no far transfer** (improvement in different, unrelated cognitive domains like fluid intelligence). || https://en.wikipedia.org/wiki/Brain_training"
+      },
+      {
+        "question": "Pharmacological Enhancement (Nootropics)",
+        "answer": "Substances (or 'smart drugs') that purportedly enhance cognitive functions. Examples include stimulants (like caffeine or Adderall) and supplements (like omega-3s). They primarily boost alertness and short-term working memory. || https://en.wikipedia.org/wiki/Nootropic"
+      },
+      {
+        "question": "Transcranial Direct Current Stimulation (tDCS)",
+        "answer": "A non-invasive brain stimulation technique that uses low-intensity electrical currents to induce changes in cortical excitability, potentially facilitating neuroplastic processes. || https://en.wikipedia.org/wiki/Transcranial_direct-current_stimulation"
+      },
+      {
+        "question": "tDCS over DLPFC",
+        "answer": "Applying tDCS over the **Dorsolateral Prefrontal Cortex (DLPFC)** has shown modest, short-term benefits on **working memory**, but the results are often inconsistent and replication is a challenge."
+      }
+    ]
+  }
+]

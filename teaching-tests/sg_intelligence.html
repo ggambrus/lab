@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intelligence Section Study Guide</title>
+    <link rel="stylesheet" href="sg_style.css">
+	<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+	<div id="header-placeholder"></div>
+    <header>
+        <h1>Intelligence Revision Guide</h1>
+        <p>A Topic-Based Flashcard Study Guide</p>
+    </header>
+
+    <main>
+        <div id="topic-sidebar">
+            <h2>Topics</h2>
+            <ul id="topic-list">
+                <p class="loading-text">Loading topics...</p>
+            </ul>
+        </div>
+        
+        <div id="flashcard-area">
+            <h2>Select a Topic to Begin</h2>
+            
+            <div id="flashcard-container" class="hidden">
+                <div class="flashcard" onclick="this.classList.toggle('flipped')">
+                    <div class="flashcard-face flashcard-front">
+                        <p id="flashcard-question">Click a topic to load flashcards.</p>
+                        <span class="instruction-text">(Click to see the answer)</span>
+                    </div>
+                    <div class="flashcard-face flashcard-back">
+                        <p id="flashcard-answer"></p>
+                        <span class="instruction-text">(Click to see the question)</span>
+                    </div>
+                </div>
+            </div>
+
+            <div id="navigation-controls" class="hidden">
+                <button id="prev-btn" disabled>Previous Card</button>
+                <span id="card-counter"></span>
+                <button id="next-btn">Next Card</button>
+            </div>
+
+            <p id="no-cards-message" class="error-message hidden">No flashcards found for this topic.</p>
+        </div>
+    </main>
+	<div id="footer-placeholder"></div>
+    <script src="sg_script.js"></script>
+	<script src="../include.js"></script>
+</body>
+</html>
