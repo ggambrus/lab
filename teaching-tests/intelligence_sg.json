@@ -17,12 +17,7 @@
 	  
 	  {"question": "Tool use in crows and ravens",
 	   "answer"  : "Evidence of tool use in corvids is often cited as a key indicator of their advanced intelligence and sophisticated problem-solving skills. These in some cases rival those of great apes, challenging previous assumptions that complex tool use was a trait limited to primates."},
-	  
-	  {
-        "question": "Features of moden intelligence testing",
-        "answer": "The tests are typically given one-on-one, in a controlled environment. Procedures are highly standardized, meaning the exact same procedures must be followed for every test-taker. An expert administrator ensures strict adherence to these protocols, which is crucial for objective comparison of results to normative data."
-      },
-	  
+  
       {
         "question": "Arthur Jensen's Two Reasons for Delayed Intelligence Measurement",
         "answer": "1. **Divine Nature of Reason:** Seen as a divine gift, beyond human measurement. 2. **Limited Formal Education:** Intelligence differences are more visible in educational contexts, which were historically limited to a privileged few."
@@ -138,6 +133,12 @@
         "question": "How are IQ Scores Calculated?",
         "answer": "Your total performance is compared to a **norming sample** (a large, representative group). The average score is set to 100, and scores follow a normal distribution (bell curve). || https://en.wikipedia.org/wiki/Intelligence_quotient"
       },
+	  
+	  {
+        "question": "Features of moden intelligence testing",
+        "answer": "The tests are typically given one-on-one, in a controlled environment. Procedures are highly standardized, meaning the exact same procedures must be followed for every test-taker. An expert administrator ensures strict adherence to these protocols, which is crucial for objective comparison of results to normative data."
+      },
+	  
       {
         "question": "What is the 'Positive Manifold'?",
         "answer": "The key finding that scores on different mental tasks (e.g., reasoning, vocabulary, memory) tend to **correlate positively**. People who excel in one area tend to score well in others. || https://en.wikipedia.org/wiki/G_factor_(psychometrics)"
@@ -201,11 +202,6 @@
 	  },
 	  
       {
-        "question": "'_Smart fraction_' theory",
-        "answer": "High IQ scores are strongly linked to exceptional achievements. Even among the top 1% of SAT scorers, those with higher IQs earned more and attained more advanced degrees and drive economic growth. Intelligence continues to matter even at the highest levels, leading some to argue that the “smart fraction” of a population should be identified and educated separately to nurture their talents."
-      },
-	  
-      {
         "question": "IQ and Workplace Performance",
         "answer": "IQ is a strong predictor of workplace performance, including job efficiency, monetary value of output, and manager ratings. It is especially predictive for **complex jobs**."
       },	  
@@ -261,7 +257,13 @@
       {
         "question": "Study of Mathematically Precocious Youth (SMPY)",
         "answer": "A longitudinal study of individuals who scored in the top 0.0001% on the SAT. 30 years later, they were found in high-ranking roles across society, demonstrating that IQ differences matter even at the very high end. || https://en.wikipedia.org/wiki/Study_of_Mathematically_Precocious_Youth"
+      },
+	  
+	  {
+        "question": "'_Smart fraction_' theory",
+        "answer": "High IQ scores are strongly linked to exceptional achievements. Even among the top 1% of SAT scorers, those with higher IQs earned more and attained more advanced degrees and drive economic growth. Intelligence continues to matter even at the highest levels, leading some to argue that the “smart fraction” of a population should be identified and educated separately to nurture their talents."
       }
+	  
     ]
   },
   {
@@ -269,7 +271,7 @@
     "flashcards": [
       {
         "question": "What is the 'Cognitive Niche'?",
-        "answer": "Steven Pinker's concept that, like other animals specialize in niches (e.S., flying), humans specialize in the niche of **intelligence**—using high-level thinking and problem-solving to survive. || https://en.wikipedia.org/wiki/Cognitive_specialization || https://www.pnas.org/doi/10.1073/pnas.0914630107"
+        "answer": "Steven Pinker's concept that, like other animals specialize in niches (e.g., flying), humans specialize in the niche of **intelligence**—using high-level thinking and problem-solving to survive. || https://en.wikipedia.org/wiki/Cognitive_specialization || https://www.pnas.org/doi/10.1073/pnas.0914630107"
       },
       {
         "question": "Brain Size vs. Brain Complexity",
@@ -320,8 +322,11 @@
         "answer": "Found that heritability of IQ **depends on socioeconomic status (SES)**. In low-SES families, shared environment was the dominant factor, while in high-SES families, genetics was the dominant factor. This suggests poor environments can suppress genetic potential. || https://doi.org/10.1046/j.0956-7976.2003.psci_1475.x"
       },
 	  
-	  {"question":"Shared / Non-shared environment",
-	  "answer":"**Shared Environment**: Environmental factors that make siblings raised in the same family similar to one another. Examples include parental socioeconomic status, home environment quality, and school demographics.|**Non-shared Environment**: Unique experiences, interactions, and circumstances that individuals encounter that are not shared by other family members, causing differences between siblings. Examples include different friends, teachers, illnesses, or even reacting differently to the same objective environment."},
+	  {"question":"Shared / Non-shared Environment",
+	  "answer":"**Shared Environment**: Environmental factors that make siblings raised in the same family similar to one another. Examples include parental socioeconomic status, home environment quality, and school demographics."},
+	  
+	  {"question":"Non-shared (Unique) Environment",
+	  "answer":"**Non-shared Environment**: Unique experiences, interactions, and circumstances that individuals encounter that are not shared by other family members, causing differences between siblings. Examples include different friends, teachers, illnesses."},
 	  
       {
         "question": "Gene-by-Environment Interaction (GxE)",
@@ -389,6 +394,12 @@
 	  
 	  {"question":"In humans, what part of the brain matures last?",
 	  "answer":"The prefrontal cortex is the last part of the human brain to fully mature, typically finishing its development in a person's mid-to-late 20s. This region is responsible for higher-level executive functions such as planning, decision-making, impulse control, and prioritizing tasks."},
+	  
+	  {"question":"MRI and _f_MRI",
+	  "answer":"MRI and _f_MRI are both neuroimaging methods that use strong magnetic fields and radio waves, but an MRI provides a detailed, static picture of internal structures (a _structural or _anatomical scan_), while an _f_MRI measures brain activity by detecting changes in blood flow over time (_functional_ imaging). Essentially, MRI shows the _what_ (anatomy), and fMRI shows the _where_ of brain function (activity)."},
+	  
+	  {"question":"Diffusion Tensor Imaging",
+	  "answer":"MRI with Diffusion Tensor Imaging (DTI) is an advanced, non-invasive MRI technique that uses magnetic fields to map the brain's white matter by tracking the diffusion of water molecules. It provides detailed images of neural pathways, allowing researchers to visualize and assess the structure and connectivity of the brain's nerve fibers. DTI can be used to create 3D maps of these neural pathways, providing a detailed view of the connections between different brain regions. "},
 	  
       {
         "question": "Role of White Matter",
