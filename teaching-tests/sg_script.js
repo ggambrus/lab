@@ -9,19 +9,19 @@ document.addEventListener('DOMContentLoaded', () => {
     const controls = document.getElementById('navigation-controls');
     const areaTitle = document.querySelector('#flashcard-area h2');
 
+    // ✅ Add a reference to the random toggle
+    const randomToggle = document.getElementById('random-toggle');
+
     let allTopicsData = [];
     let currentFlashcards = [];
     let currentCardIndex = 0;
+    let isRandom = false; // Default is sequential
 
     // 1. Fetch JSON Data
     async function fetchFlashcards() {
         try {
-            // NOTE: In a real-world scenario, the JSON file must be in the same directory 
-            // or served from a location accessible by the webpage.
             const response = await fetch('intelligence_sg.json');
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
+            if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
             allTopicsData = await response.json();
             renderTopics(allTopicsData);
         } catch (error) {
@@ -42,40 +42,56 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-	function formatMarkdown(text) {
-    if (typeof text !== 'string') return text;
+    function formatMarkdown(text) {
+        if (typeof text !== 'string') return text;
 
-    const escapeHtml = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+        const escapeHtml = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+                                 .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
 
-    const urlRegex = /\b((?:https?:\/\/|www\.)[^\s<]+)/gi;
-    const urls = [];
-    let escaped = escapeHtml(text.replace(urlRegex, (match)=> { urls.push(match); return `@@URL${urls.length-1}@@`; }));
+        const urlRegex = /\b((?:https?:\/\/|www\.)[^\s<]+)/gi;
+        const urls = [];
+        let escaped = escapeHtml(text.replace(urlRegex, (match)=> { 
+            urls.push(match); 
+            return `@@URL${urls.length-1}@@`; 
+        }));
 
-    escaped = escaped.replace(/\*\*(.*?)\*\*/g, '<b>$1</b>');
-    escaped = escaped.replace(/_(.*?)_/g, '<i>$1</i>');
-	escaped = escaped.replaceAll('|', '<br>');
+        escaped = escaped.replace(/\*\*(.*?)\*\*/g, '<b>$1</b>');
+        escaped = escaped.replace(/_(.*?)_/g, '<i>$1</i>');
+        escaped = escaped.replaceAll('|', '<br>');
 
-    escaped = escaped.replace(/@@URL(\d+)@@/g, (m, idx) => {
-        const original = urls[idx];
-        let href = /^https?:\/\//i.test(original) ? original : 'https://' + original;
-        const display = escapeHtml(original);
-        return `<a href="${href}" target="_blank" rel="noopener noreferrer">${display}</a>`;
-    });
+        escaped = escaped.replace(/@@URL(\d+)@@/g, (m, idx) => {
+            const original = urls[idx];
+            let href = /^https?:\/\//i.test(original) ? original : 'https://' + original;
+            const display = escapeHtml(original);
+            return `<a href="${href}" target="_blank" rel="noopener noreferrer">${display}</a>`;
+        });
 
-    return escaped;
-}
-	
+        return escaped;
+    }
+
+    // ✅ Shuffle utility
+    function shuffleArray(array) {
+        const shuffled = array.slice();
+        for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+        return shuffled;
+    }
+
     // 3. Load Selected Topic's Flashcards
     function loadTopic(topicIndex) {
-        // Reset card flip state
         cardContainer.querySelector('.flashcard').classList.remove('flipped');
-        
-        // Update active state in sidebar
         document.querySelectorAll('#topic-list li').forEach(li => li.classList.remove('active'));
         document.querySelector(`#topic-list li[data-index="${topicIndex}"]`).classList.add('active');
 
         const topicData = allTopicsData[topicIndex];
-        currentFlashcards = topicData.flashcards;
+
+        // ✅ Apply randomization toggle
+        currentFlashcards = isRandom 
+            ? shuffleArray(topicData.flashcards)
+            : topicData.flashcards.slice();
+
         currentCardIndex = 0;
 
         areaTitle.textContent = topicData.topic;
@@ -84,7 +100,6 @@ document.addEventListener('DOMContentLoaded', () => {
         document.getElementById('no-cards-message').classList.add('hidden');
 
         if (currentFlashcards.length === 0) {
-            areaTitle.textContent = topicData.topic;
             document.getElementById('no-cards-message').classList.remove('hidden');
             cardContainer.classList.add('hidden');
             controls.classList.add('hidden');
@@ -99,13 +114,11 @@ document.addEventListener('DOMContentLoaded', () => {
         const card = currentFlashcards[currentCardIndex];
         questionEl.innerHTML = formatMarkdown(card.question);
         answerEl.innerHTML = formatMarkdown(card.answer);
-        
-        // Update counter and button states
+
         cardCounter.textContent = `${currentCardIndex + 1} / ${currentFlashcards.length}`;
         prevBtn.disabled = currentCardIndex === 0;
         nextBtn.disabled = currentCardIndex === currentFlashcards.length - 1;
-        
-        // Ensure card is showing the front when navigated
+
         cardContainer.querySelector('.flashcard').classList.remove('flipped');
     }
 
@@ -121,6 +134,17 @@ document.addEventListener('DOMContentLoaded', () => {
         if (currentCardIndex < currentFlashcards.length - 1) {
             currentCardIndex++;
             updateFlashcard();
+        }
+    });
+
+    // ✅ 6. Randomization Toggle Handler
+    randomToggle.addEventListener('change', (e) => {
+        isRandom = e.target.checked;
+        // If a topic is currently loaded, reload it in the new order
+        const activeTopic = document.querySelector('#topic-list li.active');
+        if (activeTopic) {
+            const topicIndex = parseInt(activeTopic.getAttribute('data-index'));
+            loadTopic(topicIndex);
         }
     });
 

@@ -21,11 +21,20 @@
                 <p class="loading-text">Loading topics...</p>
             </ul>
         </div>
-        
+
+		
         <div id="flashcard-area">
             <h2>Select a Topic to Begin</h2>
             
             <div id="flashcard-container" class="hidden">
+			
+				<div id="random-toggle-container" style="text-align:center; margin-top:10px;">
+				  <label for="random-toggle" style="cursor:pointer;">
+					<input type="checkbox" id="random-toggle" style="transform: scale(1.2); margin-right:8px;">
+					Randomize cards
+				  </label>
+				</div>
+			
                 <div class="flashcard" onclick="this.classList.toggle('flipped')">
                     <div class="flashcard-face flashcard-front">
                         <p id="flashcard-question">Click a topic to load flashcards.</p>
@@ -37,8 +46,8 @@
                     </div>
                 </div>
             </div>
-
-            <div id="navigation-controls" class="hidden">
+			
+            <div id="navigation-controls" class="hidden" style="text-align:center; padding-top:20px;">
                 <button id="prev-btn" disabled>Previous Card</button>
                 <span id="card-counter"></span>
                 <button id="next-btn">Next Card</button>
