@@ -322,7 +322,7 @@
         "answer": "Found that heritability of IQ **depends on socioeconomic status (SES)**. In low-SES families, shared environment was the dominant factor, while in high-SES families, genetics was the dominant factor. This suggests poor environments can suppress genetic potential. || https://doi.org/10.1046/j.0956-7976.2003.psci_1475.x"
       },
 	  
-	  {"question":"Shared / Non-shared Environment",
+	  {"question":"Shared Environment",
 	  "answer":"**Shared Environment**: Environmental factors that make siblings raised in the same family similar to one another. Examples include parental socioeconomic status, home environment quality, and school demographics."},
 	  
 	  {"question":"Non-shared (Unique) Environment",
@@ -396,10 +396,13 @@
 	  "answer":"The prefrontal cortex is the last part of the human brain to fully mature, typically finishing its development in a person's mid-to-late 20s. This region is responsible for higher-level executive functions such as planning, decision-making, impulse control, and prioritizing tasks."},
 	  
 	  {"question":"MRI and _f_MRI",
-	  "answer":"MRI and _f_MRI are both neuroimaging methods that use strong magnetic fields and radio waves, but an MRI provides a detailed, static picture of internal structures (a _structural or _anatomical scan_), while an _f_MRI measures brain activity by detecting changes in blood flow over time (_functional_ imaging). Essentially, MRI shows the _what_ (anatomy), and fMRI shows the _where_ of brain function (activity)."},
+	  "answer":"MRI and _f_MRI are both neuroimaging methods that use strong magnetic fields and radio waves, but an MRI provides a detailed, static picture of internal structures (a _structural_ or _anatomical scan_), while an _f_MRI measures brain activity by detecting changes in blood flow over time (_functional_ imaging). Essentially, MRI shows the _what_ (anatomy), and fMRI shows the _where_ of brain function (activity)."},
 	  
 	  {"question":"Diffusion Tensor Imaging",
 	  "answer":"MRI with Diffusion Tensor Imaging (DTI) is an advanced, non-invasive MRI technique that uses magnetic fields to map the brain's white matter by tracking the diffusion of water molecules. It provides detailed images of neural pathways, allowing researchers to visualize and assess the structure and connectivity of the brain's nerve fibers. DTI can be used to create 3D maps of these neural pathways, providing a detailed view of the connections between different brain regions. "},
+	  
+	  {"question": "Voxel-Based Morphometry",
+	  "answer" : "Voxel-based morphometry (VBM) is a method that uses MRI to measure differences in brain anatomy across groups of people. It works by normalizing MRI scans into a standard space, segmenting the gray matter, smoothing the images, and then performing a voxel-by-voxel statistical comparison to identify areas where gray matter concentration significantly differs between groups. The result is a statistical map showing these significant differences, which can help researchers study conditions like Alzheimer's, aging, or other neurological disorders."},
 	  
       {
         "question": "Role of White Matter",
@@ -415,7 +418,7 @@
       },
       {
         "question": "What is the 'Flynn Effect'?",
-        "answer": "The observation that IQ scores increased significantly throughout the 20th century. Someone scoring 100 (average) in 1920 would score much higher (e.g., 130) on a modern test. It is an indication of environmental effects on intelligence. || https://en.wikipedia.org/wiki/Flynn_effect"
+        "answer": "The observation that IQ scores increased significantly throughout the 20th century. When the new test subjects take the older tests, in almost every case their average scores are significantly above 100. Average IQ scores rose substantially in many parts of the world, with some studies showing increases of around 3 points per decade. || https://en.wikipedia.org/wiki/Flynn_effect"
       },
       {
         "question": "Possible Explanations for the Flynn Effect",
