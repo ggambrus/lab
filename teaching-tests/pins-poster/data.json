@@ -1,0 +1,183 @@
+{
+"metadata":{
+"audio_limit_seconds":360,
+"audio_penalty_marks":10,
+"required_file_format":"pptx",
+"reference_style":"APA 7th"
+},
+"steps":[
+{
+"id":"alignment",
+"title":"Topic & Supervisor Alignment",
+"intro":" Your task is to select an area of research that interests you and develop a research proposal which investigates the role of personality within that. You must choose a “supervisor” from the 5 options given to you (see BrightSpace). These are there to provide inspiration around topic choice and help guide you. Ensure the chosen topic aligns with personality focus and supervisor expertise. Use the guided checks below.",
+"items":[
+{"id":"topic_personality","text":"Chosen topic clearly relates to personality psychology.","type":"check","importance":"must", "message": "A personality aspect must be included, and this should be clear from your poster and audio presentation."},
+{"id":"topic_clinical","text":"If have included a clinical population in my design, another aspect of personality is included", "importance":"warn", "message": "Personality Disorders (such as Borderline Personality Disorder) are classified as clinical psychology and therefore do not count as personality research. If you wish to propose research into a clinical disorder, another aspect of personality must be included."},
+{"id":"topic_pds", "text":"If I included a personality trait that also exisits as a clinical diagnosis, my proposed study uses a non-clinical sample", "importance":"warn", "message": "Some Personality Disorders also exist as traits (e.g., Narcissism). This can be used as the personality aspect so long as you are using non-clinical populations."},
+{"id":"supervisor_fit","text":"The chosen supervisor's expertise aligns with the topic.","type":"check","importance":"must", "message":"You must choose a supervisor from the list provided to you. The name of the supervisor must be included in the poster."},
+{"id":"feasible_timeframe","text":"The chosen design is feasible within 12 months.","type":"check","importance":"must","conditions":[{"field":"design","equals":"Longitudinal study (multiple waves)"}],"message":"Be mindful of this criterion. E.g., longitudinal designs often exceed 12 months - you may want to consider alternative designs."}
+]
+},
+{
+"id":"method",
+"title":"Method & Ethics",
+"intro":"The research proposed must be able to take place within a 12-month timeframe, and be ethically viable. For this assignment, assume you have unlimited funding (so can use expensive equipment, pay participants etc.)",
+"items":[
+{"id":"design_choice","text":"Design chosen from available options.","type":"select","options":["Computer simulation (modeling)", "Ethnography", "Experience sampling", "Experiment", "Field experiment", "Focus group", "Interview, structured", "Interview, unstructured", "Neuroimaging", "Psychophysics", "Observational study", "Quasi-experiment", "Randomized control trial", "Self-report inventory", "Survey", "Twin study", "Retrospective cohort study", "Prospective cohort study", "Cross-sectional study", "Longitudinal study", "OTHER"],"importance":"must", "message":"This item serves to make you closely consider your study design, and if it is appropriate to study the phenomenon of your interest. You should also consider the project timeline."},
+{"id":"measurement","text":"Measurement methods selected (at least one).","type":"multiselect","options":["Self-report questionnaire","Behavioural task","Observer ratings","Other"],"importance":"must", "message":"Same as above, make sure the design and methods are suitable to answer your hypotheses, while keeping the time constraints in mind."},
+{"id":"online_offline","text":"My proposed study takes place","type":"multiselect","options":["In-preson","Online","Other"],"importance":"should", "message":"This item serves to remind you that this aspect is important to consider."},
+{"id":"ethics_flag","text":"I have considered the ethical viability of my plan.","type":"check","importance":"must","message":"Your study must be ethicly viable."}
+]
+},
+
+
+{
+"id": "poster_content",
+"title": "Poster Content & Structure",
+"intro": "This section checks that your poster includes all required parts and that they logically flow from each other.",
+"items": [
+{
+  "id": "poster_has_intro",
+  "text": "Poster contains an Introduction section.",
+  "type": "check",
+  "importance": "must",
+  "message": "All posters must include a short introduction summarizing the topic and rationale."
+},
+{
+  "id": "intro_prior_lit",
+  "text": "Introduction summarises relevant prior literature.",
+  "type": "check",
+  "importance": "warn",
+  "message": "The introduction should clearly and concisely identify the most important key studies and how they relate to the current project."
+},
+
+{
+  "id": "intro_rationale",
+  "text": "Introduction includes a rationale.",
+  "type": "check",
+  "importance": "warn",
+  "message": "The introduction should clearly and concisely identify why the chosen phenomenon is important to study (e.g., for its applied relevance or for improved theoretical understanding)."
+},
+
+{
+  "id": "intro_hypotheses_stated",
+  "text": "Introduction clearly states the hypothesis or hypotheses.",
+  "type": "check",
+  "importance": "warn",
+  "message": "Explicitly state what you expect to find, phrased in testable terms."
+},
+{
+  "id": "hypothesis_flows_from_lit",
+  "text": "The hypothesis logically follows from the prior literature.",
+  "type": "check",
+  "importance": "warn",
+  "message": "Avoid disconnected hypotheses — they must be grounded in the background provided."
+},
+
+{
+  "id": "poster_methods",
+  "text": "Poster contains a Methods section.",
+  "type": "check",
+  "importance": "must",
+  "message": "Methods must be described clearly enough that another researcher could understand and comprehend the design."
+},
+
+{
+  "id": "poster_participants",
+  "text": "Methods describes the studied population",
+  "type": "check",
+  "importance": "warn",
+  "message": "Participant demographics: how many, what sex, what age range? How do you recruit them? (You might want to justify your demographics, e.g., sample size and recruitment method - can do that briefly in the audio if space is limited.)"
+},
+
+{
+  "id": "poster_materials",
+  "text": "Methods describes the materials used",
+  "type": "check",
+  "importance": "warn",
+  "message": "What questionnaire? [e.g.,'The Openness subscale from the Big-Five Factor Markers from the International Personality Item Pool, will be used to measure Trait Openness (Goldberg, 1992).'] and/or what test [e.g., 'Risk-seeking and risk-aversion is measured using the PEBL Balloon Analog Risk Task (BART, Mueller, 2012)' ]\n\n Consideration is given for why your chosen instument is suitable for your research (validity, reliability, price tag, time to complete, etc.) - can be more detailed in the audio if space is limited."
+},
+
+{
+  "id": "poster_procedures",
+  "text": "Methods describes the procedures",
+  "type": "check",
+  "importance": "warn",
+  "message": "E.g., participants will complete the BART task and fill out the Openness inventory in a counterbalanced order."
+},
+
+{
+  "id": "poster_analyses",
+  "text": "Methods describes the analysis of the data",
+  "type": "check",
+  "importance": "warn",
+  "message": "E.g., 'The relationship between Risk-taking and Trait Openness will be explored via Pearson's correlation between the number of exploded balloons in the BART and Trait Openness scores.'"
+},
+
+{
+  "id": "poster_analyses",
+  "text": "Methods describes the analysis of the data",
+  "type": "check",
+  "importance": "warn",
+  "message": "Indicate institutional ethics approval, informed consent, etc. If your research involves clinical/voulnerable populations, you may want to give this section more consideration - can be more expanded in the audio if space is limited."
+},
+
+{
+  "id": "poster_strengths_limits",
+  "text": "Poster includes a Strengths and Limitations section.",
+  "type": "check",
+  "importance": "must",
+  "message": "Consider both methodological and conceptual limitations, and why they matter."
+},
+{
+  "id": "poster_applications",
+  "text": "Poster includes an Applications section",
+  "type": "check",
+  "importance": "must",
+  "message": "Poster discusses potential applications or implications of the study. Demonstrate that you understand how your findings could be useful in theory or practice."
+}]
+},
+
+{
+"id":"formatting",
+"title":"Formatting",
+"intro":"For scientific poster visuals, prioritize clear, high-contrast graphics and use ample white space to avoid a cluttered look. Ensure all visuals are high-resolution, readable from a distance, and align with a grid structure as much as possible. The use of a limited color palette and a maximum of two fonts with large, readable font sizes, is recommended.",
+"items":[
+{"id":"poster_template","text":"I have used the poster template provided on BrightSpace (A0, Portrait)","type":"check","importance":"must"},
+{"id":"poster_sections","text":"Poster contains the Introduction, Proposed Method, Strengths & Limitations, Applications, References, and these sections are clearly identified.","type":"check","importance":"must"},
+{"id":"poster_apa","text":"References formatted according to APA 7th edition.","type":"check","importance":"must", "message":"see https://apastyle.apa.org/style-grammar-guidelines/references/"},
+
+{"id":"poster_text_brevity","text":"Poster uses concise text and (where appropriate) bullet points rather than long paragraphs.","type":"check","importance":"should"},
+
+{"id":"poster_text_brevity","text":"I have considered including meaningful images, graphics, or charts to convey information.","type":"check","importance":"should", "message":"Use illustrations, graphs, flowcharts etc, to represent data, concepts, or experimental desing, allowing figures to complement text. Each figure should include a short label."},
+
+{"id":"poster_readible", "text": "I have given attention to readability", "type":"check","importance":"should", "message": "Prioritize readability: Use dark text on a light background (recommended; or vice versa, if you must) for high contrast."},
+
+{"id":"poster_nobg", "text":"I have avoided using unnecessary and distracting visuals", "importance": "should", "message": "Avoid distracting visuals such as backgrounds: Do not use background pictures or photos that can make the content difficult to read."},
+
+{"id":"poster_visual_quality","text":"Poster visual quality (pick the image that best matches your poster).","type":"image-choice","images":[{"id":"bad","src":"img/bad_poster.jpg","label":"Overcrowded / text-heavy. Background distracting. No visuals."},{"id":"mid","src":"img/mid_poster.jpg","label":"More adequate layout; Visuals present but small and unremarkable."},{"id":"good","src":"img/good_poster.jpg","label":"Even more well-organized layout, clear visual hierarchy; eye-catching and relevant visuals. Ideal."}],"importance":"should"}
+]
+},
+{
+"id":"audio",
+"title":"Audio Planning",
+"intro":"Imagine you are presenting this poster to someone who is considering funding your research. Plan the 6-minute audio so it complements (and not simply duplicates) the poster. Include references for audio citations in the Notes section of your PowerPoint slide.",
+"items":[
+{"id":"audio_length","text":"Audio length ≤ 6:00 minutes (exceeding results in penalty).","type":"timer-check","importance":"must"},
+{"id":"audio_expand","text":"Audio expands and adds to poster content rather than strictly repeating it.","type":"check","importance":"should"},
+{"id":"audio_notes","text":"References used in the audio are added to the slide notes section.","type":"check","importance":"must"}
+]
+},
+{
+"id":"final",
+"title":"Final Readiness",
+"intro":"A final pass over must-haves before submission.",
+"items":[
+{"id":"all_sections","text":"All required sections present on poster and in notes.","type":"check","importance":"must"},
+{"id":"refs_cited","text":"All references are cited, citations follow the APA style specifications","type":"check","importance":"must"},
+{"id":"pptx_submitted","text":"File is saved as .ppt or .pptx and tested to open. The file is not converted to .pdf for submission (student responsibility).","type":"check","importance":"must"},
+{"id":"pptx_audiopresent","text":"The audio component is embedded in the file and tested to open (student responsibility).","type":"check","importance":"must"}
+]
+}
+]
+}

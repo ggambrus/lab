@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Proposal Prep — Data-driven Checklist & Self-assessment</title>
+<link rel="stylesheet" href="chklst_styles.css">
+</head>
+<body>
+<header>
+<h1>Proposal Prep Checklist</h1>
+<p class="subtitle">PINS Coursework - Poster and 6 minute audio presentation</p>
+</header>
+
+
+<main class="wrap">
+<nav class="steps" id="steps"></nav>
+
+
+<section class="workarea">
+<div id="intro" class="card intro"></div>
+<div id="items" class="card items"></div>
+<div class="card actions">
+<button id="download">Download readiness JSON</button>
+<div class="timer">
+<div>Audio timer</div>
+<div id="timer-display">06:00</div>
+<div class="timer-buttons">
+<button id="start-timer">Start</button>
+<button id="stop-timer">Stop</button>
+<button id="reset-timer">Reset</button>
+</div>
+<div class="timer-note" id="timer-note"></div>
+</div>
+</div>
+</section>
+
+
+<aside class="rightpanel card">
+<h3>Live status</h3>
+<div id="status"></div>
+<h3>Scoring</h3>
+<div id="score"></div>
+</aside>
+</main>
+
+
+<footer>
+<small>Instructor-editable JSON drives text, items, images, warnings and scoring. Place poster example images in <code>img/</code>.</small>
+</footer>
+
+
+<script src="app.js"></script>
+</body>
+</html>
