@@ -505,6 +505,7 @@ window.addEventListener('DOMContentLoaded', () => {
       const confirmClear = confirm('Are you sure you want to clear all saved progress and selections?');
       if (confirmClear) {
         clearAllItems();
+		window.location.reload();
       }
     });
   }

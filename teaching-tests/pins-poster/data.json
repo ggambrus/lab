@@ -177,7 +177,7 @@
 {"id":"all_sections","text":"All required sections present on poster and in notes.","type":"check","importance":"must"},
 {"id":"refs_cited","text":"All references are cited, citations follow the APA style specifications","type":"check","importance":"must"},
 {"id":"pptx_submitted","text":"File is saved as .ppt or .pptx and tested to open. The file is not converted to .pdf for submission (student responsibility).","type":"check","importance":"must"},
-{"id":"pptx_audiopresent","text":"The audio component is embedded in the file and tested to open (student responsibility).","type":"check","importance":"must"}
+{"id":"pptx_audiopresent","text":"The audio component (< 6 minutes) is embedded in the file and tested to open (student responsibility).","type":"check","importance":"must"}
 ]
 }
 ],
