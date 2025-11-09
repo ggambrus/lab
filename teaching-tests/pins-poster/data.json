@@ -143,7 +143,7 @@
 "title":"Formatting",
 "intro":"For scientific poster visuals, prioritize clear, high-contrast graphics and use ample white space to avoid a cluttered look. Ensure all visuals are high-resolution, readable from a distance, and align with a grid structure as much as possible. The use of a limited color palette and a maximum of two fonts with large, readable font sizes, is recommended.",
 "items":[
-{"id":"poster_template","text":"I have used the poster template provided on BrightSpace (A0, Portrait)","type":"check","importance":"must"},
+{"id":"poster_template","text":"I have used the poster template provided on BrightSpace (A1, Portrait)","type":"check","importance":"must"},
 {"id":"poster_sections","text":"Poster contains the Introduction, Proposed Method, Strengths & Limitations, Applications, References, and these sections are clearly identified.","type":"check","importance":"must"},
 {"id":"poster_apa","text":"References formatted according to APA 7th edition.","type":"check","importance":"must", "message":"see https://apastyle.apa.org/style-grammar-guidelines/references/"},
 
@@ -189,8 +189,13 @@
 	{"question": "Can I use qualitative methods in my proposal?",
 	 "answer"  : "The assignment brief explicitly states: 'Produce a quantitative research proposal'."
 	},
-	{"question":"If I am on a specialised programme, is it required that I select an area which applies to my specialisation?",
-	"answer":"No, it is not a requirement."},
+	{"question":"If I am on a specialised programme, is it required that I select a topic that applies to my specialisation?",
+	 "answer":"No, it is not a requirement."},
+	{"question":"Am I expected to present my poster in person?",
+	 "answer":"No, for this assignment, you need to record the audio in private and embed it into the poster slide created in PowerPoint that you submit via TurnItIn."}, 
+	{"question":"What is the limit of AI use?",
+	 "answer":"AI can be used to help you lay out the poster and rubberduck your ideas – for example inspiration on how to build the poster, interesting and creative use of shapes and colours, and generation of images for the poster. For anything else, AI must not be used."
+	 },
     {
       "question": "Can I study Personality Disorders?",
       "answer": "Not directly. Personality Disorders are classified under clinical psychology and do not count as personality research for this assignment. However, you can study personality traits related to those disorders (e.g., trait narcissism) in non-clinical populations."
@@ -199,6 +204,8 @@
       "question": "Do I need to choose a supervisor?",
       "answer": "Yes. You must align your topic with one of the available supervisors and their areas of expertise. This ensures that your proposed project is appropriate and feasible within their research domain."
     },
+	{"question":"What size is the poster?",
+	 "answer"  :"The poster is set to A1, portrait orientation. Please use the template provided in the Assessment folder on BrightSpace."},
     {
       "question": "What are the required sections of the poster?",
       "answer": "Your poster must include: Introduction, Proposed Method (design, participants, materials, procedure, ethics, data analysis), Strengths & Limitations, Applications, and References."
@@ -211,6 +218,16 @@
       "question": "Can I go under 6 minutes in my audio?",
       "answer": "Yes, but your presentation should still cover all essential points. Going under the limit is not penalized, but missing important content will lower your mark."
     },
+	{"question":"What if I go over the 6-minute audio component?",
+	 "answer": "You will be deducted 10 marks from your overall grade."},
+	
+	{"question":"What if I mess up the audio?",
+	 "answer":"Some errors are fine in the audio, e.g., if you accidentally say the wrong word then correct it, that is still clear communication."
+	},
+	{"question":"What about other audio issues?",
+     "answer":"The main thing to remember with the audio is that is it clear, and at a good pace, other aspects such as the audio being a little fuzzy or some background noise are fine so long as we can still hear you on the recording."},
+	{"question":"Can I use Canva?",
+	 "answer":"Short answer: No. Long answer: Turnitin does not support Canva submissions, and pdfs do not support the audio element. You are welcome to design in Canva, then build that design in PowerPoint if Canva helps you with the layout and visual design elements, however, you cannot just insert Canva as an image."}, 
     {
       "question": "Can I submit a PDF version of the poster?",
       "answer": "No. The submission must be a PowerPoint file (.ppt or .pptx). Do not convert your poster to PDF, as this will result in a failed submission."
@@ -229,7 +246,7 @@
     },
     {
       "question": "How detailed should my proposed methods be?",
-      "answer": "Provide enough detail for another researcher to replicate your study. Include participant characteristics, study design, measures, and analysis plan."
+      "answer": "Provide enough detail for another researcher to understand your study. Include participant characteristics, study design, measures, and analysis plan."
     },
     {
       "question": "Do I need to consider ethics?",
@@ -255,6 +272,8 @@
       "question": "What are common reasons students lose marks?",
       "answer": "Exceeding the 6-minute audio limit, missing required sections, failing to link the hypothesis to prior literature, unclear design, or not following APA formatting."
     },
+	{"question":"How do I come up with a good sample size for my proposal?",
+	 "answer":"You should include how many participants you would like to recruit, use previous literature to help you determine sample size as you may not have covered power analysis yet."},
 	{
       "question": "Can I create my own survey for a personality trait, or should I use an existing questionnaire?",
       "answer": "It is good research practice to use existing validated scales. For example, the Big 5 measures are widely used and recognized by researchers, so using them ensures reliability and validity."
