@@ -15,7 +15,7 @@ header h1{margin:0;font-size:20px}
 .item.should{border-left:4px solid var(--warn)}
 .item.ok{border-left:4px solid var(--ok)}
 .item .meta{flex:1}
-.item .actions{width:220px}
+.item .actions{width:auto;}/*220px*/
 .item .label{font-weight:600}
 .small{font-size:13px;color:var(--muted)}
 .image-grid{display:block;gap:8px}
@@ -29,3 +29,34 @@ header h1{margin:0;font-size:20px}
 .timer .timer-buttons button{margin-right:6px;padding:6px 8px}
 .footer{padding:12px;text-align:center}
 @media(max-width:980px){.wrap{grid-template-columns:1fr;}.rightpanel{order:3}}
+
+.faq-item {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 0.5rem;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.faq-question {
+  cursor: pointer;
+  font-weight: bold;
+  padding: 0.5rem 0;
+}
+
+.faq-answer {
+  max-height: 0;
+  opacity: 0;
+  padding: 0 1rem;
+  color: #333;
+  transition: max-height 0.35s ease, opacity 0.35s ease, padding 0.35s ease;
+}
+
+.faq-answer.show {
+  max-height: 500px; /* large enough to fit content */
+  opacity: 1;
+  padding: 0.5rem 1rem;
+}
+
+.highlight {
+  background-color: yellow;
+}

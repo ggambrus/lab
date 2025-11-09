@@ -116,7 +116,7 @@
 
 {
   "id": "poster_analyses",
-  "text": "Methods describes the analysis of the data",
+  "text": "Methods include ethics",
   "type": "check",
   "importance": "warn",
   "message": "Indicate institutional ethics approval, informed consent, etc. If your research involves clinical/voulnerable populations, you may want to give this section more consideration - can be more expanded in the audio if space is limited."
@@ -173,11 +173,105 @@
 "title":"Final Readiness",
 "intro":"A final pass over must-haves before submission.",
 "items":[
+{"id":"anon_marking","text":"Anonymous marking: No student name or student ID","type":"check","importance":"must"},
 {"id":"all_sections","text":"All required sections present on poster and in notes.","type":"check","importance":"must"},
 {"id":"refs_cited","text":"All references are cited, citations follow the APA style specifications","type":"check","importance":"must"},
 {"id":"pptx_submitted","text":"File is saved as .ppt or .pptx and tested to open. The file is not converted to .pdf for submission (student responsibility).","type":"check","importance":"must"},
 {"id":"pptx_audiopresent","text":"The audio component is embedded in the file and tested to open (student responsibility).","type":"check","importance":"must"}
 ]
 }
-]
+],
+"faq":{"title":"Frequently Asked Questions","intro":"These FAQs address common queries about the research proposal, poster design, and submission process.","items":[
+    {
+      "question": "Does my research question need to be about personality?",
+      "answer": "Yes. The assignment requires that your proposal investigates the role of personality in a psychological context. If you choose a clinical disorder (e.g., depression), you must include a personality aspect such as trait-level narcissism, extraversion, or locus of control."
+    },
+	{"question": "Can I use qualitative methods in my proposal?",
+	 "answer"  : "The assignment brief explicitly states: 'Produce a quantitative research proposal'."
+	},
+	{"question":"If I am on a specialised programme, is it required that I select an area which applies to my specialisation?",
+	"answer":"No, it is not a requirement."},
+    {
+      "question": "Can I study Personality Disorders?",
+      "answer": "Not directly. Personality Disorders are classified under clinical psychology and do not count as personality research for this assignment. However, you can study personality traits related to those disorders (e.g., trait narcissism) in non-clinical populations."
+    },
+    {
+      "question": "Do I need to choose a supervisor?",
+      "answer": "Yes. You must align your topic with one of the available supervisors and their areas of expertise. This ensures that your proposed project is appropriate and feasible within their research domain."
+    },
+    {
+      "question": "What are the required sections of the poster?",
+      "answer": "Your poster must include: Introduction, Proposed Method (design, participants, materials, procedure, ethics, data analysis), Strengths & Limitations, Applications, and References."
+    },
+    {
+      "question": "How long can the audio presentation be?",
+      "answer": "Exactly 6 minutes maximum. If your recording exceeds 6:00 by even one second, 10 marks will be deducted from your overall grade."
+    },
+    {
+      "question": "Can I go under 6 minutes in my audio?",
+      "answer": "Yes, but your presentation should still cover all essential points. Going under the limit is not penalized, but missing important content will lower your mark."
+    },
+    {
+      "question": "Can I submit a PDF version of the poster?",
+      "answer": "No. The submission must be a PowerPoint file (.ppt or .pptx). Do not convert your poster to PDF, as this will result in a failed submission."
+    },
+    {
+      "question": "How do I embed the audio file into my poster?",
+      "answer": "Use PowerPoint’s built-in 'Insert → Audio → Record Audio' feature. The recording must be embedded (not linked externally). Test playback before submitting."
+    },
+    {
+      "question": "What referencing style should I use?",
+      "answer": "All references must follow APA 7th edition formatting, both on the poster and in any accompanying notes sections."
+    },
+    {
+      "question": "Can I use bullet points on the poster?",
+      "answer": "Yes, bullet points are encouraged (within reason). Posters should use concise phrasing and visuals instead of large blocks of text."
+    },
+    {
+      "question": "How detailed should my proposed methods be?",
+      "answer": "Provide enough detail for another researcher to replicate your study. Include participant characteristics, study design, measures, and analysis plan."
+    },
+    {
+      "question": "Do I need to consider ethics?",
+      "answer": "Yes. You must ensure your proposal is ethically viable. Avoid designs that involve deception, risk, or vulnerable participants unless properly justified."
+    },
+    {
+      "question": "Can I assume I have unlimited funding?",
+      "answer": "Yes. The brief explicitly allows you to assume unlimited funding. Focus instead on whether your design is feasible within a 12-month timeframe."
+    },
+    {
+      "question": "Can I collaborate with another student?",
+      "answer": "No. The proposal and poster must be your own work. However, discussing ideas informally with peers is fine."
+    },
+    {
+      "question": "How should I handle the 12-month timeframe requirement?",
+      "answer": "Design your study so that it could realistically be completed within one year — avoid long-term longitudinal studies or multi-phase interventions."
+    },
+    {
+      "question": "What will a strong submission include?",
+      "answer": "A clear rationale linked to literature, well-defined hypotheses, sound experimental design, thoughtful strengths and limitations, and an engaging, well-structured poster with high-quality audio."
+    },
+    {
+      "question": "What are common reasons students lose marks?",
+      "answer": "Exceeding the 6-minute audio limit, missing required sections, failing to link the hypothesis to prior literature, unclear design, or not following APA formatting."
+    },
+	{
+      "question": "Can I create my own survey for a personality trait, or should I use an existing questionnaire?",
+      "answer": "It is good research practice to use existing validated scales. For example, the Big 5 measures are widely used and recognized by researchers, so using them ensures reliability and validity."
+    },
+	{"question":"What is a rationale?",
+	 "answer": "In a research proposal, the rationale is the justification for your study, explaining why it is necessary and important. It provides the context and logical basis for your research by detailing the problem, the existing knowledge gaps it will fill, and the potential impact of your findings. It is essentially an answer to the question, 'Why should this research be done?'"},
+    {
+      "question": "If I use a scale, do I need to list every individual survey question in my methodology?",
+      "answer": "No, you do not need to list every item. Typically, you would describe the scale by name (with citation), provide a brief description (e.g., number of items and response options), and mention validity/reliability. You can summarize the traits measured rather than reproducing each question."
+    },
+    {
+      "question": "Is it acceptable to adapt an existing survey from previous research?",
+      "answer": "Yes, you can adapt existing surveys, but be sure to cite the original source and describe any modifications. This maintains transparency and scientific rigor."
+    },
+	{
+	  "question": "Can I replicate or build on previous research for my proposal?",
+	  "answer": "Yes, replicating or building on previous research is allowed, as long as you are clear that it is replicated research, include any alterations, and provide appropriate references. Be cautious with paraphrasing."
+	}
+  ]}
 }

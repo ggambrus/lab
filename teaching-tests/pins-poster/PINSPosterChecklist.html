@@ -6,6 +6,7 @@
 <title>Proposal Prep — Data-driven Checklist & Self-assessment</title>
 <link rel="stylesheet" href="chklst_styles.css">
 </head>
+
 <body>
 <header>
 <h1>Proposal Prep Checklist</h1>
@@ -18,21 +19,32 @@
 
 
 <section class="workarea">
-<div id="intro" class="card intro"></div>
-<div id="items" class="card items"></div>
-<div class="card actions">
-<button id="download">Download readiness JSON</button>
-<div class="timer">
-<div>Audio timer</div>
-<div id="timer-display">06:00</div>
-<div class="timer-buttons">
-<button id="start-timer">Start</button>
-<button id="stop-timer">Stop</button>
-<button id="reset-timer">Reset</button>
-</div>
-<div class="timer-note" id="timer-note"></div>
-</div>
-</div>
+	<div id="intro" class="card intro"></div>
+	<div id="items" class="card items"></div>
+	<div class="card actions">
+		<button id="download">Download readiness JSON</button>
+		<button id="clear-all">Clear All</button>
+		<button id="download-printable" class="btn-secondary">Download Printable Checklist</button>
+		<div class="timer">
+			<div>Audio timer</div>
+			<div id="timer-display">06:00</div>
+			<div class="timer-buttons">
+				<button id="start-timer">Start</button>
+				<button id="stop-timer">Stop</button>
+				<button id="reset-timer">Reset</button>
+			</div>
+			<div class="timer-note" id="timer-note"></div>
+		</div>
+
+		<section class="card faq" id="faq-section">
+		  <h2 id="faq-title"></h2>
+		  <p id="faq-intro"></p>
+		  <input type="text" id="faq-search" placeholder="Search FAQs...">
+		  <div id="faq-items"></div>
+		</section>
+
+
+	</div>
 </section>
 
 
@@ -46,7 +58,7 @@
 
 
 <footer>
-<small>Instructor-editable JSON drives text, items, images, warnings and scoring. Place poster example images in <code>img/</code>.</small>
+<small> </small>
 </footer>
 
 

@@ -6,6 +6,8 @@
      #timer-display, #start-timer, #stop-timer, #reset-timer, #timer-note
 */
 
+window.STATE = window.STATE || { values: {}, warnings: {} };
+
 document.addEventListener('DOMContentLoaded', () => {
   init();
 });
@@ -31,7 +33,12 @@ async function init() {
       showFatalError('data.json is missing or has no steps array.');
       return;
     }
-
+	
+	const faqData = DATA.faq;
+    if (faqData) {
+      renderFAQ(faqData);
+    };
+	
     renderStepsNav();
     // select first step by default
     selectStep(DATA.steps[0].id);
@@ -453,6 +460,273 @@ function setupPracticeTimer() {
       practiceTimer.remaining = limit;
       if (display) display.textContent = formatSeconds(practiceTimer.remaining);
     });
+  }
+}
+
+/* ---------- Robust Clear-All + Save/Load helpers ----------*/
+function clearAllItems() {
+  // --- 1. Uncheck all checkboxes
+  document.querySelectorAll('input[type="checkbox"]').forEach(box => {
+    box.checked = false;
+  });
+
+  // --- 2. Reset all <select> dropdowns to their default
+  document.querySelectorAll('select').forEach(select => {
+    select.selectedIndex = 0;
+  });
+
+  // --- 3. Clear "image-grid" selections (assuming selected items have a 'selected' class)
+  document.querySelectorAll('.image-grid .selected').forEach(el => {
+    el.classList.remove('selected');
+  });
+
+  // --- 4. Remove any saved state (localStorage or sessionStorage)
+  localStorage.clear();
+  sessionStorage.clear();
+
+  // --- 5. Optionally, reset any global progress-tracking variables (if you use them)
+  if (window.checklistProgress) window.checklistProgress = {};
+
+  // --- 6. Update live status and score panels
+  const statusEl = document.getElementById('status');
+  if (statusEl) statusEl.textContent = '✅ All items and progress cleared.';
+
+  const scoreEl = document.getElementById('score');
+  if (scoreEl) scoreEl.textContent = 'Progress: 0% complete.';
+
+  console.log('Checklist fully cleared (checkboxes, selects, images, and saved state).');
+}
+
+// Attach event listener safely
+window.addEventListener('DOMContentLoaded', () => {
+  const clearBtn = document.getElementById('clear-all');
+  if (clearBtn) {
+    clearBtn.addEventListener('click', () => {
+      const confirmClear = confirm('Are you sure you want to clear all saved progress and selections?');
+      if (confirmClear) {
+        clearAllItems();
+      }
+    });
+  }
+});
+
+/*Printing the checklist*/
+(function(){
+  async function fetchChecklistData() {
+    try {
+      const response = await fetch("data.json");
+      if (!response.ok) throw new Error("Unable to fetch data.json");
+      return await response.json();
+    } catch (err) {
+      console.error("Error loading data.json:", err);
+      alert("Could not load data.json. Make sure it is in the same folder as this page.");
+      return null;
+    }
+  }
+
+  // Convert image URL to Base64 data URI
+  async function toBase64Image(url) {
+    try {
+      const res = await fetch(url);
+      const blob = await res.blob();
+      return await new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onloadend = () => resolve(reader.result);
+        reader.onerror = reject;
+        reader.readAsDataURL(blob);
+      });
+    } catch (err) {
+      console.warn(`⚠️ Could not embed image ${url}`, err);
+      return url; // fallback to original URL
+    }
+  }
+
+  async function generatePrintableHTML(data) {
+    if (!data || !data.steps) return "<p>No data available.</p>";
+
+    let htmlHeader = `
+      <!DOCTYPE html>
+      <html lang="en">
+      <head>
+        <meta charset="UTF-8" />
+        <title>${data.metadata?.title || "Printable Checklist"}</title>
+        <style>
+          body { font-family: Arial, sans-serif; margin: 2em; color: #222; line-height: 1.5; }
+          h1 { text-align: center; margin-bottom: 0.5em; }
+          h2 { border-bottom: 2px solid #ccc; padding-bottom: 0.2em; margin-top: 1.5em; color: #333; }
+          p.intro { color: #555; margin-bottom: 0.5em; }
+          ul { list-style: none; padding-left: 0; }
+          li { margin: 0.4em 0; padding: 0.3em 0.6em; border-left: 3px solid #007acc; background: #f9f9f9; display: flex; align-items: flex-start; gap: 0.6em; }
+          input[type="checkbox"] { transform: scale(1.2); margin-top: 0.2em; }
+          .section { margin-bottom: 1.5em; }
+          .meta { font-size: 0.9em; color: #555; margin-bottom: 2em; text-align: center; }
+          .importance { font-weight: bold; color: #b00; margin-left: 0.4em; }
+          .options { font-style: italic; color: #555; font-size: 0.9em; margin-top: 0.2em; }
+          .message { color: #444; font-size: 0.9em; margin-left: 2em; }
+          img.thumb { max-width: 160px; display: block; margin: 0.4em 0; border-radius: 8px; }
+          .imageset { display: flex; gap: 1em; flex-wrap: wrap; margin-top: 0.5em; }
+          .img-label { text-align: center; font-size: 0.85em; margin-top: 0.2em; color: #333; }
+          button { margin: 1em auto; display: block; padding: 0.6em 1.2em; background: #007acc; color: #fff; border: none; border-radius: 5px; font-size: 1em; cursor: pointer; }
+          @media print { button { display: none; } }
+        </style>
+      </head>
+      <body>
+        <h1>Proposal Preparation Checklist</h1>
+        <div class="meta">
+          Generated on ${new Date().toLocaleString()}<br/>
+          Required file format: ${data.metadata?.required_file_format || "N/A"} |
+          Reference style: ${data.metadata?.reference_style || "N/A"}
+        </div>
+    `;
+
+    let htmlBody = "";
+
+    for (const step of data.steps) {
+      htmlBody += `<div class="section">
+        <h2>${step.title || step.id}</h2>
+        ${step.intro ? `<p class="intro">${step.intro}</p>` : ""}
+        <ul>
+      `;
+
+      for (const item of step.items || []) {
+        // Checkbox rendering if type == "check"
+        const checkbox = item.type === "check" ? `<input type="checkbox" />` : "";
+
+        htmlBody += `<li>
+          ${checkbox}
+          <div>
+            ${item.text || item.label || "<em>Untitled item</em>"}
+            ${item.importance ? ` <span class="importance">(${item.importance.toUpperCase()})</span>` : ""}
+            ${item.message ? `<div class="message">${item.message}</div>` : ""}
+        `;
+
+        // Include options for selects or multiselects
+        if (item.options && Array.isArray(item.options)) {
+          htmlBody += `<div class="options">Options: ${item.options.join(", ")}</div>`;
+        }
+
+        // Include images for image-choice (Base64 embedded)
+        if (item.images && Array.isArray(item.images)) {
+          htmlBody += `<div class="imageset">`;
+          for (const img of item.images) {
+            const base64 = await toBase64Image(img.src);
+            htmlBody += `
+              <div>
+                <img class="thumb" src="${base64}" alt="${img.label}">
+                <div class="img-label">${img.label}</div>
+              </div>
+            `;
+          }
+          htmlBody += `</div>`;
+        }
+
+        htmlBody += `</div></li>`;
+      }
+
+      htmlBody += `</ul></div>`;
+    }
+
+    const htmlFooter = `
+        <div class="meta">
+          <button onclick="window.print()">🖨️ Print this checklist</button>
+        </div>
+      </body>
+      </html>
+    `;
+
+    return htmlHeader + htmlBody + htmlFooter;
+  }
+
+  async function openPrintableChecklist() {
+    const data = await fetchChecklistData();
+    if (!data) return;
+
+    const html = await generatePrintableHTML(data);
+    const blob = new Blob([html], { type: "text/html" });
+    const url = URL.createObjectURL(blob);
+    window.open(url, "_blank");
+  }
+
+  window.addEventListener("DOMContentLoaded", () => {
+    const btn = document.getElementById("download-printable");
+    if (btn) btn.addEventListener("click", openPrintableChecklist);
+  });
+})();
+
+
+/*FAQ*/
+
+
+
+
+function renderFAQ(faqData) {
+  const itemsEl = document.getElementById('faq-items');
+  const searchEl = document.getElementById('faq-search');
+  
+  const faqTitleEl = document.getElementById('faq-title');
+  const faqIntroEl = document.getElementById('faq-intro');
+
+  faqTitleEl.innerHTML = faqData.title;
+  faqIntroEl.innerHTML = faqData.intro;
+  
+  // Render FAQ items
+  itemsEl.innerHTML = '';
+  faqData.items.forEach((item, index) => {
+    const container = document.createElement('div');
+    container.className = 'faq-item';
+
+    const question = document.createElement('div');
+    question.className = 'faq-question';
+    question.textContent = item.question;
+
+    const answer = document.createElement('div');
+    answer.className = 'faq-answer';
+    answer.textContent = item.answer;
+
+    // Expand/collapse
+    question.addEventListener('click', () => {
+      answer.classList.toggle('show');
+    });
+
+    container.appendChild(question);
+    container.appendChild(answer);
+    itemsEl.appendChild(container);
+  });
+
+  // Search with highlights
+  searchEl.addEventListener('input', () => {
+    const query = searchEl.value.trim().toLowerCase();
+
+    faqData.items.forEach((item, index) => {
+      const container = itemsEl.children[index];
+      const questionEl = container.querySelector('.faq-question');
+      const answerEl = container.querySelector('.faq-answer');
+
+      // Reset text first
+      questionEl.textContent = item.question;
+      answerEl.textContent = item.answer;
+
+      // Check match
+      const match = item.question.toLowerCase().includes(query) ||
+                    item.answer.toLowerCase().includes(query);
+      container.style.display = match || query === '' ? '' : 'none';
+
+      // Highlight matches
+      if (query) {
+        if (item.question.toLowerCase().includes(query)) {
+          questionEl.innerHTML = highlight(item.question, query);
+        }
+        if (item.answer.toLowerCase().includes(query)) {
+          answerEl.innerHTML = highlight(item.answer, query);
+        }
+      }
+    });
+  });
+
+  function highlight(text, query) {
+    const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const regex = new RegExp(`(${escapedQuery})`, 'gi');
+    return text.replace(regex, '<span class="highlight">$1</span>');
   }
 }
 
