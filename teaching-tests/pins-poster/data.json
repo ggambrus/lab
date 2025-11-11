@@ -23,8 +23,9 @@
 "title":"Method & Ethics",
 "intro":"The research proposed must be able to take place within a 12-month timeframe, and be ethically viable. For this assignment, assume you have unlimited funding (so can use expensive equipment, pay participants etc.)",
 "items":[
-{"id":"design_choice","text":"Design chosen from available options.","type":"select","options":["Computer simulation (modeling)", "Ethnography", "Experience sampling", "Experiment", "Field experiment", "Focus group", "Interview, structured", "Interview, unstructured", "Neuroimaging", "Psychophysics", "Observational study", "Quasi-experiment", "Randomized control trial", "Self-report inventory", "Survey", "Twin study", "Retrospective cohort study", "Prospective cohort study", "Cross-sectional study", "Longitudinal study", "OTHER"],"importance":"must", "message":"This item serves to make you closely consider your study design, and if it is appropriate to study the phenomenon of your interest. You should also consider the project timeline."},
+{"id":"design_choice","text":"Design chosen from available options.","type":"select","options":["Computer simulation (modeling)", "Experience sampling", "Experiment", "Field experiment", "Neuroimaging", "Psychophysics", "Observational study", "Quasi-experiment", "Randomized control trial", "Self-report inventory", "Survey", "Twin study", "Retrospective cohort study", "Prospective cohort study", "Cross-sectional study", "Longitudinal study", "OTHER"],"importance":"must", "message":"This item serves to make you closely consider your study design, and if it is appropriate to study the phenomenon of your interest. You should also consider the project timeline."},
 {"id":"measurement","text":"Measurement methods selected (at least one).","type":"multiselect","options":["Self-report questionnaire","Behavioural task","Observer ratings","Other"],"importance":"must", "message":"Same as above, make sure the design and methods are suitable to answer your hypotheses, while keeping the time constraints in mind."},
+{"id":"proj-quant","text":"My proposed study is quantitative","type":"check","importance":"must", "message":"The assignment brief calls for a quantitative research proposal."},
 {"id":"online_offline","text":"My proposed study takes place","type":"multiselect","options":["In-preson","Online","Other"],"importance":"should", "message":"This item serves to remind you that this aspect is important to consider."},
 {"id":"ethics_flag","text":"I have considered the ethical viability of my plan.","type":"check","importance":"must","message":"Your study must be ethicly viable."}
 ]
@@ -79,7 +80,7 @@
   "text": "Poster contains a Methods section.",
   "type": "check",
   "importance": "must",
-  "message": "Methods must be described clearly enough that another researcher could understand and comprehend the design."
+  "message": "Methods must be described clearly enough that another researcher could understand and potentially replicate the design."
 },
 
 {
@@ -103,7 +104,7 @@
   "text": "Methods describes the procedures",
   "type": "check",
   "importance": "warn",
-  "message": "E.g., participants will complete the BART task and fill out the Openness inventory in a counterbalanced order."
+  "message": "E.g., participants will complete the BART task and fill out the Openness inventory in a counterbalanced order - can be more expanded in the audio if space is limited."
 },
 
 {
@@ -111,7 +112,7 @@
   "text": "Methods describes the analysis of the data",
   "type": "check",
   "importance": "warn",
-  "message": "E.g., 'The relationship between Risk-taking and Trait Openness will be explored via Pearson's correlation between the number of exploded balloons in the BART and Trait Openness scores.'"
+  "message": "E.g., 'The relationship between Risk-taking and Trait Openness will be explored via Pearson's correlation between the number of exploded balloons in the BART and Trait Openness scores - can be more expanded in the audio if space is limited.'"
 },
 
 {
@@ -127,21 +128,21 @@
   "text": "Poster includes a Strengths and Limitations section.",
   "type": "check",
   "importance": "must",
-  "message": "Consider both methodological and conceptual limitations, and why they matter."
+  "message": "Consider both methodological and conceptual limitations, and why they matter (see FAQ below.)"
 },
 {
   "id": "poster_applications",
   "text": "Poster includes an Applications section",
   "type": "check",
   "importance": "must",
-  "message": "Poster discusses potential applications or implications of the study. Demonstrate that you understand how your findings could be useful in theory or practice."
+  "message": "Poster discusses potential applications or implications of the study. Demonstrate that you understand how your findings could be useful in theory or practice, and be specific to your findings."
 }]
 },
 
 {
 "id":"formatting",
 "title":"Formatting",
-"intro":"For scientific poster visuals, prioritize clear, high-contrast graphics and use ample white space to avoid a cluttered look. Ensure all visuals are high-resolution, readable from a distance, and align with a grid structure as much as possible. The use of a limited color palette and a maximum of two fonts with large, readable font sizes, is recommended.",
+"intro":"For scientific poster visuals, prioritize clear, high-contrast graphics and use ample white space to avoid a cluttered look. Ensure all visuals are high-resolution, readable from a distance (about 2 meters). The use of a limited color palette and a maximum of two fonts with large, readable font sizes, is recommended.",
 "items":[
 {"id":"poster_template","text":"I have used the poster template provided on BrightSpace (A1, Portrait)","type":"check","importance":"must"},
 {"id":"poster_sections","text":"Poster contains the Introduction, Proposed Method, Strengths & Limitations, Applications, References, and these sections are clearly identified.","type":"check","importance":"must"},
@@ -149,9 +150,9 @@
 
 {"id":"poster_text_brevity","text":"Poster uses concise text and (where appropriate) bullet points rather than long paragraphs.","type":"check","importance":"should"},
 
-{"id":"poster_text_brevity","text":"I have considered including meaningful images, graphics, or charts to convey information.","type":"check","importance":"should", "message":"Use illustrations, graphs, flowcharts etc, to represent data, concepts, or experimental desing, allowing figures to complement text. Each figure should include a short label."},
+{"id":"poster_text_brevity","text":"I have considered including meaningful images, graphics, or charts to convey information.","type":"check","importance":"should", "message":"Use illustrations, graphs, flowcharts etc, to represent data, concepts, or experimental desing, allowing figures to complement text. Each figure should include a short label (see APA style guidelines)."},
 
-{"id":"poster_readible", "text": "I have given attention to readability", "type":"check","importance":"should", "message": "Prioritize readability: Use dark text on a light background (recommended; or vice versa, if you must) for high contrast."},
+{"id":"poster_readible", "text": "I have given attention to readability", "type":"check","importance":"should", "message": "Prioritize readability: Use dark text on a light background (recommended; or vice versa, if you must) for high contrast. Consider issues of accessibility (e.g. colorblindness)."},
 
 {"id":"poster_nobg", "text":"I have avoided using unnecessary and distracting visuals", "importance": "should", "message": "Avoid distracting visuals such as backgrounds: Do not use background pictures or photos that can make the content difficult to read."},
 
@@ -177,7 +178,7 @@
 {"id":"all_sections","text":"All required sections present on poster and in notes.","type":"check","importance":"must"},
 {"id":"refs_cited","text":"All references are cited, citations follow the APA style specifications","type":"check","importance":"must"},
 {"id":"pptx_submitted","text":"File is saved as .ppt or .pptx and tested to open. The file is not converted to .pdf for submission (student responsibility).","type":"check","importance":"must"},
-{"id":"pptx_audiopresent","text":"The audio component (< 6 minutes) is embedded in the file and tested to open (student responsibility).","type":"check","importance":"must"}
+{"id":"pptx_audiopresent","text":"The audio component (< 6 minutes) is embedded (not cloud-linked, not separately uploaded) in the file and tested to open (student responsibility).","type":"check","importance":"must"}
 ]
 }
 ],
@@ -192,7 +193,11 @@
 	{"question":"If I am on a specialised programme, is it required that I select a topic that applies to my specialisation?",
 	 "answer":"No, it is not a requirement."},
 	{"question":"Am I expected to present my poster in person?",
-	 "answer":"No, for this assignment, you need to record the audio in private and embed it into the poster slide created in PowerPoint that you submit via TurnItIn."}, 
+	 "answer":"No, for this assignment, you need to record the audio in private and embed it into the poster slide created in PowerPoint that you submit via TurnItIn."},
+	{
+      "question": "Can I collaborate with another student?",
+      "answer": "No. The proposal and poster must be your own work."
+    },	 
 	{"question":"What is the limit of AI use?",
 	 "answer":"AI can be used to help you lay out the poster and rubberduck your ideas – for example inspiration on how to build the poster, interesting and creative use of shapes and colours, and generation of images for the poster. For anything else, AI must not be used."
 	 },
@@ -257,10 +262,6 @@
       "answer": "Yes. The brief explicitly allows you to assume unlimited funding. Focus instead on whether your design is feasible within a 12-month timeframe."
     },
     {
-      "question": "Can I collaborate with another student?",
-      "answer": "No. The proposal and poster must be your own work. However, discussing ideas informally with peers is fine."
-    },
-    {
       "question": "How should I handle the 12-month timeframe requirement?",
       "answer": "Design your study so that it could realistically be completed within one year — avoid long-term longitudinal studies or multi-phase interventions."
     },
@@ -280,6 +281,10 @@
     },
 	{"question":"What is a rationale?",
 	 "answer": "In a research proposal, the rationale is the justification for your study, explaining why it is necessary and important. It provides the context and logical basis for your research by detailing the problem, the existing knowledge gaps it will fill, and the potential impact of your findings. It is essentially an answer to the question, 'Why should this research be done?'"},
+	 
+	 {"question":"How should I discuss the strengths and limitations of my proposed study?",
+	 "answer": "When describing strengths and limitations in a *proposed* project, focus on the design choices you have made and show that you can critically evaluate them. Strengths demonstrate the scientific value, feasibility, and originality of your approach. Limitations acknowledge what your design cannot fully address - for example, constraints on time, sample size, or generalizability. You are not expected to have data yet, but you should show awareness of what could affect validity and reliability if the study were carried out. Some good examples: A strength of this proposed design is the inclusion of both self-report and behavioral measures, which allows for XYZ; A limitation is that participants are self-selected online volunteers, which could bias results toward more extroverted individuals; however, this will be mitigated by including a brief personality screener. Some bad examples: 'There are no limitations in this study.' - (Shows lack of critical thinking). 'The strength is that I think it’s a good topic.' - (Too vague; not linked to method or design).' Tips: Try to pair each limitation with a mitigation strategy — this demonstrates awareness and problem-solving. Avoid generic statements like 'time constraints' or 'small sample size' unless you explain *why* that matters for your design. Link strengths and limitations directly to your design, measurement, and hypotheses — not to personal opinions or effort."},
+	 
     {
       "question": "If I use a scale, do I need to list every individual survey question in my methodology?",
       "answer": "No, you do not need to list every item. Typically, you would describe the scale by name (with citation), provide a brief description (e.g., number of items and response options), and mention validity/reliability. You can summarize the traits measured rather than reproducing each question."
@@ -292,5 +297,44 @@
 	  "question": "Can I replicate or build on previous research for my proposal?",
 	  "answer": "Yes, replicating or building on previous research is allowed, as long as you are clear that it is replicated research, include any alterations, and provide appropriate references. Be cautious with paraphrasing."
 	}
-  ]}
+	
+]}, "title":"How to excel at this assignment?","intro":"These FAQs address common queries about the research proposal, poster design, and submission process.","items":[
+    {
+      "question": "How do I demonstrate outstanding subject knowledge in my poster and audio?",
+      "answer": "Show deep understanding by linking multiple concepts and explaining how they relate to your chosen topic. Reference highly relevant scholarly sources and demonstrate that you have investigated the subject extensively."
+    },
+    {
+      "question": "How can I show strong cognitive skills in my submission?",
+      "answer": "Critically analyze and evaluate your research topic. Present logical, well-structured arguments in both your poster text and audio explanation. Consider and synthesize multiple viewpoints from credible sources, and demonstrate original insights or creative approaches in your work."
+    },
+    {
+      "question": "What are the expectations for practical skills on this assignment?",
+      "answer": "Apply research design and methods confidently and accurately. Show a clear link between theory and practice in your poster content. Present your research findings effectively in visual and textual formats, using high-quality graphics, charts, and diagrams. Demonstrate creativity and originality in your approach to presenting data."
+    },
+    {
+      "question": "How can I showcase transferable skills in my work?",
+      "answer": "Communicate your ideas clearly in the poster and audio, using precise language and a professional style. Demonstrate digital literacy in preparing your poster visuals. Work independently to plan, organize, and execute the project to a high standard."
+    },
+    {
+      "question": "What makes my work exceptional rather than just competent?",
+      "answer": "Go beyond minimum requirements: integrate multiple sources, demonstrate originality and creativity, present findings in polished, professional formats, and show autonomy in planning and executing your research. Your work should reflect high-level understanding, critical thinking, and advanced practical and communication skills."
+    },
+    {
+      "question": "How should I reference sources for maximum impact?",
+      "answer": "Use APA 7th edition consistently throughout your poster. Synthesize relevant sources and show how each contributes to your understanding and approach, rather than just summarizing."
+    },
+    {
+      "question": "How can I make my audio component stand out?",
+      "answer": "Clearly articulate your reasoning, insights, and research process. Use structured explanations that complement your poster content. Demonstrate critical thinking and originality in your spoken presentation, ensuring it reflects your deep understanding of the subject."
+    },
+    {
+      "question": "What should I include in the poster visuals?",
+      "answer": "Ensure visuals are high-resolution, clearly labeled, and relevant to your research. Prioritize clarity, readability, and logical flow. Use graphics and diagrams to illustrate key findings and concepts, showcasing creativity and originality, and digital skills."
+    },
+    {
+      "question": "How do I integrate theory and practice effectively?",
+      "answer": "Link your chosen research design and methods to the theoretical concepts discussed. Demonstrate how your practical choices (e.g., measurements, study design) are grounded in theory, and explain these connections clearly in both poster and audio."
+    }
+  ]
+
 }
