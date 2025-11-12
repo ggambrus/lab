@@ -62,41 +62,56 @@
   }
 
   /* === NEW styles for collapsible panel === */
-  #progressPanel {
-    background: #f8f8f8;
-    border-bottom: 1px solid #ccc;
-    padding: 10px;
-    display: none;
+  /* Progress panel base */
+  #progressPanel { padding: 8px 12px; box-sizing: border-box; }
+  
+  /* Tooltip */
+  #tooltip {
+    transition: opacity 0.12s ease;
+    opacity: 0.99;
+    pointer-events: none;
   }
-  #progressToggle {
-    background: #0077cc;
-    color: white;
-    border: none;
-    padding: 8px 12px;
-    border-radius: 5px;
-    cursor: pointer;
-    margin-bottom: 8px;
-  }
+  
+  /* Make range slider consistent */
   #progressSlider {
-    width: 100%;
+    -webkit-appearance: none;
+    height: 10px;
+    background: transparent;
   }
-  #progressSVG {
-    width: 100%;
-    height: 150px;
+  #progressSlider::-webkit-slider-runnable-track {
+    height: 6px;
+    background: #ddd;
+    border-radius: 4px;
+  }
+  #progressSlider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 16px; height: 16px; border-radius: 50%;
+    background: #0077cc; margin-top: -5px;
+  }
+  #progressSlider::-moz-range-thumb {
+    width: 16px; height: 16px; border-radius: 50%; background: #0077cc;
+  }
+  
+  /* For smaller screens, ensure things remain readable */
+  @media (max-width: 480px) {
+    #progressPanel { padding: 6px; }
+    #progressSVG { height: 260px; }
   }
 </style>
 </head>
 <body>
   <div id="header-placeholder"></div>
 
-  <!-- === NEW COLLAPSIBLE PANEL === -->
-  <div id="progressContainer" style="text-align:center; overflow:hidden;">
-    <button id="progressToggle">Show Progress</button>
-    <div id="progressPanel" style="display:none;">
-  	<svg id="progressSVG" style="width:100%; height:200px;"></svg>
-  	<input type="range" id="progressSlider" min="0" value="0" style="width:100%; display:none;">
-    </div>
-  </div>
+	<!-- === NEW COLLAPSIBLE PANEL === -->
+	<div id="progressContainer" style="text-align:center; overflow:hidden; max-width:1100px; margin:0 auto;">
+	  <button id="progressToggle">Show Progress</button>
+	  <div id="progressPanel" style="display:none;">
+		<div id="progressViewport" style="position:relative; width:100%; overflow:hidden;">
+		  <svg id="progressSVG" style="display:block; height:300px; width:100%;"></svg>
+		</div>
+		<input type="range" id="progressSlider" min="0" value="0" style="width:100%; display:none; margin-top:8px;">
+	  </div>
+	</div>
 
   <div class="container">
     <h1>Intelligence Practice Quiz</h1>
