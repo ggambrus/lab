@@ -6,7 +6,7 @@
 <title>Intelligence Practice Quiz</title>
 <link rel="stylesheet" href="/lab/styles.css">
 <style>
-
+  
   h1 {
     text-align: center;
     color: #333;
@@ -60,10 +60,59 @@
     font-size: 18px;
     margin-top: 25px;
   }
+
+  /* === NEW styles for collapsible panel === */
+  /* Progress panel base */
+  #progressPanel { padding: 8px 12px; box-sizing: border-box; }
+  
+  /* Tooltip */
+  #tooltip {
+    transition: opacity 0.12s ease;
+    opacity: 0.99;
+    pointer-events: none;
+  }
+  
+  /* Make range slider consistent */
+  #progressSlider {
+    -webkit-appearance: none;
+    height: 10px;
+    background: transparent;
+  }
+  #progressSlider::-webkit-slider-runnable-track {
+    height: 6px;
+    background: #ddd;
+    border-radius: 4px;
+  }
+  #progressSlider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 16px; height: 16px; border-radius: 50%;
+    background: #0077cc; margin-top: -5px;
+  }
+  #progressSlider::-moz-range-thumb {
+    width: 16px; height: 16px; border-radius: 50%; background: #0077cc;
+  }
+  
+  /* For smaller screens, ensure things remain readable */
+  @media (max-width: 480px) {
+    #progressPanel { padding: 6px; }
+    #progressSVG { height: 260px; }
+  }
 </style>
 </head>
 <body>
   <div id="header-placeholder"></div>
+
+	<!-- === NEW COLLAPSIBLE PANEL === -->
+	<div id="progressContainer" style="text-align:center; overflow:hidden; max-width:1100px; margin:0 auto;">
+	  <button id="progressToggle">Show Progress</button>
+	  <div id="progressPanel" style="display:none;">
+		<div id="progressViewport" style="position:relative; width:100%; overflow:hidden;">
+		  <svg id="progressSVG" style="display:block; height:300px; width:100%;"></svg>
+		</div>
+		<input type="range" id="progressSlider" min="0" value="0" style="width:100%; display:none; margin-top:8px;">
+	  </div>
+	</div>
+
   <div class="container">
     <h1>Intelligence Practice Quiz</h1>
     <div class="timer" id="timer">Time left: --:--</div>
@@ -79,12 +128,27 @@
   </div>
   
 <script src="../include.js"></script>
+<script src="progressPlot.js"></script> <!-- NEW self-contained plotter -->
 <script>
-const QUIZ_LENGTH = 20;       // Number of random questions
-const QUIZ_DURATION = 5 * 60; // minutes ( * 60)
+const QUIZ_ID = "intelligence_quiz_v1";
+const QUIZ_LENGTH = 20;
+const QUIZ_DURATION = 5 * 60;
+
 let quizData = [];
 let totalSeconds = QUIZ_DURATION;
 let timer;
+let allQuestions = [];
+
+
+
+// === Progress Panel Toggle ===
+document.getElementById('progressToggle').addEventListener('click', () => {
+  const panel = document.getElementById('progressPanel');
+  panel.style.display = panel.style.display === 'none' ? 'block' : 'none';
+  document.getElementById('progressToggle').textContent =
+    panel.style.display === 'block' ? 'Hide Progress' : 'Show Progress';
+  if (panel.style.display === 'block') loadProgressPlot(QUIZ_ID);
+});
 
 // ==== Event Listeners ====
 document.getElementById('startBtn').addEventListener('click', startQuiz);
@@ -100,7 +164,9 @@ function startQuiz() {
   fetch('pins-intelligence-questions.json')
     .then(response => response.json())
     .then(data => {
-      quizData = getRandomQuestions(data, QUIZ_LENGTH);
+      allQuestions = data;
+      const prevWrong = loadPreviousWrong(QUIZ_ID);
+      quizData = selectRetakeQuestions(data, prevWrong, QUIZ_LENGTH);
       renderQuiz(quizData);
       document.getElementById('quizForm').style.display = 'block';
       document.getElementById('submitBtn').style.display = 'block';
@@ -115,53 +181,21 @@ function startQuiz() {
     });
 }
 
-// ==== Random selection ====
-function getRandomQuestions(allQuestions, count) {
-  const shuffled = [...allQuestions].sort(() => 0.5 - Math.random());
-  return shuffled.slice(0, count);
+// ==== Smart Retake ====
+function loadPreviousWrong(quizId) {
+  const data = JSON.parse(localStorage.getItem(`${quizId}_history`) || "[]");
+  if (data.length === 0) return [];
+  const last = data[data.length - 1];
+  return last.wrongQuestions || [];
 }
 
-// ==== Render quiz ====
-function renderQuiz(questions) {
-  const form = document.getElementById('quizForm');
-  form.innerHTML = "";
-  questions.forEach((q, i) => {
-    const div = document.createElement('div');
-    div.classList.add('question');
-
-    // 🔀 Shuffle the answer options for this question
-    const shuffledOptions = [...q.options].sort(() => Math.random() - 0.5);
-
-    div.innerHTML = `
-      <h3>${i + 1}. ${q.question}</h3>
-      <div class="options">
-        ${shuffledOptions.map(opt => `
-          <label>
-            <input type="radio" name="q${i}" value="${opt}"> ${opt}
-          </label>
-        `).join('')}
-      </div>
-    `;
-    form.appendChild(div);
-  });
-}
-
-
-// ==== Timer ====
-function startTimer() {
-  const timerDisplay = document.getElementById('timer');
-  clearInterval(timer);
-  timer = setInterval(() => {
-    const minutes = Math.floor(totalSeconds / 60);
-    const seconds = totalSeconds % 60;
-    timerDisplay.textContent = `Time left: ${minutes}:${seconds.toString().padStart(2, '0')}`;
-    totalSeconds--;
-    if (totalSeconds < 0) {
-      clearInterval(timer);
-      alert("Time is up! Your answers will be submitted automatically.");
-      submitQuiz(true);
-    }
-  }, 1000);
+function selectRetakeQuestions(all, prevWrong, count) {
+  const retryCount = Math.floor(count / 2);
+  const reused = shuffle(prevWrong).slice(0, retryCount);
+  const reusedObjects = all.filter(q => reused.includes(q.question));
+  const remaining = shuffle(all.filter(q => !reused.includes(q.question)))
+                    .slice(0, count - reusedObjects.length);
+  return shuffle([...reusedObjects, ...remaining]);
 }
 
 // ==== Submission ====
@@ -184,30 +218,47 @@ function submitQuiz(autoSubmit) {
 
   clearInterval(timer);
   let score = 0;
+  const wrongQuestions = [];
 
   quizData.forEach((q, i) => {
     const userAns = answers[i];
     const questionDiv = form.children[i];
     const labels = questionDiv.querySelectorAll('label');
-
     labels.forEach(label => {
       const input = label.querySelector('input');
       if (input.value === q.answer) label.classList.add('correct');
       if (input.checked && input.value !== q.answer) label.classList.add('incorrect');
     });
-
     if (userAns === q.answer) score++;
+    else wrongQuestions.push(q.question);
   });
 
-  resultDiv.innerHTML = `
-    <strong>Your Score: ${score} / ${quizData.length}</strong><br>
-    Percentage: ${(score / quizData.length * 100).toFixed(1)}%
-  `;
+  const percentage = (score / quizData.length * 100).toFixed(1);
+  resultDiv.innerHTML = `<strong>Your Score: ${score}/${quizData.length}</strong><br>Percentage: ${percentage}%`;
+
   document.getElementById('submitBtn').disabled = true;
   document.getElementById('retakeContainer').style.display = 'block';
+
+  saveAttempt(QUIZ_ID, score, quizData.length, wrongQuestions);
 }
 
-// ==== Reset / Retake ====
+// ==== Data Persistence ====
+function saveAttempt(quizId, score, total, wrong) {
+  const record = {
+    timestamp: Date.now(),
+    score,
+    total,
+    percent: (score / total * 100),
+    wrongQuestions: wrong
+  };
+  const existing = JSON.parse(localStorage.getItem(`${quizId}_history`) || "[]");
+  existing.push(record);
+  localStorage.setItem(`${quizId}_history`, JSON.stringify(existing));
+}
+
+// ==== Helpers ====
+function shuffle(arr) { return [...arr].sort(() => Math.random() - 0.5); }
+
 function resetQuiz() {
   document.getElementById('submitBtn').disabled = false;
   document.getElementById('quizForm').style.display = 'none';
@@ -217,7 +268,56 @@ function resetQuiz() {
   document.getElementById('retakeContainer').style.display = 'none';
   document.getElementById('startScreen').style.display = 'block';
 }
+
+// ==== Render quiz ====
+function renderQuiz(questions) {
+  const form = document.getElementById('quizForm');
+  form.innerHTML = "";
+  questions.forEach((q, i) => {
+    const div = document.createElement('div');
+    div.classList.add('question');
+
+    // ðŸ”€ Shuffle the answer options for this question
+    const shuffledOptions = [...q.options].sort(() => Math.random() - 0.5);
+
+    div.innerHTML = `
+      <h3>${i + 1}. ${q.question}</h3>
+      <div class="options">
+        ${shuffledOptions.map(opt => `
+          <label>
+            <input type="radio" name="q${i}" value="${opt}"> ${opt}
+          </label>
+        `).join('')}
+      </div>
+    `;
+    form.appendChild(div);
+  });
+}
+
+
+
+// ==== Timer ====
+function startTimer() {
+  const timerDisplay = document.getElementById('timer');
+  clearInterval(timer);
+  timer = setInterval(() => {
+    const minutes = Math.floor(totalSeconds / 60);
+    const seconds = totalSeconds % 60;
+    timerDisplay.textContent = `Time left: ${minutes}:${seconds.toString().padStart(2, '0')}`;
+    totalSeconds--;
+    if (totalSeconds < 0) {
+      clearInterval(timer);
+      alert("Time is up! Your answers will be submitted automatically.");
+      submitQuiz(true);
+    }
+  }, 1000);
+}
+
+
 </script>
+
+
+
 <div id="footer-placeholder"></div>
 
 </body>
