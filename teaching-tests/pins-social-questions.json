@@ -1,0 +1,984 @@
+[{
+    "id": 1,
+    "question": "Modern definitions consider stereotypes as:",
+    "options": ["Always negative", "Generalized beliefs or assumptions about groups", "Purely emotional reactions", "Morally wrong categories"],
+    "answer": "Generalized beliefs or assumptions about groups"
+  },
+    {
+    "id": 2,
+    "question": "Which statistic is often used to assess stereotype accuracy?",
+    "options": ["T-scores", "Discrepancy scores", "Effect size d", "Odds ratios"],
+    "answer": "Discrepancy scores"
+  },
+  {
+    "id": 3,
+    "question": "The ecological fallacy occurs when:",
+    "options": ["Group-level data are applied to individuals", "Individuals are misclassified into groups", "A stereotype is statistically inaccurate", "A heuristic is applied incorrectly"],
+    "answer": "Group-level data are applied to individuals"
+  },
+  {
+    "id": 4,
+    "question": "Priming refers to:",
+    "options": ["Long-term memory consolidation", "Recent stimuli influencing later processing", "Deliberate rehearsal strategies", "Emotional conditioning"],
+    "answer": "Recent stimuli influencing later processing"
+  },
+  {
+    "id": 5,
+    "question": "Automatic stereotype activation is primarily associated with which Khaneman system?",
+    "options": ["System 1", "System 2", "Working memory", "Explicit reasoning"],
+    "answer": "System 1"
+  },
+    {
+    "id": 6,
+    "question": "Bargh et al. (1996) used what method to prime participants with the elderly stereotype?",
+    "options": ["Visual images", "Scrambled sentence task", "Memory recall task", "Reaction-time pairing"],
+    "answer": "Scrambled sentence task"
+  },
+  {
+    "id": 7,
+    "question": "What behavioral change was observed in the original Bargh et al. (1996) study?",
+    "options": ["Participants talked more slowly", "Participants walked more slowly", "Participants remembered fewer words", "Participants showed less risk taking"],
+    "answer": "Participants walked more slowly"
+  },
+  {
+    "id": 8,
+    "question": "Doyen et al. (2012) suggested the original priming effect in Bargh et al. (1996) may have been due to:",
+    "options": ["Participant fatigue", "Experimenter expectations", "Instrumentation failure", "Incorrect randomization"],
+    "answer": "Experimenter expectations"
+  },
+  {
+    "id": 9,
+    "question": "The Implicit Association Test (IAT) aims to measure:",
+    "options": ["Explicit attitudes", "IQ", "Automatic associations between concepts", "Working memory capacity"],
+    "answer": "Automatic associations between concepts"
+  },
+  {
+    "id": 10,
+    "question": "The Implicit Association Test (IAT) relies mainly on differences in:",
+    "options": ["Long-term memory accuracy", "Reaction times", "Hormonal responses", "Heart-rate changes"],
+    "answer": "Reaction times"
+  },
+  {
+    "id": 11,
+    "question": "A major criticism of the Implicit Association Test (IAT) is that:",
+    "options": ["It cannot measure reaction time", "It lacks a clear definition of implicit bias", "It is too simple", "It produces perfect reliability"],
+    "answer": "It has weak predictive validity"
+  },
+  {
+    "id": 12,
+    "question": "Power posing originally claimed to affect which hormone(s)?",
+    "options": ["Serotonin", "Cortisol and testosterone", "Oxytocin only", "Insulin"],
+    "answer": "Cortisol and testosterone"
+  },
+  {
+    "id": 13,
+    "question": "Stereotype threat describes:",
+    "options": ["Feeling pressure to conform to a positive stereotype", "Risk of confirming a negative stereotype about one’s group", "Assuming out-group homogeneity", "Overusing heuristics"],
+    "answer": "Risk of confirming a negative stereotype about one’s group"
+  },
+  {
+    "id": 14,
+    "question": "Stereotype lift is said to occur when:",
+    "options": ["A negative stereotype becomes irrelevant", "A positive stereotype improves performance", "An individual rejects all stereotypes", "Group identity becomes less salient"],
+    "answer": "A positive stereotype improves performance"
+  },
+   {
+    "id": 15,
+    "question": "According to Shih et al. (1999), Asian-American women performed best when:",
+    "options": ["Gender identity was primed", "Ethnic identity was primed", "Identity was not primed", "Math anxiety was reduced"],
+    "answer": "Ethnic identity was primed"
+  },
+  {
+    "id": 16,
+    "question": "Replications of Shih et al. (1999) on stereotype susceptibility generally show:",
+    "options": ["Larger effects", "No effects at all", "Smaller or negligible effects", "Opposite effects"],
+    "answer": "Smaller or negligible effects"
+  },  
+
+  {
+    "id": 17,
+    "question": "Publication bias contributes to:",
+    "options": ["Overestimation of effect sizes", "More accurate scientific conclusions", "Stronger replications", "More null results published"],
+    "answer": "Overestimation of effect sizes"
+  },
+  {
+    "id": 18,
+    "question": "The availability heuristic in consumer behavior might lead someone to believe:",
+    "options": ["A product is high quality because it looks expensive", "A product is popular because it's heavily advertised", "A product is nutritious because of its color", "A product is scarce because it is cheap"],
+    "answer": "A product is popular because it's heavily advertised"
+  },  
+    {
+    "id": 19,
+    "question": "Representativeness in consumer behavior can cause people to believe:",
+    "options": ["Sale items are always better", "A product is good because its packaging resembles a that of a luxury brand", "Scarcity means lower quality", "Familiar brands are less reliable"],
+    "answer": "A product is good because its packaging resembles a that of a luxury brand"
+  },
+  {
+    "id": 20,
+    "question": "Anchoring in pricing works because:",
+    "options": ["Low numbers seem larger", "Initial numbers bias later judgments", "People ignore price information", "People avoid comparisons"],
+    "answer": "Initial numbers bias later judgments"
+  },
+  {
+    "id": 21,
+    "question": "The scarcity heuristic leads consumers to think:",
+    "options": ["Popular items are worthless", "Common goods are more desirable", "Less available goods are more valuable", "Scarce goods are always low-quality"],
+    "answer": "Less available goods are more valuable"
+  },
+  {
+    "id": 22,
+    "question": "The IKEA effect refers to:",
+    "options": ["Overvaluing items because they are expensive", "Valuing items more when we partially build them", "Preferring ready-made items", "Disliking complex tasks"],
+    "answer": "Valuing items more when we partially build them"
+  },
+  {
+    "id": 23,
+    "question": "The instant cake mix example showed that:",
+    "options": ["People dislike effort in cooking", "Adding steps increases satisfaction", "Consumers reject all processed foods", "Packaging determines taste perception"],
+    "answer": "Adding steps increases satisfaction"
+  },
+  {
+    "id": 24,
+    "question": "For the IKEA effect to occur, it is crucial that:",
+    "options": ["The task is extremely easy", "The consumer completes the task successfully", "The ingredients are expensive", "The instructions are vague"],
+    "answer": "The consumer completes the task successfully"
+  },
+  {
+    "id": 25,
+    "question": "In health risk perception, the availability heuristic might cause:",
+    "options": ["Underestimating vivid risks", "Overestimating dramatic rare events", "Ignoring new information", "Believing common diseases are rare"],
+    "answer": "Overestimating dramatic rare events"
+  },
+  {
+    "id": 26,
+    "question": "Representativeness in health perception might cause someone to say:",
+    "options": ["'I saw a scary story on the news'", "'I don’t look like someone with high blood pressure'", "'The doctor must be wrong'", "'I am definitely healthier than everyone else'"],
+    "answer": "'I don’t look like someone with high blood pressure'"
+  },
+  {
+    "id": 27,
+    "question": "Optimism bias results in:",
+    "options": ["More accurate risk assessment", "Believing negative events are less likely to happen to oneself", "Overestimating personal vulnerability", "Increased health screening"],
+    "answer": "Believing negative events are less likely to happen to oneself"
+  },
+  {
+    "id": 28,
+    "question": "Anchoring in medical decision-making can cause patients to:",
+    "options": ["Forget their diagnosis", "Rely excessively on their doctor’s first diagnosis", "Ignore medical advice", "Avoid tests altogether"],
+    "answer": "Rely excessively on their doctor’s first diagnosis"
+  },
+  {
+    "id": 29,
+    "question": "What type of information usually overrides stereotypes?",
+    "options": ["Emotional cues", "Group averages", "Individuating information", "Media portrayals"],
+    "answer": "Individuating information"
+  },
+  {
+    "id": 30,
+    "question": "Which concept claims behavior can be unconsciously shaped by environmental cues?",
+    "options": ["Cognitive dissonance", "Behavioral priming", "Anchoring", "Meta-cognition"],
+    "answer": "Behavioral priming"
+  },
+  {
+    "id": 31,
+    "question": "A major reason social priming research faces scrutiny is:",
+    "options": ["Too many replications", "Low statistical power and failed replications", "Behavioral measures are too objective", "Findings are too consistent"],
+    "answer": "Low statistical power and failed replications"
+  },
+  {
+    "id": 32,
+    "question": "Publication bias means:",
+    "options": ["Studies are published randomly", "Null results are less likely to be published", "Positive effects are discarded", "Journals prefer replication attempts"],
+    "answer": "Null results are less likely to be published"
+  },
+  {
+    "id": 33,
+    "question": "Which heuristic is exploited by statements like 'Only 2 left!'?",
+    "options": ["Anchoring", "Scarcity", "Availability", "Framing"],
+    "answer": "Scarcity"
+  },
+  {
+    "id": 34,
+    "question": "Which heuristic explains why expensive items on menus make mid-priced options feel reasonable?",
+    "options": ["Anchoring", "Scarcity", "Representativeness", "Optimism"],
+    "answer": "Anchoring"
+  },
+  {
+    "id": 35,
+    "question": "Which concept states that behavior can unintentionally drift toward a primed idea?",
+    "options": ["Self-affirmation", "Behavioral assimilation", "Social modeling", "Mindfulness"],
+    "answer": "Behavioral assimilation"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is a major limitation of the IAT?",
+    "options": ["It takes too long to administer", "It produces inconsistent scores across sessions", "It requires MRI scanning", "It measures only explicit attitudes"],
+    "answer": "It produces inconsistent scores across sessions"
+  },
+  {
+    "id": 37,
+    "question": "Stereotypes are more likely to influence behavior when:",
+    "options": ["Individuating information is available", "People are highly motivated to be accurate", "No personal information is available about the individual", "The stereotype is extremely weak"],
+    "answer": "No personal information is available about the individual"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is an example of a 'dark pattern'?",
+    "options": ["Clear pricing displays", "Designs that exploit heuristics to manipulate consumers", "Scientific transparency", "Standardized consent forms"],
+    "answer": "Designs that exploit heuristics to manipulate consumers"
+  },
+
+ {
+    "id": 39,
+    "question": "Schemas are best described as:",
+    "options": ["Permanent personality traits", "Knowledge structures that guide processing", "Random guesses about others", "Motivational drives"],
+    "answer": "Knowledge structures that guide processing"
+  },
+  
+  {
+    "id": 40,
+    "question": "Automatic processing is characterized by being:",
+    "options": ["Effortful and conscious", "Slow and flexible", "Fast and unconscious", "Highly analytical"],
+    "answer": "Fast and unconscious"
+  },
+  {
+    "id": 41,
+    "question": "Controlled processing is most likely to occur when a person:",
+    "options": ["Makes a routine decision", "Is under time pressure", "Has strong emotions", "Has motivation and cognitive resources"],
+    "answer": "Has motivation and cognitive resources"
+  },
+  {
+    "id": 42,
+    "question": "Which heuristic involves relying on similar past events to judge probability?",
+    "options": ["Anchoring", "Representativeness", "Availability", "Simulation"],
+    "answer": "Representativeness"
+  },
+  {
+    "id": 43,
+    "question": "The availability heuristic often leads people to:",
+    "options": ["Use abstract reasoning", "Ignore emotional events", "Overestimate probabilities of vivid events", "Prefer slow thinking"],
+    "answer": "Overestimate probabilities of vivid events"
+  },
+  {
+    "id": 44,
+    "question": "The tendency to overestimate how much others share our opinions is called:",
+    "options": ["False consensus effect", "Actor-observer bias", "Self-serving bias", "Confirmation bias"],
+    "answer": "False consensus effect"
+  },
+  {
+    "id": 45,
+    "question": "Attribution theory is mainly concerned with how people:",
+    "options": ["Interpret causes of behavior", "Form emotional bonds", "Learn through reward and punishment", "Make economic decisions"],
+    "answer": "Interpret causes of behavior"
+  },
+  {
+    "id": 46,
+    "question": "The fundamental attribution error involves overemphasizing:",
+    "options": ["Situational causes", "Dispositional causes", "Cultural norms", "Unconscious motives"],
+    "answer": "Dispositional causes"
+  },
+  {
+    "id": 47,
+    "question": "The actor–observer bias occurs because actors tend to see their behavior as:",
+    "options": ["More stable over time", "Driven by personal traits", "Caused by situational factors", "Uniquely positive"],
+    "answer": "Caused by situational factors"
+  },
+  {
+    "id": 48,
+    "question": "Self-serving bias leads individuals to attribute failures to:",
+    "options": ["Their traits", "External factors", "Lack of ability", "Genetics"],
+    "answer": "External factors"
+  },
+  {
+    "id": 49,
+    "question": "Confirmation bias occurs when people:",
+    "options": ["Forget past beliefs", "Seek info that supports their beliefs", "Act independently of social norms", "Focus on random cues"],
+    "answer": "Seek info that supports their beliefs"
+  },
+  {
+    "id": 50,
+    "question": "A mental representation of a category of people (e.g., 'engineers') is a:",
+    "options": ["Stereotype", "Self-schema", "Social role", "Script"],
+    "answer": "Stereotype"
+  },
+  {
+    "id": 51,
+    "question": "Scripts are schemas that involve:",
+    "options": ["Personal identities", "Sequences of events", "Group impressions", "Categorical traits"],
+    "answer": "Sequences of events"
+  },
+  {
+    "id": 52,
+    "question": "The halo effect occurs when:",
+    "options": ["One positive trait leads to overall positive impressions", "People assume others agree with them", "Behavior contradicts belief", "People recall negative events more easily"],
+    "answer": "One positive trait leads to overall positive impressions"
+  },
+  {
+    "id": 53,
+    "question": "Which of the following is most associated with automatic social judgments?",
+    "options": ["Effortful thinking", "Heuristics", "Self-regulation", "Mathematical reasoning"],
+    "answer": "Heuristics"
+  },
+  {
+    "id": 54,
+    "question": "The anchoring and adjustment heuristic involves:",
+    "options": ["Judging probability based on ease of recall", "Making estimates from an initial value", "Relying on stereotypes", "Choosing options that fit a prototype"],
+    "answer": "Making estimates from an initial value"
+  },
+  {
+    "id": 55,
+    "question": "Schemas are especially influential when:",
+    "options": ["Information is clear", "People lack time or cognitive resources", "Motivation is extremely high", "People engage in systematic reasoning"],
+    "answer": "People lack time or cognitive resources"
+  },
+  {
+    "id": 56,
+    "question": "The self-fulfilling prophecy occurs when:",
+    "options": ["People misinterpret feedback", "Expectations lead to behaviors that confirm those expectations", "Schemas are unlearned", "People reject social norms"],
+    "answer": "Expectations lead to behaviors that confirm those expectations"
+  },
+  {
+    "id": 57,
+    "question": "Which bias explains why people are surprised when others disagree with them?",
+    "options": ["False consensus effect", "Self-serving bias", "Availability heuristic", "Actor-observer bias"],
+    "answer": "False consensus effect"
+  },
+  {
+    "id": 58,
+    "question": "The tendency to attribute others' failures to personal flaws reflects:",
+    "options": ["Self-serving bias", "Egocentric bias", "Fundamental attribution error", "Self-handicapping"],
+    "answer": "Fundamental attribution error"
+  },
+  {
+    "id": 59,
+    "question": "People are more likely to rely on heuristics when they:",
+    "options": ["Have plenty of time", "Lack cognitive resources", "Have complete information", "Feel extremely calm"],
+    "answer": "Lack cognitive resources"
+  },
+  {
+    "id": 60,
+    "question": "Seeing meaningful patterns in random events reflects:",
+    "options": ["Hindsight bias", "Illusory correlation", "Anchoring bias", "Priming effect"],
+    "answer": "Illusory correlation"
+  },
+  {
+    "id": 61,
+    "question": "Believing two variables are related when they are not is known as:",
+    "options": ["Anchoring", "Illusory correlation", "Overconfidence", "Confirmation bias"],
+    "answer": "Illusory correlation"
+  },
+  {
+    "id": 62,
+    "question": "A shortcut that helps people make quick decisions with minimal effort is called a:",
+    "options": ["Script", "Heuristic", "Schema", "Trait inference"],
+    "answer": "Heuristic"
+  },
+  {
+    "id": 63,
+    "question": "Which is a key feature of automatic thinking?",
+    "options": ["Requires motivation", "Consumes cognitive resources", "Unintentional", "Deliberate"],
+    "answer": "Unintentional"
+  },
+  {
+    "id": 64,
+    "question": "What often triggers controlled thinking?",
+    "options": ["Routine judgments", "Strong motivation and importance", "Mindless repetition", "Lack of attention"],
+    "answer": "Strong motivation and importance"
+  },
+  {
+    "id": 65,
+    "question": "Which of the following is most likely to increase stereotype use?",
+    "options": ["High cognitive load", "Extensive personal experience", "Motivation to be accurate", "Time for deliberation"],
+    "answer": "High cognitive load"
+  },
+  {
+    "id": 66,
+    "question": "The belief that negative outcomes are less likely to happen to oneself is:",
+    "options": ["Optimism bias", "Primacy bias", "Anchoring bias", "Stereotype threat"],
+    "answer": "Optimism bias"
+  },
+  {
+    "id": 67,
+    "question": "Which type of processing is most likely when outcomes matter greatly?",
+    "options": ["Automatic", "Controlled", "Heuristic-based", "Random"],
+    "answer": "Controlled"
+  },
+  
+  
+   {
+    "id": 68,
+    "question": "A person who avoids unnecessary mental effort and looks for quick solutions is acting as a:",
+    "options": ["Cognitive miser", "Naïve scientist", "Motivated tactician", "Mindful processor"],
+    "answer": "Cognitive miser"
+  },
+  {
+    "id": 69,
+    "question": "Which statement about heuristics is incorrect?",
+    "options": ["They simplify complex decisions", "They include representativeness and availability", "They can introduce bias", "They usually improve accuracy"],
+    "answer": "They usually improve accuracy"
+  },
+  {
+    "id": 70,
+    "question": "Attributing traits to someone because they resemble a typical category member relies on:",
+    "options": ["Availability heuristic", "Representativeness heuristic", "Anchoring heuristic", "Base-rate reasoning"],
+    "answer": "Representativeness heuristic"
+  },
+  {
+    "id": 71,
+    "question": "Which heuristic most strongly contributes to stereotyping?",
+    "options": ["Representativeness heuristic", "Anchoring heuristic", "Availability heuristic", "Fluency heuristic"],
+    "answer": "Representativeness heuristic"
+  },
+  {
+    "id": 72,
+    "question": "Feeling nervous about flying right after seeing news of a plane crash reflects the:",
+    "options": ["Representativeness heuristic", "Anchoring heuristic", "False-consensus effect", "Availability heuristic"],
+    "answer": "Availability heuristic"
+  },
+  {
+    "id": 73,
+    "question": "Assuming your own opinions are widely shared is linked to which heuristic?",
+    "options": ["Availability heuristic", "Representativeness heuristic", "Anchoring heuristic", "Projection heuristic"],
+    "answer": "Availability heuristic"
+  },
+  {
+    "id": 74,
+    "question": "Which process did McGarty (1991) describe as understanding something through similarities and differences?",
+    "options": ["Heuristic reasoning", "Social categorisation", "Social cognition", "Schema formation"],
+    "answer": "Social categorisation"
+  },
+  {
+    "id": 75,
+    "question": "Quick mental shortcuts that save time but may distort judgment are called:",
+    "options": ["Biases", "Schemas", "Heuristics", "Rules"],
+    "answer": "Heuristics"
+  },
+  {
+    "id": 76,
+    "question": "Judging how common something is based on how easily examples come to mind describes the:",
+    "options": ["Representativeness heuristic", "Actor–observer bias", "Availability heuristic", "Projection effect"],
+    "answer": "Availability heuristic"
+  },
+  {
+    "id": 77,
+    "question": "Overestimating how many people agree with your views is known as the:",
+    "options": ["Representativeness heuristic", "Actor–observer bias", "Availability heuristic", "False-consensus effect"],
+    "answer": "False-consensus effect"
+  },
+  {
+    "id": 78,
+    "question": "People rely most on heuristics when they have ______ time and ______ resources.",
+    "options": ["Ample; strong", "Little; limited", "Little; strong", "Ample; limited"],
+    "answer": "Little; limited"
+  },
+  {
+    "id": 79,
+    "question": "Believing two unrelated variables are connected is known as:",
+    "options": ["Illusory correlation", "Base rate neglect", "Shared distinctiveness", "Perceptual salience"],
+    "answer": "Illusory correlation"
+  },
+  {
+    "id": 80,
+    "question": "Fiske and Taylor's 'cognitive miser' idea suggests that people:",
+    "options": ["Prefer minimal cognitive effort", "Have unlimited cognitive capacity", "Test hypotheses logically", "Enjoy analysing large amounts of information"],
+    "answer": "Prefer minimal cognitive effort"
+  },
+  {
+    "id": 81,
+    "question": "Subjective ease of recall refers to ______, whereas activation strength refers to ______.",
+    "options": ["Availability; representativeness", "Representativeness; availability", "Accessibility; availability", "Availability; accessibility"],
+    "answer": "Availability; accessibility"
+  },
+  {
+    "id": 82,
+    "question": "Schwarz et al. (1991) found that participants rated themselves more assertive when recalling:",
+    "options": ["Twelve assertive behaviours", "Six assertive behaviours", "Equal numbers of behaviours", "Times they were passive"],
+    "answer": "Six assertive behaviours"
+  },
+  {
+    "id": 83,
+    "question": "The false-consensus effect can be explained by which heuristic?",
+    "options": ["Representativeness", "Anchoring", "Availability", "All contribute"],
+    "answer": "Availability"
+  },
+  {
+    "id": 84,
+    "question": "The motivated tactician view proposes that people:",
+    "options": ["Shift between effortful and effortless processing", "Rely mainly on deliberate reasoning", "Always conserve cognitive resources", "Rarely use deliberate processing"],
+    "answer": "Shift between effortful and effortless processing"
+  },
+  {
+    "id": 85,
+    "question": "People are most likely to use heuristics when task importance is ______ and information is ______.",
+    "options": ["High; abundant", "Low; scarce", "Low; abundant", "High; scarce"],
+    "answer": "Low; scarce"
+  },
+  {
+    "id": 86,
+    "question": "A group perceived as highly varied is considered _______, while a highly uniform group is considered _______.",
+    "options": ["Fuzzy; rigid", "Heterogeneous; homogeneous", "Rigid; flexible", "Homogeneous; heterogeneous"],
+    "answer": "Heterogeneous; homogeneous"
+  },
+  {
+    "id": 87,
+    "question": "Seeing members of another group as 'all alike' is most typical of perceptions of:",
+    "options": ["Ingoups", "Outgroups", "High-status groups", "Minority groups"],
+    "answer": "Outgroups"
+  },
+  {
+    "id": 88,
+    "question": "The Bargh et al. (1996) finding that priming elderly stereotypes led participants to walk more slowly aimed to demonstrate which phenomenon?",
+    "options": ["Associative learning", "Behavioural assimilation", "Conceptual recency", "Cognitive anchoring"],
+    "answer": "Behavioural assimilation"
+  },
+  {
+    "id": 89,
+    "question": "Kahneman (2011) argues that humans rely on multiple thinking systems because they help:",
+    "options": ["Minimise emotional arousal", "Manage overwhelming social information", "Protect self-esteem", "Strengthen relationships"],
+    "answer": "Manage overwhelming social information"
+  },
+  {
+    "id": 90,
+    "question": "The naïve scientist model proposes that people:",
+    "options": ["Judge quickly and intuitively", "Use little cognitive effort", "Explain behaviour through systematic reasoning", "Avoid analysing social information"],
+    "answer": "Explain behaviour through systematic reasoning"
+  },
+  {
+    "id": 91,
+    "question": "The false-consensus effect occurs when individuals:",
+    "options": ["Assume others share their views", "Believe their views are unique", "Underestimate similarities with others", "Ignore others' identities"],
+    "answer": "Assume others share their views"
+  },
+  {
+    "id": 92,
+    "question": "Bargh et al. (1996) aimed to show that priming stereotypes can:",
+    "options": ["Have no behavioural effect", "Consciously change attitudes", "Unconsciously shape stereotype-consistent behaviour", "Affect memory only"],
+    "answer": "Unconsciously shape stereotype-consistent behaviour"
+  },
+  
+  
+  
+   {
+    "id": 93,
+    "question": "Which model argues that people switch between effortful and effortless processing depending on their goals?",
+    "options": ["Cognitive miser model", "Motivated tactician model", "Naïve scientist model", "Dual-route persuasion model"],
+    "answer": "Motivated tactician model"
+  },
+  {
+    "id": 94,
+    "question": "A person gathering evidence carefully to understand why someone acted a certain way is behaving as a:",
+    "options": ["Cognitive miser", "Naïve scientist", "Motivated tactician", "Heuristic thinker"],
+    "answer": "Naïve scientist"
+  },
+  {
+    "id": 95,
+    "question": "The tendency to ignore statistical information in favour of vivid, memorable examples is most closely linked to the:",
+    "options": ["Availability heuristic", "Anchoring heuristic", "Representativeness heuristic", "Effort heuristic"],
+    "answer": "Availability heuristic"
+  },
+  {
+    "id": 96,
+    "question": "Assigning someone to a group because they resemble the 'typical' member reflects which cognitive shortcut?",
+    "options": ["Anchoring", "Representativeness", "Availability", "Adjustment"],
+    "answer": "Representativeness"
+  },
+  {
+    "id": 97,
+    "question": "Which concept refers to how easily an idea or category is activated in memory?",
+    "options": ["Representativeness", "Anchoring", "Accessibility", "Priming"],
+    "answer": "Accessibility"
+  },
+  {
+    "id": 98,
+    "question": "Making decisions based on the first piece of information encountered reflects the:",
+    "options": ["Anchoring heuristic", "Availability heuristic", "Representativeness heuristic", "Projection heuristic"],
+    "answer": "Anchoring heuristic"
+  },
+  {
+    "id": 99,
+    "question": "Priming refers to:",
+    "options": ["Deliberately recalling past information", "Unconscious activation of related concepts", "Comparing oneself to others", "Judging based on explicit reasoning"],
+    "answer": "Unconscious activation of related concepts"
+  },
+  {
+    "id": 100,
+    "question": "Which term describes the belief that members of another group are more similar to each other than they truly are?",
+    "options": ["Illusory correlation", "Outgroup homogeneity effect", "Category accentuation", "Stereotype threat"],
+    "answer": "Outgroup homogeneity effect"
+  },
+  {
+    "id": 101,
+    "question": "When people categorise others, they tend to: ",
+    "options": ["Ignore similarities within groups", "Exaggerate differences between groups", "Underestimate category boundaries", "Treat groups as unrelated"],
+    "answer": "Exaggerate differences between groups"
+  },
+  {
+    "id": 102,
+    "question": "Which system in Kahneman's framework is fast, automatic, and heuristic-based?",
+    "options": ["System A", "System 1", "System 2", "Reflective system"],
+    "answer": "System 1"
+  },
+  {
+    "id": 103,
+    "question": "Which system in Kahneman's model involves slower, deliberate, effortful thinking?",
+    "options": ["System 1", "System 2", "Intuitive system", "Associative system"],
+    "answer": "System 2"
+  },
+  {
+    "id": 104,
+    "question": "The tendency to rely on mental shortcuts more when tired or distracted is predicted by which model?",
+    "options": ["Naïve scientist model", "Motivated tactician model", "Cognitive architecture model", "Attributional model"],
+    "answer": "Motivated tactician model"
+  },
+  {
+    "id": 105,
+    "question": "Which effect describes stronger associations between two variables that are both distinctive or unusual?",
+    "options": ["Shared distinctiveness effect", "Illusory correlation", "Outgroup homogeneity effect", "Base-rate fallacy"],
+    "answer": "Shared distinctiveness effect"
+  },
+  {
+    "id": 106,
+    "question": "The tendency to underestimate how many people act differently from ourselves is part of the:",
+    "options": ["Actor–observer bias", "False-consensus effect", "Self-serving bias", "Availability heuristic"],
+    "answer": "False-consensus effect"
+  },
+  {
+    "id": 107,
+    "question": "Which cognitive shortcut is most likely used when people judge probabilities based on similarity to a prototype?",
+    "options": ["Availability", "Representativeness", "Anchoring", "Adjustment"],
+    "answer": "Representativeness"
+  },
+  {
+    "id": 108,
+    "question": "Assuming someone is shy simply because they resemble a stereotype of a librarian demonstrates:",
+    "options": ["Base-rate neglect", "Anchoring", "Stereotype consistency", "Representativeness"],
+    "answer": "Representativeness"
+  },
+  {
+    "id": 109,
+    "question": "Paying attention only to information that fits a stereotype while ignoring inconsistent evidence is an example of:",
+    "options": ["Confirmation bias", "Anchoring", "Adjustment", "False-consensus effect"],
+    "answer": "Confirmation bias"
+  },
+  {
+    "id": 110,
+    "question": "Believing that two rare events frequently occur together is most associated with:",
+    "options": ["Shared distinctiveness", "Priming", "Anchoring", "Outgroup homogeneity"],
+    "answer": "Shared distinctiveness"
+  },
+  {
+    "id": 111,
+    "question": "Automatic thinking is typically:",
+    "options": ["Effortful", "Intentional", "Fast", "Slow"],
+    "answer": "Fast"
+  },
+  {
+    "id": 112,
+    "question": "Deliberate, controlled thinking is most strongly associated with:",
+    "options": ["System 1", "Automaticity", "System 2", "Implicit cognition"],
+    "answer": "System 2"
+  },
+  {
+    "id": 113,
+    "question": "Stereotypes function cognitively as:",
+    "options": ["Attitudes", "Heuristics", "Motivators", "Behaviours"],
+    "answer": "Heuristics"
+  },
+  {
+    "id": 114,
+    "question": "The process of placing people into social groups based on shared characteristics is known as:",
+    "options": ["Social inference", "Social categorisation", "Social comparison", "Social projection"],
+    "answer": "Social categorisation"
+  },
+  {
+    "id": 115,
+    "question": "People are more likely to use in-depth reasoning when the decision is:",
+    "options": ["Low in importance", "Based on stereotypes", "Highly important", "Time-pressured"],
+    "answer": "Highly important"
+  },
+  {
+    "id": 116,
+    "question": "Which heuristic is most likely when someone recalls vivid recent events and assumes they are common?",
+    "options": ["Representativeness", "Anchoring", "Availability", "Adjustment"],
+    "answer": "Availability"
+  },
+  
+  
+  
+  {
+    "id": 117,
+    "question": "Which term refers to the process of changing an individual’s attitudes, beliefs, or behaviors due to the actions or presence of others?",
+    "options": ["Social Influence", "Cognitive Dissonance", "Attribution", "Anchoring"],
+    "answer": "Social Influence"
+  },
+  {
+    "id": 118,
+    "question": "What form of influence is driven by the desire to be liked or accepted?",
+    "options": ["Informational Social Influence", "Normative Social Influence", "Compliance", "Obedience"],
+    "answer": "Normative Social Influence"
+  },
+  {
+    "id": 119,
+    "question": "What type of influence occurs when individuals look to others for information because they believe others know better?",
+    "options": ["Normative Social Influence", "Informational Social Influence", "Priming", "Conformity"],
+    "answer": "Informational Social Influence"
+  },
+  {
+    "id": 120,
+    "question": "Which concept describes a situation where people incorrectly assume others hold a belief, leading them to publicly support that belief despite privately disagreeing?",
+    "options": ["False Consensus Effect", "Pluralistic Ignorance", "Group Polarization", "Compliance"],
+    "answer": "Pluralistic Ignorance"
+  },
+  {
+    "id": 121,
+    "question": "Which of the following best describes Nudge Theory?",
+    "options": ["Persuading people through direct instruction", "Changing behavior by restricting choices", "Altering decisions through subtle changes in choice presentation", "Using social pressure to enforce norms"],
+    "answer": "Altering decisions through subtle changes in choice presentation"
+  },
+  {
+    "id": 122,
+    "question": "What intervention type involves large-scale campaigns that inform people about actual behaviors in their community?",
+    "options": ["Social Norm Marketing", "Focus Group Discussions", "Personalized Normative Feedback", "Policy Enforcement"],
+    "answer": "Social Norm Marketing"
+  },
+  {
+    "id": 123,
+    "question": "Which intervention strategy provides individuals with data about how their behavior compares to true group norms?",
+    "options": ["Group Therapy", "Personalized Normative Feedback", "Normative Pressure", "Coercive Compliance"],
+    "answer": "Personalized Normative Feedback"
+  },
+  {
+    "id": 124,
+    "question": "What term refers to the design of decision environments to influence behavior without restricting options?",
+    "options": ["Behavior Mapping", "Cognitive Architecture", "Choice Architecture", "Environmental Framing"],
+    "answer": "Choice Architecture"
+  },
+  {
+    "id": 125,
+    "question": "In legal settings, what is the name of the process used to screen jurors for bias before a trial?",
+    "options": ["Peremptory Challenge", "Voir Dire", "Jury Nullification", "Pre-Trial Arbitration"],
+    "answer": "Voir Dire"
+  },
+  {
+    "id": 126,
+    "question": " Which term describes a lawyer’s ability to dismiss a juror without giving a reason?",
+    "options": ["Voir Dire", "Judicial Override", "Peremptory Challenge", "Normative Exclusion"],
+    "answer": "Peremptory Challenge"
+  },
+  {
+    "id": 127,
+    "question": "Exposure to what type of information increases the likelihood that jurors assume the accused is guilty?",
+    "options": ["Scientific Testimony", "Pre-Trial Publicity", "Normative Feedback", "Expert Disagreement"],
+    "answer": "Pre-Trial Publicity"
+  },
+  {
+    "id": 128,
+    "question": "Which psychological effect occurs when thinking about money makes people more independent but less social?",
+    "options": ["Scarcity Mindset", "Money Priming Effect", "Self-Efficacy Boost", "Anchoring Bias"],
+    "answer": "Money Priming Effect"
+  },
+  {
+    "id": 129,
+    "question": "What phenomenon describes stock market behavior driven more by group emotions than company fundamentals?",
+    "options": ["Efficient Market Hypothesis", "Sentiment-Driven Pricing", "Anchoring", "Loss Aversion"],
+    "answer": "Sentiment-Driven Pricing"
+  },
+  {
+    "id": 130,
+    "question": "According to research, what often influences investors due to social transmission of unverified information?",
+    "options": ["Market Regulations", "Rumors", "Random Walks", "Fiscal Policy"],
+    "answer": "Rumors"
+  },
+  
+  {
+    "id": 131,
+    "question": "Which concept describes a situation where people mistakenly think most others endorse a norm that they privately reject?",
+    "options": ["Pluralistic Ignorance", "False Consensus Effect", "Obedience Pressure", "Collective Avoidance"],
+    "answer": "Pluralistic Ignorance"
+  },
+
+  {
+    "id": 132,
+    "question": "What type of influence occurs when someone follows others because they believe those others have more accurate information?",
+    "options": ["Informational Social Influence", "Normative Compliance", "Social Loafing", "Heuristic Bias"],
+    "answer": "Informational Social Influence"
+  },
+
+  {
+    "id": 133,
+    "question": "Designing environments so that certain choices are easier or more attractive is an example of:",
+    "options": ["Choice Architecture", "Group Facilitation", "Cognitive Priming", "Reinforcement Scheduling"],
+    "answer": "Choice Architecture"
+  },
+
+  {
+    "id": 134,
+    "question": "Research shows that people often misjudge how much others engage in certain behaviors (e.g., drinking, downloading, recycling). This is best labeled as:",
+    "options": ["Norm Misperception", "Availability Bias", "Fundamental Attribution Error", "Cognitive Dissonance"],
+    "answer": "Norm Misperception"
+  },
+
+  {
+    "id": 135,
+    "question": "Which intervention strategy involves presenting individuals with how their own behavior compares to accurate group norms?",
+    "options": ["Personalised Normative Feedback", "Consensus Mapping", "Corrective Persuasion", "Informational Cueing"],
+    "answer": "Personalised Normative Feedback"
+  },
+
+  {
+    "id": 136,
+    "question": "The influence that stems from wanting approval or acceptance from others is known as:",
+    "options": ["Normative Social Influence", "Agentic Obedience", "Attributional Influence", "Prosocial Modeling"],
+    "answer": "Normative Social Influence"
+  },
+
+  {
+    "id": 137,
+    "question": "Which of the following is a common limitation of social norm marketing campaigns?",
+    "options": ["Low personal relevance for the audience", "High financial cost", "Lack of online delivery options", "Difficulty establishing a control group"],
+    "answer": "Low personal relevance for the audience"
+  },
+
+  {
+    "id": 138,
+    "question": "During jury deliberations, who is most likely to become the foreperson according to classic findings?",
+    "options": ["The first person who speaks", "The person with the highest education", "The quietest member", "The individual with prior jury experience"],
+    "answer": "The first person who speaks"
+  },
+
+  {
+    "id": 139,
+    "question": "Exposure to money-related cues has been shown to make individuals:",
+    "options": ["More self-sufficient and less socially oriented", "More cooperative in group tasks", "More emotionally expressive", "Less motivated to complete tasks"],
+    "answer": "More self-sufficient and less socially oriented"
+  },
+
+{
+    "id": 140,
+    "question": "Which form of influence involves following a direct request from another person?",
+    "options": ["Compliance", "Conformity", "Obedience", "Reactance"],
+    "answer": "Compliance"
+  },
+  {
+    "id": 141,
+    "question": "What is the main purpose of the Behavioural Insights Team ('Nudge Unit')?",
+    "options": ["To apply behavioral science to public policy", "To enforce health regulations", "To run national surveys", "To evaluate court decisions"],
+    "answer": "To apply behavioral science to public policy"
+  },
+  {
+    "id": 142,
+    "question": "Which term refers to people altering behavior because they want to avoid social disapproval?",
+    "options": ["Normative Influence", "Cognitive Bias", "Attentional Drift", "Procedural Influence"],
+    "answer": "Normative Influence"
+  },
+  {
+    "id": 143,
+    "question": "What do nudges typically avoid doing?",
+    "options": ["Removing options from people", "Influencing decisions", "Changing the physical environment", "Targeting heuristics"],
+    "answer": "Removing options from people"
+  },
+  {
+    "id": 144,
+    "question": "According to the social norms approach, behavior often follows:",
+    "options": ["What people believe others are doing", "Explicit legal rules", "Personal moral values alone", "Biological predispositions"],
+    "answer": "What people believe others are doing"
+  },
+  {
+    "id": 145,
+    "question": "What type of influence occurs unintentionally, without deliberate persuasion?",
+    "options": ["Unintentional Influence", "Peripheral Influence", "Covert Compliance", "Implicit Reinforcement"],
+    "answer": "Unintentional Influence"
+  },
+  {
+    "id": 146,
+    "question": "Which intervention involves participants actively discussing and evaluating perceived norms together?",
+    "options": ["Focus Group Discussions", "Personalised Messaging", "Behavioral Contracting", "Environmental Cues"],
+    "answer": "Focus Group Discussions"
+  },
+  {
+    "id": 147,
+    "question": "Which of the following best describes a key challenge in social norms interventions?",
+    "options": ["Issues of personalization, buy in and engagement", "Difficulty identifying target populations", "Over-reliance on financial incentives", "Lack of relevant theory"],
+    "answer": "Issues of personalization, buy in and engagement"
+  },
+  {
+    "id": 148,
+    "question": "Which process involves obeying an authority figure's explicit instructions?",
+    "options": ["Obedience", "Compliance", "Social Learning", "Attitude Alignment"],
+    "answer": "Obedience"
+  },
+  {
+    "id": 149,
+    "question": "According to Sommers & Ellsworth (2001), when racial issues are highlighted in a trial, white jurors often:",
+    "options": ["Try to avoid appearing biased", "Rely heavily on stereotypes", "Ignore all racial cues", "Favor the prosecution automatically"],
+    "answer": "Try to avoid appearing biased"
+  },
+  {
+    "id": 150,
+    "question": "Which study found that prompting jurors to consider a harsh verdict first increased severity of final decisions?",
+    "options": ["Greenberg et al. (1986)", "Asch (1951)", "Zhou et al. (2009)", "Vohs et al. (2006)"],
+    "answer": "Greenberg et al. (1986)"
+  },
+  {
+    "id": 151,
+    "question": "Sitting at the head of a rectangular table in a jury room increases the chance of becoming the foreperson due to:",
+    "options": ["Spatial Position Effects", "Anchoring", "Role Priming", "Status Threat Reduction"],
+    "answer": "Spatial Position Effects"
+  },
+  {
+    "id": 152,
+    "question": "What did Hummel & Maedche (2019) conclude about nudging effectiveness?",
+    "options": ["It varies widely depending on what is measured", "It consistently produces large effects", "It rarely impacts behavior", "It is most effective in legal contexts"],
+    "answer": "It varies widely depending on what is measured"
+  },
+  {
+    "id": 153,
+    "question": "Which type of influence is most relevant when jurors rely on others' interpretations of evidence because they feel uncertain?",
+    "options": ["Informational Influence", "Normative Compliance", "Projection Bias", "Authority Priming"],
+    "answer": "Informational Influence"
+  },
+  {
+    "id": 154,
+    "question": "Which intervention method has the advantage of reaching many people through multiple media channels?",
+    "options": ["Social Norm Marketing", "Personalised Feedback", "Focus Groups", "Legislative Reform"],
+    "answer": "Social Norm Marketing"
+  },
+  {
+    "id": 155,
+    "question": "According to Vohs et al. (2006), thinking about money makes people:",
+    "options": ["More autonomous", "More cooperative", "More trusting", "More risk-averse"],
+    "answer": "More autonomous"
+  },
+  {
+    "id": 156,
+    "question": "Which finding supports the idea that social cues affect market behavior?",
+    "options": ["Rumors can influence stock prices", "People prefer stable investments", "Most investors avoid herd behavior", "Market crashes only follow economic reports"],
+    "answer": "Rumors can influence stock prices"
+  },
+  {
+    "id": 157,
+    "question": "Which phenomenon helps explain why shocking or dramatic financial rumors spread widely online?",
+    "options": ["Survival Information Bias", "Retroactive Interference", "Projection Bias", "Primacy Effect"],
+    "answer": "Survival Information Bias"
+  },
+  {
+    "id": 158,
+    "question": "Which situation best illustrates normative social influence?",
+    "options": ["Agreeing with a group to avoid being judged", "Learning from an expert's testimony", "Choosing randomly when unsure", "Following rules due to legal threat"],
+    "answer": "Agreeing with a group to avoid being judged"
+  },
+  {
+    "id": 159,
+    "question": "What is a key assumption of peer norm interventions?",
+    "options": ["People adjust behavior based on perceived group norms", "Individuals ignore group behavior entirely", "Personal values override social influence", "Norms are fixed and cannot be corrected"],
+    "answer": "People adjust behavior based on perceived group norms"
+  },
+  {
+    "id": 160,
+    "question": "Which feature distinguishes nudges from rules or mandates?",
+    "options": ["Nudges preserve freedom of choice", "Nudges require legal enforcement", "Nudges rely on punishment", "Nudges must be financial incentives"],
+    "answer": "Nudges preserve freedom of choice"
+  }
+]  
+  
+  
