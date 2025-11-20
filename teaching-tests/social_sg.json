@@ -1,0 +1,670 @@
+[
+{
+    "topic": "Quick Definitions",
+    "flashcards": [
+      {
+        "question": "Naïve Scientist",
+        "answer": "People act like rational, systematic problem-solvers who use logic and evidence to understand the social world."
+      },
+	  {
+        "question": "Cognitive Miser",
+        "answer": "People try to use as little mental effort as possible, relying on shortcuts instead of careful thinking."
+      },
+	  {
+        "question": "Motivated Tactician",
+        "answer": "People flexibly switch between effortful and effortless thinking depending on their goals, motivation, time pressure, and cognitive resources."
+      },
+	  {
+        "question": "Heuristics",
+        "answer": "Quick, efficient mental shortcuts that simplify complex judgments. They save time but often lead to biased or inaccurate conclusions."
+      },
+	  {
+        "question": "Representativeness Heuristic",
+        "answer": "Judging something based on how much it resembles the “prototype” of a category rather than on actual statistical probability."
+      },
+	  {
+        "question": "Availability Heuristic",
+        "answer": "Estimating how common or likely something is based on how easily examples come to mind."
+      },
+	  {
+        "question": "Anchoring Heuristic",
+        "answer": "Relying too heavily on an initial piece of information (the “anchor”) when making a decision or judgment."
+      },
+	  {
+        "question": "False Consensus Effect",
+        "answer": "The tendency to overestimate how much other people share our opinions, beliefs, and behaviors.(Often driven by availability of similar others in our social circles.)"
+      },
+	  {
+        "question": "Base Rate Fallacy",
+        "answer": "Ignoring actual statistical probabilities (base rates) in favor of vivid or representative information."
+      },
+	  {
+        "question": "Illusory Correlation",
+        "answer": "Perceiving a relationship between two variables when no real relationship exists. (Often occurs when two distinctive events co-occur)"
+      },
+	  {
+        "question": "Shared Distinctiveness",
+        "answer": "The tendency for rare events involving rare groups to stand out and be remembered, leading to illusory correlations."
+      },
+	  {
+        "question": "Availability vs Accessibility",
+        "answer": "Availability → subjective feeling of ease of recall||Accessibility → objective speed/strength of activation in memory (doesn’t require awareness)"
+      },
+	  {
+        "question": "Social Categorisation",
+        "answer": "The mental process of grouping people into categories based on shared characteristics."
+      },
+	  {
+        "question": "Prototype",
+        "answer": "The “best” or most typical example of a category in memory; used as a mental comparison point."
+      },
+	  {
+        "question": "Schema",
+        "answer": "A structured knowledge framework about a concept, category, or person that guides perception, memory, and behaviour."
+      },
+	  {
+        "question": "Stereotype",
+        "answer": "A simplified, generalised belief about the characteristics of a group and its members."
+      },
+	  {
+        "question": "Ingroup",
+        "answer": "The group you identify with, feel belonging to, or favour."
+      },
+	  {
+        "question": "Outgroup",
+        "answer": "Any group you do not belong to; often seen as more homogeneous and judged more harshly."
+      },
+	  {
+        "question": "Outgroup Homogeneity Effect",
+        "answer": "The tendency to see members of outgroups as more similar to each other than members of one’s own group."
+      },
+	  {
+        "question": "Homogeneous Category",
+        "answer": "A category perceived as containing members who are all very similar."
+      },
+	  {
+        "question": "Heterogeneous Category",
+        "answer": "A category perceived as containing diverse and varied members."
+      },
+	  {
+        "question": "Automatic Processing",
+        "answer": "Fast, effortless, unconscious cognitive activity that does not require attention or intention."
+      },
+ 	  {
+        "question": "Priming",
+        "answer": "The activation of a concept or category in memory that makes related ideas, traits, or behaviors more accessible."
+      },
+	  {
+        "question": "Behavioral Assimilation",
+        "answer": "When primed concepts influence people to behave in stereotype-consistent or concept-consistent ways."
+      },
+      {
+        "question": "Dual-Process Models (System 1 & System 2 — Kahneman)",
+        "answer": "System 1: Fast, automatic, intuitive thinking relying on heuristics.||System 2: Slow, deliberate, analytical thinking requiring effort."
+      },
+	  {
+        "question": "Actor–Observer Bias",
+        "answer": "The tendency to attribute our own behaviour to the situation, but others’ behaviour to their personality (see also _fundamental attribution error_). "
+      },
+	  {
+        "question": "Illusory Truth Effect",
+        "answer": "The tendency to believe information is true after repeated exposure."
+      },
+	  {
+        "question": "Optimism Bias",
+        "answer": "Belief that negative events are less likely to happen to oneself than to others."
+      },
+	  {
+        "question": "Confirmation Bias",
+        "answer": "Seeking information that supports one’s beliefs and ignoring contradictory evidence."
+	  }, 
+	  {
+        "question": "Schwarz et al. (1991) Assertiveness Study",
+        "answer": "People judged themselves as more assertive when they recalled 6 examples (easy) than 12 examples (difficult). Demonstrates the availability heuristic and the role of ease of recall.|(Replicability in question)"
+      },
+	  {
+        "question": "Bargh et al. (1996) Elderly-Priming Study",
+        "answer": "Participants primed with words related to elderly stereotypes walked more slowly afterwards. Demonstrates automatic priming and behavioural assimilation.|(Replicability in question)"
+      },
+	  {
+        "question": "Ross et al. (1977) False Consensus Study",
+        "answer": "People assumed others would make the same choice or hold the same opinion as them. Demonstrates the false consensus effect."
+      },
+	  {
+        "question": "Scarcity Heuristic",
+        "answer": "Things that appear scarce are judged as more valuable."
+	  },
+	  {
+        "question": "Price–Quality Heuristic",
+        "answer": "Higher price is assumed to indicate higher quality."
+      },
+	  {
+        "question": "Framing Effect",
+        "answer": "How information is presented (gain vs loss framing) strongly shapes political and health decisions."
+      },
+	  
+	  {
+        "question": "Social Influence",
+        "answer": "The process by which an individual’s attitudes, beliefs, or behaviors are modified by the presence or actions of others."
+      },
+	  {
+        "question": "Conformity",
+        "answer": "Adjusting one’s behavior or beliefs to match those of a group, usually due to pressure (real or imagined)."
+	  },
+	   {
+        "question": "Compliance",
+        "answer": "Changing behavior because of a direct request from another person."
+      },
+	  {
+        "question": "Obedience",
+        "answer": "Following the orders or instructions of an authority figure."
+	  },
+	   {
+        "question": "Unintentional Influence",
+        "answer": "Changes in behavior or thinking that occur without deliberate attempts to influence often subtle, automatic, or incidental."
+      },
+	  {
+        "question": "Nudge Theory",
+        "answer": "A behavioral economics approach proposing that structuring the environment (“choice architecture”) can steer people toward certain decisions without restricting options or significantly altering incentives."
+	  },
+	   {
+        "question": "Choice Architecture",
+        "answer": "The way choices are presented to people, which influences their decisions (e.g., placing healthy food near the checkout)."
+      },
+	  {
+        "question": "The Behavioural Insights Team (Nudge Unit)",
+        "answer": "A government-founded group applying behavioral science to public policy (e.g., boosting organ donation by invoking fairness/reciprocity)."
+	  },
+	   {
+        "question": "Effectiveness of Nudging",
+        "answer": "Research shows nudges have mixed effectiveness; outcomes vary by context, with moderate effect sizes."
+      },
+	  {
+        "question": "Normative Social Influence",
+        "answer": "Influence driven by the desire to be liked, accepted, or fit in (to gain social approval or to avoid social rejection)."
+	  },
+	   {
+        "question": "Informational Social Influence",
+        "answer": "Influence driven by the desire to be correct, often relying on others when uncertain."
+      },
+	  {
+        "question": "Pluralistic Ignorance",
+        "answer": "A situation where individuals mistakenly believe their personal beliefs differ from the group’s beliefs and publicly conform to what they (incorrectly) think others believe."
+	  },
+	   {
+        "question": "Social Norms",
+        "answer": "Shared expectations about appropriate behavior in a group."
+      },
+	  {
+        "question": "Norm Misperception",
+        "answer": "Inaccurate beliefs about how others think or behave (common in domains like alcohol use, sexual health, recycling, etc.)."
+	  },
+	   {
+        "question": "Peer Norm Interventions",
+        "answer": "Interventions that assume people align with the perceived norms of their peer group; correcting misperceived norms to shift behavior."
+      },
+	  {
+        "question": "Social Norm Marketing",
+        "answer": "Broad campaigns using media to correct misperceived norms. Strength: wide reach. Weakness: low personalization and engagement."
+	  },
+	   {
+        "question": "Focus Group Discussions",
+        "answer": "Small-group discussions used to identify perceived norms and introduce “true norms,” sometimes discovered collaboratively."
+      },
+	  {
+        "question": "Personalized Normative Feedback",
+        "answer": "Showing individuals how their behavior compares to actual group norms to motivate adjustment."
+	  },
+	   {
+        "question": "Voir Dire (Law)",
+        "answer": "A pre-trial process where lawyers and judges question prospective jurors to identify biases or conflicts of interest."
+      },
+	  {
+        "question": "Peremptory Challenges (Law)",
+        "answer": "Lawyers’ ability (in some countries) to dismiss potential jurors without giving a reason."
+	  },
+	   {
+        "question": "Non-evidentiary Influences (Law)",
+        "answer": "Juror judgments shaped by factors unrelated to the case evidence, such as media exposure or racial cues."
+      },
+	  {
+        "question": "Cognitive Heuristics in Legal Decision-Making",
+        "answer": "Mental shortcuts lawyers and jurors use under pressure, often leading to biases (e.g., expectations becoming self-fulfilling)."
+	  },
+	   {
+        "question": "Foreperson Selection Bias",
+        "answer": "The tendency for the first speaker or the person at the head of the table to become the jury foreperson."
+      },
+	  {
+        "question": "Normative vs. Informational Influence in Juries",
+        "answer": "Jury decisions may shift due to wanting to fit in (normative influence) or believing others have better information (informational influence)."
+	  },
+	   {
+        "question": "Money Priming Effect",
+        "answer": "Thinking about money increases self-sufficiency and independence but reduces social connection. (Replicability in question)"
+      },
+	  {
+        "question": "Social Rejection and Money Effects",
+        "answer": "Reminders of money can buffer the negative feelings of social rejection."
+	  },
+	   {
+        "question": "Behavioral Finance",
+        "answer": "The study of how psychological factors shape financial decisions and market behavior."
+      },
+	  {
+        "question": "Market Rumors & Social Transmission",
+        "answer": "Unverified information spreads socially and can influence stock prices (e.g., rumors, viral posts, survival-information bias)."
+	  },
+	   {
+        "question": "Sentiment-Driven Pricing",
+        "answer": "Market behavior influenced by group sentiment rather than company fundamentals (e.g., the GameStop phenomenon)."
+      }
+	  ]
+  },
+  {
+    "topic": "Lecture 1: Social Cognition I",
+    "flashcards": [
+      {
+        "question": "What is the focus of social psychology?",
+        "answer": "Study of how individuals are influenced by social contexts, including thoughts, feelings, and behaviours in social situations such as group dynamics, perception, and interpersonal relationships.|Investigates causes of prejudice, conformity, leadership, and interpersonal influence. || https://en.wikipedia.org/wiki/Social_psychology"
+      },
+      {
+        "question": "How does social psychology differ from sociology?",
+        "answer": "Social psychology focuses on individual thoughts, feelings and behaviours in social situations.|Sociology studies large-scale social structures and institutions (e.g., class, religion, education). || https://en.wikipedia.org/wiki/Sociology"
+      },
+      {
+        "question": "Name three applied fields that use social psychology principles.",
+        "answer": "Marketing and market research.|Human Resources (HR).|Public Relations (PR).|(Also: Organizational Psychology, Health and Public Health.) || https://en.wikipedia.org/wiki/Applied_psychology"
+      },
+      {
+        "question": "Define _social cognition_.",
+        "answer": "Cognition involved when people perceive, think about, interpret, categorize, and judge their own social behaviours and those of others.|Combines cognitive and social psychology; major areas include attribution, person perception, social influence, and moral cognition.||https://dictionary.apa.org/social-cognition"
+      },
+      {
+        "question": "What problem does the concept of heuristics address?",
+        "answer": "Heuristics are mental shortcuts used to reduce complex judgements to simple rules of thumb when cognitive resources are limited.|They are pragmatic, not fully optimal, but often 'good enough' for fast decision-making. || https://en.wikipedia.org/wiki/Heuristic_(psychology)"
+      },
+      {
+        "question": "Who introduced the idea of bounded rationality and what does it mean?",
+        "answer": "Herbert A. Simon introduced bounded rationality.|It means people make decisions with limited information, time, and cognitive capacity, often satisficing (choosing a 'good enough' option) rather than optimizing.|| https://en.wikipedia.org/wiki/Bounded_rationality"
+      },
+      {
+        "question": "Describe the _representativeness heuristic_.",
+        "answer": "Estimating likelihood by how well something matches a prototype or stereotype (judging by similarity).|Quick but can ignore base rates and lead to stereotyping and biased conclusions.|| https://en.wikipedia.org/wiki/Representativeness_heuristic"
+      },
+      {
+        "question": "What is the _availability heuristic_?",
+        "answer": "Overestimating the likelihood of events that are easy to recall (recent, vivid, or emotional).|Leads people to rely on memorable anecdotes rather than statistical evidence.|| https://en.wikipedia.org/wiki/Availability_heuristic"
+      },
+      {
+        "question": "Explain the base rate fallacy with the breathalyzer example.",
+        "answer": "Ignoring base-rate or statistically significant information, such as sample size or the relative frequency of an event, in favor of less relevant information e.g., pertaining to a single case, or a small number of cases.|**Example**: With 1 drunk driver per 1000 and 5% false positives, a positive breathalyzer more likely is a false positive — probability driver is actually drunk ≈ 1/50.95 (~2%).||https://en.wikipedia.org/wiki/Base_rate_fallacy"
+      },
+      {
+        "question": "What is the false consensus effect?",
+        "answer": "Tendency to overestimate how much others share our beliefs and behaviours.|Often arises from egocentric sampling and the availability heuristic.|| https://en.wikipedia.org/wiki/False_consensus_effect"
+      },
+      {
+        "question": "Define _social categorization_.",
+        "answer": "The cognitive process of grouping people into social categories based on shared characteristics (e.g., race, gender, language).|Helps simplify the social world but can lead to biases. https://doi.org/10.1093/acrefore/9780190236557.013.308"
+      },
+      {
+        "question": "What is a _prototype_ in categorization?",
+        "answer": "The most typical or central member of a category used as a reference for judging other members.|Members are evaluated by similarity to the prototype.|| https://dictionary.apa.org/prototype"
+      },
+      {
+        "question": "Distinguish between subordinate, basic, and superordinate levels of categorization.",
+        "answer": "Subordinate = very specific (e.g., 'The Adventures of Tom Sawyer').|Basic = general (e.g., 'Novel').|Superordinate = broad (e.g., 'Literature')."
+      },
+      {
+        "question": "What is the out-group homogeneity effect?",
+        "answer": "Perceiving out-groups as more homogeneous (all the same) while viewing one's in-group as more heterogeneous (diverse). || https://en.wikipedia.org/wiki/Out-group_homogeneity"
+      },
+      {
+        "question": "Define _in-group_ and _out-group_.",
+        "answer": "**In-group**: a group a person identifies with psychologically; associated with belonging and loyalty.|**Out-group**: groups a person does not identify with; may be seen as less familiar.||  https://en.wikipedia.org/wiki/In-group_and_out-group"
+      },
+      {
+        "question": "How can social categorization be adaptive?",
+        "answer": "It reduces uncertainty, helps predict social behaviour, and provides prescriptive norms for self and group identity.|May have evolved as a survival strategy to quickly identify allies and threats.||https://pmc.ncbi.nlm.nih.gov/articles/PMC5605918/"
+      },
+      {
+        "question": "What evidence suggests social categorization develops early in life?",
+        "answer": "Children show preferences for ingroup members, use categories to make social inferences, and acquire social biases early.|Infants display visual preferences influenced by familiarity and contact.||https://pmc.ncbi.nlm.nih.gov/articles/PMC5605918/"
+      },
+      {
+        "question": "Summarise Heider's _Naïve Scientist_ model.",
+        "answer": "People are motivated to form coherent views and exert control, engaging in effortful, logical analyses of cause-and-effect like scientists.|Assumes careful, accuracy-seeking processing but doesn't account well for common attribution biases.||https://en.wikipedia.org/wiki/Political_cognition#Na%C3%AFve_scientist"
+      },
+      {
+        "question": "Summarise the _Cognitive Miser_ model by Fiske & Taylor.",
+        "answer": "Humans have limited cognitive resources and therefore often rely on heuristics, stereotypes, and schemas to conserve mental effort.|This approach is efficient but can sacrifice accuracy.|| https://en.wikipedia.org/wiki/Cognitive_miser"
+      },
+      {
+        "question": "What is the _Motivated Tactician_ perspective?",
+        "answer": "A flexible view: people select cognitive strategies (quick heuristics vs. effortful analysis) based on goals, motives, and situational demands.|Balances speed and accuracy; motivation and context determine processing depth.||https://en.wikipedia.org/wiki/Motivated_tactician"
+      },
+      {
+        "question": "Give an example illustrating the trade-off described by the _Motivated Tactician_.",
+        "answer": "Choosing a heuristic when making a quick purchase at a shop (speed over accuracy) versus deliberating extensively when buying a house (accuracy over speed).|Motivation and stakes shift processing strategy.||https://en.wikipedia.org/wiki/Motivated_tactician"
+      },
+      {
+        "question": "What role does motivation play in social cognition?",
+        "answer": "Motivation determines how much cognitive effort is allocated: high personal relevance or important outcomes elicit more systematic processing; low relevance encourages heuristic processing."
+      },
+      {
+        "question": "Describe the concept of _satisficing_.",
+        "answer": "Choosing an option that is 'good enough' rather than optimal, because searching for the best choice is too costly in time or cognitive effort.|Related to bounded rationality (Herbert Simon).|| https://en.wikipedia.org/wiki/Satisficing"
+      },
+      {
+        "question": "Compare _representativeness_ and _availability heuristics_ (short contrast).",
+        "answer": "Representativeness: judges probability by similarity to a prototype (risk: ignoring base rates).|Availability: judges probability by ease of recall (risk: overemphasising vivid/recent events).||https://en.wikipedia.org/wiki/Representativeness_heuristic||https://en.wikipedia.org/wiki/Availability_heuristic"
+      },
+      {
+        "question": "Explain the Schwarz _et al._ (1991) finding with listing assertive behaviours.",
+        "answer": "Participants asked to list 6 assertive behaviours rated themselves as more assertive than those asked to list 12.|Proposed explanation: ease of retrieval made participants infer higher trait levels (an availability/ease-of-retrieval effect).||doi:10.1037/0022-3514.61.2.195"
+      },
+      {
+        "question": "What is the consequence of ignoring base rates?",
+        "answer": "Leads to mistaken probability estimates and poor decisions (base rate fallacy).|Example: overestimating the chance that a positive test indicates the rare condition without considering prevalence.|| https://en.wikipedia.org/wiki/Base_rate_fallacy"
+      },
+      {
+        "question": "How do social categories provide prescriptive norms?",
+        "answer": "Categories suggest expected behaviours and roles for group members, guiding self-definition and social expectations.|They help people understand how they relate to others in social contexts.||"
+      },
+      {
+        "question": "Why might people see their in-groups as more heterogeneous?",
+        "answer": "Greater familiarity and more individuating information about the in-group leads to perceiving more variation.|Cognitive exposure and motivation to see nuance for groups we belong to increases perceived heterogeneity."
+      },
+      {
+        "question": "Create an integrative comparison: _Naïve Scientist_ vs _Cognitive Miser_ vs _Motivated Tactician_.",
+        "answer": "**Naïve Scientist:** people engage in thorough, logical analysis to explain behaviour.|**Cognitive Miser:** people conserve effort and rely on shortcuts and heuristics.|**Motivated Tactician:** people flexibly choose between effortful analysis and shortcuts depending on goals and motivation.|Overall: the Motivated Tactician reconciles the other two by adding goal-directed flexibility."
+      },
+      {
+        "question": "What evidence suggests children use social categories to make inferences?",
+        "answer": "Preschoolers expect group members to share preferences and traits, show ingroup favouritism in rewards and punishment, and assume stability of group characteristics.||Liberman, Woodward, & Kinzler, 2017"
+      },
+      {
+        "question": "What is the role of context in perceiving group variability?",
+        "answer": "Groups may be seen as homogeneous or heterogeneous depending on which characteristics or contexts are salient.|Perception of variability is not inherent but context-dependent."
+      },
+      {
+        "question": "Why is it important to consider both cognitive capacity and motivation when predicting processing style?",
+        "answer": "Capacity limits (time, attention) may push toward heuristics, while motivation (importance, goals) may push toward effortful processing; both jointly determine whether a person uses shortcuts or systematic reasoning."
+      },
+      {
+        "question": "What are some limitations of heuristic-based processing?",
+        "answer": "While efficient, heuristics can produce systematic errors such as base-rate neglect, stereotyping, false consensus, and misjudged likelihoods; they may also amplify social biases.||https://en.wikipedia.org/wiki/Heuristic_(psychology)"
+      }
+    ]
+  },
+  
+  {
+    "topic": "Lecture 2: Social Cognition II",
+    "flashcards": [
+      {
+        "question": "What are stereotypes understood as in cognitive psychology?",
+        "answer": "In cognitive psychology, a stereotype is a cognitive schema, a simplified mental shortcut that allows the brain to quickly categorize groups and make assumptions about their members."
+      },
+	  {
+        "question": "What are stereotypes understood as in social psychology?",
+        "answer": "In social psychology, a stereotype is a generalized belief about a particular category of people. It is an expectation that people might have about every person of a particular group. The type of expectation can vary; it can be, for example, an expectation about the group's personality, preferences, appearance or ability. Stereotypes make information processing easier by allowing the perceiver to rely on previously stored knowledge in place of incoming information. || https://en.wikipedia.org/wiki/Stereotype "
+      },
+	  {
+        "question": "How can stereotypes emerge from the representativeness heuristic?",
+        "answer": "We expect someone who fits a prototype of a group to also possess its stereotyped attributes."
+      },
+	  {
+        "question": "What is an illusory correlation?",
+        "answer": "The belief that two variables are linked when they are not. Typical example: “rare behaviors” paired with “minority groups.”"
+      },
+	  {
+        "question": "What is shared distinctiveness?",
+        "answer": "The tendency to remember distinctive events involving distinctive groups, exaggerating perceived associations."
+      },
+	  {
+        "question": "Name three proposed effects stereotypes have on perception?",
+        "answer": "Interpretation bias, memory distortion, and behavioral confirmation (self-fulfilling prophecy)"
+      },
+	  {
+        "question": "How did the historical and modern views of stereotypes differ?",
+        "answer": "Historically: stereotypes are rigid and inaccurate (Allport). || Modern: stereotypes are beliefs that can be accurate or inaccurate."
+      },
+	  {
+        "question": "Measuring Stereotype Accuracy",
+        "answer": "Discrepancy scores and correspondence (sensitivity) correlations."
+      },
+	  {
+        "question": "Can accurate stereotypes still be harmful? Why?",
+        "answer": "Yes, because they can lead to discrimination, especially when individuating info is absent."
+      },
+	  {
+        "question": "What is the ecological fallacy?",
+        "answer": "Misapplying group-level data to individuals."
+      },
+ 	  {
+        "question": "What is priming in cognitive psychology?",
+        "answer": "A process where recent exposure to a stimulus influences later processing of similar stimuli.||E.g., repetition priming and semantic priming."
+      },
+	  {
+        "question": "What does automatic stereotype activation involve?",
+        "answer": "Categories triggering associated traits or behaviors without conscious awareness (Kahneman's System 1)."
+      },
+	  {
+        "question": "What did the Bargh et al. (1996) study claim to show?",
+        "answer": "That priming participants with elderly-related words caused them to walk more slowly afterward.||A scrambled sentence task containing words like “old,” “Florida,” and “wise.”|Participants were secretly timed walking from the lab to an elevator.|Theoretical point: Behavior can be influenced automatically by stereotypes without awareness. **Behavioral Assimilation**"
+      },
+	  {
+        "question": "Did the Bargh et al. (1996) effect replicate reliably?",
+        "answer": "_No_, many replication attempts failed. E.g., Doyen et al. (2012): The effect only appeared when experimenters knew the hypothesis, suggesting experimenter bias."
+      },
+	  {
+        "question": "What does the replication crisis highlight about social priming research?",
+        "answer": "Many classic effects are weaker, inconsistent, or vanish under rigorous testing."
+      },
+	  {
+        "question": "What does the IAT aim to measure?",
+        "answer": "The strength of automatic associations between concepts (e.g., “young–good”)."
+      },
+	  {
+        "question": "What is the claimed basic mechanism of the IAT?",
+        "answer": "Faster reaction times to “congruent” pairings compared to “incongruent” ones."
+      },
+	  {
+        "question": "What are common concerns about the IAT’s reliability and validity?",
+        "answer": "Low test–retest reliability (~.50), making it unsuitable for diagnosing individuals. It fails to predict real-world pehavior. Speed differences may reflect other factors."
+      },
+	  {
+        "question": "What is stereotype threat?",
+        "answer": "The risk of confirming a negative stereotype about one’s group, which can impair performance."
+      },
+	  {
+        "question": "What is stereotype lift (boost)",
+        "answer": "Performance improvement when a positive group stereotype is made salient."
+      },
+	  {
+        "question": "What did Shih, Pittinsky & Ambady (1999) find among Asian-American women?",
+        "answer": "Priming Asian identity → better math performance.||Priming gender identity → worse math performance."
+      },
+	  {
+        "question": "Have stereotype susceptibility results held up in replications?",
+        "answer": "Replications find much smaller or negligible effects; many concerns about publication bias and low statistical power. Effects may exist but are smaller, inconsistent, and not reliably reproduced across contexts."
+      },
+	  {
+        "question": "What is the availability heuristic in consumer behavior?",
+        "answer": "Believing a product is popular or high-quality because it’s frequently seen."
+      },
+	  {
+        "question": "How does the representativeness heuristic affect consumers?",
+        "answer": "Products resembling premium brands seem higher quality; “healthy-looking” packaging seems nutritious."
+      },
+	  {
+        "question": "What is anchoring in pricing?",
+        "answer": "A high initial price makes a lower sale price feel like a bargain."
+      },
+	  {
+        "question": "What is the scarcity heuristic?",
+        "answer": "The scarcity heuristic is a mental shortcut where people perceive items or opportunities as more valuable if they are rare or in limited supply. "
+      },
+	  {
+        "question": "What is a dark pattern?",
+        "answer": "A dark design pattern, also known as a deceptive design pattern, is a user interface (UI) design element or practice carefully crafted to mislead or manipulate (nudge or trick) users into taking actions they did not intend, often for the benefit of the company. These practices exploit human psychology and cognitive biases to drive specific business outcomes, such as purchasing a product, signing up for a recurring subscription, or sharing personal data."
+      },
+	  {
+        "question": "What is the IKEA effect?",
+        "answer": "People value things more when they’ve partially built or created them."
+      },
+	  {
+        "question": "What historical example illustrates the IKEA effect?",
+        "answer": "Instant cake mixes sold better once consumers had to add eggs, making them feel more involved."
+      },
+	  {
+        "question": "Why does the IKEA effect occur?",
+        "answer": "Successful completion boosts feelings of competence and ownership."
+      },
+	  {
+        "question": "How does the availability heuristic affect health judgments?",
+        "answer": "Vivid events (plane crashes, vaccine anecdotes) distort risk perception."
+      },
+	  {
+        "question": "How does representativeness affect health decisions?",
+        "answer": "People judge risk based on stereotypes (e.g., “I don’t look like someone with high blood pressure”)."
+      },
+	  {
+        "question": "What is optimism bias?",
+        "answer": "The belief that bad events happen to others, lowering preventive behaviors."
+      },
+	  {
+        "question": "How does anchoring affect health decisions?",
+        "answer": "Patients may cling to an initial diagnosis even when new evidence contradicts it."
+      }
+	  ]
+	},
+  
+  {
+    "topic": "Lecture 3: Peer Norms",
+    "flashcards": [
+      {
+        "question": "What is social influence?",
+        "answer": "The process where an individual’s attitudes, beliefs, or behaviors are changed by the presence or actions of others."
+      },
+      {
+        "question": "What are the main forms of social influence?",
+        "answer": "Conformity, compliance, obedience, and unintentional influence."
+      },
+      {
+        "question": "What is Nudge Theory?",
+        "answer": "A behavioral economics idea that small changes in how choices are presented can steer decisions without restricting options or major incentives."
+      },
+      {
+        "question": "What is choice architecture?",
+        "answer": "The design of how choices are organized or presented to influence decision-making."
+      },
+      {
+        "question": "Who proposed Nudge Theory?",
+        "answer": "Richard Thaler & Cass Sunstein (2008)."
+      },
+      {
+        "question": "What is an example of a nudge?",
+        "answer": "Placing healthy foods near the checkout to encourage better choices."
+      },
+      {
+        "question": "Is nudge the same as social norms?",
+        "answer": "Not necessarily. Nudges influence behavior through environment design, not social expectations."
+      },
+      {
+        "question": "How effective are nudges overall?",
+        "answer": "Mixed; about 62% of studies show significant effects, with a median effect size around 21%. Depends on what is being measured."
+      },
+      {
+        "question": "What is normative social influence?",
+        "answer": "Being influenced by others because you want approval or to fit in or fear social rejection."
+      },
+      {
+        "question": "What is informational social influence?",
+        "answer": "Conforming because you believe others have more accurate information."
+      },
+      {
+        "question": "What is pluralistic ignorance?",
+        "answer": "When people incorrectly believe others hold a belief that they themselves don’t, so they publicly go along with it."
+      },
+      {
+        "question": "What does research say about norm perception accuracy?",
+        "answer": "People often misjudge how others behave (e.g., substance use, recycling, sexual health)."
+      },
+      {
+        "question": "What is the social norms approach?",
+        "answer": "The idea that people behave based on what they think others do; correcting misperceptions can change behavior."
+      },
+      {
+        "question": "What is a peer norm intervention?",
+        "answer": "An approach where individual behavior is changed by correcting misperceived group norms."
+      },
+      {
+        "question": "What is social norm marketing?",
+        "answer": "Large-scale campaigns that publicize true norms to correct misperceptions."
+      },
+      {
+        "question": "What are limitations of social norm marketing?",
+        "answer": "Low personalization, limited engagement, and “preference-inconsistent” messages."
+      },
+      {
+        "question": "What are focus group discussions in norm interventions?",
+        "answer": "Guided group conversations to uncover perceived norms and introduce true norms."
+      },
+      {
+        "question": "What is personalized normative feedback?",
+        "answer": "Showing people how their own behavior compares to actual group norms."
+      },
+      {
+        "question": "What is a key criticism of social norms interventions?",
+        "answer": "Limited randomized trials and inconsistent implementation quality."
+      },
+      {
+        "question": "What is voir dire?",
+        "answer": "A pre-trial interview process used to screen jurors for bias."
+      },
+      {
+        "question": "What are peremptory challenges?",
+        "answer": "Lawyer requests to remove jurors without giving a reason (in some jurisdictions)."
+      },
+      {
+        "question": "How can lawyers’ decision-making be biased?",
+        "answer": "Quick judgments and stereotypes under time pressure."
+      },
+      {
+        "question": "What is an example of non-evidentiary influence on jurors?",
+        "answer": "Pre-trial media exposure increasing assumptions of guilt."
+      },
+      {
+        "question": "How can initial verdict suggestions affect jurors?",
+        "answer": "Being asked to consider a harsh verdict first can bias them toward harsher final decisions."
+      },
+      {
+        "question": "What may happen when race is made salient in trials?",
+        "answer": "Jurors may try to avoid appearing racist, which can alter decision patterns."
+      },
+	  {
+        "question": "How is a jury foreperson often chosen?",
+        "answer": "Often the first person to speak or the person seated at the head of the table."
+      },
+	  {
+        "question": "What types of influence affect jury deliberations?",
+        "answer": "Normative and informational influence."
+      },
+	  {
+        "question": "What is the money priming effect?",
+        "answer": "Thinking about money increases self-sufficiency and independence but reduces social behavior. Faced challenges with replication."
+      },
+	  {
+        "question": "How can money cues affect emotional experiences?",
+        "answer": "Being reminded of money can reduce the pain of social rejection or distress."
+      },
+	  {
+        "question": "What is behavioral finance?",
+        "answer": "The study of how psychological factors shape market behavior and investment decisions."
+      }
+	  ]
+	}
+  
+]
