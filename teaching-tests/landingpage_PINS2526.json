@@ -1,0 +1,41 @@
+{
+"title": "Personality, Intelligence and Social Psychology 25/26 — Study Hub",
+"intro": "Choose a resource to begin.",
+"resources": [
+	{
+		"id": "int-flashcards",
+		"title": "Intelligence :: Flashcards",
+		"url": "sg_intelligence.html",
+		"img": "assets/int-flashcards.jpg",
+		"description": "Core theories, tests, and application flashcards."
+	},
+	{
+		"id": "int-mcqs",
+		"title": "Intelligence :: Practice MCQs",
+		"url": "intelligence_mcqs.html",
+		"img": "assets/int-mcqs.jpg",
+		"description": "Timed multiple-choice practice."
+	},
+	{
+		"id": "soc-flashcards",
+		"title": "Social Psychology :: Flashcards",
+		"url": "sg_social.html",
+		"img": "assets/soc-flashcards.jpg",
+		"description": "Key concepts and classic studies."
+	},
+	{
+		"id": "soc-mcqs",
+		"title": "Social Psychology :: Practice MCQs",
+		"url": "social_mcqs.html",
+		"img": "assets/soc-mcqs.jpg",
+		"description": "Timed multiple-choice practice."
+	},
+	{
+		"id": "coursework-checklist",
+		"title": "Coursework Checklist",
+		"url": "pins-poster/PINSPosterChecklist.html",
+		"img": "assets/coursework.jpg",
+		"description": "Step-by-step coursework guide."
+	}
+]
+}
