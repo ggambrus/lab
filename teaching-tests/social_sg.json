@@ -258,7 +258,101 @@
 	   {
         "question": "Sentiment-Driven Pricing",
         "answer": "Market behavior influenced by group sentiment rather than company fundamentals (e.g., the GameStop phenomenon)."
-      }
+      },
+	  
+	  
+	 {
+		"question": "Intergroup relations",
+		"answer": "How people in one social group (the ingroup) think about, feel toward, and behave toward people in another group (the outgroup), including crowd behavior, cooperation vs. competition, social identity, prejudice, and conflict resolution."
+	  },
+	  {
+		"question": "Crowd behavior",
+		"answer": "How individuals act in large group settings, including how deindividuation or group-level identity can drive behavior that differs from individual norms."
+	  },
+	  {
+		"question": "Deindividuation",
+		"answer": "A state in which individuals lose their normal self-awareness and evaluation apprehension in a crowd, leading to disinhibited behavior."
+	  },
+	  {
+		"question": "Collective behavior",
+		"answer": "Behavior exhibited by individuals in groups or crowds, which can be guided by shared norms and identities rather than individual personality."
+	  },
+	  {
+		"question": "Social identity",
+		"answer": "How people define themselves in terms of group membership, influencing intergroup behavior through identification with an ingroup versus an outgroup."
+	  },
+	  {
+		"question": "Realistic Conflict Theory (RCT)",
+		"answer": "Theory proposing that intergroup conflict arises from competition over limited resources and that cooperation on shared goals can reduce tension."
+	  },
+	  {
+		"question": "Minimal Group Paradigm",
+		"answer": "Experimental framework showing that people favor their ingroup over an outgroup even when group membership is arbitrary and meaningless, demonstrating the impact of social categorization."
+	  },
+	  {
+		"question": "Social Categorization",
+		"answer": "The process of classifying people into groups based on shared characteristics."
+	  },
+	  {
+		"question": "Social Identification",
+		"answer": "The adoption of a group's identity into one's self-concept, which can vary in strength."
+	  },
+	  {
+		"question": "Social Comparison",
+		"answer": "Comparing one's ingroup with outgroups to evaluate the ingroup's status and enhance self-esteem."
+	  },
+	  {
+		"question": "Social Identity Theory (Tajfel)",
+		"answer": "A perspective on group processes that assumes groups influence members’ self-concepts and self-esteem, causing individuals to favor their ingroup over outgroups."
+	  },
+	  {
+		"question": "Prejudice",
+		"answer": "A preconceived negative (or positive) attitude toward a person or group, formed without direct experience, often including affective, cognitive, and behavioral components."
+	  },
+	  {
+		"question": "Authoritarian Personality (Adorno)",
+		"answer": "A personality type characterized by conventionalism, submission to authority, aggression toward outgroups, superstition, cynicism, and stereotyping, linked to higher prejudice."
+	  },
+	  {
+		"question": "Right-Wing Authoritarianism (RWA, Altemeyer)",
+		"answer": "A personality profile including authoritarian submission, authoritarian aggression, and conventionalism, linked to generalized prejudice and belief that the world is dangerous."
+	  },
+	  {
+		"question": "Left-Wing Authoritarianism (LWA, Costello et al)",
+		"answer": "A personality profile characterized by antihierarchical aggression, anticonventionalism, and support for top-down censorship, sharing core authoritarian traits with RWA."
+	  },
+	  {
+		"question": "Implicit bias",
+		"answer": "Attitudes or stereotypes that are theorized to operate outside of conscious awareness and control, which may influence behavior toward outgroups even when people believe they are unbiased."
+	  },
+	  {
+		"question": "Bona Fide Pipeline",
+		"answer": "An implicit measure of prejudice using sequential priming to reveal automatic evaluative associations."
+	  },
+	  {
+		"question": "Implicit Association Test (IAT)",
+		"answer": "A test measuring the strength of associations between categories (e.g., race) and attributes (e.g., good/bad) based on reaction times."
+	  },
+	  {
+		"question": "Contact Hypothesis",
+		"answer": "Theory that contact between members of different groups can improve intergroup relations under favorable conditions like equal status, cooperation, personal interaction, and supportive norms."
+	  },
+	  {
+		"question": "Decategorization",
+		"answer": "A prejudice-reduction strategy that encourages individuals to see each other as unique persons rather than representatives of a group."
+	  },
+	  {
+		"question": "Recategorization",
+		"answer": "A strategy to reduce prejudice by encouraging individuals to view themselves as part of a larger, shared group, integrating subgroups into a superordinate identity."
+	  },
+	  {
+		"question": "Dual Identity",
+		"answer": "An approach that encourages both a common superordinate identity and distinctive subgroup identities to reduce prejudice while preserving subgroup distinctiveness."
+	  }
+	  
+	  
+	  
+	  
 	  ]
   },
   {
@@ -665,6 +759,131 @@
         "answer": "The study of how psychological factors shape market behavior and investment decisions."
       }
 	  ]
+	},
+	{
+    "topic": "Lecture 4: Inter-group relations",
+    "flashcards": [
+	{
+    "question": "What are intergroup relations?",
+    "answer": "How people in one social group (the ingroup) think about, feel toward, and behave toward people in another group (the outgroup)."
+  },
+  {
+    "question": "What are key phenomena studied in intergroup relations?",
+    "answer": "Crowd behavior, cooperation vs. competition between groups, social identity, prejudice and discrimination, and conflict resolution."
+  },
+  {
+    "question": "What did Gustave Le Bon propose about crowds?",
+    "answer": "He suggested that individuals in crowds lose their personality and submit to a 'group mind' due to anonymity, contagion, and suggestibility."
+  },
+  {
+    "question": "How does Reicher's emergent-norm theory differ from Le Bon's view of crowds?",
+    "answer": "It suggests that crowd behavior follows shared norms and collective identity rather than irrationality; people act according to the norms of the group they identify with."
+  },
+  {
+    "question": "How does modern research differ from Le Bon's view on crowds?",
+    "answer": "It focuses on shared identity, goals, and norms in crowds rather than inherent irrationality."
+  },
+  {
+    "question": "What does deindividuation refer to in crowd behavior?",
+    "answer": "Loss of self-awareness and evaluation apprehension, leading to disinhibited behavior."
+  },
+  {
+    "question": "What was the Robbers Cave experiment?",
+    "answer": "A field study by Muzafer Sherif where boys at a summer camp were randomly assigned to groups, competed, and then cooperated on shared goals to study intergroup behavior."
+  },
+  {
+    "question": "What does Realistic Conflict Theory propose?",
+    "answer": "Intergroup conflict arises from competition over limited resources, and cooperation on shared goals can reduce tension."
+  },
+  {
+    "question": "What were the main phases of Sherif's Robbers Cave experiment?",
+    "answer": "1) Group formation with bonding activities, 2) Competition leading to hostility, 3) Conflict resolution using superordinate goals."
+  },
+  {
+    "question": "What does Realistic Conflict Theory explain based on Sherif's study?",
+    "answer": "Intergroup conflict arises from competition over scarce resources, and cooperation on shared goals can reduce tension."
+  },
+  {
+    "question": "What critiques have been raised about Sherif's Robbers Cave study?",
+    "answer": "Data suppression, manipulation of participants to provoke conflict, subjective measures, ethical issues, and influence of Sherif’s personal motivations."
+  },
+  {
+    "question": "What is the minimal group paradigm?",
+    "answer": "Experimental evidence that people favor their ingroup over an outgroup even when group membership is arbitrary and meaningless."
+  },
+   {
+    "question": "What is the minimal group paradigm and what does it demonstrate?",
+    "answer": "Random assignment to arbitrary groups leads people to favor their ingroup over outgroups, showing that intergroup bias doesn't require competition or history."
+  },
+  {
+    "question": "What is the key finding of Tajfel’s minimal group studies?",
+    "answer": "People prefer ingroups over outgroups in allocating resources even when group membership is meaningless."
+  },
+  {
+    "question": "How did Tajfel and Turner (1979/1986) extend minimal group findings?",
+    "answer": "They developed social identity theory, emphasizing that ingroup favoritism is driven by the desire to maintain positive self-esteem through social identity."
+  },
+  {
+    "question": "What are the three processes of social identity theory?",
+    "answer": "Social categorization, social identification, and social comparison."
+  },
+  {
+    "question": "How does social identity theory explain intergroup bias?",
+    "answer": "People favor their ingroup to enhance self-esteem and maintain a positive social identity, sometimes discriminating against outgroups."
+  },
+  {
+    "question": "How is prejudice defined according to APA?",
+    "answer": "A preconceived negative (or positive) attitude toward a person or group formed without direct experience, often including affective, cognitive, and behavioral components."
+  },
+  {
+    "question": "What is the authoritarian personality?",
+    "answer": "A personality type linked to higher prejudice, characterized by conventionalism, submission to authority, aggression toward outgroups, and rigid hierarchical thinking."
+  },
+  {
+    "question": "What is the main idea behind the authoritarian personality theory?",
+    "answer": "Harsh upbringing fosters rigid hierarchy, submission to authority, aggression toward outgroups, and generalized prejudice."
+  },
+  {
+    "question": "What are the components of Right-Wing Authoritarianism (RWA)?",
+    "answer": "Authoritarian submission, authoritarian aggression, and conventionalism."
+  },
+  {
+    "question": "What are the components of Left-Wing Authoritarianism (LWA)?",
+    "answer": "Antihierarchical aggression, anticonventionalism, and support for top-down censorship."
+  },
+  {
+    "question": "Why are some reasons implicit measures are proposed to study prejudice?",
+    "answer": "They aim to reveal attitudes operating outside conscious awareness, especially when self-reports may be biased or people hide socially undesirable beliefs."
+  },
+  {
+    "question": "What is the Bona Fide Pipeline?",
+    "answer": "A proposed implicit measure using sequential priming to reveal automatic evaluative associations."
+  },
+  {
+    "question": "What is the Implicit Association Test (IAT)?",
+    "answer": "A test claiming to measure the strength of associations between categories (e.g., race) and attributes (e.g., good/bad) based on reaction times."
+  },
+  {
+    "question": "What are the main criticisms of implicit measures like the IAT?",
+    "answer": "Concerns about psychometric validity, limited predictive validity, and unreliable priming effects."
+  },
+  {
+    "question": "What conditions enhance the effectiveness of intergroup contact to reduce prejudice?",
+    "answer": "Equal-status interaction, cooperative goals, personal interaction, and support from authorities and social norms."
+  },
+  {
+    "question": "What is decategorization in prejudice reduction?",
+    "answer": "Encouraging individuals to see each other as unique persons rather than representatives of a group."
+  },
+  {
+    "question": "What is recategorization in prejudice reduction?",
+    "answer": "Encouraging individuals to view themselves as part of a larger, shared group, creating a superordinate identity."
+  },
+  {
+    "question": "What is the dual identity approach?",
+    "answer": "Maintaining both subgroup distinctiveness and a common superordinate identity to reduce prejudice while preserving group pride."
+  }
+  ]
 	}
   
 ]

@@ -36,6 +36,13 @@
 		"url": "pins-poster/PINSPosterChecklist.html",
 		"img": "assets/coursework.jpg",
 		"description": "Step-by-step coursework guide."
+	},
+	{
+		"id": "speeded-mcqs",
+		"title": "All Topics :: Speeded MCQs",
+		"url": "timed-mcq.html",
+		"img": "assets/speed-mcqs.jpg",
+		"description": "Timed MCQs from all exam topics."
 	}
 ]
 }

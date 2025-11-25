@@ -61,7 +61,7 @@
   {
     "id": 11,
     "question": "A major criticism of the Implicit Association Test (IAT) is that:",
-    "options": ["It cannot measure reaction time", "It lacks a clear definition of implicit bias", "It is too simple", "It produces perfect reliability"],
+    "options": ["It cannot measure reaction time", "It has weak predictive validity", "It is too simple", "It produces perfect reliability"],
     "answer": "It has weak predictive validity"
   },
   {
@@ -492,8 +492,8 @@
   {
     "id": 82,
     "question": "Schwarz et al. (1991) found that participants rated themselves more assertive when recalling:",
-    "options": ["Twelve assertive behaviours", "Six assertive behaviours", "Equal numbers of behaviours", "Times they were passive"],
-    "answer": "Six assertive behaviours"
+    "options": ["Twelve assertive behaviors", "Six assertive behaviors", "Equal numbers of behaviors", "Times they were passive"],
+    "answer": "Six assertive behaviors"
   },
   {
     "id": 83,
@@ -528,20 +528,20 @@
   {
     "id": 88,
     "question": "The Bargh et al. (1996) finding that priming elderly stereotypes led participants to walk more slowly aimed to demonstrate which phenomenon?",
-    "options": ["Associative learning", "Behavioural assimilation", "Conceptual recency", "Cognitive anchoring"],
-    "answer": "Behavioural assimilation"
+    "options": ["Associative learning", "Behavioral assimilation", "Conceptual recency", "Cognitive anchoring"],
+    "answer": "Behavioral assimilation"
   },
   {
     "id": 89,
     "question": "Kahneman (2011) argues that humans rely on multiple thinking systems because they help:",
-    "options": ["Minimise emotional arousal", "Manage overwhelming social information", "Protect self-esteem", "Strengthen relationships"],
+    "options": ["Minimize emotional arousal", "Manage overwhelming social information", "Protect self-esteem", "Strengthen relationships"],
     "answer": "Manage overwhelming social information"
   },
   {
     "id": 90,
     "question": "The naïve scientist model proposes that people:",
-    "options": ["Judge quickly and intuitively", "Use little cognitive effort", "Explain behaviour through systematic reasoning", "Avoid analysing social information"],
-    "answer": "Explain behaviour through systematic reasoning"
+    "options": ["Judge quickly and intuitively", "Use little cognitive effort", "Explain behavior through systematic reasoning", "Avoid analysing social information"],
+    "answer": "Explain behavior through systematic reasoning"
   },
   {
     "id": 91,
@@ -552,8 +552,8 @@
   {
     "id": 92,
     "question": "Bargh et al. (1996) aimed to show that priming stereotypes can:",
-    "options": ["Have no behavioural effect", "Consciously change attitudes", "Unconsciously shape stereotype-consistent behaviour", "Affect memory only"],
-    "answer": "Unconsciously shape stereotype-consistent behaviour"
+    "options": ["Have no behavioral effect", "Consciously change attitudes", "Unconsciously shape stereotype-consistent behavior", "Affect memory only"],
+    "answer": "Unconsciously shape stereotype-consistent behavior"
   },
   
   
@@ -572,7 +572,7 @@
   },
   {
     "id": 95,
-    "question": "The tendency to ignore statistical information in favour of vivid, memorable examples is most closely linked to the:",
+    "question": "The tendency to ignore statistical information in favor of vivid, memorable examples is most closely linked to the:",
     "options": ["Availability heuristic", "Anchoring heuristic", "Representativeness heuristic", "Effort heuristic"],
     "answer": "Availability heuristic"
   },
@@ -608,7 +608,7 @@
   },
   {
     "id": 101,
-    "question": "When people categorise others, they tend to: ",
+    "question": "When people categorize others, they tend to: ",
     "options": ["Ignore similarities within groups", "Exaggerate differences between groups", "Underestimate category boundaries", "Treat groups as unrelated"],
     "answer": "Exaggerate differences between groups"
   },
@@ -681,7 +681,7 @@
   {
     "id": 113,
     "question": "Stereotypes function cognitively as:",
-    "options": ["Attitudes", "Heuristics", "Motivators", "Behaviours"],
+    "options": ["Attitudes", "Heuristics", "Motivators", "Behaviors"],
     "answer": "Heuristics"
   },
   {
@@ -821,8 +821,8 @@
   {
     "id": 135,
     "question": "Which intervention strategy involves presenting individuals with how their own behavior compares to accurate group norms?",
-    "options": ["Personalised Normative Feedback", "Consensus Mapping", "Corrective Persuasion", "Informational Cueing"],
-    "answer": "Personalised Normative Feedback"
+    "options": ["Personalized Normative Feedback", "Consensus Mapping", "Corrective Persuasion", "Informational Cueing"],
+    "answer": "Personalized Normative Feedback"
   },
 
   {
@@ -892,7 +892,7 @@
   {
     "id": 146,
     "question": "Which intervention involves participants actively discussing and evaluating perceived norms together?",
-    "options": ["Focus Group Discussions", "Personalised Messaging", "Behavioral Contracting", "Environmental Cues"],
+    "options": ["Focus Group Discussions", "Personalized Messaging", "Behavioral Contracting", "Environmental Cues"],
     "answer": "Focus Group Discussions"
   },
   {
@@ -940,7 +940,7 @@
   {
     "id": 154,
     "question": "Which intervention method has the advantage of reaching many people through multiple media channels?",
-    "options": ["Social Norm Marketing", "Personalised Feedback", "Focus Groups", "Legislative Reform"],
+    "options": ["Social Norm Marketing", "Personalized Feedback", "Focus Groups", "Legislative Reform"],
     "answer": "Social Norm Marketing"
   },
   {

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Timed MCQ Quiz</title>
+  <link rel="stylesheet" href="timed-mcq.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Exam Prep Quiz</h1>
+
+    <div class="controls">
+      <div class="topic-section">
+        <p>Select Topic(s):</p>
+        <div id="topicContainer" class="token-container"></div>
+      </div>
+
+      <div class="duration-section">
+        <p>Select Duration:</p>
+        <div id="durationContainer" class="token-container"></div>
+      </div>
+
+      <button id="startBtn" class="start-btn">Start Quiz</button>
+    </div>
+
+    <div class="quiz" id="quizContainer" style="display:none;">
+      <button id="timerBtn" class="timer-btn">Time: 00:00</button>
+      <div id="questionContainer"></div>
+      <div id="optionsContainer"></div>
+      <div id="feedback"></div>
+      <button id="nextBtn" style="display:none;">Next Question</button>
+    </div>
+
+    <div id="resultContainer" style="display:none;">
+      <h2>Quiz Finished!</h2>
+      <p id="scoreText"></p>
+      <button id="restartBtn">Restart Quiz</button>
+    </div>
+  </div>
+
+  <script src="timed-mcq.js"></script>
+</body>
+</html>
