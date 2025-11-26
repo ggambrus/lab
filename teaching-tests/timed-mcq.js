@@ -125,6 +125,12 @@ function startQuiz() {
       console.error("Error loading question files:", err);
       alert("Failed to load question files. Check console for details.");
     });
+	
+	// Hide setup controls to save vertical space
+	document.querySelector('.topic-section').style.display = 'none';
+	document.querySelector('.duration-section').style.display = 'none';
+	document.getElementById('startBtn').style.display = 'none';
+	
 }
 
 // --- Restart quiz ---
@@ -136,6 +142,12 @@ function restartQuiz() {
     el.style.opacity = '1';
   });
   startBtn.disabled = selectedTopics.length === 0;
+  
+  // Show setup controls again
+  document.querySelector('.topic-section').style.display = 'block';
+  document.querySelector('.duration-section').style.display = 'block';
+  document.getElementById('startBtn').style.display = 'inline-block';
+  
 }
 
 // --- Timer ---
