@@ -348,11 +348,150 @@
 	  {
 		"question": "Dual Identity",
 		"answer": "An approach that encourages both a common superordinate identity and distinctive subgroup identities to reduce prejudice while preserving subgroup distinctiveness."
+	  },
+	  
+	  
+	  {
+		"question": "Close relationships",
+		"answer": "Enduring social bonds that serve as central contexts through which people meet fundamental psychological and interpersonal needs."
+	  },
+	  {
+		"question": "Need for belonging",
+		"answer": "The fundamental human requirement for frequent, positive, and stable interactions with a few significant others in order to feel connected, accepted, and valued."
+	  },
+	  {
+		"question": "Need for intimacy",
+		"answer": "The desire to share thoughts, emotions, and vulnerabilities with another person, built through self-disclosure, trust, and responsiveness."
+	  },
+	  {
+		"question": "Self-Determination Theory",
+		"answer": "A theory proposing that psychological well-being depends on the fulfilment of three basic needs: autonomy, competence, and relatedness."
+	  },
+	  {
+		"question": "Autonomy",
+		"answer": "The need to feel free to express one’s true self."
+	  },
+	  {
+		"question": "Competence",
+		"answer": "The need to feel effective, supported, and capable."
+	  },
+	  {
+		"question": "Relatedness",
+		"answer": "The need to feel bonded and cared for."
+	  },
+	  {
+		"question": "Attachment theory",
+		"answer": "A theory proposing that secure attachment figures provide a safe haven during distress and a secure base for exploration and independence."
+	  },
+	  {
+		"question": "Gene-eye view of evolution",
+		"answer": "The theory that the gene is the fundamental unit of natural selection and that organisms are vehicles built by genes to maximize their own replication."
+	  },
+	  {
+		"question": "Inclusive fitness",
+		"answer": "The total genetic contribution of an individual to the next generation, including both direct reproduction and the reproductive success of genetic relatives."
+	  },
+	  {
+		"question": "Sexual dimorphism",
+		"answer": "Distinct physical, physiological, and behavioral differences between males and females of the same species beyond the sex organs."
+	  },
+	  {
+		"question": "Sexual selection",
+		"answer": "An evolutionary process in which traits increase an individual's chances of attracting mates and successfully reproducing through mate choice or competition."
+	  },
+	  {
+		"question": "Social monogamy",
+		"answer": "A mating system characterized by enduring pair-bonds between partners, even if sexual exclusivity is not absolute."
+	  },
+	  {
+		"question": "Concealed ovulation",
+		"answer": "The absence of obvious external physical signs indicating when a female is fertile."
+	  },
+	  {
+		"question": "Paternal care",
+		"answer": "Male parental investment in offspring, including protection, provisioning, and direct caregiving."
+	  },
+	  {
+		"question": "Parental Investment Theory",
+		"answer": "A theory stating that the sex that invests more heavily in offspring will be more selective in mate choice, while the less-investing sex will compete for access."
+	  },
+	  {
+		"question": "Oxytocin",
+		"answer": "A hormone associated with social bonding, attachment, trust, stress reduction, and parent-infant bonding."
+	  },
+	  {
+		"question": "Dopamine",
+		"answer": "A neurotransmitter involved in the brain’s reward system that drives pleasure, motivation, and the euphoria of early-stage romantic love."
+	  },
+	  {
+		"question": "Serotonin",
+		"answer": "A neurotransmitter that regulates mood and emotion and stabilizes emotional well-being as romantic relationships mature."
+	  },
+	  {
+		"question": "Vasopressin",
+		"answer": "A hormone chemically similar to oxytocin that plays a role in pair-bonding, protective behavior, and mate-guarding, particularly in men."
+	  },
+	  {
+		"question": "Cortisol",
+		"answer": "A stress hormone that is elevated during early romantic attraction and reduced in secure, close relationships."
+	  },
+	  {
+		"question": "Testosterone",
+		"answer": "A sex hormone involved in libido, mate-seeking behavior, and competitiveness, with lower levels associated with paternal care in men."
+	  },
+	  {
+		"question": "Endorphins",
+		"answer": "Neurochemicals that promote pleasure, comfort, pain relief, and long-term social bonding."
+	  },
+	  {
+		"question": "Sternberg’s Triangular Theory of Love",
+		"answer": "A theory proposing that love consists of three components: intimacy, passion, and commitment."
+	  },
+	  {
+		"question": "Intimacy (Sternberg)",
+		"answer": "Emotional closeness, warmth, trust, and mutual understanding in a relationship."
+	  },
+	  {
+		"question": "Passion (Sternberg)",
+		"answer": "Physical attraction, sexual desire, and romantic arousal that create excitement and motivation for union."
+	  },
+	  {
+		"question": "Commitment (Sternberg)",
+		"answer": "The conscious decision to maintain a relationship over time."
+	  },
+	  {
+		"question": "Consummate love",
+		"answer": "A type of love consisting of high intimacy, high passion, and high commitment."
+	  },
+	  {
+		"question": "Assortative mating",
+		"answer": "The tendency for individuals to choose romantic partners who are similar to themselves in traits such as personality and intelligence."
+	  },
+	  {
+		"question": "Dynamic similarity",
+		"answer": "The process by which romantic partners become more similar to each other over time through shared experiences."
+	  },
+	  {
+		"question": "Jealousy",
+		"answer": "An emotional response involving fear, anger, and sadness triggered by a perceived threat to a valued relationship from a real or imagined rival."
+	  },
+	  {
+		"question": "Triadic structure of jealousy",
+		"answer": "The three-part structure of jealousy consisting of the self, the partner, and the rival."
+	  },
+	  {
+		"question": "Envy",
+		"answer": "An emotion defined as wanting what someone else has, distinct from jealousy which involves fear of loss."
+	  },
+	  {
+		"question": "Paternity certainty",
+		"answer": "The degree to which a male can be confident that he is the biological father of offspring."
+	  },
+	  {
+		"question": "Mate guarding",
+		"answer": "Behaviors motivated by jealousy that function to protect a romantic relationship from rivals."
 	  }
-	  
-	  
-	  
-	  
+
 	  ]
   },
   {
@@ -884,6 +1023,99 @@
     "answer": "Maintaining both subgroup distinctiveness and a common superordinate identity to reduce prejudice while preserving group pride."
   }
   ]
-	}
+  },
+	
+  {
+    "topic": "Lecture 5: Close relationships",
+    "flashcards": [
+  { "question": "What are close relationships in social psychology?", "answer": "They are enduring social bonds that serve as central contexts for satisfying fundamental psychological and interpersonal needs." },
+  { "question": "What does the need to belong refer to?", "answer": "The requirement for frequent, positive, and stable interactions with a few significant others to feel connected and valued." },
+  { "question": "How do close relationships fulfil the need for belonging?", "answer": "By providing feelings of connection, acceptance, and being valued." },
+  { "question": "What is the need for intimacy?", "answer": "The desire to share thoughts, emotions, and vulnerabilities with another person." },
+  { "question": "How is intimacy developed in relationships?", "answer": "Through self-disclosure, trust, and responsiveness." },
+  { "question": "Why is intimacy important for well-being?", "answer": "It predicts both relationship satisfaction and personal well-being." },
+  { "question": "What are the three basic needs in Self-Determination Theory?", "answer": "Autonomy, competence, and relatedness." },
+  { "question": "What does autonomy mean in relationships?", "answer": "Feeling free to express one’s true self." },
+  { "question": "What does competence mean in relationships?", "answer": "Feeling effective, supported, and capable." },
+  { "question": "What does relatedness mean in relationships?", "answer": "Feeling bonded and cared for." },
+  { "question": "How do healthy relationships affect Self-Determination Theory needs?", "answer": "They support autonomy, competence, and relatedness simultaneously." },
+  { "question": "What is the core idea of Attachment Theory?", "answer": "That close attachment figures provide a safe haven during distress and a secure base for exploration." },
+  { "question": "What is a safe haven in attachment theory?", "answer": "A source of comfort during times of distress." },
+  { "question": "What is a secure base in attachment theory?", "answer": "Support that enables exploration and independence." },
+  { "question": "Who typically becomes the primary attachment figure in adulthood?", "answer": "Adult romantic partners." },
+
+  { "question": "What is the gene-eye view of evolution?", "answer": "The idea that genes are the primary unit of natural selection and organisms are vehicles for gene replication." },
+  { "question": "How does the gene-eye view interpret human mating?", "answer": "As a set of adaptations shaped to maximize gene propagation." },
+  { "question": "Why are females predicted to be choosier in mating?", "answer": "Because they have higher biological and parental investment." },
+  { "question": "Why are males predicted to compete more for mates?", "answer": "Because they have lower minimum parental investment." },
+  { "question": "What is parent–offspring conflict?", "answer": "A conflict where the optimal genetic strategy for offspring may differ from that of parents." },
+  { "question": "What is inclusive fitness?", "answer": "Genetic success gained through both direct reproduction and helping genetic relatives reproduce." },
+
+  { "question": "What is sexual dimorphism?", "answer": "Physical, physiological, and behavioral differences between males and females beyond reproductive organs." },
+  { "question": "What is sexual selection?", "answer": "Evolutionary selection based on traits that improve mating success through competition or mate choice." },
+  { "question": "What is the dominant human mating system?", "answer": "Social monogamy with enduring pair-bonds." },
+  { "question": "How does the gorilla mating system differ from humans?", "answer": "Gorillas typically live in one-male, multi-female polygynous groups." },
+  { "question": "How do chimpanzees differ in mating system from humans?", "answer": "They live in promiscuous multi-male, multi-female communities." },
+  { "question": "What is unique about bonobo mating behavior?", "answer": "Sex is used for social bonding and conflict resolution as well as reproduction." },
+  { "question": "What mating system characterizes orangutans?", "answer": "Mostly solitary living with intermittent mating." },
+
+  { "question": "What is concealed ovulation in humans?", "answer": "The absence of obvious external signs of fertility." },
+  { "question": "How does concealed ovulation promote pair-bonding?", "answer": "By encouraging males to remain with a partner to ensure paternity." },
+  { "question": "What distinguishes human paternal care from most great apes?", "answer": "Human males invest heavily in offspring through provisioning and caregiving." },
+  { "question": "How does human sexual dimorphism compare to other apes?", "answer": "Human - Relatively low dimorphism|Chimpanzee - Considered more dimorphic than humans|Gorilla - High dimorphism, especially in body mass|Orangutan - Significant sexual dimorphism, with males being significantly larger" },
+  { "question": "What reproductive anatomical features suggest reduced sperm competition in humans?", "answer": "Lack of a baculum, absence of penile spines, and lower sperm counts." },
+  { "question": "What is unusual about human copulation compared to other apes?", "answer": "It is typically private and often face-to-face." },
+  { "question": "What psychological effect does face-to-face copulation promote?", "answer": "Stronger emotional and social bonding." },
+  { "question": "What trade-off do human males face in parental investment?", "answer": "Balancing parenting effort and mating effort." },
+
+  { "question": "What is Parental Investment Theory (PIT)?", "answer": "The theory that the sex investing more in offspring is more selective in mate choice, while the other sex competes." },
+  { "question": "Why is female parental investment higher in humans?", "answer": "Due to internal fertilization, pregnancy, childbirth, and lactation." },
+  { "question": "What mate preferences are predicted for females by PIT?", "answer": "Preference for resources, status, commitment, and good parenting ability." },
+  { "question": "What is meant by women seeking 'good genes' in short-term mating?", "answer": "Attraction to traits signaling genetic fitness, such as masculinity and symmetry." },
+  { "question": "Why do males experience lower minimum biological investment?", "answer": "Because sperm production requires little time and energy." },
+  { "question": "What mate preferences are predicted for males by PIT?", "answer": "Preference for youth and physical attractiveness as cues to fertility." },
+  { "question": "Why is paternity certainty important to males?", "answer": "To ensure that their parental investment benefits their own biological offspring." },
+  { "question": "How does the pipefish challenge traditional sex roles?", "answer": "Males gestate offspring and become the choosier sex while females compete." },
+
+  { "question": "What general pattern exists in human physical strength by sex?", "answer": "Almost all men are stronger than almost all women." },
+
+  { "question": "What is Buss’s evolutionary framework of mating?", "answer": "The idea that mating strategies are psychological adaptations shaped by evolutionary pressures." },
+  { "question": "What reproductive constraints shape female mating strategies?", "answer": "High obligatory parental investment." },
+  { "question": "What reproductive constraints shape male mating strategies?", "answer": "Paternity uncertainty and variable mating opportunities." },
+  { "question": "How do males and females typically differ in intrasexual competition?", "answer": "Males show more direct aggression; females use more indirect relational strategies." },
+  { "question": "How do men and women differ in jealousy triggers?", "answer": "Men are more distressed by sexual infidelity, women by emotional infidelity." },
+
+  { "question": "What is oxytocin?", "answer": "A hormone involved in bonding, trust, attachment, and stress reduction." },
+  { "question": "What is the 'tend-and-defend' function of oxytocin?", "answer": "It increases care for the in-group and defensiveness toward out-groups." },
+  { "question": "What role does dopamine play in romantic love?", "answer": "It drives pleasure, reward, and the euphoria of early-stage love." },
+  { "question": "How does serotonin change during early romantic love?", "answer": "It often decreases, contributing to obsessive thinking." },
+  { "question": "What role does vasopressin play in relationships?", "answer": "It supports pair-bonding, protection, and mate-guarding." },
+  { "question": "What is cortisol’s role in romantic relationships?", "answer": "It is elevated during early attraction and reduced in secure relationships." },
+  { "question": "How does testosterone change in committed men?", "answer": "It tends to decrease, supporting nurturing behavior." },
+  { "question": "What role do endorphins play in close relationships?", "answer": "They promote pleasure, comfort, and long-term attachment." },
+
+  { "question": "What are the three components of Sternberg’s Triangular Theory of Love?", "answer": "Intimacy, passion, and commitment." },
+  { "question": "What type of love consists of intimacy only?", "answer": "Liking or friendship." },
+  { "question": "What type of love consists of passion only?", "answer": "Infatuation." },
+  { "question": "What type of love consists of commitment only?", "answer": "Empty love." },
+  { "question": "What is romantic love in Sternberg’s model?", "answer": "Intimacy plus passion." },
+  { "question": "What is companionate love?", "answer": "Intimacy plus commitment." },
+  { "question": "What is fatuous love?", "answer": "Passion plus commitment without intimacy." },
+  { "question": "What is consummate love?", "answer": "The combination of intimacy, passion, and commitment." },
+
+  { "question": "What is assortative mating?", "answer": "The tendency for people to choose partners similar to themselves." },
+  { "question": "Is similarity or difference more common in partner selection?", "answer": "Similarity is the dominant pattern." },
+  { "question": "What mechanisms may promote assortative mating?", "answer": "Initial attraction and shared social environments." },
+
+  { "question": "What is jealousy?", "answer": "An emotional reaction to a perceived threat to a valued relationship from a rival." },
+  { "question": "What emotions make up jealousy?", "answer": "Fear, anger, and sadness." },
+  { "question": "What is the triadic structure of jealousy?", "answer": "The relationship between the self, the partner, and the rival." },
+  { "question": "How does jealousy differ from envy?", "answer": "Envy is wanting what someone else has; jealousy is fear of losing what one already has." },
+  { "question": "What evolutionary function does jealousy serve?", "answer": "Mate-guarding and protection of attachment bonds." },
+  { "question": "How does attachment style affect jealousy?", "answer": "Anxious styles show higher jealousy; avoidant styles suppress it; secure styles show lower jealousy." },
+  { "question": "How do cultural norms shape jealousy?", "answer": "They influence what counts as a threat and how jealousy is expressed." },
+  { "question": "What did DeSteno et al. (2006) find about jealousy?", "answer": "Jealousy is mediated by reductions in self-esteem." }
+  ]}
+
   
 ]
