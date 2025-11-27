@@ -61,7 +61,7 @@
   {
     "id": 11,
     "question": "A major criticism of the Implicit Association Test (IAT) is that:",
-    "options": ["It cannot measure reaction time", "It has weak predictive validity", "It is too simple", "It produces perfect reliability"],
+    "options": ["It cannot measure reaction time", "It lacks a clear definition of implicit bias", "It is too simple", "It produces perfect reliability"],
     "answer": "It has weak predictive validity"
   },
   {
@@ -492,8 +492,8 @@
   {
     "id": 82,
     "question": "Schwarz et al. (1991) found that participants rated themselves more assertive when recalling:",
-    "options": ["Twelve assertive behaviors", "Six assertive behaviors", "Equal numbers of behaviors", "Times they were passive"],
-    "answer": "Six assertive behaviors"
+    "options": ["Twelve assertive behaviours", "Six assertive behaviours", "Equal numbers of behaviours", "Times they were passive"],
+    "answer": "Six assertive behaviours"
   },
   {
     "id": 83,
@@ -528,20 +528,20 @@
   {
     "id": 88,
     "question": "The Bargh et al. (1996) finding that priming elderly stereotypes led participants to walk more slowly aimed to demonstrate which phenomenon?",
-    "options": ["Associative learning", "Behavioral assimilation", "Conceptual recency", "Cognitive anchoring"],
-    "answer": "Behavioral assimilation"
+    "options": ["Associative learning", "Behavioural assimilation", "Conceptual recency", "Cognitive anchoring"],
+    "answer": "Behavioural assimilation"
   },
   {
     "id": 89,
     "question": "Kahneman (2011) argues that humans rely on multiple thinking systems because they help:",
-    "options": ["Minimize emotional arousal", "Manage overwhelming social information", "Protect self-esteem", "Strengthen relationships"],
+    "options": ["Minimise emotional arousal", "Manage overwhelming social information", "Protect self-esteem", "Strengthen relationships"],
     "answer": "Manage overwhelming social information"
   },
   {
     "id": 90,
     "question": "The naïve scientist model proposes that people:",
-    "options": ["Judge quickly and intuitively", "Use little cognitive effort", "Explain behavior through systematic reasoning", "Avoid analysing social information"],
-    "answer": "Explain behavior through systematic reasoning"
+    "options": ["Judge quickly and intuitively", "Use little cognitive effort", "Explain behaviour through systematic reasoning", "Avoid analysing social information"],
+    "answer": "Explain behaviour through systematic reasoning"
   },
   {
     "id": 91,
@@ -552,8 +552,8 @@
   {
     "id": 92,
     "question": "Bargh et al. (1996) aimed to show that priming stereotypes can:",
-    "options": ["Have no behavioral effect", "Consciously change attitudes", "Unconsciously shape stereotype-consistent behavior", "Affect memory only"],
-    "answer": "Unconsciously shape stereotype-consistent behavior"
+    "options": ["Have no behavioural effect", "Consciously change attitudes", "Unconsciously shape stereotype-consistent behaviour", "Affect memory only"],
+    "answer": "Unconsciously shape stereotype-consistent behaviour"
   },
   
   
@@ -572,7 +572,7 @@
   },
   {
     "id": 95,
-    "question": "The tendency to ignore statistical information in favor of vivid, memorable examples is most closely linked to the:",
+    "question": "The tendency to ignore statistical information in favour of vivid, memorable examples is most closely linked to the:",
     "options": ["Availability heuristic", "Anchoring heuristic", "Representativeness heuristic", "Effort heuristic"],
     "answer": "Availability heuristic"
   },
@@ -608,7 +608,7 @@
   },
   {
     "id": 101,
-    "question": "When people categorize others, they tend to: ",
+    "question": "When people categorise others, they tend to: ",
     "options": ["Ignore similarities within groups", "Exaggerate differences between groups", "Underestimate category boundaries", "Treat groups as unrelated"],
     "answer": "Exaggerate differences between groups"
   },
@@ -681,7 +681,7 @@
   {
     "id": 113,
     "question": "Stereotypes function cognitively as:",
-    "options": ["Attitudes", "Heuristics", "Motivators", "Behaviors"],
+    "options": ["Attitudes", "Heuristics", "Motivators", "Behaviours"],
     "answer": "Heuristics"
   },
   {
@@ -821,8 +821,8 @@
   {
     "id": 135,
     "question": "Which intervention strategy involves presenting individuals with how their own behavior compares to accurate group norms?",
-    "options": ["Personalized Normative Feedback", "Consensus Mapping", "Corrective Persuasion", "Informational Cueing"],
-    "answer": "Personalized Normative Feedback"
+    "options": ["Personalised Normative Feedback", "Consensus Mapping", "Corrective Persuasion", "Informational Cueing"],
+    "answer": "Personalised Normative Feedback"
   },
 
   {
@@ -892,7 +892,7 @@
   {
     "id": 146,
     "question": "Which intervention involves participants actively discussing and evaluating perceived norms together?",
-    "options": ["Focus Group Discussions", "Personalized Messaging", "Behavioral Contracting", "Environmental Cues"],
+    "options": ["Focus Group Discussions", "Personalised Messaging", "Behavioral Contracting", "Environmental Cues"],
     "answer": "Focus Group Discussions"
   },
   {
@@ -940,7 +940,7 @@
   {
     "id": 154,
     "question": "Which intervention method has the advantage of reaching many people through multiple media channels?",
-    "options": ["Social Norm Marketing", "Personalized Feedback", "Focus Groups", "Legislative Reform"],
+    "options": ["Social Norm Marketing", "Personalised Feedback", "Focus Groups", "Legislative Reform"],
     "answer": "Social Norm Marketing"
   },
   {
@@ -978,7 +978,510 @@
     "question": "Which feature distinguishes nudges from rules or mandates?",
     "options": ["Nudges preserve freedom of choice", "Nudges require legal enforcement", "Nudges rely on punishment", "Nudges must be financial incentives"],
     "answer": "Nudges preserve freedom of choice"
+  },
+  
+  
+  {
+    "id": 161,
+    "question": "What is the main idea behind Realistic Conflict Theory?",
+    "options": [
+      "Intergroup conflict arises from arbitrary categorization",
+      "Intergroup conflict arises from competition over limited resources",
+      "People in crowds always act irrationally",
+      "Prejudice is purely inherited"
+    ],
+    "answer": "Intergroup conflict arises from competition over limited resources"
+  },
+  {
+    "id": 162,
+    "question": "Who conducted the Robbers Cave experiment?",
+    "options": ["Henri Tajfel", "Muzafer Sherif", "Gustave Le Bon", "Bob Altemeyer"],
+    "answer": "Muzafer Sherif"
+  },
+  {
+    "id": 163,
+    "question": "What does the minimal group paradigm demonstrate?",
+    "options": [
+      "People only favor their ingroup when there is competition",
+      "Random group membership can still produce ingroup favoritism",
+      "Crowds always act irrationally",
+      "Authoritarian personality predicts ingroup favoritism"
+    ],
+    "answer": "Random group membership can still produce ingroup favoritism"
+  },
+  {
+    "id": 164,
+    "question": "Which of the following is NOT a component of social identity theory?",
+    "options": [
+      "Social categorization",
+      "Social identification",
+      "Social comparison",
+      "Social resonance"
+    ],
+    "answer": "Social resonance"
+  },
+  {
+    "id": 165,
+    "question": "Which theorist proposed that crowds form a 'group mind'?",
+    "options": ["Reicher", "Le Bon", "Sherif", "Tajfel"],
+    "answer": "Le Bon"
+  },
+  {
+    "id": 166,
+    "question": "What are the three components of Right-Wing Authoritarianism (RWA)?",
+    "options": [
+      "Authoritarian submission, aggression, conventionalism",
+      "Antihierarchical aggression, anticonventionalism, censorship",
+      "Social comparison, categorization, identification",
+      "Prejudice, stereotyping, discrimination"
+    ],
+    "answer": "Authoritarian submission, aggression, conventionalism"
+  },
+  {
+    "id": 167,
+    "question": "What is the primary criticism of implicit measures like the IAT?",
+    "options": [
+      "They are always more reliable than self-reports",
+      "They cannot detect unconscious bias",
+      "Questions about psychometric validity and predictive power",
+      "They rely on reaction time measurements"
+    ],
+    "answer": "Questions about psychometric validity and predictive power"
+  },
+  {
+    "id": 168,
+    "question": "Which approach encourages individuals to view themselves as part of a larger, shared group?",
+    "options": ["Decategorization", "Recategorization", "Dual identity", "Social comparison"],
+    "answer": "Recategorization"
+  },
+  {
+    "id": 169,
+    "question": "What conditions are proposed to improve the effectiveness of intergroup contact?",
+    "options": [
+      "Cooperation and equal status",
+      "Random assignment and competition",
+      "Anonymity in groups",
+      "Authoritarian control"
+    ],
+    "answer": "Cooperation and equal status"
+  },
+  {
+    "id": 170,
+    "question": "Who refined the authoritarian personality theory into the Right-Wing Authoritarianism scale?",
+    "options": ["Theodor Adorno", "Bob Altemeyer", "Muzafer Sherif", "Henri Tajfel"],
+    "answer": "Bob Altemeyer"
+  },
+  {
+    "id": 171,
+    "question": "Which study demonstrated that ingroup favoritism can occur without competition?",
+    "options": [
+      "Robbers Cave experiment",
+      "Minimal group paradigm",
+      "Bona Fide Pipeline",
+      "Contact hypothesis study"
+    ],
+    "answer": "Minimal group paradigm"
+  },
+  {
+    "id": 172,
+    "question": "What critiques are made about the Robbers Cave experiment?",
+    "options": [
+      "Participants were fully aware of the experiment",
+      "Conflict was artificially provoked and ethical concerns were ignored",
+      "The experiment never included competition",
+      "Sherif used self-report measures only"
+    ],
+    "answer": "Conflict was artificially provoked and ethical concerns were ignored"
+  },
+  {
+    "id": 173,
+    "question": "Which personality profile involves antihierarchical aggression and top-down censorship?",
+    "options": [
+      "Right-Wing Authoritarianism",
+      "Authoritarian Personality",
+      "Left-Wing Authoritarianism",
+      "Social Dominance Orientation"
+    ],
+    "answer": "Left-Wing Authoritarianism"
+  },
+  {
+    "id": 174,
+    "question": "What is decategorization in prejudice reduction?",
+    "options": [
+      "Encouraging people to see others as representatives of their group",
+      "Encouraging people to see others as unique individuals",
+      "Creating superordinate identities",
+      "Increasing intergroup competition"
+    ],
+    "answer": "Encouraging people to see others as unique individuals"
+  },
+  {
+    "id": 175,
+    "question": "Why is priming research considered contentious in social psychology?",
+    "options": [
+      "Effects are universally strong and easy to replicate",
+      "Effects are weak, inconsistent, or fail replication",
+      "Priming is unrelated to behavior",
+      "All studies use self-reports only"
+    ],
+    "answer": "Effects are weak, inconsistent, or fail replication"
+  },
+  
+  
+  {
+    "id": 176,
+    "question": "Which researcher emphasized that crowd behavior could be irrational and primitive?",
+    "options": ["Muzafer Sherif", "Gustave Le Bon", "Henri Tajfel", "Bob Altemeyer"],
+    "answer": "Gustave Le Bon"
+  },
+  {
+    "id": 177,
+    "question": "According to Le Bon, which factor does NOT contribute to the crowd mind?",
+    "options": ["Anonymity", "Contagion", "Suggestibility", "Superordinate goals"],
+    "answer": "Superordinate goals"
+  },
+  {
+    "id": 178,
+    "question": "What is one key difference between deindividuation and social identity theory in crowds?",
+    "options": [
+      "Deindividuation involves losing self-awareness; social identity involves adopting group norms",
+      "Deindividuation requires competition; social identity requires cooperation",
+      "Social identity leads to irrationality; deindividuation leads to rational behavior",
+      "They are essentially the same theory"
+    ],
+    "answer": "Deindividuation involves losing self-awareness; social identity involves adopting group norms"
+  },
+  {
+    "id": 179,
+    "question": "What research method did Sherif primarily use in the Robbers Cave studies?",
+    "options": ["Laboratory experiments", "Field experiments", "Surveys", "Longitudinal analysis"],
+    "answer": "Field experiments"
+  },
+  {
+    "id": 180,
+    "question": "What type of goals were introduced to reduce intergroup hostility in Robbers Cave?",
+    "options": ["Individual goals", "Competitive goals", "Superordinate goals", "Minimal goals"],
+    "answer": "Superordinate goals"
+  },
+  {
+    "id": 181,
+    "question": "What concept explains why people favor their ingroup even without prior competition?",
+    "options": ["Social comparison", "Minimal group paradigm", "Authoritarian personality", "Crowd mind"],
+    "answer": "Minimal group paradigm"
+  },
+  
+  {
+    "id": 182,
+    "question": "Who developed the social identity perspective on intergroup relations?",
+    "options": ["Muzafer Sherif", "Henri Tajfel & John Turner", "Theodor Adorno", "Bob Altemeyer"],
+    "answer": "Henri Tajfel & John Turner"
+  },
+  {
+    "id": 183,
+    "question": "What drives ingroup favoritism according to social identity theory?",
+    "options": [
+      "Desire to maintain positive self-esteem",
+      "Fear of crowds",
+      "Arbitrary competition",
+      "Parental influence only"
+    ],
+    "answer": "Desire to maintain positive self-esteem"
+  },
+  {
+    "id": 184,
+    "question": "What does social categorization involve?",
+    "options": [
+      "Treating everyone as unique individuals",
+      "Classifying people into groups based on shared characteristics",
+      "Measuring implicit bias",
+      "Comparing experimental groups"
+    ],
+    "answer": "Classifying people into groups based on shared characteristics"
+  },
+  
+  {
+    "id": 184,
+    "question": "What are common affective components of prejudice?",
+    "options": ["Stereotypes and schemas", "Anger, contempt, fear, pity", "Behavioral discrimination only", "Authority and hierarchy"],
+    "answer": "Anger, contempt, fear, pity"
+  },
+  {
+    "id": 185,
+    "question": "According to Adorno, which childhood experience contributes to the authoritarian personality?",
+    "options": [
+      "Supportive upbringing",
+      "Harsh and punitive upbringing",
+      "Neutral parenting",
+      "Absence of authority figures"
+    ],
+    "answer": "Harsh and punitive upbringing"
+  },
+  {
+    "id": 186,
+    "question": "Which measure operationalized the authoritarian personality in the 1950s?",
+    "options": ["RWA scale", "F-scale", "IAT", "Bona Fide Pipeline"],
+    "answer": "F-scale"
+  },
+  {
+    "id": 187,
+    "question": "Which psychological profile believes the world is a dangerous place, justifying aggression toward outgroups?",
+    "options": ["IAT", "RWA", "Social Dominance Orientation", "Minimal group members"],
+    "answer": "RWA"
+  },
+  {
+    "id": 188,
+    "question": "What does the Bona Fide Pipeline method use to measure implicit bias?",
+    "options": [
+      "Self-report surveys",
+      "Sequential priming of stimuli and response times",
+      "Observation of group behavior",
+      "Behavioral interviews"
+    ],
+    "answer": "Sequential priming of stimuli and response times"
+  },
+  
+  {
+    "id": 189,
+    "question": "Which model suggests recategorization reduces intergroup bias?",
+    "options": [
+      "Common ingroup identity model",
+      "Emergent norm theory",
+      "Authoritarian personality model",
+      "Bona Fide Pipeline model"
+    ],
+    "answer": "Common ingroup identity model"
+  },
+  
+  {
+    "id": 190,
+    "question": "What is the goal of decategorization in prejudice reduction?",
+    "options": [
+      "Create a superordinate identity",
+      "Reduce the salience of ingroup-outgroup distinctions",
+      "Increase competition between groups",
+      "Eliminate all social identities"
+    ],
+    "answer": "Reduce the salience of ingroup-outgroup distinctions"
+  },
+  
+  {
+    "id": 191,
+    "question": "Which strategy balances subgroup distinctiveness with overarching cooperation?",
+    "options": ["Recategorization", "Decategorization", "Dual identity", "Minimal group paradigm"],
+    "answer": "Dual identity"
+  },
+  {
+    "id": 192,
+    "question": "According to social identity theory, what can threaten intergroup harmony?",
+    "options": [
+      "Perceived threats to ingroup social identity",
+      "Equal-status cooperation",
+      "Random group assignment",
+      "Decategorization"
+    ],
+    "answer": "Perceived threats to ingroup social identity"
+  },
+  {
+    "id": 193,
+    "question": "What did Turner & Killian contribute to crowd psychology?",
+    "options": [
+      "The concept of the authoritarian personality",
+      "Emergent-norm theory emphasizing shared norms and identity",
+      "Robbers Cave experiment",
+      "Implicit Association Test development"
+    ],
+    "answer": "Emergent-norm theory emphasizing shared norms and identity"
+  },
+  {
+    "id": 194,
+    "question": "Which of the following is NOT a component of Left-Wing Authoritarianism?",
+    "options": [
+      "Antihierarchical aggression",
+      "Conventionalism",
+      "Anticonventionalism",
+      "Top-down censorship"
+    ],
+    "answer": "Conventionalism"
+  },
+  {
+    "id": 195,
+    "question": "Why were implicit measures of prejudice developed?",
+    "options": [
+      "They are more fun to administer",
+      "People may hide socially undesirable attitudes or be unaware of them",
+      "They use crowds instead of individuals",
+      "They only focus on competition"
+    ],
+    "answer": "People may hide socially undesirable attitudes or be unaware of them"
+  },
+  {
+    "id": 196,
+    "question": "Which study used boys’ summer camps to explore intergroup competition and cooperation?",
+    "options": ["Minimal group paradigm", "Robbers Cave experiment", "IAT studies", "Emergent-norm theory experiments"],
+    "answer": "Robbers Cave experiment"
+  },
+
+  {
+    "id": 197,
+    "question": "Which psychological process can explain why crowds may follow antisocial norms?",
+    "options": [
+      "Deindividuation and collective identity",
+      "Minimal group paradigm",
+      "Decategorization",
+      "Right-Wing Authoritarianism"
+    ],
+    "answer": "Deindividuation and collective identity"
+  },
+  {
+    "id": 198,
+    "question": "Which factor can help superordinate goals succeed in reducing intergroup conflict?",
+    "options": [
+      "Tasks that require mutual cooperation and cannot be completed individually",
+      "Allowing groups to work independently",
+      "Random assignment without interaction",
+      "Deindividuation"
+    ],
+    "answer": "Tasks that require mutual cooperation and cannot be completed individually"
+  },
+  {
+    "id": 199,
+    "question": "What is one ethical concern about the Robbers Cave study?",
+    "options": [
+      "Participants were adults without consent",
+      "Children were deceived and provoked into conflict",
+      "It was conducted in a laboratory only",
+      "It only studied minimal groups"
+    ],
+    "answer": "Children were deceived and provoked into conflict"
+  },
+
+  {
+    "id": 200,
+    "question": "What is one limitation of creating a superordinate identity?",
+    "options": [
+      "It always increases prejudice",
+      "It may threaten subgroup identity and provoke backlash",
+      "It is ineffective at reducing intergroup bias",
+      "It eliminates individuality entirely"
+    ],
+    "answer": "It may threaten subgroup identity and provoke backlash"
+  },
+  {
+    "id": 201,
+    "question": "What did Allport’s contact hypothesis propose?",
+    "options": [
+      "Prejudice cannot be reduced",
+      "Intergroup contact can improve relations under favorable conditions",
+      "Only competition reduces prejudice",
+      "Minimal groups create strong prejudice"
+    ],
+    "answer": "Intergroup contact can improve relations under favorable conditions"
+  },
+  {
+    "id": 202,
+    "question": "What does the term 'social comparison' refer to in social identity theory?",
+    "options": [
+      "Comparing oneself to personal past achievements",
+      "Comparing the ingroup to outgroups to evaluate status and enhance self-esteem",
+      "Measuring implicit bias using reaction times",
+      "Deindividuation in crowds"
+    ],
+    "answer": "Comparing the ingroup to outgroups to evaluate status and enhance self-esteem"
+  },
+  {
+    "id": 203,
+    "question": "Which process helps explain why ingroup members may discriminate against outgroups?",
+    "options": [
+      "Social identity and striving for positive self-esteem",
+      "Priming effects only",
+      "Random chance",
+      "Crowd irrationality exclusively"
+    ],
+    "answer": "Social identity and striving for positive self-esteem"
+  },
+  {
+    "id": 204,
+    "question": "Why is dual identity often more successful than single strategies like recategorization?",
+    "options": [
+      "It preserves subgroup pride while promoting overarching cooperation",
+      "It ignores subgroup distinctiveness entirely",
+      "It relies on implicit bias only",
+      "It requires random group assignment"
+    ],
+    "answer": "It preserves subgroup pride while promoting overarching cooperation"
+  },
+  {
+    "id": 205,
+    "question": "What aspect of the crowd did early theorists like Le Bon emphasize?",
+    "options": [
+      "Crowds develop shared norms",
+      "Crowds act as a single entity and can be irrational",
+      "Crowds are always cooperative",
+      "Crowds are unaffected by anonymity"
+    ],
+    "answer": "Crowds act as a single entity and can be irrational"
+  },
+  {
+    "id": 206,
+    "question": "Which study highlighted that competition is not necessary for ingroup favoritism?",
+    "options": ["Robbers Cave", "Minimal group paradigm", "IAT studies", "Bona Fide Pipeline studies"],
+    "answer": "Minimal group paradigm"
+  },
+  {
+    "id": 207,
+    "question": "Which psychological theory emphasizes the importance of group membership for self-concept?",
+    "options": ["Emergent-norm theory", "Social identity theory", "Right-Wing Authoritarianism", "Minimal group paradigm"],
+    "answer": "Social identity theory"
+  },
+  {
+    "id": 208,
+    "question": "Which factor is essential for superordinate goals to reduce intergroup hostility?",
+    "options": [
+      "Groups can achieve goals individually",
+      "Goals are shared and require cooperation",
+      "Groups remain isolated",
+      "Groups are arbitrarily assigned"
+    ],
+    "answer": "Goals are shared and require cooperation"
+  },
+  {
+    "id": 209,
+    "question": "Which measure was criticized for psychometric and predictive limitations?",
+    "options": ["Neuroticism", "Implicit Association Test", "Semantic priming", "Dual identity model"],
+    "answer": "Implicit Association Test"
+  },
+  {
+    "id": 210,
+    "question": "What is one method for reducing prejudice by emphasizing individual uniqueness?",
+    "options": ["Recategorization", "Decategorization", "Minimal group assignment", "Superordinate goals"],
+    "answer": "Decategorization"
+  },
+
+  {
+    "id": 211,
+    "question": "Which author explored psychological roots of intergroup conflict from personal experience with violence?",
+    "options": ["Muzafer Sherif", "Henri Tajfel", "Gustave Le Bon", "Bob Altemeyer"],
+    "answer": "Muzafer Sherif"
+  },
+  {
+    "id": 212,
+    "question": "Which term refers to the loss of self-awareness in crowds, leading to behavior that differs from individual norms?",
+    "options": ["Deindividuation", "Social comparison", "Recategorization", "Dual identity"],
+    "answer": "Deindividuation"
+  },
+  {
+    "id": 203,
+    "question": "What is one limitation of decategorization?",
+    "options": [
+      "Reduces intergroup bias toward individuals but may not generalize to the whole outgroup",
+      "Increases prejudice overall",
+      "Eliminates subgroup identity completely",
+      "Requires implicit testing"
+    ],
+    "answer": "Reduces intergroup bias toward individuals but may not generalize to the whole outgroup"
   }
+  
+  
 ]  
   
   
