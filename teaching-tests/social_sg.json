@@ -490,7 +490,131 @@
 	  {
 		"question": "Mate guarding",
 		"answer": "Behaviors motivated by jealousy that function to protect a romantic relationship from rivals."
+	  },
+	  
+	  
+	  
+	    {
+		"question": "Aggression",
+		"answer": "Any behavior intended to physically or psychologically harm another person."
+	  },
+	  {
+		"question": "Anger",
+		"answer": "A motivation to overcome a target; it does not necessarily involve an intention to harm."
+	  },
+	  {
+		"question": "Hostile (Reactive/Affective) Aggression",
+		"answer": "Aggression in which the primary goal is injury or destruction; it is emotion-driven and may be displaced onto safer targets."
+	  },
+	  {
+		"question": "Instrumental (Proactive) Aggression",
+		"answer": "Aggression in which harm is used as a means to achieve another goal, such as gaining resources or status; it is more calculated and less emotional."
+	  },
+	  {
+		"question": "Freud’s Dual-Instinct Theory of Aggression",
+		"answer": "Aggression is an outward expression of the death instinct (Thanatos), which is in constant conflict with the life instinct (Eros). Aggression occurs when destructive energy directed inward is redirected outward."
+	  },
+	  {
+		"question": "Thanatos (Freud)",
+		"answer": "The death instinct; a fundamental drive toward destruction and self-destruction."
+	  },
+	  {
+		"question": "Eros (Freud)",
+		"answer": "The life instinct; a fundamental drive toward survival, creativity, and love."
+	  },
+	  {
+		"question": "Catharsis (Freud)",
+		"answer": "The release of built-up aggressive energy to reduce internal tension."
+	  },
+	  {
+		"question": "Displacement (Freud, aggression)",
+		"answer": "Redirecting aggressive impulses from a threatening or inaccessible target to a safer or more accessible target."
+	  },
+	  {
+		"question": "Sublimation (Freud, aggression)",
+		"answer": "Transforming aggressive energy into socially acceptable and constructive activities such as sports, art, or work."
+	  },
+	  {
+		"question": "Frustration–Aggression Hypothesis (Original, 1939)",
+		"answer": "Frustration always leads to aggression, and all aggression stems from frustration."
+	  },
+	  {
+		"question": "Frustration–Aggression Hypothesis (Reformulated, 1941)",
+		"answer": "Frustration produces readiness for aggression but does not always result in it; however, all aggression results from frustration."
+	  },
+	  {
+		"question": "Frustration",
+		"answer": "An external barrier that prevents goal attainment and prompts a readiness for aggression."
+	  },
+	  {
+		"question": "Operant Conditioning Explanation of Aggression",
+		"answer": "Aggression is learned and maintained through its consequences, such as reinforcement or punishment."
+	  },
+	  {
+		"question": "Positive Reinforcement",
+		"answer": "A consequence that increases the likelihood of aggression by providing a desirable outcome, such as gaining an object or praise."
+	  },
+	  {
+		"question": "Negative Reinforcement",
+		"answer": "A consequence that increases aggression by removing an aversive stimulus, such as stopping nagging."
+	  },
+	  {
+		"question": "Punishment",
+		"answer": "A consequence involving inflicting harm that can affect the future likelihood of aggressive behavior."
+	  },
+	  {
+		"question": "Social Learning Theory",
+		"answer": "Learning is a cognitive process that occurs in a social context through observation and the consequences of others’ behavior."
+	  },
+	  {
+		"question": "Observational Learning (Modeling)",
+		"answer": "Learning that occurs by watching others and extracting rules about behavior and its consequences, even without immediate behavioral change."
+	  },
+	  {
+		"question": "Vicarious Reinforcement",
+		"answer": "Learning that occurs by observing others being rewarded or punished for their actions."
+	  },
+	  {
+		"question": "Reciprocal Determinism (Bandura)",
+		"answer": "The idea that cognition, environment, and behavior all mutually influence one another."
+	  },
+	  {
+		"question": "Aggressive Cues Theory (Berkowitz)",
+		"answer": "The presence of stimuli associated with aggression can trigger aggressive behavior in individuals who are already frustrated or emotionally aroused."
+	  },
+	  {
+		"question": "Aggressive Cues (Berkowitz)",
+		"answer": "External stimuli or situations that have become associated with aggression and can activate aggressive responses."
+	  },
+	  {
+		"question": "Excitation Transfer Theory (Zillman)",
+		"answer": "Residual physiological arousal from one event is misattributed to a new stimulus, intensifying the emotional response to the new situation."
+	  },
+	  {
+		"question": "Initial Arousal (Excitation Transfer Theory)",
+		"answer": "Physiological arousal caused by an initial event such as excitement, fear, or exercise."
+	  },
+	  {
+		"question": "Residual Arousal (Excitation Transfer Theory)",
+		"answer": "Physiological arousal that lingers after the initial arousing event has ended."
+	  },
+	  {
+		"question": "Misattribution of Arousal (Excitation Transfer Theory)",
+		"answer": "Incorrectly attributing lingering arousal from a previous event to a new stimulus."
+	  },
+	  {
+		"question": "General Aggression Model (GAM, Bushman and Anderson)",
+		"answer": "A comprehensive framework integrating social learning, cognitive processing, and arousal theories to explain short-term and long-term aggression."
+	  },
+	  {
+		"question": "Catharsis View of Video Games",
+		"answer": "The idea that playing violent video games allows for a safe release of aggressive energy and should reduce real-world aggression."
+	  },
+	  {
+		"question": "Learning Theory View of Video Games",
+		"answer": "The idea that violent video games increase aggression through social learning, activation of aggressive thoughts, and development of aggressive behavioral scripts."
 	  }
+	  
 
 	  ]
   },
@@ -1115,7 +1239,189 @@
   { "question": "How does attachment style affect jealousy?", "answer": "Anxious styles show higher jealousy; avoidant styles suppress it; secure styles show lower jealousy." },
   { "question": "How do cultural norms shape jealousy?", "answer": "They influence what counts as a threat and how jealousy is expressed." },
   { "question": "What did DeSteno et al. (2006) find about jealousy?", "answer": "Jealousy is mediated by reductions in self-esteem." }
-  ]}
+  ]},
+  
+  {
+    "topic": "Lecture 6: Aggression",
+    "flashcards": [
+	  {
+    "question": "How is aggression defined in social psychology?",
+    "answer": "Aggression is any behaviour intended to physically or psychologically harm another person."
+  },
+  {
+    "question": "How is aggression distinct from anger?",
+    "answer": "Anger is a motivation to overcome a target, but it does not necessarily involve an intention to harm."
+  },
+  {
+    "question": "What is hostile (reactive/affective) aggression?",
+    "answer": "A form of aggression in which the primary goal is to injure or destroy, driven by strong emotion."
+  },
+  {
+    "question": "What is instrumental (proactive) aggression?",
+    "answer": "A form of aggression in which harm is used as a means to achieve another goal such as gaining resources or status."
+  },
+  
+  {
+    "question":"Situational factors that can increase aggressive behavior",
+    "answer":"Some situational factors that can increase aggressive behavior can include: the presence of alcohol, and environmental conditions like heat or crowding"
+  },
+  
+  {
+    "question": "What does Freud’s Dual-Instinct Theory propose about aggression?",
+    "answer": "Aggression is an outward manifestation of the death instinct (Thanatos) in conflict with the life instinct (Eros)."
+  },
+  {
+    "question": "What is Thanatos?",
+    "answer": "Thanatos is the death instinct, a fundamental drive toward destruction and self-destruction."
+  },
+  {
+    "question": "What is Eros?",
+    "answer": "Eros is the life instinct, responsible for survival, creativity, and love."
+  },
+  {
+    "question": "How does Freud explain the release of aggressive energy?",
+    "answer": "Freud proposed that aggressive energy builds up and must be released through catharsis to reduce tension."
+  },
+  {
+    "question": "What is catharsis?",
+    "answer": "Catharsis is the release of built-up aggressive energy to reduce psychological tension."
+  },
+  {
+    "question": "What key criticism is often directed at Freud’s theory of aggression?",
+    "answer": "It is difficult to scientifically test and lacks strong empirical support."
+  },
+  {
+    "question": "What is displacement in psychoanalytic theory?",
+    "answer": "Displacement is redirecting aggression toward a safer or more accessible target."
+  },
+  {
+    "question": "What is sublimation?",
+    "answer": "Sublimation is transforming aggressive energy into socially acceptable and productive activities."
+  },
+  {
+    "question": "What does the original Frustration–Aggression Hypothesis claim?",
+    "answer": "Frustration always leads to aggression, and all aggression results from frustration."
+  },
+  {
+    "question": "How was the Frustration–Aggression Hypothesis reformulated?",
+    "answer": "Frustration creates readiness for aggression but does not always lead to it; however, all aggression results from frustration."
+  },
+  {
+    "question": "According to the Frustration–Aggression Hypothesis, why does aggression occur?",
+    "answer": "Aggression occurs as an attempt to overcome an external barrier to goal attainment."
+  },
+  {
+    "question": "Which theorist is associated with operant conditioning?",
+    "answer": "B.F. Skinner is associated with operant conditioning."
+  },
+  {
+    "question": "How does operant conditioning explain aggression?",
+    "answer": "Aggression is learned and maintained through reinforcement and punishment."
+  },
+  {
+    "question": "How does positive reinforcement increase aggression?",
+    "answer": "Aggression increases when it produces a desirable outcome such as gaining an object or praise."
+  },
+  {
+    "question": "How does negative reinforcement increase aggression?",
+    "answer": "Aggression increases when it removes an aversive stimulus, such as stopping nagging."
+  },
+  {
+    "question": "How does punishment relate to aggression in operant conditioning?",
+    "answer": "Punishment involves inflicting harm and affects the future likelihood of aggressive behaviour."
+  },
+  {
+    "question": "What is the core idea of social learning theory?",
+    "answer": "Learning is a cognitive process that occurs in a social context through observation."
+  },
+  {
+    "question": "What is observational learning?",
+    "answer": "Learning that occurs by watching others and extracting information about behaviour and its consequences."
+  },
+  {
+    "question": "What is vicarious reinforcement?",
+    "answer": "Learning that occurs by observing others being rewarded or punished."
+  },
+  {
+    "question": "What is reciprocal determinism?",
+    "answer": "Cognition, environment, and behaviour mutually influence one another."
+  },
+  {
+    "question": "What did the Bobo doll experiment demonstrate?",
+    "answer": "Children who observed aggressive models were more likely to display aggressive behaviour themselves."
+  },
+  {
+    "question": "What influence did same-sex models have in the Bobo doll experiment?",
+    "answer": "Same-sex models had a stronger influence on children’s aggressive behaviour."
+  },
+  {
+    "question": "What sex difference in aggression was found in the Bobo doll experiment?",
+    "answer": "Males exhibited significantly more aggressive acts than females."
+  },
+  {
+    "question": "What is Aggressive Cues Theory?",
+    "answer": "Aggression is triggered when environmental cues associated with aggression are present in a frustrated or aroused individual."
+  },
+  {
+    "question": "What are aggressive cues?",
+    "answer": "Stimuli or environmental situations that have become associated with aggression through learning."
+  },
+  {
+    "question": "How does Aggressive Cues Theory build on the Frustration–Aggression Hypothesis?",
+    "answer": "It suggests frustration creates readiness for aggression, but cues are needed to trigger aggressive behaviour."
+  },
+  {
+    "question": "What is Excitation Transfer Theory?",
+    "answer": "Lingering physiological arousal from one event is misattributed to a new stimulus, intensifying emotional responses."
+  },
+  {
+    "question": "What is initial arousal in Excitation Transfer Theory?",
+    "answer": "Physiological arousal caused by an initial event such as fear, excitement, or exercise."
+  },
+  {
+    "question": "What is residual arousal?",
+    "answer": "Physiological arousal that remains after the initial arousing event has ended."
+  },
+  {
+    "question": "What is misattribution of arousal?",
+    "answer": "Attributing lingering arousal from a previous event to a new stimulus."
+  },
+  {
+    "question": "How does Excitation Transfer Theory explain increased aggression?",
+    "answer": "Residual arousal intensifies emotional reactions to a later stimulus, increasing the likelihood of aggressive responses."
+  },
+  {
+    "question": "How do drive theories predict the effect of violent video games on aggression?",
+    "answer": "They predict lower aggression due to the cathartic release of aggressive energy."
+  },
+  {
+    "question": "How do learning theories predict the effect of violent video games on aggression?",
+    "answer": "They predict higher aggression due to social learning, cognitive priming, and script formation."
+  },
+  {
+    "question": "What is the General Aggression Model (GAM)?",
+    "answer": "A framework integrating social learning, cognitive, and arousal processes to explain aggression."
+  },
+  {
+    "question": "What did Anderson and Bushman conclude about violent video games?",
+    "answer": "Exposure to violent video games increases both short-term and long-term aggression."
+  },
+  {
+    "question": "What position does Christopher J. Ferguson take on violent video games and aggression?",
+    "answer": "After controlling for other factors, the link between violent games and aggression is weak or non-existent."
+  },
+   {
+    "question": "What is a major criticism of catharsis-based explanations of aggression?",
+    "answer": "Research often shows that expressing aggression increases rather than reduces future aggression."
+  },
+  {
+    "question": "What is a common critique of purely learning-based theories of aggression?",
+    "answer": "They may underestimate the role of biological predispositions and emotional processes."
+  }
+	
+	
+	
+	]}
 
   
 ]

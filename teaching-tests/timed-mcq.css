@@ -50,6 +50,11 @@ h1 {
   margin-top: 20px;
 }
 
+.repeat-question {
+  border-left: 4px solid #ff9800;
+  padding-left: 8px;
+}
+
 #timerBtn {
   display: inline-block;
   margin-bottom: 15px;
@@ -61,7 +66,7 @@ h1 {
   cursor: pointer;
 }
 
-.start-btn, #nextBtn {
+.start-btn, #nextBtn, #restartBtn {
   margin-top: 10px;
   padding: 8px 15px;
   font-size: 1rem;
@@ -106,6 +111,7 @@ h1 {
   margin-top: 10px;
   height: 20px;
   text-align: center;
+  display: inline-block;
 }
 
 #nextBtn {

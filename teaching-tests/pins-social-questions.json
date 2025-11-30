@@ -1479,9 +1479,692 @@
       "Requires implicit testing"
     ],
     "answer": "Reduces intergroup bias toward individuals but may not generalize to the whole outgroup"
-  }
+  },
   
+  
+  {
+    "id": 203,
+    "question": "How is aggression defined by Berkowitz (1993)?",
+    "options": ["Any expression of anger toward others", "Any behaviour intended to physically or psychologically harm another person", "Any hostile emotional state", "Any form of social conflict"],
+    "answer": "Any behaviour intended to physically or psychologically harm another person"
+  },
+  {
+    "id": 204,
+    "question": "How is aggression different from anger?",
+    "options": ["Anger always involves harm", "Anger is a biological instinct only", "Anger is a motivation to overcome a target and does not necessarily involve harm", "Anger only occurs in hostile aggression"],
+    "answer": "Anger is a motivation to overcome a target and does not necessarily involve harm"
+  },
+  {
+    "id": 205,
+    "question": "Which type of aggression is emotionally driven and aimed at causing injury?",
+    "options": ["Instrumental aggression", "Hostile aggression", "Proactive aggression", "Learned aggression"],
+    "answer": "Hostile aggression"
+  },
+  {
+    "id": 206,
+    "question": "Which type of aggression uses harm as a means to achieve another goal?",
+    "options": ["Reactive aggression", "Affective aggression", "Instrumental aggression", "Displaced aggression"],
+    "answer": "Instrumental aggression"
+  },
+  {
+    "id": 207,
+    "question": "According to Freud, aggression is primarily an expression of which instinct?",
+    "options": ["Ego", "Eros", "Thanatos", "Libido"],
+    "answer": "Thanatos"
+  },
+  {
+    "id": 208,
+    "question": "What does the concept of catharsis refer to?",
+    "options": ["Suppressing aggressive urges", "The release of built-up aggressive energy", "Redirecting aggression to a safer target", "Learning aggression through observation"],
+    "answer": "The release of built-up aggressive energy"
+  },
+  {
+    "id": 209,
+    "question": "Redirecting aggression toward a safer target is known as:",
+    "options": ["Sublimation", "Displacement", "Catharsis", "Modeling"],
+    "answer": "Displacement"
+  },
+  {
+    "id": 210,
+    "question": "Transforming aggressive impulses into socially acceptable activities is called:",
+    "options": ["Displacement", "Catharsis", "Sublimation", "Reinforcement"],
+    "answer": "Sublimation"
+  },
+  {
+    "id": 211,
+    "question": "Who proposed the Frustration–Aggression Hypothesis?",
+    "options": ["Bandura", "Skinner", "Dollard", "Berkowitz"],
+    "answer": "Dollard"
+  },
+  {
+    "id": 212,
+    "question": "The reformulated Frustration–Aggression Hypothesis states that:",
+    "options": ["Frustration always leads to aggression", "Aggression never results from frustration", "Frustration creates readiness for aggression but does not always lead to it", "Aggression is purely instinctive"],
+    "answer": "Frustration creates readiness for aggression but does not always lead to it"
+  },
+  {
+    "id": 213,
+    "question": "Which learning process explains aggression through rewards and punishments?",
+    "options": ["Social learning", "Operant conditioning", "Classical conditioning", "Psychoanalysis"],
+    "answer": "Operant conditioning"
+  },
+  {
+    "id": 214,
+    "question": "Which theorist is most associated with operant conditioning?",
+    "options": ["Freud", "Bandura", "Skinner", "Zillmann"],
+    "answer": "Skinner"
+  },
+  {
+    "id": 215,
+    "question": "Learning aggression by observing others is known as:",
+    "options": ["Negative reinforcement", "Instinct theory", "Observational learning", "Drive theory"],
+    "answer": "Observational learning"
+  },
+  {
+    "id": 216,
+    "question": "What did the Bobo doll experiment demonstrate?",
+    "options": ["Aggression is always biological", "Children learn aggression through observation", "Punishment eliminates aggression", "Frustration never leads to aggression"],
+    "answer": "Children learn aggression through observation"
+  },
+  {
+    "id": 217,
+    "question": "Which children were most influenced by aggressive models in the Bobo doll study?",
+    "options": ["Opposite-sex models", "Same-sex models", "Older models only", "Authority figures only"],
+    "answer": "Same-sex models"
+  },
+  {
+    "id": 218,
+    "question": "According to Aggressive Cues Theory, what is required for aggression to occur?",
+    "options": ["Only frustration", "Only biological arousal", "Frustration plus an aggressive cue", "Only reinforcement"],
+    "answer": "Frustration plus an aggressive cue"
+  },
+  {
+    "id": 220,
+    "question": "Who is associated with Aggressive Cues Theory?",
+    "options": ["Skinner", "Freud", "Berkowitz", "Ferguson"],
+    "answer": "Berkowitz"
+  },
+  {
+    "id": 221,
+    "question": "Excitation Transfer Theory explains aggression as the result of:",
+    "options": ["Suppressed instincts", "Misattributed physiological arousal", "Direct reinforcement", "Biological predispositions only"],
+    "answer": "Misattributed physiological arousal"
+  },
+  {
+    "id": 222,
+    "question": "Which theorist proposed Excitation Transfer Theory?",
+    "options": ["Bandura", "Zillmann", "Dollard", "Bushman"],
+    "answer": "Zillmann"
+  },
+  {
+    "id": 223,
+    "question": "The General Aggression Model (GAM) integrates which types of processes?",
+    "options": ["Biological and genetic only", "Social learning, cognitive, and arousal processes", "Instinct and punishment only", "Frustration and catharsis only"],
+    "answer": "Social learning, cognitive, and arousal processes"
+  },
+  {
+    "id": 224,
+    "question": "According to Anderson and Bushman, exposure to violent video games:",
+    "options": ["Has no effect on aggression", "Reduces long-term aggression", "Increases both short-term and long-term aggression", "Only affects children"],
+    "answer": "Increases both short-term and long-term aggression"
+  },
+  {
+    "id": 225,
+    "question": "Which researcher argues that the link between violent video games and aggression is weak after controlling for other factors?",
+    "options": ["Bushman", "Bandura", "Ferguson", "Berkowitz"],
+    "answer": "Ferguson"
+  },
+  {
+    "id": 226,
+    "question": "Symbolic catharsis theories predict which effect of violent video games on aggression?",
+    "options": ["Increased long-term aggression", "Reduction of aggression", "No emotional impact", "Immediate punishment effects"],
+    "answer": "Reduction of aggression"
+  },
+  {
+    "id": 227,
+    "question": "Learning theories predict which effect of violent video games?",
+    "options": ["Reduced aggression", "No cognitive effects", "Increased aggression through modeling and scripts", "Only temporary emotional arousal"],
+    "answer": "Increased aggression through modeling and scripts"
+  },
+  
+
+  {
+      "id": 228,
+      "question": "Which component is required for a behaviour to be classified as aggression?",
+      "options": [
+          "Presence of anger",
+          "Intent to harm",
+          "Physical injury",
+          "Social disapproval"
+      ],
+      "answer": "Intent to harm"
+  },
+
+  {
+      "id": 229,
+      "question": "Which form of aggression is most likely to involve planning?",
+      "options": [
+          "Hostile aggression",
+          "Displaced aggression",
+          "Instrumental aggression",
+          "Reactive aggression"
+      ],
+      "answer": "Instrumental aggression"
+  },
+  {
+      "id": 230,
+      "question": "Which form of aggression is most closely linked to rage or anger?",
+      "options": [
+          "Instrumental",
+          "Hostile",
+          "Proactive",
+          "Strategic"
+      ],
+      "answer": "Hostile"
+  },
+  {
+      "id": 231,
+      "question": "In Freud’s theory, the ego manages aggressive impulses primarily through:",
+      "options": [
+          "Punishment",
+          "Defense mechanisms",
+          "Reinforcement",
+          "Modeling"
+      ],
+      "answer": "Defense mechanisms"
+  },
+  {
+      "id": 232,
+      "question": "Which defense mechanism involves socially approved redirection of aggression?",
+      "options": [
+          "Displacement",
+          "Projection",
+          "Sublimation",
+          "Regression"
+      ],
+      "answer": "Sublimation"
+  },
+  {
+      "id": 233,
+      "question": "What does the hydraulic model of aggression suggest?",
+      "options": [
+          "Aggression is purely genetic",
+          "Aggression builds up and must be released",
+          "Aggression is learned only",
+          "Aggression results from social pressure"
+      ],
+      "answer": "Aggression builds up and must be released"
+  },
+  {
+      "id": 234,
+      "question": "Which statement best reflects Freud’s view of human aggression?",
+      "options": [
+          "It is socially constructed",
+          "It is biologically instinctive",
+          "It is learned through peers",
+          "It only occurs under frustration"
+      ],
+      "answer": "It is biologically instinctive"
+  },
+  {
+      "id": 235,
+      "question": "What was a major weakness of the original Frustration–Aggression Hypothesis?",
+      "options": [
+          "It ignored biological factors",
+          "It assumed frustration always leads to aggression",
+          "It focused too much on learning",
+          "It excluded emotional factors"
+      ],
+      "answer": "It assumed frustration always leads to aggression"
+  },
+  {
+      "id": 236,
+      "question": "Which concept describes a blocker preventing goal attainment?",
+      "options": [
+          "Aggressive cue",
+          "Residual arousal",
+          "Frustration",
+          "Drive"
+      ],
+      "answer": "Frustration"
+  },
+  {
+      "id": 237,
+      "question": "Which consequence increases the likelihood of aggression by removing an unpleasant stimulus?",
+      "options": [
+          "Positive reinforcement",
+          "Negative reinforcement",
+          "Extinction",
+          "Punishment"
+      ],
+      "answer": "Negative reinforcement"
+  },
+  {
+      "id": 238,
+      "question": "Receiving praise for aggressive behavior is an example of:",
+      "options": [
+          "Punishment",
+          "Negative reinforcement",
+          "Positive reinforcement",
+          "Extinction"
+      ],
+      "answer": "Positive reinforcement"
+  },
+  {
+      "id": 239,
+      "question": "Which theory emphasizes cognition in learning aggressive behavior?",
+      "options": [
+          "Operant conditioning",
+          "Social learning theory",
+          "Drive theory",
+          "Instinct theory"
+      ],
+      "answer": "Social learning theory"
+  },
+  {
+      "id": 240,
+      "question": "Which process explains why watching someone get rewarded for aggression increases imitation?",
+      "options": [
+          "Displacement",
+          "Catharsis",
+          "Vicarious reinforcement",
+          "Excitation transfer"
+      ],
+      "answer": "Vicarious reinforcement"
+  },
+  {
+      "id": 241,
+      "question": "Reciprocal determinism suggests that behavior:",
+      "options": [
+          "Is genetically fixed",
+          "Shapes and is shaped by the environment and cognition",
+          "Is learned only through punishment",
+          "Is driven only by instincts"
+      ],
+      "answer": "Shapes and is shaped by the environment and cognition"
+  },
+  {
+      "id": 242,
+      "question": "Which feature of the Bobo doll study best supports modeling?",
+      "options": [
+          "Use of punishment",
+          "Direct instruction",
+          "Imitation of observed behavior",
+          "Genetic similarity"
+      ],
+      "answer": "Imitation of observed behavior"
+  },
+  {
+      "id": 243,
+      "question": "Which group showed the highest frequency of physical aggression in the Bobo doll study?",
+      "options": [
+          "Girls observing female models",
+          "Girls observing male models",
+          "Boys observing female models",
+          "Boys observing male models"
+      ],
+      "answer": "Boys observing male models"
+  },
+  {
+      "id": 244,
+      "question": "Aggressive Cues Theory argues that frustration alone is:",
+      "options": [
+          "Sufficient for aggression",
+          "Necessary but insufficient",
+          "Unrelated to aggression",
+          "More important than learning"
+      ],
+      "answer": "Necessary but insufficient"
+  },
+  {
+      "id": 245,
+      "question": "Which object would most likely function as an aggressive cue?",
+      "options": [
+          "Notebook",
+          "Hammer",
+          "Carpet",
+          "Clock"
+      ],
+      "answer": "Hammer"
+  },
+  {
+      "id": 246,
+      "question": "According to Berkowitz, aggressive cues work by:",
+      "options": [
+          "Decreasing intelligence, which is associated with aggressive behavior",
+          "Triggering aggressive thoughts and feelings",
+          "Inhibiting emotional responses, thereby increasing the likelihood of violence",
+          "Suppressing arousal"
+      ],
+      "answer": "Triggering aggressive thoughts and feelings"
+  },
+  {
+      "id": 247,
+      "question": "Which emotional state is central to the start of the Aggressive Cues process?",
+      "options": [
+          "Joy",
+          "Frustration",
+          "Guilt",
+          "Shame"
+      ],
+      "answer": "Frustration"
+  },
+  {
+      "id": 248,
+      "question": "Which theory best explains why anger may carry over into a new situation?",
+      "options": [
+          "Drive theory",
+          "Operant conditioning",
+          "Excitation Transfer Theory",
+          "Social learning theory"
+      ],
+      "answer": "Excitation Transfer Theory"
+  },
+  {
+      "id": 249,
+      "question": "Physiological arousal that remains after an emotional event is called:",
+      "options": [
+          "Initial arousal",
+          "Residual arousal",
+          "Primary arousal",
+          "Displaced arousal"
+      ],
+      "answer": "Residual arousal"
+  },
+  {
+      "id": 250,
+      "question": "In excitation transfer, people make which type of attribution error?",
+      "options": [
+          "Stimulus misidentification",
+          "Residual arousal misattribution",
+          "Cognitive distortion",
+          "Self-serving bias"
+      ],
+      "answer": "Residual arousal misattribution"
+  },
+  {
+      "id": 251,
+      "question": "Which theory best explains increased aggression after intense exercise?",
+      "options": [
+          "Social learning",
+          "Operant conditioning",
+          "Excitation Transfer",
+          "Instinct theory"
+      ],
+      "answer": "Excitation Transfer"
+  },
+  {
+      "id": 252,
+      "question": "Which model aims to integrate arousal, cognition, and learning into one framework?",
+      "options": [
+          "Frustration–Aggression Hypothesis",
+          "General Aggression Model",
+          "Dual-Instinct Theory",
+          "Aggressive Cues Theory"
+      ],
+      "answer": "General Aggression Model"
+  },
+  {
+      "id": 253,
+      "question": "Which process is central to the cognitive pathway in the GAM?",
+      "options": [
+          "Biological reflexes",
+          "Aggressive scripts",
+          "Instinct discharge",
+          "Negative reinforcement"
+      ],
+      "answer": "Aggressive scripts"
+  },
+  {
+      "id": 254,
+      "question": "Which prediction follows from the catharsis view of video games?",
+      "options": [
+          "Aggression should increase",
+          "Aggression should decrease",
+          "Aggression should remain unchanged",
+          "Aggression should become instinctive"
+      ],
+      "answer": "Aggression should decrease"
+  },
+  {
+      "id": 255,
+      "question": "Which process explains how repeated exposure to violent games builds long-term aggression?",
+      "options": [
+          "Cathartic discharge",
+          "Script learning",
+          "Residual arousal",
+          "Genetic priming"
+      ],
+      "answer": "Script learning"
+  },
+  
+    {
+    "id": 256,
+    "question": "What term refers to the reduction of normal social restraints that typically prevent aggressive behavior?",
+    "options": ["Dehumanization", "Deindividuation", "Disinhibition", "Social facilitation"],
+    "answer": "Disinhibition"
+  },
+  {
+    "id": 257,
+    "question": "Which concept describes the weakening of internal and external controls that usually limit aggression?",
+    "options": ["Social conformity", "Dehumanization", "Disinhibition", "Modeling"],
+    "answer": "Disinhibition"
+  },
+  
+  {
+      "id": 258,
+      "question": "Which factor is NOT emphasized by social learning theories of video game aggression?",
+      "options": [
+          "Modeling",
+          "Reinforcement",
+          "Aggressive scripts",
+          "Death instinct"
+      ],
+      "answer": "Death instinct"
+  },
+  {
+      "id": 259,
+      "question": "Which type of aggression is most likely in emotional outbursts?",
+      "options": [
+          "Instrumental",
+          "Hostile",
+          "Strategic",
+          "Calculated"
+      ],
+      "answer": "Hostile"
+  },
+
+  {
+      "id": 260,
+      "question": "Which theorist emphasized that learners are active processors of information?",
+      "options": [
+          "Freud",
+          "Skinner",
+          "Bandura",
+          "Dollard"
+      ],
+      "answer": "Bandura"
+  },
+  {
+      "id": 261,
+      "question": "Which mechanism explains why aggressive behavior can persist without direct reward?",
+      "options": [
+          "Vicarious reinforcement",
+          "Catharsis",
+          "Displacement",
+          "Punishment"
+      ],
+      "answer": "Vicarious reinforcement"
+  },
+
+  {
+      "id": 262,
+      "question": "Which variable did Ferguson emphasize as a confounding influence?",
+      "options": [
+          "Peer conformity",
+          "Personality traits",
+          "Cognitive development",
+          "Athletic ability"
+      ],
+      "answer": "Personality traits"
+  },
+  {
+      "id": 263,
+      "question": "Which theory most strongly supports media effects on aggression?",
+      "options": [
+          "Drive theory",
+          "Dual-instinct theory",
+          "General Aggression Model",
+          "Evolutionary theory"
+      ],
+      "answer": "General Aggression Model"
+  },
+  {
+      "id": 264,
+      "question": "Which theory treats aggression as a learned response shaped by the environment?",
+      "options": [
+          "Instinct theory",
+          "Social learning theory",
+          "Psychoanalytic theory",
+          "Evolutionary theory"
+      ],
+      "answer": "Social learning theory"
+  },
+  {
+      "id": 265,
+      "question": "Which term describes aggression triggered at a substitute target?",
+      "options": [
+          "Instrumental aggression",
+          "Displaced aggression",
+          "Proactive aggression",
+          "Scripted aggression"
+      ],
+      "answer": "Displaced aggression"
+  },
+  {
+      "id": 266,
+      "question": "Which concept explains sports as a healthy outlet for aggression in Freud’s theory?",
+      "options": [
+          "Reinforcement",
+          "Displacement",
+          "Sublimation",
+          "Catharsis"
+      ],
+      "answer": "Sublimation"
+  },
+  {
+      "id": 267,
+      "question": "Which type of aggression is most closely tied to emotional arousal?",
+      "options": [
+          "Instrumental",
+          "Hostile",
+          "Planned",
+          "Strategic"
+      ],
+      "answer": "Hostile"
+  },
+  {
+      "id": 268,
+      "question": "Which approach would best explain aggression maintained by rewards?",
+      "options": [
+          "Cognitive theory",
+          "Operant conditioning",
+          "Psychoanalysis",
+          "Evolutionary theory"
+      ],
+      "answer": "Operant conditioning"
+  },
+  {
+      "id": 269,
+      "question": "Which theory MOST directly predicts increased aggression after observing violent role models?",
+      "options": [
+          "Excitation Transfer Theory",
+          "Drive theory",
+          "Social Learning Theory",
+          "Dual-Instinct Theory"
+      ],
+      "answer": "Social Learning Theory"
+  },
+  {
+      "id": 270,
+      "question": "Which type of aggression is primarily goal-oriented rather than emotion-driven?",
+      "options": [
+          "Reactive",
+          "Hostile",
+          "Instrumental",
+          "Affective"
+      ],
+      "answer": "Instrumental"
+  },
+  {
+      "id": 271,
+      "question": "Which element is shared by both the Frustration–Aggression Hypothesis and Aggressive Cues Theory?",
+      "options": [
+          "Role of frustration",
+          "Role of sublimation",
+          "Role of genetics",
+          "Role of catharsis"
+      ],
+      "answer": "Role of frustration"
+  },
+  
+  {
+    "id": 272,
+    "question": "What do biological theories of aggression propose about human behavior?",
+    "options": ["Aggression is entirely learned", 
+				"People are born with aggressive tendencies", 
+				"Aggression develops only through socialization", 
+				"Aggression is caused by therapy failure"],
+    "answer": "People are born with aggressive tendencies"
+  },
+  {
+    "id": 273,
+    "question": "From a biological perspective, aggression is best understood as:",
+    "options": ["An innate tendency present at birth", 
+				"A behavior shaped only by culture", 
+				"A response produced solely by learning", 
+				"A result of social training alone"],
+    "answer": "An innate tendency present at birth"
+  },
+  {
+    "id": 274,
+    "question": "According some evolutionary theories, aggression is adaptive because it can:",
+    "options": ["Leads to assortative mating", 
+				"Support survival and reproduction", 
+				"Increase social cooperation", 
+				"Reduce emotional conflict"],
+    "answer": "Support survival and reproduction"
+  },
+  {
+    "id": 275,
+    "question": "From an evolutionary viewpoint, aggressive behavior is favored because it can:",
+    "options": ["Reduce sexual dimorphism", 
+				"Help protect a mate or offspring", 
+				"Increase Dunbar's number", 
+				"Sublimate violent thoughts and emotions"],
+    "answer": "Help protect a mate or offspring"
+  },
+  
+    {
+    "id": 276,
+    "question": "Which of the following is a situational influence that can increase aggressive behavior?",
+    "options": ["High insulin levels", 
+				"Exposure to heat or alcohol", 
+				"Low cortisol", 
+				"Conspecifics not present"],
+    "answer": "Exposure to heat or alcohol"
+  },
+  {
+    "id": 277,
+    "question": "Which environmental condition is most likely to raise the risk of aggression?",
+    "options": ["Facial asymmetry", 
+				"Crowding or alcohol consumption", 
+				"Homeostasis", 
+				"Psychological therapy"],
+    "answer": "Crowding or alcohol consumption"
   
 ]  
+  
+ 
   
   
