@@ -1,0 +1,71 @@
+.activity-container[data-activity="connect"] {
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #f0f8ff;
+  margin-bottom: 1.5rem;
+  position: relative;
+  user-select: none;
+}
+
+.activity-container[data-activity="connect"] .connect-wrapper {
+  display: flex;
+  gap: 5rem; /* larger gap for clarity */
+  position: relative;
+}
+
+.activity-container[data-activity="connect"] .connect-column {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  min-width: 150px;
+}
+
+.activity-container[data-activity="connect"] button {
+  cursor: grab;
+  padding: 0.5rem 0.75rem;
+  border-radius: 5px;
+  border: 1px solid #bbb;
+  background: #fff;
+  margin-bottom: 0.3rem;
+  text-align: center;
+}
+
+.activity-container[data-activity="connect"] button:hover {
+  background: #f0f0f0;
+}
+
+.activity-container[data-activity="connect"] .connect-check {
+  margin-top: 0.5rem;
+  padding: 0.45rem 0.8rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background: #3399ff;
+  color: white;
+  font-weight: bold;
+}
+
+.activity-container[data-activity="connect"] .connect-feedback {
+  margin-top: 0.5rem;
+  font-style: italic;
+  color: #333;
+}
+
+.connect-lines path {
+  stroke-width: 3;
+  stroke-linecap: round;
+  fill: none;
+  opacity: 0.8;
+}
+
+.connect-lines circle {
+  stroke: #333;
+  stroke-width: 1;
+}
+
+.activity-container[data-activity="connect"] .selected-tap {
+  outline: 3px dashed #666;
+  outline-offset: 2px;
+}

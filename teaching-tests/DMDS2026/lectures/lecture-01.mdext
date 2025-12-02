@@ -1,0 +1,168 @@
+== Lecture 1 – Introduction to Digital Methods and Data Skills ==
+
+=== Data in the Wild ===
+
+Data surrounds us in modern life. Every interaction online — whether using social media platforms, tracking your fitness through an app, or purchasing items from an e-commerce site — generates data. These data points are collected, stored, and analyzed, often invisibly, yet they inform decisions that affect both individuals and organizations. For researchers and practitioners in psychology, understanding how data is generated and used is crucial.
+
+Data literacy allows us to critically interpret these digital traces. It involves the ability to read, understand, create, and communicate data effectively. Much like traditional literacy enables reading and writing, data literacy equips individuals to engage with information thoughtfully and responsibly. For research scientists, data literacy is essential to design studies, analyze results, and draw meaningful conclusions. For practicing psychologists, it is equally important to interpret findings reported in primary literature and apply them to clinical or organizational practice. In short, data literacy is “skepticism with a spreadsheet.”
+
+
+[activity:mcq]
+prompt: Which of the following is an example of early mechanized data storage?
+wrong: Papyrus scrolls
+wrong: Writing by hand
+correct: Punched cards in Jacquard looms
+correct: Tabulating machines for census data
+explanation: Early machines like Jacquard looms and tabulating machines mechanized the storage and processing of data.
+[end activity]
+
+=== Data is Old ===
+
+The practice of collecting and recording data is far from new. Ancient civilizations, such as the Babylonians, maintained detailed accounting tablets. For instance, the British Museum houses a tablet (BM 085232, P368686) excavated in Larsa, dating to the Old Babylonian period (ca. 1900–1600 BC), that records detailed accounts of grain distribution. Similarly, Francis Galton, in the late 19th century, pioneered statistical methods in anthropometry, collecting data on human traits at the 1884 International Health Exhibition.
+
+Even before modern computers, data visualization was recognized as a powerful tool. John Snow’s 1854 cholera map demonstrated clusters of cases in London, illustrating the value of spatial analysis [cite:tulchinsky2018john]. Florence Nightingale famously used infographics to depict mortality causes in the Crimean War, effectively communicating complex statistics to policymakers[cite:bradshaw2017florence]. Charles Minard’s graphic of Napoleon’s invasion of Russia remains a benchmark for the effective communication of multivariate data [cite:moore2008cruel].
+
+| Name |
+|------|
+| ![John Snow Cholera Map](assets/lecture-01/Snow-cholera-map-1.jpg "John Snow's 1854 cholera map showing clusters of cholera cases in London") |
+|======|
+|John Snow's 1854 cholera map showing clusters of cholera cases in London.|
+
+[activity:flashcards]
+front: Who created the cholera map in 1854?
+back: John Snow
+front: Which statistician used infographics to show mortality in the Crimean War?
+back: Florence Nightingale
+front: Who developed early anthropometric statistical methods in the 19th century?
+back: Francis Galton
+[end activity]
+
+=== Data Storage ===
+
+From ancient papyrus scrolls to punched cards, humans have always sought methods to record and preserve information. Scribes in ancient Egypt were depicted seated on the floor with papyrus on their laps, meticulously copying records. By the 14th century, illustrations show the demon Titivillus “introducing errors” into scribes’ work, a reminder of human fallibility in data management.
+
+The invention of the printing press by Johannes Gutenberg around 1436 revolutionized information dissemination. Later, Jacquard looms used punched cards to control weaving patterns, demonstrating early mechanized data storage. Herman Hollerith’s tabulating machine processed punched cards for the 1890 U.S. Census, illustrating how automation can accelerate data summarization. Even phonograph cylinders were used to record folk songs in the early 20th century by Béla Bartók and Zoltán Kodály, preserving cultural data that would have otherwise been lost.
+
+![Hollerith Tabulating Machine](assets/lecture-01/tabulating_machine.jpg "Herman Hollerith's tabulating machine for the 1890 U.S. Census")
+
+[activity:mcq]
+prompt: Which of the following is an example of early mechanized data storage?
+wrong: Papyrus scrolls
+wrong: Writing by hand
+correct: Punched cards in Jacquard looms
+correct: Tabulating machines for census data
+explanation: Early machines like Jacquard looms and tabulating machines mechanized the storage and processing of data.
+[end activity]
+
+
+=== Information Needs to Travel ===
+
+Historically, transmitting information across distances was a major challenge. Optical telegraphs, such as beacon fires on hills, enabled the rapid relay of messages over land. Naval signaling, like Vice-Admiral Nelson’s famous "England expects..." message at the Battle of Trafalgar (1805), relied on numeric flag codes. Semaphore systems used hand-held flags to convey information visually, encoding letters in precise positions.
+
+The electric telegraph, developed by Gauss and Weber in 1833, introduced electronic long-distance communication. Morse code optimized message transmission by assigning shorter signals to more frequently used letters. These innovations illustrate how the efficiency, speed, and accuracy of information transfer have always been central to scientific and societal progress.
+
+[activity:arrange]
+prompt: Arrange these in chronological order.
+item: Beacon fires (optical telegraph)
+item: Flag semaphore
+item: Electric telegraph with Morse code
+[end activity]
+
+=== Information Needs to Stay Secret ===
+
+Data security has long been a concern. Julius Caesar famously used a simple letter-shift cipher to communicate sensitive messages around 50 BC. During World War II, the German military employed the Enigma machine for secure communication. Alan Turing and the team at Bletchley Park developed the Bombe and Colossus machines to decrypt Enigma messages, laying the groundwork for modern computing and cryptography.
+
+[activity:mcq]
+prompt: Which of the following were historical cryptography methods?
+wrong: Morse code
+wrong: Semaphore flags
+correct: Caesar cipher
+correct: Enigma machine
+explanation: The Caesar cipher and Enigma machine were used for secret communication.
+[end activity]
+
+=== But What is Information? ===
+
+In computing, the **bit** is the fundamental unit of information, representing a binary choice (0 or 1). A **byte** is a sequence of 8 bits, capable of encoding 256 values. Larger units are powers of 1024:
+
+| Name | Symbol | Size |
+|:-----|:------:|-----:|
+| bit | b | 1 bit |
+| byte | B | 8 bits |
+| kilobyte | kB | 1024 B |
+| megabyte | MB | 1024 kB |
+| gigabyte | GB | 1024 MB |
+| terabyte | TB | 1024 GB |
+| petabyte | PB | 1024 TB |
+
+
+[activity:connect]
+prompt: Connect the name with the size
+item: kilobyte | 1024 B 
+item: megabyte | 1024 kB
+item: gigabyte | 1024 MB
+item: terabyte | 1024 GB
+item: petabyte | 1024 TB
+[end activity]
+
+=== Data Storage and Computation ===
+
+Logic gates perform Boolean operations on binary inputs, forming the foundation of computation. Data can be stored using these gates, manipulated, and combined to perform calculations. The evolution of computing hardware, from vacuum tubes and transistors to integrated circuits, has followed Moore’s law: the number of transistors in an integrated circuit roughly doubles every two years, leading to faster, smaller, and cheaper electronics. Quantum effects now impose practical limits on miniaturization, illustrating the ongoing challenges in data storage and computation.
+
+[activity:mcq]
+prompt: Question A
+wrong: worng answer A1
+wrong: wrong answer A2
+wrong: wrong answer A3
+correct: correct answer A4
+explanation: Explalanation A
+
+prompt: Question B
+wrong: worng answer B1
+wrong: wrong answer B2
+wrong: wrong answer B3
+correct: correct answer B4
+explanation: Explalanation B
+
+prompt: Question C
+wrong: worng answer C1
+wrong: wrong answer C2
+wrong: wrong answer C3
+correct: correct answer C4
+explanation: Explalanation C
+[end activity]
+
+===References===
+[insert bibliography]
+
+[references]
+@article{tulchinsky2018john,
+  title={John Snow, cholera, the broad street pump; waterborne diseases then and now},
+  author={Tulchinsky, Theodore H},
+  journal={Case studies in public health},
+  pages={77},
+  year={2018},
+  doi = "10.1016/B978-0-12-804571-8.00017-2"
+}
+
+@incollection{bradshaw2017florence,
+  title={Florence Nightingale (1820--1910): A pioneer of data visualisation},
+  author={Bradshaw, Noel-Ann},
+  booktitle={Women in mathematics: Celebrating the centennial of the mathematical association of America},
+  pages={197--217},
+  year={2017},
+  publisher={Springer}
+}
+
+@article{moore2008cruel,
+  title={Cruel theory? The struggle for prestige and its consequences in academic technical communication},
+  author={Moore, Patrick},
+  journal={Journal of technical writing and communication},
+  volume={38},
+  number={3},
+  pages={207--240},
+  year={2008},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA},
+  doi = "10.1080/01621459.1958.10501452"
+}
+[end references]

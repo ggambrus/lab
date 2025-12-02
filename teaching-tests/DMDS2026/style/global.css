@@ -1,0 +1,95 @@
+body { font-family: Arial, sans-serif; max-width: 900px; margin: auto; line-height: 1.5; }
+h1,h2,h3 { margin-top: 2rem; }
+img { max-width: 100%; }
+.activity-container {
+  margin: 2rem 0;
+  padding: 1.25rem;
+  border: 1px solid #ccc;
+  background: #fafafa;
+  border-radius: 6px;
+}
+
+.activity-title {
+  font-weight: bold;
+  margin-bottom: 0.75rem;
+}
+
+.activity-container button {
+  cursor: pointer;
+  padding: 0.4rem 0.7rem;
+  border-radius: 4px;
+  border: 1px solid #aaa;
+  background: #fff;
+}
+
+.activity-complete {
+  color: #155724;
+  font-weight: bold;
+}
+.section-container[data-locked="true"] {
+  display: none;
+}
+
+
+/* General table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* Table header */
+table thead {
+  background-color: #6a4c93;
+  color: #fff;
+}
+
+table thead th {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-weight: 600;
+}
+
+/* Table body */
+table tbody td {
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid #ddd;
+  color: #333;
+}
+
+/* Zebra stripes for rows */
+table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+/* Hover effect on rows */
+table tbody tr:hover {
+  background-color: #f0f0ff;
+}
+
+/* Optional: center align for numeric columns */
+table tbody td.numeric,
+table thead th.numeric {
+  text-align: center;
+}
+
+/* Images inside tables */
+table img {
+  max-width: 100%;
+  border-radius: 4px;
+}
+
+/* Caption styling */
+table caption {
+  caption-side: top;
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #6a4c93;
+}
