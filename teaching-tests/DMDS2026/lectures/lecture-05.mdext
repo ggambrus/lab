@@ -5,8 +5,6 @@ This lecture introduces the principles and practices of **Research Data Manageme
 
 Employability link: Mastery of research data management is increasingly valued in roles such as research assistants, data analysts, clinical research coordinators, and policy data officers. Organizations in academia, healthcare, government, and industry rely on staff who can manage complex datasets responsibly and in compliance with regulations.
 
----
-
 === What Counts as Research Data? ===
 Research data consists of any information that is collected, observed, generated, or created to validate original research findings [cite:leeds_rdm]. This includes digital and non-digital materials, ranging from textual documents to complex physiological measurements. For example, data can include lab notebooks, experimental outputs, survey responses, interview transcripts, audio/video recordings, photographs, sensor readings, computational models, algorithms, and scripts.  
 
@@ -20,8 +18,6 @@ wrong: Peer review comments
 explanation: Research data must be information used to validate research findings. Draft manuscripts and peer review notes are explicitly excluded.
 [end activity]
 
----
-
 === Sources and Types of Research Data ===
 Research data can originate from multiple sources, each with distinct implications for management and reproducibility. **Observational data**, such as sensor readings or survey responses collected in real time, is often irreplaceable and must be carefully documented. **Experimental data** is generated under controlled conditions in laboratories, such as gene sequences or chromatograms, and may be reproducible but often at significant cost. **Simulation data** comes from computational or theoretical models, where the integrity of the model and associated metadata can be more important than the raw outputs themselves. **Derived or compiled data** is produced by transforming existing datasets, which is reproducible if lost but potentially expensive to regenerate. Finally, **reference or canonical data** comprises curated and peer-reviewed datasets, such as genomic databases or chemical structure repositories, which are typically published and managed by institutions or organizations.
 
@@ -33,8 +29,6 @@ back: Sensor readings collected during a study or survey responses collected in 
 front: Why is simulation data often more dependent on metadata than raw outputs?
 back: Because the reproducibility and interpretation of simulation data rely heavily on the integrity of the model and metadata.
 [end activity]
-
----
 
 === Data Governance and Project Management ===
 **Data governance** refers to the organizational policies and standards that regulate the access, storage, retention, and security of data across all projects within an institution. It is overarching, long-term, and applies to all research initiatives. By contrast, **data management** is **project-specific**, detailing the operational handling of data throughout the lifecycle of a given study.  
@@ -51,8 +45,6 @@ item: Check journal or publication expectations
 item: Integrate IP and copyright obligations
 [end activity]
 
----
-
 === Research Data Management (RDM) ===
 **Research Data Management (RDM)** is the systematic handling of data during the research lifecycle. This encompasses collection, organization, storage, documentation, analysis, sharing, and preservation. Proper RDM ensures that data can be managed **efficiently, ethically, and reproducibly**, which aligns with the FAIR principles: **Findable, Accessible, Interoperable, Reusable** [cite:fair].  
 
@@ -60,13 +52,11 @@ A **Data Management Plan (DMP)** is a formal document specifying how researchers
 
 [activity:connect]
 prompt: Match the RDM activity with its purpose
-item: Documentation | Ensures reproducibility and understanding
-item: Storage | Protects data integrity and prevents loss
-item: Sharing | Enables secondary research and reuse
-item: Analysis | Produces valid and interpretable results
+Documentation | Ensures reproducibility and understanding
+Storage | Protects data integrity and prevents loss
+Sharing | Enables secondary research and reuse
+Analysis | Produces valid and interpretable results
 [end activity]
-
----
 
 === Planning for Existing and New Data ===
 A key step in creating a DMP is assessing **existing data** that may be reused. Researchers must identify sources, evaluate suitability, analyze gaps, and justify any new data collection. Using existing data efficiently can save costs, reduce redundancy, and promote ethical use.  
@@ -81,8 +71,6 @@ wrong: To reduce the volume of data
 explanation: Open formats help data remain usable and accessible regardless of software changes, supporting FAIR principles.
 [end activity]
 
----
-
 === Quality Assurance and Security ===
 Quality control is critical throughout the data lifecycle, covering instrument calibration, duplicate measurements, standardization, transcription checks, and peer review. Proper quality assurance ensures data accuracy, reliability, and reproducibility.  
 
@@ -95,8 +83,6 @@ front: What is the purpose of version control in data management?
 back: To track changes, prevent data loss, and ensure reproducibility.
 [end activity]
 
----
-
 === Data Sharing, Consent, and IP ===
 Researchers must plan for data sharing by identifying potential obstacles, such as ethical restrictions, copyright, and confidentiality concerns. Consent procedures should explicitly address data sharing, and anonymization methods must be used to protect participants’ privacy. Intellectual property and copyright ownership must be clarified, especially when combining datasets from multiple sources or collaborators.
 
@@ -104,13 +90,11 @@ Employability link: Mastery of these practices is valuable for roles in research
 
 [activity:connect]
 prompt: Match the data sharing challenge with an appropriate solution.
-item: Confidential participant data | Anonymization
-item: Copyrighted secondary data | Seek permission or restrict access
-item: Ethical constraints | Include consent for sharing
-item: Data integrity | Version control and quality assurance
+Confidential participant data | Anonymization
+Copyrighted secondary data | Seek permission or restrict access
+Ethical constraints | Include consent for sharing
+Data integrity | Version control and quality assurance
 [end activity]
-
----
 
 === Ideal Research Workflow ===
 Data management should be integrated into all research stages:
@@ -123,8 +107,6 @@ Data management should be integrated into all research stages:
 7. Archiving and long-term preservation  
 
 A DMP links all stages, ensuring that data is handled responsibly, consistently, and in alignment with FAIR principles.
-
----
 
 === FAIR Principles ===
 The FAIR principles provide a **benchmark for high-quality data management**:
@@ -141,8 +123,6 @@ front: What principle ensures data can be discovered and referenced unambiguousl
 back: Findable – achieved through persistent identifiers and indexed metadata.
 [end activity]
 
----
-
 === Coursework 1 and 2 Alignment ===
 For **Coursework 1**, your DMP should demonstrate comprehensive planning of:
 - Existing data sources and gaps  
@@ -153,8 +133,6 @@ For **Coursework 1**, your DMP should demonstrate comprehensive planning of:
 - Responsibilities and documentation for sharing  
 
 For **Coursework 2**, RDM principles underpin the safe, ethical, and reproducible use of digital tools like web scraping, app-based data collection, and machine learning pipelines.
-
----
 
 === Employability and Professional Skills ===
 Proficiency in RDM demonstrates:

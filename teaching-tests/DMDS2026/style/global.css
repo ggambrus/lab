@@ -1,50 +1,81 @@
-body { font-family: Arial, sans-serif; max-width: 900px; margin: auto; line-height: 1.5; }
-h1,h2,h3 { margin-top: 2rem; }
-img { max-width: 100%; }
+/* --- Base Typography & Layout --- */
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: auto;
+  line-height: 1.6;
+  padding: 0 1rem;
+  background-color: #fdfdfd;
+  color: #333;
+}
+
+h1, h2, h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+  color: #333;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* --- Activity Containers --- */
 .activity-container {
   margin: 2rem 0;
-  padding: 1.25rem;
+  padding: 1.5rem;
   border: 1px solid #ccc;
   background: #fafafa;
-  border-radius: 6px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 
 .activity-title {
   font-weight: bold;
-  margin-bottom: 0.75rem;
+  font-size: 1.15rem;
+  margin-bottom: 1rem;
 }
 
 .activity-container button {
   cursor: pointer;
-  padding: 0.4rem 0.7rem;
-  border-radius: 4px;
+  padding: 0.5rem 0.9rem;
+  border-radius: 6px;
   border: 1px solid #aaa;
   background: #fff;
+  transition: all 0.2s ease-in-out;
+}
+
+.activity-container button:hover {
+  background: #f0f0ff;
+  border-color: #6a4c93;
 }
 
 .activity-complete {
   color: #155724;
   font-weight: bold;
+  font-size: 1rem;
+  margin-top: 0.5rem;
 }
+
 .section-container[data-locked="true"] {
   display: none;
 }
 
-
-/* General table styling */
+/* --- Table Styling --- */
 table {
   width: 100%;
   border-collapse: collapse;
-  margin: 1rem 0;
+  margin: 1.5rem 0;
   font-size: 0.95rem;
-  line-height: 1.4;
+  line-height: 1.5;
   background-color: #fff;
   border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
 }
 
-/* Table header */
 table thead {
   background-color: #6a4c93;
   color: #fff;
@@ -56,36 +87,30 @@ table thead th {
   font-weight: 600;
 }
 
-/* Table body */
 table tbody td {
   padding: 0.6rem 1rem;
   border-bottom: 1px solid #ddd;
   color: #333;
 }
 
-/* Zebra stripes for rows */
 table tbody tr:nth-child(even) {
   background-color: #f9f9f9;
 }
 
-/* Hover effect on rows */
 table tbody tr:hover {
   background-color: #f0f0ff;
 }
 
-/* Optional: center align for numeric columns */
 table tbody td.numeric,
 table thead th.numeric {
   text-align: center;
 }
 
-/* Images inside tables */
 table img {
   max-width: 100%;
   border-radius: 4px;
 }
 
-/* Caption styling */
 table caption {
   caption-side: top;
   text-align: left;
@@ -93,3 +118,43 @@ table caption {
   margin-bottom: 0.5rem;
   color: #6a4c93;
 }
+
+/* --- Mobile Responsiveness --- */
+@media (max-width: 600px) {
+  body {
+    padding: 0 0.8rem;
+  }
+
+  .activity-container {
+    padding: 1rem;
+  }
+
+  .activity-title {
+    font-size: 1rem;
+  }
+
+  table thead th, table tbody td {
+    padding: 0.5rem 0.7rem;
+    font-size: 0.9rem;
+  }
+
+  table {
+    font-size: 0.9rem;
+  }
+
+  .activity-container button {
+    padding: 0.45rem 0.8rem;
+    font-size: 0.9rem;
+  }
+}
+
+/* --- Optional Enhancements --- */
+.activity-container button:active {
+  transform: translateY(1px);
+}
+
+.activity-feedback {
+  margin-top: 0.5rem;
+  font-weight: 500;
+}
+
