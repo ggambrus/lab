@@ -13,6 +13,7 @@ function isTouchDevice() {
 
 /**
  * Desktop version: original HTML5 drag-and-drop
+ * (kept exactly as provided)
  */
 function desktopArrange(container) {
   container.dataset.activity = "arrange";
@@ -146,6 +147,7 @@ function desktopArrange(container) {
 
 /**
  * Touchscreen version: tap-to-select + move up/down buttons
+ * Controls visually on the LEFT, item text to the right, no wrapping around controls.
  */
 function touchArrange(container) {
   container.dataset.activity = "arrange";
@@ -209,52 +211,94 @@ function touchArrange(container) {
   list.className = 'arrange-list';
   container.appendChild(list);
 
-   function renderList() {
-   list.innerHTML = '';
-   currentItems.forEach((itemText, idx) => {
-     const li = document.createElement('li');
-     li.className = 'arrange-item';
-     li.textContent = itemText;
-     li.dataset.index = idx;
- 
-     // Control container on right
-     const controls = document.createElement('div');
-     controls.className = 'arrange-controls';
-     controls.style.display = 'inline-flex';
-     controls.style.flexDirection = 'column';
-     controls.style.marginLeft = '1rem';
- 
-     // Up button
-     const upBtn = document.createElement('button');
-     upBtn.innerHTML = '&#8679;'; // ↑
-     upBtn.className = 'arrange-up';
-     upBtn.title = 'Move up';
-     upBtn.style.marginBottom = '0.25rem';
-     upBtn.addEventListener('click', () => {
-       if (idx === 0) return;
-       [currentItems[idx-1], currentItems[idx]] = [currentItems[idx], currentItems[idx-1]];
-       renderList();
-     });
- 
-     // Down button
-     const downBtn = document.createElement('button');
-     downBtn.innerHTML = '&#8681;'; // ↓
-     downBtn.className = 'arrange-down';
-     downBtn.title = 'Move down';
-     downBtn.addEventListener('click', () => {
-       if (idx === currentItems.length-1) return;
-       [currentItems[idx], currentItems[idx+1]] = [currentItems[idx+1], currentItems[idx]];
-       renderList();
-     });
- 
-     controls.appendChild(upBtn);
-     controls.appendChild(downBtn);
- 
-     li.appendChild(controls);
-     list.appendChild(li);
-   });
- }
+  // helper to create consistent control button
+  function makeControlButton(iconHtml, title) {
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'arrange-control-btn';
+    btn.setAttribute('aria-label', title);
+    btn.innerHTML = iconHtml;
+    // Minimal inline visual defaults (kept small and neutral)
+    btn.style.border = '1px solid rgba(0,0,0,0.12)';
+    btn.style.background = 'white';
+    btn.style.borderRadius = '6px';
+    btn.style.padding = '6px';
+    btn.style.minWidth = '36px';
+    btn.style.minHeight = '36px';
+    btn.style.display = 'inline-flex';
+    btn.style.alignItems = 'center';
+    btn.style.justifyContent = 'center';
+    btn.style.boxSizing = 'border-box';
+    btn.style.cursor = 'pointer';
+    return btn;
+  }
 
+  function renderList() {
+    list.innerHTML = '';
+    currentItems.forEach((itemText, idx) => {
+      const li = document.createElement('li');
+      li.className = 'arrange-item';
+      li.dataset.index = idx;
+      // Use a row flex layout so controls (left) and text (right) are side-by-side.
+      li.style.display = 'flex';
+      li.style.alignItems = 'center';
+      li.style.padding = '0.5rem';
+      li.style.border = '1px solid #e6e6e6';
+      li.style.borderRadius = '8px';
+      li.style.marginBottom = '0.5rem';
+      li.style.background = '#fff';
+      li.style.boxSizing = 'border-box';
+      li.style.gap = '0.75rem';
+
+      // Controls container on the LEFT
+      const controls = document.createElement('div');
+      controls.className = 'arrange-controls';
+      controls.style.display = 'flex';
+      controls.style.flexDirection = 'column';
+      controls.style.alignItems = 'center';
+      controls.style.justifyContent = 'center';
+      controls.style.flex = '0 0 48px'; // fixed column width for controls
+      controls.style.boxSizing = 'border-box';
+
+      // Up button (using a neat chevron icon)
+      const upBtn = makeControlButton('<svg width="14" height="14" viewBox="0 0 24 24" aria-hidden><path d="M7 14l5-5 5 5z"/></svg>', 'Move up');
+      upBtn.className = 'arrange-up';
+      upBtn.style.marginBottom = '6px';
+      upBtn.addEventListener('click', (ev) => {
+        ev.stopPropagation();
+        if (idx === 0) return;
+        [currentItems[idx-1], currentItems[idx]] = [currentItems[idx], currentItems[idx-1]];
+        renderList();
+      });
+
+      // Down button
+      const downBtn = makeControlButton('<svg width="14" height="14" viewBox="0 0 24 24" aria-hidden><path d="M7 10l5 5 5-5z"/></svg>', 'Move down');
+      downBtn.className = 'arrange-down';
+      downBtn.addEventListener('click', (ev) => {
+        ev.stopPropagation();
+        if (idx === currentItems.length - 1) return;
+        [currentItems[idx], currentItems[idx+1]] = [currentItems[idx+1], currentItems[idx]];
+        renderList();
+      });
+
+      controls.appendChild(upBtn);
+      controls.appendChild(downBtn);
+
+      // Text container to the RIGHT of controls; this prevents wrapping text around controls.
+      const textWrap = document.createElement('div');
+      textWrap.className = 'arrange-text';
+      textWrap.style.flex = '1 1 auto';
+      textWrap.style.whiteSpace = 'normal';
+      textWrap.style.wordBreak = 'break-word';
+      textWrap.textContent = itemText;
+
+      // append controls on left, text on right
+      li.appendChild(controls);
+      li.appendChild(textWrap);
+
+      list.appendChild(li);
+    });
+  }
 
   renderList();
 
