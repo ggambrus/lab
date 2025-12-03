@@ -67,7 +67,7 @@ window.ActivityModules.connect = function(container) {
     rightCol.appendChild(btn); rightButtons.push(btn);
   });
 
-  const connections = new Map();
+  const connections = new Map(); // leftBtn -> { rightBtn, color, path, dots }
   const usedColors = [];
 
   function getEdgePoint(el, side='right'){ 
@@ -78,18 +78,54 @@ window.ActivityModules.connect = function(container) {
     return {x,y}; 
   }
 
-  function getEventCoords(e){ 
-    const p=container.getBoundingClientRect();
-    if(e.touches && e.touches[0]) return {x:e.touches[0].clientX-p.left, y:e.touches[0].clientY-p.top};
-    return {x:e.clientX - p.left, y:e.clientY - p.top};
+  function redrawAllConnections(){
+    for(const { path, dots } of connections.values()){
+      if(path) svg.removeChild(path);
+      dots.forEach(d=>svg.removeChild(d));
+    }
+
+    for(const [leftBtn, data] of connections){
+      const rightBtn = data.rightBtn;
+      const color = data.color;
+
+      const start = getEdgePoint(leftBtn,'right');
+      const end = getEdgePoint(rightBtn,'left');
+      const cx1=start.x+50, cy1=start.y, cx2=end.x-50, cy2=end.y;
+
+      const path=document.createElementNS('http://www.w3.org/2000/svg','path');
+      path.setAttribute('stroke',color);
+      path.setAttribute('stroke-width','3');
+      path.setAttribute('fill','none');
+      path.setAttribute('stroke-linecap','round');
+      path.setAttribute('d',`M ${start.x} ${start.y} C ${cx1} ${cy1} ${cx2} ${cy2} ${end.x} ${end.y}`);
+      svg.appendChild(path);
+
+      const dotStart=document.createElementNS('http://www.w3.org/2000/svg','circle');
+      dotStart.setAttribute('cx',start.x); dotStart.setAttribute('cy',start.y);
+      dotStart.setAttribute('r',5); dotStart.setAttribute('fill',color);
+
+      const dotEnd=document.createElementNS('http://www.w3.org/2000/svg','circle');
+      dotEnd.setAttribute('cx',end.x); dotEnd.setAttribute('cy',end.y);
+      dotEnd.setAttribute('r',5); dotEnd.setAttribute('fill',color);
+
+      svg.appendChild(dotStart);
+      svg.appendChild(dotEnd);
+
+      data.path = path;
+      data.dots = [dotStart,dotEnd];
+    }
   }
+
+  // ✅ Automatically realign lines on scroll & resize
+  window.addEventListener('resize', redrawAllConnections);
+  document.addEventListener('scroll', redrawAllConnections, true);
 
   // --- Detect touchscreen robustly ---
   const isTouch = ('ontouchstart' in window || navigator.maxTouchPoints > 0) &&
                   /Mobi|Android|iPad|iPhone/i.test(navigator.userAgent);
 
   if(!isTouch){
-    // --- Non-touch: traditional drag & drop ---
+    // --- Desktop drag & drop ---
     let dragging=null; let dragPath=null;
 
     function startDrag(btn,e){
@@ -97,110 +133,85 @@ window.ActivityModules.connect = function(container) {
       dragging={leftBtn:btn,color}; usedColors.push(color);
       const start=getEdgePoint(btn,'right');
       dragPath=document.createElementNS('http://www.w3.org/2000/svg','path');
-      dragPath.setAttribute('stroke',color); dragPath.setAttribute('stroke-width','3'); dragPath.setAttribute('fill','none');
+      dragPath.setAttribute('stroke',color);
+      dragPath.setAttribute('stroke-width','3');
+      dragPath.setAttribute('fill','none');
       dragPath.setAttribute('stroke-linecap','round'); 
-      dragPath.setAttribute('d',`M ${start.x} ${start.y} C ${start.x+50} ${start.y} ${start.x+50} ${start.y} ${start.x} ${start.y}`);
-      svg.appendChild(dragPath); e.preventDefault();
+      dragPath.setAttribute('d',`M ${start.x} ${start.y} C ${start.x} ${start.y} ${start.x} ${start.y} ${start.x} ${start.y}`);
+      svg.appendChild(dragPath);
+      e.preventDefault();
     }
 
     function moveDrag(e){ 
       if(!dragging||!dragPath) return;
       const start=getEdgePoint(dragging.leftBtn,'right'); 
-      const coords=getEventCoords(e);
+      const coords={
+        x: e.clientX - container.getBoundingClientRect().left,
+        y: e.clientY - container.getBoundingClientRect().top
+      };
       const cx1=start.x+50, cy1=start.y, cx2=coords.x-50, cy2=coords.y;
       dragPath.setAttribute('d',`M ${start.x} ${start.y} C ${cx1} ${cy1} ${cx2} ${cy2} ${coords.x} ${coords.y}`);
     }
 
     function endDrag(e){
       if(!dragging || !dragPath) return;
-      const coords=getEventCoords(e);
+
+      const mouse = { x: e.clientX, y: e.clientY };
       const target = rightButtons.find(b=>{
-        const rect = b.getBoundingClientRect();
-        const c = container.getBoundingClientRect();
-        const x = coords.x + c.left;
-        const y = coords.y + c.top;
-        return x>=rect.left && x<=rect.right && y>=rect.top && y<=rect.bottom;
+        const r=b.getBoundingClientRect();
+        return mouse.x>=r.left && mouse.x<=r.right && mouse.y>=r.top && mouse.y<=r.bottom;
       });
+
       if(target){
-        for(const [l,c] of connections){
-          if(c.rightBtn===target || l===dragging.leftBtn){
-            svg.removeChild(c.path); c.dots.forEach(d=>svg.removeChild(d)); connections.delete(l);
-          }
-        }
-        const start=getEdgePoint(dragging.leftBtn,'right');
-        const end=getEdgePoint(target,'left');
-        const cx1=start.x+50, cy1=start.y, cx2=end.x-50, cy2=end.y;
-        dragPath.setAttribute('d',`M ${start.x} ${start.y} C ${cx1} ${cy1} ${cx2} ${cy2} ${end.x} ${end.y}`);
-
-        const dotStart=document.createElementNS('http://www.w3.org/2000/svg','circle');
-        dotStart.setAttribute('cx',start.x); dotStart.setAttribute('cy',start.y); dotStart.setAttribute('r',5); dotStart.setAttribute('fill',dragging.color);
-        const dotEnd=document.createElementNS('http://www.w3.org/2000/svg','circle');
-        dotEnd.setAttribute('cx',end.x); dotEnd.setAttribute('cy',end.y); dotEnd.setAttribute('r',5); dotEnd.setAttribute('fill',dragging.color);
-        svg.appendChild(dotStart); svg.appendChild(dotEnd);
-
-        connections.set(dragging.leftBtn,{rightBtn:target,path:dragPath,dots:[dotStart,dotEnd]});
-        dragging.leftBtn.style.borderColor = dragging.color;
-        target.style.borderColor = dragging.color;
+        connections.set(dragging.leftBtn,{
+          rightBtn:target,
+          color:dragging.color,
+          path:null,
+          dots:[]
+        });
+        dragging.leftBtn.style.borderColor=dragging.color;
+        target.style.borderColor=dragging.color;
+        redrawAllConnections();
       } else svg.removeChild(dragPath);
 
       dragging=null; dragPath=null;
     }
 
-    leftButtons.forEach(btn=>{
-      btn.addEventListener('mousedown', e=>startDrag(btn,e));
-    });
+    leftButtons.forEach(btn=>btn.addEventListener('mousedown', e=>startDrag(btn,e)));
     document.addEventListener('mousemove', moveDrag);
     document.addEventListener('mouseup', endDrag);
-  } else {
-    // --- Touch: tap-to-select pairs ---
-    let selectedLeft = null;
-
-    function resetSelection(){
-      selectedLeft = null;
-      leftButtons.concat(rightButtons).forEach(b=>b.classList.remove('selected'));
-    }
+  } 
+  else {
+    // --- Touch: tap-to-connect ---
+    let selectedLeft=null;
 
     leftButtons.forEach(btn=>{
-      btn.addEventListener('click', ()=>{
-        resetSelection();
-        selectedLeft = btn;
+      btn.addEventListener('click',()=>{
+        selectedLeft=btn;
+        leftButtons.forEach(b=>b.classList.remove('selected'));
         btn.classList.add('selected');
       });
     });
 
     rightButtons.forEach(btn=>{
-      btn.addEventListener('click', ()=>{
+      btn.addEventListener('click',()=>{
         if(!selectedLeft) return;
+
         const color = lineColors.find(c=>!usedColors.includes(c)) || lineColors[Math.floor(Math.random()*lineColors.length)];
         usedColors.push(color);
 
-        // remove old connection if exists
-        for(const [l,c] of connections){
-          if(c.rightBtn===btn || l===selectedLeft){
-            svg.removeChild(c.path); c.dots.forEach(d=>svg.removeChild(d)); connections.delete(l);
-          }
-        }
+        connections.set(selectedLeft,{
+          rightBtn:btn,
+          color,
+          path:null,
+          dots:[]
+        });
 
-        const start = getEdgePoint(selectedLeft,'right');
-        const end = getEdgePoint(btn,'left');
-        const cx1=start.x+50, cy1=start.y, cx2=end.x-50, cy2=end.y;
-
-        const path=document.createElementNS('http://www.w3.org/2000/svg','path');
-        path.setAttribute('stroke',color); path.setAttribute('stroke-width','3'); path.setAttribute('fill','none');
-        path.setAttribute('stroke-linecap','round');
-        path.setAttribute('d',`M ${start.x} ${start.y} C ${cx1} ${cy1} ${cx2} ${cy2} ${end.x} ${end.y}`);
-        svg.appendChild(path);
-
-        const dotStart=document.createElementNS('http://www.w3.org/2000/svg','circle');
-        dotStart.setAttribute('cx',start.x); dotStart.setAttribute('cy',start.y); dotStart.setAttribute('r',5); dotStart.setAttribute('fill',color);
-        const dotEnd=document.createElementNS('http://www.w3.org/2000/svg','circle');
-        dotEnd.setAttribute('cx',end.x); dotEnd.setAttribute('cy',end.y); dotEnd.setAttribute('r',5); dotEnd.setAttribute('fill',color);
-        svg.appendChild(dotStart); svg.appendChild(dotEnd);
-
-        connections.set(selectedLeft,{rightBtn:btn,path,dots:[dotStart,dotEnd]});
-        selectedLeft.style.borderColor=color; btn.style.borderColor=color;
-
-        resetSelection();
+        selectedLeft.style.borderColor=color;
+        btn.style.borderColor=color;
+        leftButtons.forEach(b=>b.classList.remove('selected'));
+        selectedLeft=null;
+        redrawAllConnections();
       });
     });
   }
@@ -213,7 +224,7 @@ window.ActivityModules.connect = function(container) {
   checkBtn.className='connect-check';
   container.appendChild(checkBtn);
 
-  checkBtn.addEventListener('click', ()=>{
+  checkBtn.addEventListener('click',()=>{
     let correct=true;
     for(const [leftBtn,{rightBtn}] of connections){
       const item = items.find(i=>i.left===leftBtn.textContent);
@@ -227,9 +238,9 @@ window.ActivityModules.connect = function(container) {
       },700);
     } else {
       feedback.textContent='❌ Some connections are incorrect. Retry.';
-      for(const {path,dots} of connections.values()){ svg.removeChild(path); dots.forEach(d=>svg.removeChild(d)); }
       connections.clear();
-      leftButtons.concat(rightButtons).forEach(b=>b.style.borderColor=''); // reset borders
+      svg.innerHTML='';
+      leftButtons.concat(rightButtons).forEach(b=>b.style.borderColor='');
     }
   });
 };

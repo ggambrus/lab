@@ -12,6 +12,7 @@
   display: flex;
   gap: 5rem; /* larger gap for clarity */
   position: relative;
+  overflow:auto;
 }
 
 .activity-container[data-activity="connect"] .connect-column {
