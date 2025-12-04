@@ -1,0 +1,118 @@
+/* Prompt */
+.completetext-prompt {
+  margin-bottom: 0.75rem;
+  font-weight: 500;
+}
+
+/* Text block */
+.completetext-text {
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+/* ====== INLINE SLOTS MATCHING TEXT HEIGHT ====== */
+.completetext-slot {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  min-width: 80px;       /* compact width */
+  height: 1.4em;         /* approx text height */
+  padding: 0 0.4rem;
+  margin: 0 0.25rem 0.15rem 0.25rem;
+
+  border-radius: 6px;
+  background: linear-gradient(180deg, #f0f4ff, #e0e7ff);
+  border: 1.5px dashed #3b82f6;
+
+  font-size: 0.9rem;
+  vertical-align: baseline;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.completetext-slot:empty::before {
+  content: "drop";
+  font-size: 0.7rem;
+  opacity: 0.55;
+  font-style: italic;
+}
+
+.completetext-slot:hover {
+  background: linear-gradient(180deg, #e7efff, #d6dbff);
+  border-color: #2563eb;
+}
+
+/* Filled slot */
+.completetext-slot .completetext-item {
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+/* ====== POOL ====== */
+.completetext-pool {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  justify-content: center;
+  margin-top: 0.5rem;
+}
+
+/* Draggable word */
+.completetext-item {
+  background: white;
+  border: 1px solid rgba(0,0,0,0.2);
+  border-radius: 6px;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.9rem;
+  cursor: grab;
+  user-select: none;
+
+  box-shadow:
+    0 1px 2px rgba(0,0,0,0.08),
+    inset 0 1px 0 rgba(255,255,255,0.7);
+
+  transition: transform 0.08s ease, box-shadow 0.08s ease;
+}
+
+.completetext-item:active {
+  transform: scale(0.97);
+}
+
+.completetext-item.dragging {
+  opacity: 0.5;
+}
+
+.completetext-item.selected {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}
+
+/* Button */
+.completetext-check {
+  padding: 0.4rem 0.8rem;
+}
+
+/* ...previous CSS remains unchanged... */
+
+/* Filled slot - item blends in */
+.completetext-slot .completetext-item {
+  background: transparent;      /* remove box */
+  border: none;                 /* remove border */
+  padding: 0;                   /* no extra padding */
+  font-size: 0.9rem;            /* match text size */
+  font-weight: 500;
+  color: #111;                  /* match normal text */
+  cursor: pointer;
+  box-shadow: none;
+}
+
+.completetext-slot.filled {
+  background: rgba(59, 130, 246, 0.12); /* subtle highlight for filled slot */
+  border: 1.5px dashed #3b82f6;
+}
+
+.completetext-slot.filled:hover {
+  background: rgba(59, 130, 246, 0.18);
+}

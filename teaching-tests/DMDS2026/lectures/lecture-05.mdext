@@ -6,7 +6,7 @@ This lecture introduces the principles and practices of **Research Data Manageme
 Employability link: Mastery of research data management is increasingly valued in roles such as research assistants, data analysts, clinical research coordinators, and policy data officers. Organizations in academia, healthcare, government, and industry rely on staff who can manage complex datasets responsibly and in compliance with regulations.
 
 === What Counts as Research Data? ===
-Research data consists of any information that is collected, observed, generated, or created to validate original research findings [cite:leeds_rdm]. This includes digital and non-digital materials, ranging from textual documents to complex physiological measurements. For example, data can include lab notebooks, experimental outputs, survey responses, interview transcripts, audio/video recordings, photographs, sensor readings, computational models, algorithms, and scripts.  
+Research data consists of any information that is collected, observed, generated, or created to validate original research findings [cite:leedsrdm]. This includes digital and non-digital materials, ranging from textual documents to complex physiological measurements. For example, data can include lab notebooks, experimental outputs, survey responses, interview transcripts, audio/video recordings, photographs, sensor readings, computational models, algorithms, and scripts.  
 
 Importantly, research data represents the **evidence that supports scientific claims**. Without high-quality data, research findings cannot be validated, reproduced, or trusted. By contrast, materials such as preliminary analyses, drafts of scientific papers, peer review reports, or private communications with colleagues do not qualify as research data. Recognizing the distinction between what constitutes data and what does not is crucial for compliance, ethical handling, and legal responsibilities, particularly under regulations such as the GDPR.
 
@@ -109,18 +109,16 @@ Data management should be integrated into all research stages:
 A DMP links all stages, ensuring that data is handled responsibly, consistently, and in alignment with FAIR principles.
 
 === FAIR Principles ===
-The FAIR principles provide a **benchmark for high-quality data management**:
+The FAIR principles provide a **benchmark for high-quality data management**[cite:jacobsen2020fair]:
 
 - **Findable (F)**: Assign persistent identifiers and index metadata  
 - **Accessible (A)**: Use standard, open protocols for retrieval  
 - **Interoperable (I)**: Use shared vocabularies and metadata standards  
 - **Reusable (R)**: Provide rich metadata, provenance, and clear usage licenses  
 
-[activity:flashcards]
-front: What does the 'I' in FAIR stand for?
-back: Interoperable – data can be integrated and used across systems using shared standards.
-front: What principle ensures data can be discovered and referenced unambiguously?
-back: Findable – achieved through persistent identifiers and indexed metadata.
+[activity:completetext]
+prompt: Complete the following text using the elements below.
+text: The {FAIR} principles describe how research data should be managed to maximize its value for both humans and machines. Data should be {Findable} through persistent identifiers and searchable metadata. It must be {Accessible} via open and standardized communication protocols, possibly requiring authentication. To support integration across systems, data must be {Interoperable} through shared vocabularies and formats. Finally, data should be {Reusable}, supported by rich metadata, clear {licenses}, and detailed {provenance} information to enable future scientific use.
 [end activity]
 
 === Coursework 1 and 2 Alignment ===
@@ -147,13 +145,27 @@ These skills are highly sought after in academia, research institutions, healthc
 [insert bibliography]
 
 [references]
-@leeds_rdm,
+@article{leedsrdm,
   title={Research Data Management Guidance},
   author={University of Leeds},
   year={2023}
+  }
 
-@fair,
+@article{fair,
   title={The FAIR Guiding Principles for Scientific Data Management and Stewardship},
   author={Wilkinson et al.},
   year={2016}
+  }
+  
+@article{jacobsen2020fair,
+  title={FAIR principles: interpretations and implementation considerations},
+  author={Jacobsen, Annika and de Miranda Azevedo, Ricardo and Juty, Nick and Batista, Dominique and Coles, Simon and Cornet, Ronald and Courtot, Melanie and Crosas, Merce and Dumontier, Michel and Evelo, Chris T et al.},
+  journal={Data intelligence},
+  volume={2},
+  number={1-2},
+  pages={10--29},
+  year={2020},
+  publisher={MIT Press One Rogers Street, Cambridge},
+  doi={10.1162/dint_r_00024}
+}  
 [end references]

@@ -1,3 +1,14 @@
 .bib-entry { margin-bottom: 0.5rem; font-size: 0.9rem; }
 .citation-link a { color: #0366d6; text-decoration: none; cursor: pointer; }
 .bib-entry span { cursor: default; }
+
+
+/* Screen: show whatever label you chose (e.g., "doi:...") */
+@media screen {
+  .bib-entry a::after { content: ""; }
+}
+
+/* Print: append the link's URL after the anchor text */
+@media print {
+  .bib-entry a::after { content: " (" attr(href) ")"; font-size: 90%; }
+}

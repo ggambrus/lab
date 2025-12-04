@@ -4,6 +4,11 @@ import './activities/flashcards.js';
 import './activities/mcq.js';
 import './activities/arrange.js';
 import './activities/connect.js';
+import './activities/timeline.js';
+import './activities/bucket.js';
+import './activities/completetext.js';
+import './activities/imagecaption.js';
+import './activities/survey.js';
 
 const lectureContainer = document.getElementById('lecture-container');
 const noStop = new URLSearchParams(window.location.search).get('nostop') === 'true';
@@ -66,4 +71,4 @@ function sequentialUnlock() {
   });
 }
 
-loadLecture('lecture-05.mdext');
+loadLecture('lecture-00.mdext');

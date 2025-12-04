@@ -1,0 +1,99 @@
+== Minimal Lecture ==
+
+Citing first reference [cite:first] and second reference [cite:second].
+
+[activity:flashcards:id:flash1]
+front: What is 2+2?
+back: 4
+front: Capital of France?
+back: Paris
+[end activity]
+
+[activity:mcq]
+prompt: Sky color?
+wrong: Green
+correct: Blue
+explanation: The sky appears blue due to Rayleigh scattering.
+[end activity]
+
+[activity:timeline]
+prompt: Arrange these events on a timeline.
+01| Pan American World Airways ceases its operations |1991
+02| Sony releases the PlayStation                    |1994
+03| Last solar eclipse in the 20th century           |1999
+04| A space odyssy                                   |2001
+05| Another space odyssy                             |2010
+06| Martial law is declared in South Korea           |2024
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+blue  |the sky; moon; cheese
+yellow|the sun; eyes; submarine; snow
+green |grass; Christmas tree; lantern; goblin; pastures
+orange|carrots; country;   
+[end activity]
+
+[activity:imagecaption]
+prompt: Drag the names of the structures into the image of the brain
+image: assets/lecture-00/brain-blank.jpg
+180,220|align-right|Hypothalamus
+180,245|align-right|Pituitary gland
+096,105|align-right|Cerebrum
+220,285|align-right|Pons
+230,330|align-right|Medulla
+406,040|align-left |Ventricles
+460,120|align-right|Corpus callosum
+460,185|align-right|Thalamus
+450,225|align-left |Midbrain 
+470,275|align-left |Cerebellum
+435,340|align-left |Brain stem
+[end activity]
+
+[activity:survey]
+prompt:Are these statements true or false?
+options:Yes;No;Depends
+item:The sky is blue|Yes
+item:The grass is green|Yes
+item:Water is dry|No
+item:Cars are fast|Depends
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the elements below.
+text: Ovalipes catharus, commonly known as the paddle {crab}, swimming crab, or pāpaka in {Māori}, is a species of crab found in shallow, {sandy-bottomed waters} around the coasts of {New Zealand}, the Chatham Islands, and uncommonly in southern {Australia}. 
+This species is an {opportunistic, aggressive, and versatile} feeder active mostly at night, preying predominantly on {molluscs and crustaceans}. It is also highly prone to {cannibalism}, which accounts for over a quarter of its {diet} in some locations.
+[end activity]
+
+[activity:arrange]
+prompt: Arrange numbers
+item: 1
+item: 2
+item: 3
+[end activity]
+
+[activity:connect]
+prompt: Match animals
+item: Cat | Meow
+item: Dog | Bark
+[end activity]
+
+[insert bibliography]
+
+[references]
+@article{first,
+  author={Alice Smith},
+  title={First Example},
+  journal={Journal of Examples},
+  year={2020},
+  pages={1-5}
+}
+
+@article{second,
+  author={Bob Jones},
+  title={Second Example},
+  journal={Example Journal},
+  year={2021},
+  pages={10-15}
+}
+[end references]
