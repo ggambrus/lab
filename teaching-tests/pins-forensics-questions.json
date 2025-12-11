@@ -1,0 +1,496 @@
+[
+  {
+    "id": 1,
+    "question": "Who proposed the five-step model of helping?",
+    "options": ["Bandura", "Darley & Latané", "Patterson", "Cialdini"],
+    "answer": "Darley & Latané"
+  },
+  {
+    "id": 2,
+    "question": "What is the first step in Darley & Latané’s helping model?",
+    "options": ["Assume responsibility", "Notice the incident", "Interpret as emergency", "Decide how to act"],
+    "answer": "Notice the incident"
+  },
+  {
+    "id": 3,
+    "question": "What term refers to reduced personal responsibility when others are present?",
+    "options": ["Pluralistic ignorance", "Diffusion of responsibility", "Informational influence", "Social loafing"],
+    "answer": "Diffusion of responsibility"
+  },
+  {
+    "id": 4,
+    "question": "What term describes misinterpreting others’ inaction as meaning no emergency?",
+    "options": ["Pluralistic ignorance", "Groupthink", "Deindividuation", "Normative influence"],
+    "answer": "Pluralistic ignorance"
+  },
+  {
+    "id": 5,
+    "question": "Which theory argues that behaviour is learned through rewards and punishments?",
+    "options": ["Cognitive dissonance theory", "Social Learning Theory", "Attachment theory", "Trait theory"],
+    "answer": "Social Learning Theory"
+  },
+  {
+    "id": 6,
+    "question": "Who developed Social Learning Theory?",
+    "options": ["Patterson", "Bandura", "Moffitt", "Thornberry"],
+    "answer": "Bandura"
+  },
+  {
+    "id": 7,
+    "question": "Whose research focused on coercive family processes?",
+    "options": ["Bandura", "Patterson", "Moffitt", "Hall"],
+    "answer": "Patterson"
+  },
+  {
+    "id": 8,
+    "question": "According to Patterson, what do children in coercive families learn?",
+    "options": ["Empathy", "Cooperative behaviour", "Hostile reactions to stop aversive situations", "Prosocial skills"],
+    "answer": "Hostile reactions to stop aversive situations"
+  },
+  {
+    "id": 9,
+    "question": "Who developed Interactional Theory?",
+    "options": ["Thornberry & Krohn", "Bandura", "Moffitt", "Chiroro & Valentine"],
+    "answer": "Thornberry & Krohn"
+  },
+  {
+    "id": 10,
+    "question": "According to Interactional Theory, what influences antisocial behaviour in adolescence?",
+    "options": ["Family factors", "Deviant peers", "Cognitive deficits", "Attractiveness"],
+    "answer": "Deviant peers"
+  },
+  {
+    "id": 11,
+    "question": "Who proposed the adolescence-limited offender pathway?",
+    "options": ["Patterson", "Moffitt", "Hare", "Coid"],
+    "answer": "Moffitt"
+  },
+  {
+    "id": 12,
+    "question": "Adolescence-limited offending typically peaks during:",
+    "options": ["Childhood", "Mid-late teenage years", "Middle adulthood", "Late adulthood"],
+    "answer": "Mid-late teenage years"
+  },
+  {
+    "id": 13,
+    "question": "Stereotyping involves:",
+    "options": ["Evaluating behaviour objectively", "Drawing inferences based on group categories", "Changing attitudes through persuasion", "Using personal experience only"],
+    "answer": "Drawing inferences based on group categories"
+  },
+  {
+    "id": 14,
+    "question": "Prejudice refers to:",
+    "options": ["A behaviour", "A negative group-based evaluation", "A positive stereotype", "An attraction effect"],
+    "answer": "A negative group-based evaluation"
+  },
+  {
+    "id": 15,
+    "question": "Discrimination refers to:",
+    "options": ["Thoughts", "Attitudes", "Behaviours", "Internal schemas"],
+    "answer": "Behaviours"
+  },
+  {
+    "id": 16,
+    "question": "Hate crimes are motivated by hostility toward:",
+    "options": ["Political views", "Group characteristics such as race or sexual orientation", "Fashion choices", "Language ability"],
+    "answer": "Group characteristics such as race or sexual orientation"
+  },
+  {
+    "id": 17,
+    "question": "Who identified parental transmission of prejudice as a key factor?",
+    "options": ["Gerstenfeld", "Hall", "Lammy", "Cialdini"],
+    "answer": "Gerstenfeld"
+  },
+  {
+    "id": 18,
+    "question": "Who highlighted that hate crime victims often belong to marginalised groups?",
+    "options": ["Hall", "Burt", "Gabbert", "Wright"],
+    "answer": "Hall"
+  },
+  {
+    "id": 19,
+    "question": "What did the Casey Review state about the Metropolitan Police in 2023?",
+    "options": ["High job satisfaction", "Institutional racism, misogyny, and homophobia", "Improved diversity", "Reduced crime rates"],
+    "answer": "Institutional racism, misogyny, and homophobia"
+  },
+  {
+    "id": 20,
+    "question": "What did the Lammy Review report?",
+    "options": ["No racial disparities", "Higher imprisonment rates for BAME individuals", "Equal policing outcomes", "Reduced sentencing severity"],
+    "answer": "Higher imprisonment rates for BAME individuals"
+  },
+  {
+    "id": 21,
+    "question": "Who proposed the 'what is good is beautiful' stereotype?",
+    "options": ["Dion, Berscheid, & Walster", "Brownmiller", "Moffitt", "Bandura"],
+    "answer": "Dion, Berscheid, & Walster"
+  },
+  {
+    "id": 22,
+    "question": "The ‘what is good is beautiful’ stereotype links attractiveness with:",
+    "options": ["Aggression", "Positive traits", "Criminality", "Memory accuracy"],
+    "answer": "Positive traits"
+  },
+  {
+    "id": 23,
+    "question": "Cross-race bias refers to:",
+    "options": ["Better recognition of out-group faces", "Worse recognition of out-group faces", "Equal recognition of all faces", "Preference for unfamiliar faces"],
+    "answer": "Worse recognition of out-group faces"
+  },
+  {
+    "id": 24,
+    "question": "Informational influence occurs when:",
+    "options": ["People conform to be liked", "People believe others are correct", "People resist pressure", "People forget details"],
+    "answer": "People believe others are correct"
+  },
+  {
+    "id": 25,
+    "question": "Normative influence occurs when people conform to:",
+    "options": ["Seek accuracy", "Gain approval", "Remember events better", "Follow the law"],
+    "answer": "Gain approval"
+  },
+  {
+    "id": 26,
+    "question": "Which principle states people prefer others they like?",
+    "options": ["Scarcity", "Authority", "Liking", "Unity"],
+    "answer": "Liking"
+  },
+  {
+    "id": 27,
+    "question": "Which persuasion principle involves mutual exchange?",
+    "options": ["Consistency", "Reciprocity", "Social proof", "Unity"],
+    "answer": "Reciprocity"
+  },
+  {
+    "id": 28,
+    "question": "Social proof in Social Influence refers to:",
+    "options": ["Following experts", "Copying others' behaviour", "Avoiding conformity", "Punishing deviants"],
+    "answer": "Copying others' behaviour"
+  },
+  {
+    "id": 29,
+    "question": "Consistency in Social Influence involves:",
+    "options": ["Changing beliefs frequently", "Aligning behaviour with previous commitments", "Following crowds", "Responding emotionally"],
+    "answer": "Aligning behaviour with previous commitments"
+  },
+  {
+    "id": 30,
+    "question": "Authority persuasion in Social Influence relies on:",
+    "options": ["Expertise", "Scarcity", "Similarity", "Novelty"],
+    "answer": "Expertise"
+  },
+  {
+    "id": 31,
+    "question": "In Social Influence, Scarcity motivates behaviour through:",
+    "options": ["Fear of loss", "Desire for accuracy", "Social conformity", "Authority pressure"],
+    "answer": "Fear of loss"
+  },
+  {
+    "id": 32,
+    "question": "In Social Influence, Unity persuasion depends on:",
+    "options": ["Shared identity", "Physical attractiveness", "Logical reasoning", "High status"],
+    "answer": "Shared identity"
+  },
+  {
+    "id": 33,
+    "question": "What does the ‘real rape’ stereotype suggest?",
+    "options": ["Rape is usually indoors", "Rape involves strangers and force", "Most rapes are false reports", "Rapists are known to victims"],
+    "answer": "Rape involves strangers and force"
+  },
+  {
+    "id": 34,
+    "question": "What percentage of rapes are committed by someone known to the victim?",
+    "options": ["10%", "40%", "70%", "90%"],
+    "answer": "90%"
+  },
+  {
+    "id": 35,
+    "question": "What did Gekoski et al. (2023) find about police?",
+    "options": ["They reject rape myths", "Rape myths influence police responses", "Police overreport rape", "Police have no biases"],
+    "answer": "Rape myths influence police responses"
+  },
+  {
+    "id": 36,
+    "question": "What impact do rape myths have on juries?",
+    "options": ["Increase accuracy", "Reduce victim credibility", "Improve conviction rates", "Eliminate bias"],
+    "answer": "Reduce victim credibility"
+  },
+  {
+    "id": 37,
+    "question": "ASPD is characterised by:",
+    "options": ["Social withdrawal", "Disregard for the rights of others", "High empathy", "Avoidant traits"],
+    "answer": "Disregard for the rights of others"
+  },
+  {
+    "id": 38,
+    "question": "What is the estimated prevalence of ASPD in the general population?",
+    "options": ["0.6%", "2%", "3–4%", "10%"],
+    "answer": "3–4%"
+  },
+  {
+    "id": 39,
+    "question": "What percentage of the prison population is estimated to have ASPD?",
+    "options": ["5%", "20%", "40%", "70%"],
+    "answer": "40%"
+  },
+  {
+    "id": 40,
+    "question": "Psychopathy is considered:",
+    "options": ["A mild disorder", "A subtype of ASPD", "Unrelated to ASPD", "Purely biological"],
+    "answer": "A subtype of ASPD"
+  },
+  {
+    "id": 42,
+    "question": "Psychopathy includes which factor?",
+    "options": ["Paranoia", "Interpersonal/affective traits", "Learning disabilities", "Sleep disturbances"],
+    "answer": "Interpersonal/affective traits"
+  },
+  {
+    "id": 43,
+    "question": "What is the estimated prevalence of psychopathy in the general population?",
+    "options": ["0.1%", "0.6%", "5%", "10%"],
+    "answer": "0.6%"
+  },
+  {
+    "id": 44,
+    "question": "Who suggested attractiveness influences blame attribution depending on crime type?",
+    "options": ["Yang et al. & Kramer et al.", "Dion et al.", "Chiroro & Valentine", "Skagerberg & Wright"],
+    "answer": "Yang et al. & Kramer et al."
+  },
+  {
+    "id": 45,
+    "question": "Which influence causes conformity because one believes others are correct?",
+    "options": ["Normative", "Informational", "Social", "Experimental"],
+    "answer": "Informational"
+  },
+  {
+    "id": 46,
+    "question": "Which influence causes conformity to gain social approval?",
+    "options": ["Normative", "Informational", "Coercive", "Cognitive"],
+    "answer": "Normative"
+  },
+  {
+    "id": 53,
+    "question": "Which theorist emphasised peer influence in adolescence?",
+    "options": ["Bandura", "Thornberry & Krohn", "Moffitt", "Patterson"],
+    "answer": "Thornberry & Krohn"
+  },
+  {
+    "id": 54,
+    "question": "Which principle is often exploited in scams?",
+    "options": ["Scarcity", "Attachment", "Operant conditioning", "Proximity"],
+    "answer": "Scarcity"
+  },
+  {
+    "id": 55,
+    "question": "Who proposed that attractiveness shapes perceptions across many life domains?",
+    "options": ["Dion et al.", "Moffitt", "Patterson", "Lammy"],
+    "answer": "Dion et al."
+  },
+  {
+    "id": 56,
+    "question": "Which persuasion principle involves pressure to behave in ways consistent with earlier statements?",
+    "options": ["Authority", "Consistency", "Unity", "Reciprocity"],
+    "answer": "Consistency"
+  },
+  {
+    "id": 57,
+    "question": "Which persuasion principle relies on people following credible experts?",
+    "options": ["Liking", "Authority", "Unity", "Social proof"],
+    "answer": "Authority"
+  },
+  {
+    "id": 58,
+    "question": "Rape myths often lead to:",
+    "options": ["Increased reporting", "Underreporting", "Equal reporting", "No change"],
+    "answer": "Underreporting"
+  },
+  {
+    "id": 59,
+    "question": "The majority of rapes are committed by:",
+    "options": ["Strangers", "Someone known to the victim", "Teenagers", "Groups of offenders"],
+    "answer": "Someone known to the victim"
+  },
+  {
+    "id": 60,
+    "question": "Which review reported on the sentencing of BAME individuals?",
+    "options": ["Casey Review", "Lammy Review", "Moffitt Review", "Patterson Review"],
+    "answer": "Lammy Review"
+  },
+  {
+    "id": 61,
+    "question": "Which term refers to drawing conclusions about others based on categories?",
+    "options": ["Prejudice", "Discrimination", "Stereotyping", "Attribution"],
+    "answer": "Stereotyping"
+  },
+  {
+    "id": 62,
+    "question": "Which influence makes witnesses go along with others to avoid conflict?",
+    "options": ["Normative influence", "Informational influence", "Cognitive bias", "Persuasion"],
+    "answer": "Normative influence"
+  },
+
+  {
+    "id": 63,
+    "question": "Which principle states that shared identity increases persuasion?",
+    "options": ["Unity", "Authority", "Reciprocity", "Consistency"],
+    "answer": "Unity"
+  },
+  {
+    "id": 64,
+    "question": "Cognitive deficits are most associated with antisocial behaviour at which age?",
+    "options": ["6–12", "12–18", "18–25", "40+"],
+    "answer": "18–25"
+  },
+  {
+    "id": 65,
+    "question": "Psychopathy includes which category of traits?",
+    "options": ["Cognitive skills", "Interpersonal and affective traits", "Memory skills", "Anxiety symptoms"],
+    "answer": "Interpersonal and affective traits"
+  },
+  {
+    "id": 66,
+    "question": "Which term describes hostility-based crime motivated by identity characteristics?",
+    "options": ["Hate crime", "White collar crime", "Cybercrime", "Petty crime"],
+    "answer": "Hate crime"
+  },
+  {
+    "id": 67,
+    "question": "Which review reported on racism embedded within police systems?",
+    "options": ["Patterson Review", "Casey Review", "Lammy Review", "Hare Review"],
+    "answer": "Casey Review"
+  },
+  {
+    "id": 68,
+    "question": "The bystander effect illustrates the importance of:",
+    "options": ["Group size in helping behaviour", "Authority influence", "Attractiveness", "Memory encoding"],
+    "answer": "Group size in helping behaviour"
+  },
+  {
+    "id": 69,
+    "question": "Which concept refers to individuals failing to help because they believe others will step in?",
+    "options": ["Pluralistic ignorance", "Diffusion of responsibility", "Social loafing", "Informational influence"],
+    "answer": "Diffusion of responsibility"
+  },
+  {
+    "id": 70,
+    "question": "Which term describes failing to interpret others’ behaviour accurately during emergencies?",
+    "options": ["Conformity", "Pluralistic ignorance", "Social validation", "Normative influence"],
+    "answer": "Pluralistic ignorance"
+  },
+  {
+    "id": 71,
+    "question": "According to Bandura, behaviours that are rewarded are likely to be:",
+    "options": ["Suppressed", "Forgotten", "Repeated", "Punished"],
+    "answer": "Repeated"
+  },
+  {
+    "id": 72,
+    "question": "Patterson’s coercive family model proposes that antisocial behaviour develops primarily through:",
+    "options": ["Genetic inheritance", "Coercive parent–child interactions", "Peer pressure alone", "Low intelligence"],
+    "answer": "Coercive parent–child interactions"
+  },
+  {
+    "id": 73,
+    "question": "Thornberry & Krohn argued that deviant peers are most influential during:",
+    "options": ["Early childhood", "Middle childhood", "Adolescence", "Late adulthood"],
+    "answer": "Adolescence"
+  },
+  {
+    "id": 74,
+    "question": "In Moffitt’s taxonomy, adolescence-limited offending typically peaks at:",
+    "options": ["Early childhood", "Mid-to-late teenage years", "Age 45", "Middle adulthood"],
+    "answer": "Mid-to-late teenage years"
+  },
+  {
+    "id": 75,
+    "question": "Which of the following is an example of a stereotype?",
+    "options": ["Refusing to hire someone due to their race", "Believing all teenagers are irresponsible", "Feeling dislike for a minority group", "Reporting a hate incident"],
+    "answer": "Believing all teenagers are irresponsible"
+  },
+  {
+    "id": 76,
+    "question": "Prejudice is best defined as:",
+    "options": ["A behavioural response", "A negative attitude toward individuals based on group membership", "A factual belief", "An act of violence"],
+    "answer": "A negative attitude toward individuals based on group membership"
+  },
+  {
+    "id": 77,
+    "question": "The 'what is good is beautiful' hypothesis suggests that attractive people are perceived as:",
+    "options": ["More dishonest", "More competent and likeable", "Less trustworthy", "More aggressive"],
+    "answer": "More competent and likeable"
+  },
+  {
+    "id": 78,
+    "question": "Cross-race bias refers to the tendency to:",
+    "options": ["Prefer socialising with one's own race", "Better recognise faces of one’s own race", "Display more prejudice", "Underestimate diversity"],
+    "answer": "Better recognise faces of one’s own race"
+  },
+  {
+    "id": 79,
+    "question": "Memory conformity effects can be caused by:",
+    "options": ["Perceptual errors only", "Post-event discussion with co-witnesses", "Reading newspaper articles", "Genetic predispositions"],
+    "answer": "Post-event discussion with co-witnesses"
+  },
+  {
+    "id": 80,
+    "question": "Cialdini’s principle of reciprocity refers to the idea that people:",
+    "options": ["Obey experts", "Help those who have helped them", "Follow the majority", "Prefer consistency"],
+    "answer": "Help those who have helped them"
+  },
+  {
+    "id": 81,
+    "question": "Which persuasion principle suggests that people look to others' behaviour to guide their own?",
+    "options": ["Scarcity", "Authority", "Social proof", "Unity"],
+    "answer": "Social proof"
+  },
+  {
+    "id": 82,
+    "question": "The scarcity principle states that people are motivated by:",
+    "options": ["Gaining rewards", "Fear of missing out", "Desire for fairness", "Need for belonging"],
+    "answer": "Fear of missing out"
+  },
+  {
+    "id": 83,
+    "question": "Which stereotype is associated with the 'real rape' myth?",
+    "options": ["Indoor setting, known perpetrator", "Outdoor attack by a stranger with physical force", "Online harassment", "Childhood trauma"],
+    "answer": "Outdoor attack by a stranger with physical force"
+  },
+  {
+    "id": 84,
+    "question": "Antisocial Personality Disorder is characterised by:",
+    "options": ["Obsessive rituals", "Instability in relationships", "Disregard for others’ rights and norms", "Heightened empathy"],
+    "answer": "Disregard for others’ rights and norms"
+  },
+  
+  {
+    "id": 85,
+    "question": "According to the five-step model of helping, which step comes immediately after noticing the incident?",
+    "options": ["Assuming responsibility", "Interpreting it as an emergency", "Deciding to act", "Knowing how to help"],
+    "answer": "Interpreting it as an emergency"
+  },
+  {
+    "id": 88,
+    "question": "What is the key mechanism in Patterson’s coercive family process model?",
+    "options": ["Positive reinforcement of prosocial behaviour", "Negative reinforcement of coercive behaviour", "Genetic predisposition", "Peer influence"],
+    "answer": "Negative reinforcement of coercive behaviour"
+  },
+  {
+    "id": 89,
+    "question": "In Moffitt’s taxonomy, which pathway is linked to early neuropsychological deficits?",
+    "options": ["Adolescence-limited", "Life-course persistent", "Situational offenders", "Secondary desisters"],
+    "answer": "Life-course persistent"
+  },
+  {
+    "id": 90,
+    "question": "Which set of characteristics are protected in the legal definition of hate crime?",
+    "options": ["Age, height, weight, education", "Disability, race, religion, gender identity, sexual orientation", "Political views only", "Income and occupation"],
+    "answer": "Disability, race, religion, gender identity, sexual orientation"
+  },
+  {
+    "id": 91,
+    "question": "Gerstenfeld argued that prejudice is often transmitted through:",
+    "options": ["Mass media only", "Peer groups and parental attitudes", "Educational institutions", "Workplace discrimination"],
+    "answer": "Peer groups and parental attitudes"
+  }
+]
