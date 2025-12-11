@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Forensic Social/Personality Psychology Practice Quiz</title>
+<link rel="stylesheet" href="/lab/styles.css">
+<style>
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  .timer {
+    text-align: right;
+    font-weight: bold;
+    color: #ff3333;
+    display: none;
+  }
+  .question {
+    margin: 15px 0;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  .question h3 {
+    margin: 5px 0;
+    color: #222;
+  }
+  .options label {
+    display: block;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .options input {
+    margin-right: 8px;
+  }
+  .correct {
+    background-color: #d4edda;
+  }
+  .incorrect {
+    background-color: #f8d7da;
+  }
+  button {
+    display: block;
+    margin: 25px auto;
+    padding: 12px 25px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #45a049;
+  }
+  .result {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 25px;
+  }
+
+  /* === NEW styles for collapsible panel === */
+  /* Progress panel base */
+  #progressPanel { padding: 8px 12px; box-sizing: border-box; }
+  
+  /* Tooltip */
+  #tooltip {
+    transition: opacity 0.12s ease;
+    opacity: 0.99;
+    pointer-events: none;
+  }
+  
+  /* Make range slider consistent */
+  #progressSlider {
+    -webkit-appearance: none;
+    height: 10px;
+    background: transparent;
+  }
+  #progressSlider::-webkit-slider-runnable-track {
+    height: 6px;
+    background: #ddd;
+    border-radius: 4px;
+  }
+  #progressSlider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 16px; height: 16px; border-radius: 50%;
+    background: #0077cc; margin-top: -5px;
+  }
+  #progressSlider::-moz-range-thumb {
+    width: 16px; height: 16px; border-radius: 50%; background: #0077cc;
+  }
+  
+  /* For smaller screens, ensure things remain readable */
+  @media (max-width: 480px) {
+    #progressPanel { padding: 6px; }
+    #progressSVG { height: 260px; }
+  }
+</style>
+</head>
+<body>
+  <div id="header-placeholder"></div>
+
+	<!-- === NEW COLLAPSIBLE PANEL === -->
+	<div id="progressContainer" style="text-align:center; overflow:hidden; max-width:1100px; margin:0 auto;">
+	  <button id="progressToggle">Show Progress</button>
+	  <div id="progressPanel" style="display:none;">
+		<div id="progressViewport" style="position:relative; width:100%; overflow:hidden;">
+		  <svg id="progressSVG" style="display:block; height:300px; width:100%;"></svg>
+		</div>
+		<input type="range" id="progressSlider" min="0" value="0" style="width:100%; display:none; margin-top:8px;">
+	  </div>
+	</div>
+
+  <div class="container">
+    <h1>Forensic Social/Personality Psychology Practice Quiz</h1>
+    <div class="timer" id="timer">Time left: --:--</div>
+    <div id="startScreen" style="text-align:center;">
+      <button id="startBtn">Start Quiz</button>
+    </div>
+    <form id="quizForm" style="display:none;"></form>
+    <button type="button" id="submitBtn" style="display:none;">Submit Answers</button>
+    <div class="result" id="result"></div>
+    <div id="retakeContainer" style="text-align:center; display:none;">
+      <button id="retakeBtn">Retake Quiz</button>
+    </div>
+  </div>
+  
+<script src="../include.js"></script>
+<script src="progressPlot.js"></script> <!-- NEW self-contained plotter -->
+<script>
+const QUIZ_ID = "forensics_quiz_v1";
+const QUIZ_LENGTH = 20;
+const QUIZ_DURATION = 5 * 60;
+
+let quizData = [];
+let totalSeconds = QUIZ_DURATION;
+let timer;
+let allQuestions = [];
+
+
+
+// === Progress Panel Toggle ===
+document.getElementById('progressToggle').addEventListener('click', () => {
+  const panel = document.getElementById('progressPanel');
+  panel.style.display = panel.style.display === 'none' ? 'block' : 'none';
+  document.getElementById('progressToggle').textContent =
+    panel.style.display === 'block' ? 'Hide Progress' : 'Show Progress';
+  if (panel.style.display === 'block') loadProgressPlot(QUIZ_ID);
+});
+
+// ==== Event Listeners ====
+document.getElementById('startBtn').addEventListener('click', startQuiz);
+document.getElementById('submitBtn').addEventListener('click', () => submitQuiz(false));
+document.getElementById('retakeBtn').addEventListener('click', resetQuiz);
+
+// ==== Load and start ====
+function startQuiz() {
+  document.getElementById('startScreen').style.display = 'none';
+  document.getElementById('result').innerHTML = '';
+  document.getElementById('retakeContainer').style.display = 'none';
+
+  fetch('pins-forensics-questions.json')
+    .then(response => response.json())
+    .then(data => {
+      allQuestions = data;
+      const prevWrong = loadPreviousWrong(QUIZ_ID);
+      quizData = selectRetakeQuestions(data, prevWrong, QUIZ_LENGTH);
+      renderQuiz(quizData);
+      document.getElementById('quizForm').style.display = 'block';
+      document.getElementById('submitBtn').style.display = 'block';
+      document.getElementById('timer').style.display = 'block';
+      totalSeconds = QUIZ_DURATION;
+      startTimer();
+    })
+    .catch(err => {
+      document.getElementById('quizForm').innerHTML =
+        "<p style='color:red;'>Error loading questions json</p>";
+      console.error(err);
+    });
+}
+
+// ==== Smart Retake ====
+function loadPreviousWrong(quizId) {
+  const data = JSON.parse(localStorage.getItem(`${quizId}_history`) || "[]");
+  if (data.length === 0) return [];
+  const last = data[data.length - 1];
+  return last.wrongQuestions || [];
+}
+
+function selectRetakeQuestions(all, prevWrong, count) {
+  const retryCount = Math.floor(count / 2);
+  const reused = shuffle(prevWrong).slice(0, retryCount);
+  const reusedObjects = all.filter(q => reused.includes(q.question));
+  const remaining = shuffle(all.filter(q => !reused.includes(q.question)))
+                    .slice(0, count - reusedObjects.length);
+  return shuffle([...reusedObjects, ...remaining]);
+}
+
+// ==== Submission ====
+function submitQuiz(autoSubmit) {
+  const form = document.getElementById('quizForm');
+  const resultDiv = document.getElementById('result');
+  const answers = [];
+  let unanswered = [];
+
+  quizData.forEach((q, i) => {
+    const selected = document.querySelector(`input[name="q${i}"]:checked`);
+    if (!selected) unanswered.push(i + 1);
+    answers.push(selected ? selected.value : null);
+  });
+
+  if (!autoSubmit && unanswered.length > 0) {
+    alert(`Please answer all questions before submitting.\nMissing: ${unanswered.join(', ')}`);
+    return;
+  }
+
+  clearInterval(timer);
+  let score = 0;
+  const wrongQuestions = [];
+
+  quizData.forEach((q, i) => {
+    const userAns = answers[i];
+    const questionDiv = form.children[i];
+    const labels = questionDiv.querySelectorAll('label');
+    labels.forEach(label => {
+      const input = label.querySelector('input');
+      if (input.value === q.answer) label.classList.add('correct');
+      if (input.checked && input.value !== q.answer) label.classList.add('incorrect');
+    });
+    if (userAns === q.answer) score++;
+    else wrongQuestions.push(q.question);
+  });
+
+  const percentage = (score / quizData.length * 100).toFixed(1);
+  resultDiv.innerHTML = `<strong>Your Score: ${score}/${quizData.length}</strong><br>Percentage: ${percentage}%`;
+
+  document.getElementById('submitBtn').disabled = true;
+  document.getElementById('retakeContainer').style.display = 'block';
+
+  saveAttempt(QUIZ_ID, score, quizData.length, wrongQuestions);
+}
+
+// ==== Data Persistence ====
+function saveAttempt(quizId, score, total, wrong) {
+  const record = {
+    timestamp: Date.now(),
+    score,
+    total,
+    percent: (score / total * 100),
+    wrongQuestions: wrong
+  };
+  const existing = JSON.parse(localStorage.getItem(`${quizId}_history`) || "[]");
+  existing.push(record);
+  localStorage.setItem(`${quizId}_history`, JSON.stringify(existing));
+}
+
+// ==== Helpers ====
+function shuffle(arr) { return [...arr].sort(() => Math.random() - 0.5); }
+
+function resetQuiz() {
+  document.getElementById('submitBtn').disabled = false;
+  document.getElementById('quizForm').style.display = 'none';
+  document.getElementById('submitBtn').style.display = 'none';
+  document.getElementById('timer').style.display = 'none';
+  document.getElementById('result').innerHTML = '';
+  document.getElementById('retakeContainer').style.display = 'none';
+  document.getElementById('startScreen').style.display = 'block';
+}
+
+// ==== Render quiz ====
+function renderQuiz(questions) {
+  const form = document.getElementById('quizForm');
+  form.innerHTML = "";
+  questions.forEach((q, i) => {
+    const div = document.createElement('div');
+    div.classList.add('question');
+
+    // ðŸ”€ Shuffle the answer options for this question
+    const shuffledOptions = [...q.options].sort(() => Math.random() - 0.5);
+
+    div.innerHTML = `
+      <h3>${i + 1}. ${q.question}</h3>
+      <div class="options">
+        ${shuffledOptions.map(opt => `
+          <label>
+            <input type="radio" name="q${i}" value="${opt}"> ${opt}
+          </label>
+        `).join('')}
+      </div>
+    `;
+    form.appendChild(div);
+  });
+}
+
+
+
+// ==== Timer ====
+function startTimer() {
+  const timerDisplay = document.getElementById('timer');
+  clearInterval(timer);
+  timer = setInterval(() => {
+    const minutes = Math.floor(totalSeconds / 60);
+    const seconds = totalSeconds % 60;
+    timerDisplay.textContent = `Time left: ${minutes}:${seconds.toString().padStart(2, '0')}`;
+    totalSeconds--;
+    if (totalSeconds < 0) {
+      clearInterval(timer);
+      alert("Time is up! Your answers will be submitted automatically.");
+      submitQuiz(true);
+    }
+  }, 1000);
+}
+
+
+</script>
+<script data-goatcounter="https://ggambrus.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+
+<div id="footer-placeholder"></div>
+
+</body>
+</html>

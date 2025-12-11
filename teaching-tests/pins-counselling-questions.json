@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following are the major theoretical approaches to personality discussed in the lecture?",
+    "options": ["Psychoanalytic, Humanistic, Cognitive, Trait", "Biological, Behaviourist, Sociocultural", "Behaviourist, Evolutionary, Humanistic", "Existential, Biological, Social Learning"],
+    "answer": "Psychoanalytic, Humanistic, Cognitive, Trait"
+  },
+  {
+    "id": 2,
+    "question": "Which statement best describes the Psychoanalytic approach to personality?",
+    "options": [
+      "It focuses on conscious decision-making and goal-setting.",
+      "It emphasizes unconscious drives, early experiences, and defense mechanisms.",
+      "It describes personality as a set of learned behaviours.",
+      "It views personality as shaped solely by social environments."
+    ],
+    "answer": "It emphasizes unconscious drives, early experiences, and defense mechanisms."
+  },
+  {
+    "id": 3,
+    "question": "Which theorists are most associated with the Humanistic approach?",
+    "options": ["Freud and Jung", "Maslow and Rogers", "Skinner and Bandura", "Bowlby and Ainsworth"],
+    "answer": "Maslow and Rogers"
+  },
+  {
+    "id": 4,
+    "question": "The Cognitive approach to personality emphasises:",
+    "options": [
+      "Innate drives and psychosexual development.",
+      "Self-actualization and intrinsic goodness.",
+      "Internal schemas and interpretation of experiences.",
+      "Purely observable behaviour and reinforcement."
+    ],
+    "answer": "Internal schemas and interpretation of experiences."
+  },
+  {
+    "id": 5,
+    "question": "Which personality theory describes traits using models such as the Big Five and HEXACO?",
+    "options": ["Psychoanalytic theory", "Humanistic theory", "Trait theory", "Existential theory"],
+    "answer": "Trait theory"
+  },
+  {
+    "id": 6,
+    "question": "According to Personality Adaptation Theory, maladaptive behaviour is viewed as:",
+    "options": [
+      "A set of genetic errors.",
+      "A survival strategy developed early in life.",
+      "A conscious choice driven by environment.",
+      "A sign of weak motivation."
+    ],
+    "answer": "A survival strategy developed early in life."
+  },
+  {
+    "id": 7,
+    "question": "Borderline Personality Disorder primarily involves:",
+    "options": [
+      "Detachment and restricted emotion",
+      "Self-enhancement and sensitivity to criticism",
+      "Emotional instability, impulsivity, and unstable relationships",
+      "Rigid perfectionism and obsessive rituals"
+    ],
+    "answer": "Emotional instability, impulsivity, and unstable relationships"
+  },
+  {
+    "id": 8,
+    "question": "Freud believed that personality disorders develop due to:",
+    "options": [
+      "Poor role models in adolescence.",
+      "Unresolved childhood conflicts and use of defence mechanisms.",
+      "Lack of cognitive stimulation.",
+      "Genetic abnormalities in brain structure."
+    ],
+    "answer": "Unresolved childhood conflicts and use of defence mechanisms."
+  },
+  {
+    "id": 9,
+    "question": "According to Attachment Theory, early relational patterns shape:",
+    "options": [
+      "Only academic performance in adulthood.",
+      "Later relational behaviours and emotional regulation.",
+      "Genetic predispositions for traits.",
+      "Cultural values and identity politics."
+    ],
+    "answer": "Later relational behaviours and emotional regulation."
+  },
+  {
+    "id": 10,
+    "question": "Which emotion is commonly intensified by social stigma surrounding personality disorders?",
+    "options": ["Curiosity", "Joy", "Shame", "Optimism"],
+    "answer": "Shame"
+  },
+  {
+    "id": 11,
+    "question": "Stigma can negatively affect therapy by:",
+    "options": [
+      "Improving client motivation.",
+      "Increasing avoidance and reducing openness.",
+      "Encouraging clients to self-disclose.",
+      "Reducing therapist responsibility."
+    ],
+    "answer": "Increasing avoidance and reducing openness."
+  },
+  {
+    "id": 12,
+    "question": "Rogers’ core conditions for therapeutic change include:",
+    "options": [
+      "Insight, analysis, and confrontation",
+      "Empathy, congruence, and unconditional positive regard",
+      "Structure, reinforcement, and goal-setting",
+      "Dream analysis, transference, and interpretation"
+    ],
+    "answer": "Empathy, congruence, and unconditional positive regard"
+  },
+  {
+    "id": 13,
+    "question": "Joines & Stewart (2002) encourage therapists to ask:",
+    "options": [
+      "Why do you behave this way?",
+      "What is wrong with you?",
+      "What has happened to you?",
+      "Can you stop doing that?"
+    ],
+    "answer": "What has happened to you?"
+  },
+  {
+    "id": 14,
+    "question": "Clear boundaries in counselling help clients by:",
+    "options": [
+      "Limiting emotional expression.",
+      "Creating a predictable space for exploring relational patterns.",
+      "Preventing therapists from offering empathy.",
+      "Encouraging dependence."
+    ],
+    "answer": "Creating a predictable space for exploring relational patterns."
+  },
+  {
+    "id": 15,
+    "question": "Which therapy approach is typically suitable for clients with overly controlled upbringings?",
+    "options": [
+      "CBT with structured interventions",
+      "Free-association Psychoanalysis",
+      "Highly unstructured Existential therapy",
+      "Behavioural conditioning only"
+    ],
+    "answer": "CBT with structured interventions"
+  },
+  {
+    "id": 16,
+    "question": "A client from a permissive upbringing who dislikes structure may benefit most from:",
+    "options": [
+      "Strict behavioural reinforcement",
+      "Highly structured CBT",
+      "Humanistic or Person-Centred therapy",
+      "Pharmacological treatment only"
+    ],
+    "answer": "Humanistic or Person-Centred therapy"
+  },
+  {
+    "id": 17,
+    "question": "A thorough relational history helps clinicians:",
+    "options": [
+      "Diagnose more quickly without client input.",
+      "Identify attachment patterns and guide modality choice.",
+      "Avoid discussing past relationships.",
+      "Focus solely on present symptoms."
+    ],
+    "answer": "Identify attachment patterns and guide modality choice."
+  },
+  {
+    "id": 18,
+    "question": "According to Simanowitz & Pearce (2003), understanding personality requires attention to:",
+    "options": [
+      "Only biological development",
+      "Normal development, culture, and therapist self-awareness",
+      "Political beliefs and sociological theories only",
+      "Behavioural reinforcement history alone"
+    ],
+    "answer": "Normal development, culture, and therapist self-awareness"
+  },
+  {
+    "id": 19,
+    "question": "Effective treatment planning requires:",
+    "options": [
+      "Minimal assessment and rapid diagnosis",
+      "Detailed assessment, ethical reflection, and appropriate boundaries",
+      "Ignoring client history to focus on present behaviour",
+      "Rigid adherence to one theoretical model"
+    ],
+    "answer": "Detailed assessment, ethical reflection, and appropriate boundaries"
+  },
+  {
+    "id": 20,
+    "question": "The main goal of counselling interventions informed by personality theory is to:",
+    "options": [
+      "Eliminate all personality traits",
+      "Replace emotions with logical reasoning",
+      "Reduce stigma, build insight, and foster adaptive relational strategies",
+      "Create dependence on the therapeutic relationship"
+    ],
+    "answer": "Reduce stigma, build insight, and foster adaptive relational strategies"
+  },
+  {
+    "id": 21,
+    "question": "Which theorist expanded Freud’s work by focusing on collective unconscious and archetypes?",
+    "options": ["Adler", "Jung", "Rogers", "Maslow"],
+    "answer": "Jung"
+  },
+  {
+    "id": 22,
+    "question": "Which therapeutic value is central to the Humanistic approach?",
+    "options": ["Reinforcement", "Dream analysis", "Unconditional positive regard", "Free association"],
+    "answer": "Unconditional positive regard"
+  },
+  {
+    "id": 23,
+    "question": "The Cognitive approach is most concerned with:",
+    "options": ["Underlying biological drives", "Schemas and interpretations", "Pure behavioural reinforcement", "Archetypes and symbolism"],
+    "answer": "Schemas and interpretations"
+  },
+  {
+    "id": 24,
+    "question": "The Trait approach views personality as:",
+    "options": ["A dynamic set of unconscious conflicts", "A collection of stable characteristics", "A product of early attachment only", "A result of conditioning"],
+    "answer": "A collection of stable characteristics"
+  },
+  {
+    "id": 25,
+    "question": "HEXACO adds which additional trait beyond the Big Five?",
+    "options": ["Neuroticism", "Honesty–Humility", "Openness", "Agreeableness"],
+    "answer": "Honesty–Humility"
+  },
+  {
+    "id": 26,
+    "question": "Personality Adaptations are understood as:",
+    "options": ["Inherited disorders", "Fixed cognitive errors", "Learned coping strategies", "Biological abnormalities"],
+    "answer": "Learned coping strategies"
+  },
+  {
+    "id": 27,
+    "question": "Borderline Personality Disorder includes which key feature?",
+    "options": ["Emotional volatility", "Grandiosity", "Flat affect", "Rigid perfectionism"],
+    "answer": "Emotional volatility"
+  },
+  {
+    "id": 28,
+    "question": "Narcissistic Personality Disorder is characterized by:",
+    "options": ["Detachment and limited emotions", "Emotional instability and fear of abandonment", "Self-enhancement and sensitivity to criticism", "Impulsive rule-breaking"],
+    "answer": "Self-enhancement and sensitivity to criticism"
+  },
+  {
+    "id": 29,
+    "question": "Schizoid Personality Disorder primarily involves:",
+    "options": ["Fluid and intense emotional expression", "Manipulative social behaviours", "Detachment and restricted affect", "Obsessive rituals"],
+    "answer": "Detachment and restricted affect"
+  },
+  {
+    "id": 30,
+    "question": "Freud believed adult maladaptive behaviours originate from:",
+    "options": ["Genetic predispositions", "Repeated reinforcement", "Unresolved psychosexual conflicts", "Socioeconomic background"],
+    "answer": "Unresolved psychosexual conflicts"
+  },
+  {
+    "id": 31,
+    "question": "Attachment Theory focuses on:",
+    "options": ["Behavioural reinforcement patterns", "Early caregiver relationships", "Cultural influences only", "Genetic temperament"],
+    "answer": "Early caregiver relationships"
+  },
+  {
+    "id": 32,
+    "question": "What emotion strongly contributes to avoidance of therapy in personality disorders?",
+    "options": ["Pride", "Shame", "Excitement", "Curiosity"],
+    "answer": "Shame"
+  },
+  {
+    "id": 33,
+    "question": "Internalized stigma often leads to:",
+    "options": ["Improved social functioning", "Greater help-seeking", "Social withdrawal", "Increased confidence"],
+    "answer": "Social withdrawal"
+  },
+  {
+    "id": 34,
+    "question": "Therapeutic reframing from ‘What is wrong with you?’ to ‘What happened to you?’ emphasizes:",
+    "options": ["Pathology", "Blame", "Context and adaptation", "Diagnosis"],
+    "answer": "Context and adaptation"
+  },
+  {
+    "id": 35,
+    "question": "Therapists maintain empathy and non-judgement to:",
+    "options": ["Encourage dependency", "Reduce stigma and build trust", "Increase diagnostic accuracy only", "Control client behaviour"],
+    "answer": "Reduce stigma and build trust"
+  },
+  {
+    "id": 36,
+    "question": "Boundaries in counselling help clients by:",
+    "options": ["Creating unpredictability", "Maintaining emotional distance", "Providing consistency for relational exploration", "Limiting therapeutic progress"],
+    "answer": "Providing consistency for relational exploration"
+  },
+  {
+    "id": 37,
+    "question": "Which therapy emphasises empathy, authenticity, and unconditional positive regard?",
+    "options": ["CBT", "Psychoanalysis", "Person-Centred", "Behaviourism"],
+    "answer": "Person-Centred"
+  },
+  {
+    "id": 38,
+    "question": "Which therapy is most structured and goal-oriented?",
+    "options": ["CBT", "Humanistic", "Transpersonal", "Existential"],
+    "answer": "CBT"
+  },
+  {
+    "id": 39,
+    "question": "A client raised in a rigid, over-controlled environment may benefit most from:",
+    "options": ["Unstructured exploration", "Highly interpretative analysis", "Structured CBT interventions", "Dream interpretation"],
+    "answer": "Structured CBT interventions"
+  },
+  {
+    "id": 40,
+    "question": "A client from a permissive childhood environment may struggle with:",
+    "options": ["Exploration of feelings", "Autonomy", "Structured demands", "Emotional openness"],
+    "answer": "Structured demands"
+  },
+  {
+    "id": 41,
+    "question": "Which therapy may best suit someone who dislikes structure?",
+    "options": ["CBT", "Psychoanalytic therapy", "Humanistic therapy", "Behavioural modification"],
+    "answer": "Humanistic therapy"
+  },
+  {
+    "id": 42,
+    "question": "The DSM-5 and ICD-11 are used to:",
+    "options": ["Predict treatment outcomes", "Diagnose personality disorders", "Determine attachment styles", "Measure IQ"],
+    "answer": "Diagnose personality disorders"
+  },
+  {
+    "id": 43,
+    "question": "Which idea is emphasized in Personality Adaptation Theory?",
+    "options": ["Traits are genetically fixed", "Maladaptive behaviours were once protective", "Symptoms must be eliminated", "Disorders are permanent"],
+    "answer": "Maladaptive behaviours were once protective"
+  },
+  {
+    "id": 44,
+    "question": "What is a key focus of Simanowitz & Pearce (2003)?",
+    "options": ["Labelling disorders", "Therapist self-awareness and cultural context", "Biological determinants", "Strict protocol adherence"],
+    "answer": "Therapist self-awareness and cultural context"
+  },
+  {
+    "id": 45,
+    "question": "A thorough developmental history helps prevent:",
+    "options": ["Empathy", "Therapeutic alliance", "Unnecessary pathologizing", "Boundary-setting"],
+    "answer": "Unnecessary pathologizing"
+  },
+  {
+    "id": 46,
+    "question": "Which personality theory includes existential concepts?",
+    "options": ["Behaviourism", "Trait theory", "Simanowitz & Pearce's integrated model", "Pure cognitive models"],
+    "answer": "Simanowitz & Pearce's integrated model"
+  },
+  {
+    "id": 47,
+    "question": "A cognitive intervention in counselling would most likely focus on:",
+    "options": ["Dreams", "Schemas and thought patterns", "Transference", "Artistic expression"],
+    "answer": "Schemas and thought patterns"
+  },
+  {
+    "id": 48,
+    "question": "Humanistic therapy assumes people are motivated by:",
+    "options": ["Self-actualization", "Biological instincts", "External rewards", "Social conformity"],
+    "answer": "Self-actualization"
+  },
+  {
+    "id": 49,
+    "question": "Which type of stigma contributes most to therapy disengagement?",
+    "options": ["Structural stigma", "Self-stigma", "Public stigma", "Informal stigma"],
+    "answer": "Self-stigma"
+  },
+  {
+    "id": 50,
+    "question": "A primary goal of addressing stigma in therapy is to:",
+    "options": ["Increase reliance on diagnosis", "Reduce client autonomy", "Promote self-compassion", "Encourage symptom suppression"],
+    "answer": "Promote self-compassion"
+  },
+  {
+    "id": 51,
+    "question": "Therapeutic boundaries function to:",
+    "options": ["Reinforce maladaptive patterns", "Provide safety and predictability", "Limit emotional exploration", "Reduce therapist responsibility"],
+    "answer": "Provide safety and predictability"
+  },
+  {
+    "id": 52,
+    "question": "An emotionally unstable personality presentation is most aligned with:",
+    "options": ["Borderline traits", "Schizoid traits", "Obsessive traits", "Avoidant traits"],
+    "answer": "Borderline traits"
+  },
+  {
+    "id": 53,
+    "question": "Clients with high stigma may fear:",
+    "options": ["Support", "Being labelled", "Empathy", "Progress"],
+    "answer": "Being labelled"
+  },
+  {
+    "id": 54,
+    "question": "Trait theorists argue personality is best understood by:",
+    "options": ["Cultural analysis", "Patterns of reinforcement", "Stable measurable traits", "Unconscious symbolism"],
+    "answer": "Stable measurable traits"
+  },
+  {
+    "id": 55,
+    "question": "A therapist asking 'What is wrong with you?' risks:",
+    "options": ["Normalizing the client", "Reducing shame", "Increasing stigma", "Supporting adaptation"],
+    "answer": "Increasing stigma"
+  },
+  {
+    "id": 56,
+    "question": "CBT often benefits clients who:",
+    "options": ["Prefer open-ended exploration", "Avoid structure entirely", "Need help developing autonomy and problem-solving skills", "Reject all behavioural interventions"],
+    "answer": "Need help developing autonomy and problem-solving skills"
+  },
+  {
+    "id": 57,
+    "question": "Humanistic counsellors avoid:",
+    "options": ["Empathy", "Interpretive authority over the client", "Client-led direction", "Genuineness"],
+    "answer": "Interpretive authority over the client"
+  },
+  {
+    "id": 58,
+    "question": "According to Attachment Theory, inconsistency in caregiving may result in:",
+    "options": ["Secure attachment", "Ambivalent or anxious attachment", "High self-esteem", "Reduced emotionality"],
+    "answer": "Ambivalent or anxious attachment"
+  },
+  {
+    "id": 59,
+    "question": "Joines & Stewart describe personality adaptations as:",
+    "options": ["Unhelpful yet understandable behaviours", "Biological malfunctions", "Permanent disorders", "Signs of poor character"],
+    "answer": "Unhelpful yet understandable behaviours"
+  },
+  {
+    "id": 60,
+    "question": "Effective treatment planning is supported by:",
+    "options": ["Minimal assessment", "Therapist assumptions", "Detailed relational history", "Ignoring client preferences"],
+    "answer": "Detailed relational history"
+  },
+  {
+    "id": 61,
+    "question": "One intended outcome of personality-informed counselling is:",
+    "options": ["Erasing all distress", "Eliminating traits", "Developing healthier relational strategies", "Increasing emotional suppression"],
+    "answer": "Developing healthier relational strategies"
+  },
+  {
+    "id": 62,
+    "question": "Which approach explicitly assumes people strive toward growth and meaning?",
+    "options": ["Trait theory", "Humanistic theory", "Behaviourism", "Psychoanalysis"],
+    "answer": "Humanistic theory"
+  },
+  {
+    "id": 63,
+    "question": "Lazarus is most associated with which theoretical perspective?",
+    "options": ["Cognitive", "Trait", "Humanistic", "Existential"],
+    "answer": "Cognitive"
+  },
+  {
+    "id": 64,
+    "question": "Avoidance in therapy is often a sign of:",
+    "options": ["High insight", "Low shame", "Internalized stigma", "Positive therapeutic progress"],
+    "answer": "Internalized stigma"
+  },
+  {
+    "id": 65,
+    "question": "Assessment in therapy helps with:",
+    "options": ["Matching interventions to client needs", "Eliminating the need for boundaries", "Reducing empathy", "Ensuring rapid diagnosis"],
+    "answer": "Matching interventions to client needs"
+  },
+  {
+    "id": 66,
+    "question": "A therapist who integrates multiple personality theories is following the approach of:",
+    "options": ["Simanowitz & Pearce", "Freud", "Rogers", "Costa & McCrae"],
+    "answer": "Simanowitz & Pearce"
+  },
+  {
+    "id": 67,
+    "question": "The Person-Centred approach emphasizes the therapist’s:",
+    "options": ["Authority", "Interpretation", "Congruence", "Distance"],
+    "answer": "Congruence"
+  },
+  {
+    "id": 68,
+    "question": "Personality traits become maladaptive when:",
+    "options": ["They are flexible and contextual", "They become rigid and context-insensitive", "They change frequently", "They are influenced by culture"],
+    "answer": "They become rigid and context-insensitive"
+  },
+  {
+    "id": 69,
+    "question": "A key ethical principle in challenging maladaptive behaviour is:",
+    "options": ["Judgment", "Confrontation", "Empathy", "Detachment"],
+    "answer": "Empathy"
+  },
+  {
+    "id": 70,
+    "question": "According to the lecture, the main message of the 'John' case study is that:",
+    "options": ["Perfectionism always leads to success", "Clients with suppressed emotions need structured and empathic therapy", "Therapy should avoid discussing coping", "Personality cannot change"],
+    "answer": "Clients with suppressed emotions need structured and empathic therapy"
+  }
+]
