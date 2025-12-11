@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // 1. Fetch JSON Data
     async function fetchFlashcards() {
         try {
-            const response = await fetch('counselling_sg.json');
+            const response = await fetch('applied_sg.json');
             if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
             allTopicsData = await response.json();
             renderTopics(allTopicsData);
