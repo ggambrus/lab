@@ -31,6 +31,27 @@
 		"description": "Timed multiple-choice practice."
 	},
 	{
+		"id": "appl-flashcards",
+		"title": "Applied Social/Personality Psychology :: Flashcards",
+		"url": "sg_applied.html",
+		"img": "assets/soc-flashcards.jpg",
+		"description": "Key concepts and classic studies."
+	},
+	{
+		"id": "cou-mcqs",
+		"title": "Counselling :: Practice MCQs",
+		"url": "counselling_mcqs.html",
+		"img": "assets/cou-mcqs.jpg",
+		"description": "Timed multiple-choice practice."
+	},
+	{
+		"id": "for-mcqs",
+		"title": "Forensics :: Practice MCQs",
+		"url": "forensics_mcqs.html",
+		"img": "assets/for-mcqs.jpg",
+		"description": "Timed multiple-choice practice."
+	},
+	{
 		"id": "coursework-checklist",
 		"title": "Coursework Checklist",
 		"url": "pins-poster/PINSPosterChecklist.html",
