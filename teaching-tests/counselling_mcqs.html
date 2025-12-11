@@ -161,7 +161,7 @@ function startQuiz() {
   document.getElementById('result').innerHTML = '';
   document.getElementById('retakeContainer').style.display = 'none';
 
-  fetch('pins-forensics-questions.json')
+  fetch('pins-counselling-questions.json')
     .then(response => response.json())
     .then(data => {
       allQuestions = data;
