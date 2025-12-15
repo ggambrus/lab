@@ -78,6 +78,7 @@ document.getElementById('nextBtn').addEventListener('click', () => {
 });
 
 // --- Quiz start ---
+// --- Quiz start ---
 function startQuiz() {
   if (selectedTopics.length === 0) return alert('Please select at least one topic!');
 
@@ -91,11 +92,15 @@ function startQuiz() {
   // Fetch questions
   questions = [];
   let fetches = selectedTopics.map(topic => {
-    const path = questionBank[topic];
-    if (!path) {
+    const entry = questionBank[topic];
+    if (!entry) {
       console.error(`No path found for topic "${topic}"`);
       return Promise.reject(new Error(`No JSON file mapped for topic "${topic}"`));
     }
+
+    // Handle both formats: old string path, or { file: "...", percentage: ... }
+    const path = typeof entry === 'string' ? entry : entry.file;
+
     return fetch(path)
       .then(res => res.text())
       .then(txt => {
@@ -125,12 +130,11 @@ function startQuiz() {
       console.error("Error loading question files:", err);
       alert("Failed to load question files. Check console for details.");
     });
-	
-	// Hide setup controls to save vertical space
-	document.querySelector('.topic-section').style.display = 'none';
-	document.querySelector('.duration-section').style.display = 'none';
-	document.getElementById('startBtn').style.display = 'none';
-	
+
+  // Hide setup controls to save vertical space
+  document.querySelector('.topic-section').style.display = 'none';
+  document.querySelector('.duration-section').style.display = 'none';
+  document.getElementById('startBtn').style.display = 'none';
 }
 
 // --- Restart quiz ---

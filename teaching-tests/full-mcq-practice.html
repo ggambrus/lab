@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MCQ Revision</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="full-mcq-practice.css">
+</head>
+<body>
+
+<div class="container">
+  <h1>Revision MCQs</h1>
+
+  <!-- SETUP -->
+  <div id="setup">
+    <div class="topic-section">
+		<p>Select topic(s):</p>
+	</div>
+    <div id="topicContainer" class="token-container"></div>
+    <button id="startBtn" disabled>Start Revision</button>
+  </div>
+
+  <!-- QUIZ -->
+  <div id="quiz" style="display:none;">
+    <div class="top-bar">
+      <span id="timer">Time: 00:00</span>
+      <span id="progress"></span>
+    </div>
+
+    <form id="quizForm">
+      <div id="questionContainer"></div>
+      <button type="submit" class="submit-btn">Submit Answers</button>
+    </form>
+  </div>
+
+  <!-- RESULTS -->
+  <div id="results" style="display:none;">
+		<h2>Quiz Finished!</h2>
+		<p id="scoreText"></p>
+		<p id="timeText"></p>
+		
+		<div class="review-toggle-switch">
+			<span>Review only incorrect</span>
+				<label class="switch">
+					<input type="checkbox" id="reviewIncorrectOnly">
+					<span class="slider round"></span>
+				</label>
+		</div>
+		
+		<h3>Per-topic performance</h3>
+		<div id="topicBreakdown" class="bar-chart-container"></div>
+		
+		<button id="restartBtn">Restart Quiz</button>
+  </div>
+</div>
+
+<script src="full-mcq-practice.js"></script>
+</body>
+</html>
