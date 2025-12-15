@@ -3,6 +3,13 @@
 "intro": "Choose a resource to begin.",
 "resources": [
 	{
+		"id": "all-mcqs",
+		"title": "NEW :: All Exam Topics",
+		"url": "full-mcq-practice.html",
+		"img": "assets/all-mcqs.jpg",
+		"description": "100 MCQ questions from all exam topics."
+	},
+	{
 		"id": "int-flashcards",
 		"title": "Intelligence :: Flashcards",
 		"url": "sg_intelligence.html",
@@ -52,18 +59,18 @@
 		"description": "Timed multiple-choice practice."
 	},
 	{
-		"id": "coursework-checklist",
-		"title": "Coursework Checklist",
-		"url": "pins-poster/PINSPosterChecklist.html",
-		"img": "assets/coursework.jpg",
-		"description": "Step-by-step coursework guide."
-	},
-	{
 		"id": "speeded-mcqs",
 		"title": "All Topics :: Speeded MCQs",
 		"url": "timed-mcq.html",
 		"img": "assets/speed-mcqs.jpg",
 		"description": "Timed MCQs from all exam topics."
+	},
+	{
+		"id": "coursework-checklist",
+		"title": "Coursework Checklist",
+		"url": "pins-poster/PINSPosterChecklist.html",
+		"img": "assets/coursework.jpg",
+		"description": "Step-by-step coursework guide."
 	}
 ]
 }
