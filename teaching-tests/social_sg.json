@@ -511,6 +511,10 @@
 		"answer": "Aggression in which harm is used as a means to achieve another goal, such as gaining resources or status; it is more calculated and less emotional."
 	  },
 	  {
+		"question": "Relational Aggression",
+		"answer": "A non-physical form of aggression that harms others by damaging their social standing, reputation, or relationships, using tactics like spreading rumors, social exclusion, gossiping, silent treatment, or threatening friendship."
+	  },
+	  {
 		"question": "Freud’s Dual-Instinct Theory of Aggression",
 		"answer": "Aggression is an outward expression of the death instinct (Thanatos), which is in constant conflict with the life instinct (Eros). Aggression occurs when destructive energy directed inward is redirected outward."
 	  },
@@ -1260,7 +1264,10 @@
     "question": "What is instrumental (proactive) aggression?",
     "answer": "A form of aggression in which harm is used as a means to achieve another goal such as gaining resources or status."
   },
-  
+  {
+	"question": "What is relational aggression",
+	"answer": "Relational aggression, alternative aggression, or relational bullying is a type of aggression in which harm is caused by damaging someone's relationships or social status."
+  },
   {
     "question":"Situational factors that can increase aggressive behavior",
     "answer":"Some situational factors that can increase aggressive behavior can include: the presence of alcohol, and environmental conditions like heat or crowding"
