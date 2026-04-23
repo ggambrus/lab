@@ -16,12 +16,14 @@
     ],
 	
     "publications": {
-		"preprints":[
+		"journal_articles":[
 			{"authors" : "[@Ely, M. M.|member.html#ely], [@Kelsey, C. A.|member.html#kelsey], [@Ambrus, G. G.|member.html#ambrus]",
-			 "year"    : "2025",
+			 "year"    : "2026",
 			 "title"   : "Shared Neural Codes for Emotion Recognition in Emoji and Human Faces",
-			 "journal": "bioRxiv",
-			 "issnumpg": "2025-03",	"doi":"10.1101\/2025.03.21.640322", "link": "https:\/\/doi.org\/10.1101\/2025.03.21.640322"}
+			 "journal": "Psychophysiology",
+			 "issnumpg": "63(3), e70268",	
+			 "doi":"https:\/\/doi.org\/10.1111\/psyp.70268", 
+			 "link": "https:\/\/doi.org\/10.1111\/psyp.70268"}
 		],
         "conferences": [
 				{"authors": "[@Ely, M. M.|member.html#ely],[@Kelsey, C. A.|member.html#kelsey] and [@Ambrus, G. G.|member.html#ambrus]", "year":"2025", "title": "Neural Evidence of a 'Male Default' in Emoji Perception: A Cross-Classification Study Using EEG", "event": "DUCOG 16, Conference of the Central European Cognitive Science Association", "city": "Dubrovnik", "country": "Croatia", "eventlink": "https:\/\/ducog.cecog.eu\/"},
