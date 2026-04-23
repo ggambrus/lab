@@ -36,13 +36,7 @@
 				"doi"     : "10.1007\/s11571-025-10230-4", 
 				"link"    : "https:\/\/doi.org\/10.1007\/s11571-025-10230-4"}
 		],
-		"preprints":[
-			{"authors" : "[@Ely, M. M.|member.html#ely], [@Kelsey, C. A.|member.html#kelsey], [@Ambrus, G. G.|member.html#ambrus]",
-				 "year"    : "2025",
-				 "title"   : "Shared Neural Codes for Emotion Recognition in Emoji and Human Faces",
-				 "journal": "bioRxiv",
-				 "issnumpg": "2025-03",	"doi":"10.1101\/2025.03.21.640322", "link": "https:\/\/doi.org\/10.1101\/2025.03.21.640322"}
-		],
+		
         "talks": [
 				{"title": "The Neural Processing of Gender Information in Illusory Faces", "venue": "The 16th Annual BU Postgraduate Research Conference", "date": "27 November, 2024", "city":"Bournemouth","country": "United Kingdom"},
 				{"title": "The Neural Basis of Facial Expression Processing-Insights from Cross-Dataset Multivariate Pattern Analysis", "venue": "BU Cognition and Brain Sciences Seminar", "date": "10 April, 2024", "city":"Bournemouth","country": "United Kingdom"}
