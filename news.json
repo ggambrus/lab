@@ -1,4 +1,12 @@
-[	{
+[	
+{
+		"title": "New Research Published - Shared Neural Codes for Emotion Recognition in Emoji and Human Faces",
+			"image": "news_images\/psyp2026.jpg",
+			"link": "https:\/\/onlinelibrary.wiley.com\/doi\/epdf\/10.1111\/psyp.70268",
+			"date": "02-03-2026",
+			"text": "New research from our lab by [@Maddie|member.html#ely], [@Chloe|member.html#kelsey] and [@Géza|member.html#ambrus] was published on March 2, 2026 in the journal Psychophysiology, examining the overlap in neural signatures for processing facial expressions in human and emoji faces."
+		},
+	{
         "title": "GEM2025, conference on Generative Episodic Memory",
         "image": "news_images\/GEM2025.jpg",
         "text": "On June 3, 2025, we presented our latest findings at the Generative Episodic Memory (GEM2025) conference in Bochum, Germany."
