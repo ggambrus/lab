@@ -9,14 +9,15 @@
         "bio"   : "Dr. Géza Gergely Ambrus is cognitive neuroscientist with a research focus on the neural signatures of perception,  memory and learning.",
         "research_interests": "Memory, Learning, Person Perception, Neuroplasticity",
         "publications": [
+			{
+                "title": "Shared Neural Codes for Emotion Recognition in Emoji and Human Faces",
+                "link": "https:\/\/doi.org\/10.1111\/psyp.70268"
+            },
             {
                 "title": "Shared neural codes of recognition memory",
                 "link": "https:\/\/doi.org\/10.1038\/s41598-024-66158-y"
-            },
-            {
-                "title": "Your place or mine? The neural dynamics of personally familiar scene recognition suggests category independent familiarity encoding",
-                "link": "https:\/\/doi.org\/10.1093\/cercor\/bhad397"
             }
+
         ]
     },
     {
@@ -35,7 +36,7 @@
             },
 			{
                 "title": "Shared Neural Codes for Emotion Recognition in Emoji and Human Faces",
-                "link": "https:\/\/doi.org\/10.1101\/2025.03.21.640322"
+                "link": "https:\/\/doi.org\/10.1111\/psyp.70268"
             }
 		]
     },
@@ -51,7 +52,7 @@
         "publications": [
 			{
                 "title": "Shared Neural Codes for Emotion Recognition in Emoji and Human Faces",
-                "link": "https:\/\/doi.org\/10.1101\/2025.03.21.640322"
+                "link": "https:\/\/doi.org\/10.1111\/psyp.70268"
             }		
 			]
     },
