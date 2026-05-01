@@ -5,140 +5,296 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Team - Neural Patterns of Cognition Lab</title>
     <link rel="stylesheet" href="styles.css">
+    
+    <style>
+        .team-section {
+            margin-bottom: 4.5rem;
+        }
+
+        .section-title {
+            font-size: 1.85rem;
+            margin: 2.8rem 0 1.8rem;
+            color: #222;
+        }
+
+        /* Current Members - Large vertical stack */
+        #members-list {
+            display: flex;
+            flex-direction: column;
+            gap: 3rem;
+            <!--max-width: 920px;-->
+            margin: 0 auto;
+			max-width: 95%;
+        }
+
+        .member-card {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.09);
+            overflow: hidden;
+            transition: all 0.3s ease;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            padding: 1.8rem;
+        }
+
+        .member-card:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.13);
+        }
+
+        .member-photo {
+            flex: 0 0 260px;
+            height: 320px;
+        }
+
+        .member-photo img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 10px;
+        }
+
+        .member-content {
+            flex: 1;
+            min-width: 300px;
+        }
+
+        .member-card h2 {
+            margin: 0 0 0.5rem 0;
+            font-size: 1.55rem;
+        }
+
+        .member-card .title {
+            color: #555;
+            font-size: 1.05rem;
+            font-weight: 500;
+            margin-bottom: 1.3rem;
+        }
+
+        .member-card .bio {
+            line-height: 1.65;
+            margin-bottom: 1.3rem;
+        }
+
+        .member-card .research-interests {
+            line-height: 1.55;
+            margin-bottom: 1.3rem;
+        }
+
+        /* Small cards (Alumni & Cooperations) - Same layout, smaller size */
+        .small-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+            gap: 2rem;
+        }
+
+        .small-member-card {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.07);
+            overflow: hidden;
+            transition: all 0.3s ease;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.4rem;
+            padding: 1.4rem;
+        }
+
+        .small-member-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 10px 24px rgba(0,0,0,0.1);
+        }
+
+        .small-member-photo {
+            flex: 0 0 110px;           /* Smaller photo width */
+            height: 140px;
+        }
+
+        .small-member-photo img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+
+        .small-member-content {
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .small-member-card h3 {
+            margin: 0 0 0.4rem 0;
+            font-size: 1.25rem;
+        }
+
+        .small-member-card .title {
+            color: #666;
+            font-size: 0.97rem;
+            margin-bottom: 0.9rem;
+        }
+
+        .small-member-card .bio {
+            font-size: 0.93rem;
+            line-height: 1.55;
+            color: #555;
+            margin-bottom: 1rem;
+        }
+    </style>
 </head>
 <body>
     <div id="header-placeholder"></div>
-    
+   
     <main>
         <section class="members">
             <div class="container">
                 <h1>Team</h1>
-                <div id="members-list">
-                    <!-- Members will be dynamically loaded here -->
+
+                <!-- Current Members -->
+                <div id="current-members" class="team-section">
+                    <!--<h2 class="section-title">Current Members</h2>-->
+                    <div id="members-list"></div>
                 </div>
-				<div id="cooperation-list"><h2>Cooperations</h2></div>
-				<div id="alumni-list"><h2>Alumni</h2></div>
+
+                <!-- Cooperations -->
+                <div id="cooperations-section" class="team-section">
+                    <h2 class="section-title">Collaborations & Cooperations</h2>
+                    <div id="cooperation-grid" class="small-grid"></div>
+                </div>
+
+                <!-- Alumni -->
+                <div id="alumni-section" class="team-section">
+                    <h2 class="section-title">Alumni</h2>
+                    <div id="alumni-grid" class="small-grid"></div>
+                </div>
             </div>
         </section>
     </main>
-    
+   
     <div id="footer-placeholder"></div>
-	
+
     <script src="prettystr.js"></script>
     <script src="include.js"></script>
-	
-	<script>
-		document.addEventListener("DOMContentLoaded", function() {
-			// Create sections for current members, cooperations, and alumni
-			const membersList = document.getElementById('members-list');
-			const cooperationList = document.getElementById('cooperation-list');
-			const alumniList = document.getElementById('alumni-list');
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const membersList = document.getElementById('members-list');
+        const cooperationGrid = document.getElementById('cooperation-grid');
+        const alumniGrid = document.getElementById('alumni-grid');
 
-			// Track if we have any cooperation or alumni members
-			let hasCooperation = false;
-			let hasAlumni = false;
+        fetch('team/members.json')
+            .then(response => response.json())
+            .then(data => {
+                data.forEach(member => {
+                    const isCooperation = !!member.cooperation;
+                    const isAlumni = !!member.alumni;
 
-			fetch('team\/members.json')
-				.then(response => response.json())
-				.then(data => {
-					data.forEach(member => {
-						const memberDiv = document.createElement('div');
-						memberDiv.classList.add('member');
+                    if (isCooperation) {
+                        cooperationGrid.appendChild(createSmallMemberCard(member));
+                    } else if (isAlumni) {
+                        alumniGrid.appendChild(createSmallMemberCard(member));
+                    } else {
+                        membersList.appendChild(createFullMemberCard(member));
+                    }
+                });
 
-						// Member image
-						const img = document.createElement('img');
-						img.src = member.image;
-						img.alt = `${member.name}'s profile picture`;
-						memberDiv.appendChild(img);
+                if (cooperationGrid.children.length === 0) {
+                    document.getElementById('cooperations-section').style.display = 'none';
+                }
+                if (alumniGrid.children.length === 0) {
+                    document.getElementById('alumni-section').style.display = 'none';
+                }
+            })
+            .catch(error => console.error('Error fetching members:', error));
+    });
 
-						// Member name
-						const name = document.createElement('h2');
-						name.textContent = member.name;
-						memberDiv.appendChild(name);
+    // Large card for Current Members
+    function createFullMemberCard(member) {
+        const card = document.createElement('div');
+        card.className = 'member-card';
 
-						// Profile link
-						if (member.profile_page) {
-							const profileLink = document.createElement('a');
-							profileLink.href = member.profile_page;
-							profileLink.target = "_blank";
-							profileLink.textContent = 'View Profile';
-							memberDiv.appendChild(profileLink);
-						}
+        if (member.profile_page) {
+            card.style.cursor = 'pointer';
+            card.onclick = () => window.open(member.profile_page, '_blank');
+        }
 
-						// Title
-						const title = document.createElement('p');
-						title.classList.add('title');
-						title.textContent = member.title;
-						memberDiv.appendChild(title);
+        let html = `
+            <div class="member-photo">
+                <img src="${member.image}" alt="${member.name}'s profile picture">
+            </div>
+            <div class="member-content">
+                <h2>${member.name}</h2>
+                <p class="title">${member.title}</p>
+                <p class="bio">${member.bio}</p>
+        `;
+		if (member.research_interests) {
+            html += `<p class="research-interests"><strong>Research Interests:</strong> ${member.research_interests}</p>`;
+        }
 
-						// Bio
-						const bio = document.createElement('p');
-						bio.classList.add('bio');
-						bio.textContent = member.bio;
-						memberDiv.appendChild(bio);
+        if (member.email) {
+            html += `<p class="email"><strong>Email:</strong> ${replaceRevealText(member.email)}</p>`;
+        }
 
-						// Research interests
-						const researchInterests = document.createElement('p');
-						researchInterests.classList.add('research-interests');
-						researchInterests.innerHTML = `<strong>Research Interests:</strong> ${member.research_interests}`;
-						memberDiv.appendChild(researchInterests);
+        if (member.publications && member.publications.length > 0) {
+            html += `<div class="publications"><h3>Selected Publications:</h3><ul>`;
+            member.publications.forEach(pub => {
+                html += `<li><a href="${pub.link}" target="_blank">${pub.title}</a></li>`;
+            });
+            html += `</ul></div>`;
+        }
 
-						// Email with reveal text
-						if (member.email) {
-							const email = document.createElement('p');
-							email.classList.add('email');
-							email.innerHTML = `<strong>Email:</strong> ` + replaceRevealText(member.email);
-							memberDiv.appendChild(email);
-						}
+        if (member.profile_page) {
+            html += `
+                <p style="margin-top: 2rem; text-align: right;">
+                    <a href="${member.profile_page}" target="_blank" 
+                       style="color: #0066cc; text-decoration: none; font-weight: 500;">
+                        View full profile →
+                    </a>
+                </p>`;
+        }
 
-						// Publications
-						if (member.publications && member.publications.length > 0) {
-							const publications = document.createElement('div');
-							publications.classList.add('publications');
-							const publicationsTitle = document.createElement('h3');
-							publicationsTitle.textContent = 'Selected Publications:';
-							publications.appendChild(publicationsTitle);
+        html += `</div>`;
+        card.innerHTML = html;
+        return card;
+    }
 
-							const publicationsList = document.createElement('ul');
-							member.publications.forEach(pub => {
-								const pubItem = document.createElement('li');
-								const pubLink = document.createElement('a');
-								pubLink.href = pub.link;
-								pubLink.target = "_blank";
-								pubLink.textContent = pub.title;
-								pubItem.appendChild(pubLink);
-								publicationsList.appendChild(pubItem);
-							});
-							publications.appendChild(publicationsList);
-							memberDiv.appendChild(publications);
-						}
+    // Small card with same side-by-side layout for Alumni & Cooperations
+    function createSmallMemberCard(member) {
+        const card = document.createElement('div');
+        card.className = 'small-member-card';
 
-						// Append to the correct section: Current, Cooperation, or Alumni
-						if (member.cooperation) {
-							cooperationList.appendChild(memberDiv); // Add to cooperation section
-							hasCooperation = true; // Flag that we have a cooperation member
-						} else if (member.alumni) {
-							alumniList.appendChild(memberDiv); // Add to alumni section
-							hasAlumni = true; // Flag that we have an alumni member
-						} else {
-							membersList.appendChild(memberDiv); // Add to current members section
-						}
-					});
+        if (member.profile_page) {
+            card.style.cursor = 'pointer';
+            card.onclick = () => window.open(member.profile_page, '_blank');
+        }
 
-					// Hide the cooperation and alumni sections if no members were added
-					if (!hasCooperation) {
-						cooperationList.style.display = 'none';
-					}
-					if (!hasAlumni) {
-						alumniList.style.display = 'none';
-					}
-				})
-				.catch(error => console.error('Error fetching members:', error));
-		});
-	</script>
+        let html = `
+            <div class="small-member-photo">
+                <img src="${member.image}" alt="${member.name}">
+            </div>
+            <div class="small-member-content">
+                <h3>${member.name}</h3>
+                <p class="title">${member.title}</p>
+        `;
 
+        if (member.bio) {
+            html += `<p class="bio">${member.bio.substring(0, 135)}${member.bio.length > 135 ? '...' : ''}</p>`;
+        }
 
+        if (member.profile_page) {
+            html += `
+                <p style="margin-top: 1rem; text-align: right;">
+                    <a href="${member.profile_page}" target="_blank" 
+                       style="color: #0066cc; text-decoration: none;">
+                        View profile →
+                    </a>
+                </p>`;
+        }
 
-
+        html += `</div>`;
+        card.innerHTML = html;
+        return card;
+    }
+    </script>
 </body>
 </html>

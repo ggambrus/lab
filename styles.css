@@ -117,6 +117,145 @@ header nav ul li a:hover {
 .member .publications ul li {
     margin: 5px 0;
 }
+/* members page styles*/
+.team-section {
+	margin-bottom: 4.5rem;
+}
+
+.section-title {
+	font-size: 1.85rem;
+	margin: 2.8rem 0 1.8rem;
+	color: #222;
+}
+
+/* Current Members - Large vertical stack */
+#members-list {
+	display: flex;
+	flex-direction: column;
+	gap: 3rem;
+	<!--max-width: 920px;-->
+	margin: 0 auto;
+	max-width: 95%;
+}
+
+.member-card {
+	background: white;
+	border-radius: 12px;
+	box-shadow: 0 6px 20px rgba(0, 0, 0, 0.09);
+	overflow: hidden;
+	transition: all 0.3s ease;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 2rem;
+	padding: 1.8rem;
+}
+
+.member-card:hover {
+	transform: translateY(-6px);
+	box-shadow: 0 15px 30px rgba(0, 0, 0, 0.13);
+}
+
+.member-photo {
+	flex: 0 0 260px;
+	height: 320px;
+}
+
+.member-photo img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	border-radius: 10px;
+}
+
+.member-content {
+	flex: 1;
+	min-width: 300px;
+}
+
+.member-card h2 {
+	margin: 0 0 0.5rem 0;
+	font-size: 1.55rem;
+}
+
+.member-card .title {
+	color: #555;
+	font-size: 1.05rem;
+	font-weight: 500;
+	margin-bottom: 1.3rem;
+}
+
+.member-card .bio {
+	line-height: 1.65;
+	margin-bottom: 1.3rem;
+}
+
+.member-card .research-interests {
+	line-height: 1.55;
+	margin-bottom: 1.3rem;
+}
+
+/* Small cards (Alumni & Cooperations) - Same layout, smaller size */
+.small-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+	gap: 2rem;
+}
+
+.small-member-card {
+	background: white;
+	border-radius: 12px;
+	box-shadow: 0 4px 16px rgba(0,0,0,0.07);
+	overflow: hidden;
+	transition: all 0.3s ease;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1.4rem;
+	padding: 1.4rem;
+}
+
+.small-member-card:hover {
+	transform: translateY(-4px);
+	box-shadow: 0 10px 24px rgba(0,0,0,0.1);
+}
+
+.small-member-photo {
+	flex: 0 0 110px;           /* Smaller photo width */
+	height: 140px;
+}
+
+.small-member-photo img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	border-radius: 8px;
+}
+
+.small-member-content {
+	flex: 1;
+	min-width: 200px;
+}
+
+.small-member-card h3 {
+	margin: 0 0 0.4rem 0;
+	font-size: 1.25rem;
+}
+
+.small-member-card .title {
+	color: #666;
+	font-size: 0.97rem;
+	margin-bottom: 0.9rem;
+}
+
+.small-member-card .bio {
+	font-size: 0.93rem;
+	line-height: 1.55;
+	color: #555;
+	margin-bottom: 1rem;
+}
+
+
+/* end members page styles*/
+
 /* Pretty links for profiles */
 .link-icon {
 	margin-right: 5px;
