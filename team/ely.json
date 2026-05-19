@@ -50,6 +50,8 @@
 				{"title": "The Neural Basis of Facial Expression Processing-Insights from Cross-Dataset Multivariate Pattern Analysis", "venue": "BU Cognition and Brain Sciences Seminar", "date": "10 April, 2024", "city":"Bournemouth","country": "United Kingdom"}
         ],
         "conferences": [
+				{"authors": "[@Ely, M. M.|member.html#ely] and [@Ambrus, G. G.|member.html#ambrus]", "year":"2026", "title": "Neural Representations of Emoji Faces", "event": "DUCOG 17, Conference of the Central European Cognitive Science Association", "city": "Dubrovnik", "country": "Croatia", "eventlink": "https:\/\/ducog.cecog.eu\/"},
+				{"authors": "[@Ambrus, G. G.|member.html#ambrus] and [@Ely, M. M.|member.html#ely]", "year":"2026", "title": "What makes emoji affect 'stick'", "event": "DUCOG 17, Conference of the Central European Cognitive Science Association", "city": "Dubrovnik", "country": "Croatia", "eventlink": "https:\/\/ducog.cecog.eu\/"},
 				{"authors": "[@Ely, M. M.|member.html#ely] and [@Ambrus, G. G.|member.html#ambrus]", "year":"2025", "title": "Spatiotemporal neural signatures of facial expression and familiarity processing: A cross-dataset EEG study", "event": "GEM 2025, Generative Episodic Memory", "city": "Bochum", "country": "Germany", "eventlink": "https:\/\/for2812.rub.de\/gem2025"},
 				{"authors": "[@Ambrus, G. G.|member.html#ambrus] and [@Ely, M. M.|member.html#ely]", "year":"2025", "title": "Neural dynamics of facial expression processing: implications for memory formation", "event": "GEM 2025, Generative Episodic Memory", "city": "Bochum", "country": "Germany", "eventlink": "https:\/\/for2812.rub.de\/gem2025"},
 				
