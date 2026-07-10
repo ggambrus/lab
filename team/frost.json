@@ -2,7 +2,10 @@
     "name": "Ellen A. Frost",
     "photo": "profile_images\/EF.jpg",
     "education": [
-		{"degree"    : "BSc (Hons) in Psychology (in progress)",
+		{"degree"    : "Medicine (in progress)",
+		 "university": "University of Southampton",
+		 "logo"      : "images\/logo_UoS_64x64.png"},
+		{"degree"    : "BSc (Hons) in Psychology",
 		 "university": "Bournemouth University",
 		 "logo"      : "images\/logo_BU_64x64.png"}
     ]

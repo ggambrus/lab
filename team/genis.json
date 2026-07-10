@@ -2,7 +2,10 @@
     "name": "Flora Genis",
     "photo": "profile_images\/FG.jpg",
     "education": [
-		{"degree"    : "BSc (Hons) in Psychology (in progress)",
+		{"degree"    : "MSc in Clinical Neuropsychiatry (in progress)",
+		 "university": "University of Birmingham",
+		 "logo"      : "images\/logo_UoB_64x64.png"},
+		{"degree"    : "BSc (Hons) in Psychology",
 		 "university": "Bournemouth University",
 		 "logo"      : "images\/logo_BU_64x64.png"}
     ]
