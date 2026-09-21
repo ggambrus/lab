@@ -3,17 +3,31 @@
 "intro": "Choose a resource to begin.",
 "resources": [
 	{
-		"id": "biomols-flashcards",
+		"id": "biomols-flashcards-1",
 		"title": "Biomolecules 1 :: Flashcards",
-		"url": "sg_biomolecules_1.html",
+		"url": "topics/biomolecules_1/sg_biomolecules_1.html",
 		"img": "assets/biomols-flashcards.jpg",
 		"description": "Flashcards"
 	},
 	{
-		"id": "biomols-mcqs",
+		"id": "biomols-mcqs-1",
 		"title": "Biomolecules 1 :: Practice MCQs",
-		"url": "mcqs_biomolecules_1.html",
+		"url": "topics/biomolecules_1/mcqs_biomolecules_1.html",
 		"img": "assets/biomols-mcqs.jpg",
+		"description": "Timed multiple-choice practice."
+	},
+	{
+		"id": "biomols-flashcards-2",
+		"title": "Biomolecules 2 :: Flashcards",
+		"url": "topics/biomolecules_2/sg_biomolecules_2.html",
+		"img": "assets/biomols-flashcards2.jpg",
+		"description": "Flashcards"
+	},
+	{
+		"id": "biomols-mcqs-2",
+		"title": "Biomolecules 2 :: Practice MCQs",
+		"url": "topics/biomolecules_2/mcqs_biomolecules_2.html",
+		"img": "assets/biomols-mcqs2.jpg",
 		"description": "Timed multiple-choice practice."
 	}
 ]

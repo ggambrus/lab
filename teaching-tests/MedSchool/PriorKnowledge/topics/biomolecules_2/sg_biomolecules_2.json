@@ -1,0 +1,429 @@
+[
+  {
+    "topic": "DNA and RNA Structure",
+    "flashcards": [
+      {
+        "question": "What are DNA and RNA?",
+        "answer": "Information-carrying nucleic acids that are polymers of nucleotides."
+      },
+      {
+        "question": "What is the role of DNA?",
+        "answer": "DNA stores genetic information and codes for functional RNA and the amino acid sequences of polypeptides."
+      },
+      {
+        "question": "What is the role of RNA?",
+        "answer": "RNA transfers genetic information from DNA to ribosomes for protein synthesis."
+      },
+      {
+        "question": "What are ribosomes made of?",
+        "answer": "RNA and proteins."
+      },
+      {
+        "question": "What is the monomer of nucleic acids?",
+        "answer": "A nucleotide."
+      },
+      {
+        "question": "What are the three components of a nucleotide?",
+        "answer": "A pentose sugar, a phosphate group, and a nitrogen-containing organic base."
+      },
+      {
+        "question": "What are the components of a DNA nucleotide?",
+        "answer": "Deoxyribose, a phosphate group, and one of the bases adenine, thymine, cytosine, or guanine."
+      },
+      {
+        "question": "What are the components of an RNA nucleotide?",
+        "answer": "Ribose, a phosphate group, and one of the bases adenine, uracil, cytosine, or guanine."
+      },
+      {
+        "question": "What type of reaction joins nucleotides together?",
+        "answer": "A condensation reaction."
+      },
+      {
+        "question": "What bond is formed between nucleotides?",
+        "answer": "A phosphodiester bond."
+      },
+      {
+        "question": "What is the structure of DNA?",
+        "answer": "A double helix consisting of two polynucleotide chains."
+      },
+      {
+        "question": "What holds the two DNA strands together?",
+        "answer": "Hydrogen bonds between complementary bases."
+      },
+      {
+        "question": "What is the structure of RNA?",
+        "answer": "A relatively short, single-stranded polynucleotide chain."
+      },
+      {
+        "question": "What sugar is found in DNA?",
+        "answer": "Deoxyribose."
+      },
+      {
+        "question": "What sugar is found in RNA?",
+        "answer": "Ribose."
+      },
+      {
+        "question": "Where is DNA typically found in eukaryotic cells?",
+        "answer": "In the nucleus."
+      },
+      {
+        "question": "Where can RNA be found in eukaryotic cells?",
+        "answer": "Both inside and outside the nucleus."
+      },
+      {
+        "question": "How do polynucleotides form?",
+        "answer": "By condensation reactions between nucleotides forming phosphodiester bonds."
+      }
+    ]
+  },
+  {
+    "topic": "Base Pairing",
+    "flashcards": [
+      {
+        "question": "Which bases pair in DNA?",
+        "answer": "Adenine pairs with thymine; guanine pairs with cytosine."
+      },
+      {
+        "question": "How many hydrogen bonds connect adenine and thymine?",
+        "answer": "Two."
+      },
+      {
+        "question": "How many hydrogen bonds connect guanine and cytosine?",
+        "answer": "Three."
+      },
+      {
+        "question": "Which bases pair in RNA?",
+        "answer": "Adenine pairs with uracil; guanine pairs with cytosine."
+      },
+      {
+        "question": "How many hydrogen bonds connect adenine and uracil?",
+        "answer": "Two."
+      },
+      {
+        "question": "What base is present in RNA instead of thymine?",
+        "answer": "Uracil."
+      },
+      {
+        "question": "What is meant by complementary base pairing?",
+        "answer": "Specific pairing of bases: A with T (or U in RNA) and G with C."
+      }
+    ]
+  },
+  {
+    "topic": "Types of RNA",
+    "flashcards": [
+      {
+        "question": "What does mRNA stand for?",
+        "answer": "Messenger RNA."
+      },
+      {
+        "question": "What is the function of mRNA?",
+        "answer": "Carries genetic information from DNA to ribosomes."
+      },
+      {
+        "question": "What does rRNA stand for?",
+        "answer": "Ribosomal RNA."
+      },
+      {
+        "question": "What is the function of rRNA?",
+        "answer": "Forms a major structural and functional component of ribosomes."
+      },
+      {
+        "question": "What does tRNA stand for?",
+        "answer": "Transfer RNA."
+      },
+      {
+        "question": "What is the function of tRNA?",
+        "answer": "Transfers specific amino acids to match mRNA codons during protein synthesis."
+      },
+      {
+        "question": "What is a codon?",
+        "answer": "A sequence of three bases on mRNA that specifies an amino acid."
+      }
+    ]
+  },
+  {
+    "topic": "DNA Replication",
+    "flashcards": [
+      {
+        "question": "Why is DNA replication necessary?",
+        "answer": "To ensure daughter cells receive a complete copy of genetic information."
+      },
+      {
+        "question": "What type of replication does DNA undergo?",
+        "answer": "Semi-conservative replication."
+      },
+      {
+        "question": "What does semi-conservative replication mean?",
+        "answer": "Each new DNA molecule contains one parental strand and one newly synthesized strand."
+      },
+      {
+        "question": "What is the first step in DNA replication?",
+        "answer": "Unwinding of the DNA double helix."
+      },
+      {
+        "question": "What happens to hydrogen bonds during replication?",
+        "answer": "They are broken between complementary bases."
+      },
+      {
+        "question": "What is the role of DNA helicase?",
+        "answer": "Unwinds DNA and breaks hydrogen bonds between strands."
+      },
+      {
+        "question": "What are template strands?",
+        "answer": "The original DNA strands used to guide synthesis of new strands."
+      },
+      {
+        "question": "What happens after DNA strands separate?",
+        "answer": "Free nucleotides pair with exposed bases on the template strands."
+      },
+      {
+        "question": "What is the role of DNA polymerase?",
+        "answer": "Joins adjacent nucleotides by catalyzing condensation reactions."
+      },
+      {
+        "question": "What is the role of primase?",
+        "answer": "Synthesizes RNA primers needed for DNA polymerase to begin replication."
+      },
+      {
+        "question": "What are RNA primers?",
+        "answer": "Short RNA sequences that provide a starting point for DNA synthesis."
+      },
+      {
+        "question": "What is the role of ligase?",
+        "answer": "Joins DNA fragments together."
+      },
+      {
+        "question": "What are single-stranded binding proteins (SSB proteins)?",
+        "answer": "Proteins that keep DNA strands separated during replication."
+      },
+      {
+        "question": "What is the role of topoisomerase?",
+        "answer": "Prevents DNA from becoming overwound or supercoiled."
+      },
+      {
+        "question": "What does antiparallel mean in DNA?",
+        "answer": "The two strands run in opposite directions."
+      },
+      {
+        "question": "In which direction can DNA polymerase synthesize DNA?",
+        "answer": "Only in the 5' to 3' direction."
+      },
+      {
+        "question": "What is the leading strand?",
+        "answer": "The new strand synthesized continuously in the direction of DNA unwinding."
+      },
+      {
+        "question": "What is the lagging strand?",
+        "answer": "The new strand synthesized discontinuously away from the replication fork."
+      },
+      {
+        "question": "What are Okazaki fragments?",
+        "answer": "Short DNA fragments formed on the lagging strand."
+      },
+      {
+        "question": "Why are Okazaki fragments formed?",
+        "answer": "Because DNA polymerase can only synthesize DNA in the 5' to 3' direction."
+      },
+      {
+        "question": "What proofreading function does DNA polymerase have?",
+        "answer": "It checks and corrects errors during DNA synthesis."
+      }
+    ]
+  },
+  {
+    "topic": "ATP",
+    "flashcards": [
+      {
+        "question": "What does ATP stand for?",
+        "answer": "Adenosine triphosphate."
+      },
+      {
+        "question": "What type of molecule is ATP?",
+        "answer": "A nucleotide derivative."
+      },
+      {
+        "question": "What are the components of ATP?",
+        "answer": "Adenine, ribose, and three phosphate groups."
+      },
+      {
+        "question": "Why is ATP described as an energy currency?",
+        "answer": "It transfers energy for cellular processes."
+      },
+      {
+        "question": "What enzyme catalyzes ATP hydrolysis?",
+        "answer": "ATP hydrolase."
+      },
+      {
+        "question": "What are the products of ATP hydrolysis?",
+        "answer": "ADP and inorganic phosphate (Pi)."
+      },
+      {
+        "question": "What happens during ATP hydrolysis?",
+        "answer": "ATP is converted to ADP and Pi, releasing energy."
+      },
+      {
+        "question": "What is phosphorylation?",
+        "answer": "The addition of a phosphate group to another molecule."
+      },
+      {
+        "question": "Why does phosphorylation matter?",
+        "answer": "It often makes molecules more reactive."
+      },
+      {
+        "question": "How is ATP resynthesized?",
+        "answer": "By condensation of ADP and Pi."
+      },
+      {
+        "question": "What enzyme catalyzes ATP synthesis?",
+        "answer": "ATP synthase."
+      },
+      {
+        "question": "When does ATP synthesis occur?",
+        "answer": "During respiration and photosynthesis."
+      },
+      {
+        "question": "Give an example of a process requiring ATP.",
+        "answer": "Active transport."
+      },
+      {
+        "question": "Why is ATP suitable as an energy currency?",
+        "answer": "It releases small, manageable amounts of energy, is rapidly hydrolyzed, and can be readily resynthesized."
+      },
+      {
+        "question": "What sugar is present in ATP?",
+        "answer": "Ribose."
+      },
+      {
+        "question": "What nitrogenous base is present in ATP?",
+        "answer": "Adenine."
+      }
+    ]
+  },
+  {
+    "topic": "Water",
+    "flashcards": [
+      {
+        "question": "Why is water considered a polar molecule?",
+        "answer": "Oxygen is more electronegative than hydrogen, creating partial charges."
+      },
+      {
+        "question": "What type of bonds form between water molecules?",
+        "answer": "Hydrogen bonds."
+      },
+      {
+        "question": "What is cohesion?",
+        "answer": "The attraction between water molecules."
+      },
+      {
+        "question": "What is adhesion?",
+        "answer": "The attraction between water molecules and other surfaces."
+      },
+      {
+        "question": "How does adhesion help plants?",
+        "answer": "It helps water move up xylem walls against gravity."
+      },
+      {
+        "question": "How does cohesion help water transport in plants?",
+        "answer": "Water molecules pull one another upward in a continuous column."
+      },
+      {
+        "question": "What property contributes to water's surface tension?",
+        "answer": "Cohesion between water molecules."
+      },
+      {
+        "question": "Why is water a good solvent?",
+        "answer": "Its polarity allows it to dissolve many ionic and polar substances."
+      },
+      {
+        "question": "Why is water important as a solvent in living organisms?",
+        "answer": "Many metabolic reactions occur in aqueous solutions."
+      },
+      {
+        "question": "What happens to water density when it freezes?",
+        "answer": "It becomes less dense."
+      },
+      {
+        "question": "Why does ice float on water?",
+        "answer": "Ice is less dense than liquid water."
+      },
+      {
+        "question": "Why is floating ice biologically important?",
+        "answer": "It forms an insulating layer that protects aquatic life."
+      },
+      {
+        "question": "What is specific heat capacity?",
+        "answer": "The heat required to change the temperature of 1 g of a substance by 1°C."
+      },
+      {
+        "question": "Why does water have a high heat capacity?",
+        "answer": "Hydrogen bonds require significant energy to break."
+      },
+      {
+        "question": "How does water help stabilize aquatic environments?",
+        "answer": "It resists rapid temperature changes."
+      },
+      {
+        "question": "What is evaporative cooling?",
+        "answer": "Cooling caused by the evaporation of higher-energy water molecules."
+      },
+      {
+        "question": "Why is water a metabolite?",
+        "answer": "It participates in reactions such as hydrolysis and condensation."
+      },
+      {
+        "question": "What is latent heat of vaporization?",
+        "answer": "The energy required for a liquid to change into a gas."
+      },
+      {
+        "question": "Why is water's latent heat of vaporization biologically useful?",
+        "answer": "It allows cooling with relatively little water loss."
+      }
+    ]
+  },
+  {
+    "topic": "Inorganic Ions",
+    "flashcards": [
+      {
+        "question": "What are inorganic ions?",
+        "answer": "Ions that do not contain carbon atoms."
+      },
+      {
+        "question": "Where are inorganic ions found in organisms?",
+        "answer": "In the cytoplasm and extracellular body fluids."
+      },
+      {
+        "question": "What is the relationship between hydrogen ion concentration and pH?",
+        "answer": "Higher H+ concentration results in a lower (more acidic) pH."
+      },
+      {
+        "question": "How can hydrogen ions affect proteins?",
+        "answer": "They can disrupt bonds in proteins and cause denaturation."
+      },
+      {
+        "question": "What is the role of iron ions in hemoglobin?",
+        "answer": "Fe2+ forms part of the haem group that binds oxygen."
+      },
+      {
+        "question": "How many oxygen molecules can one hemoglobin molecule transport?",
+        "answer": "Four, because it contains four haem groups."
+      },
+      {
+        "question": "What is the role of sodium ions in the body?",
+        "answer": "They are involved in co-transport of glucose and amino acids and in nerve impulse transmission."
+      },
+      {
+        "question": "What is the role of phosphate ions in DNA?",
+        "answer": "They form part of the sugar-phosphate backbone."
+      },
+      {
+        "question": "What is the role of phosphate ions in ATP?",
+        "answer": "They are responsible for ATP's energy-transfer function."
+      },
+      {
+        "question": "Name biological molecules that contain phosphate ions.",
+        "answer": "DNA, ATP, NADP, and cAMP."
+      }
+    ]
+  }
+]

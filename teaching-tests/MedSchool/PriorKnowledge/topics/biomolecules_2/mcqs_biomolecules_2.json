@@ -1,0 +1,1157 @@
+[
+  {
+    "id": 1,
+    "question": "Which statement best describes DNA?",
+    "options": [
+      "It stores genetic information and codes for traits.",
+      "It transports amino acids to ribosomes.",
+      "It synthesizes ATP directly.",
+      "It breaks down proteins in cells."
+    ],
+    "answer": "It stores genetic information and codes for traits."
+  },
+  {
+    "id": 2,
+    "question": "What is the primary role of RNA?",
+    "options": [
+      "To store genetic information permanently",
+      "To transfer genetic information from DNA to ribosomes",
+      "To form cell membranes",
+      "To catalyze all metabolic reactions"
+    ],
+    "answer": "To transfer genetic information from DNA to ribosomes"
+  },
+  {
+    "id": 3,
+    "question": "Which three components make up a nucleotide?",
+    "options": [
+      "Amino acid, phosphate group, base",
+      "Fatty acid, sugar, phosphate group",
+      "Pentose sugar, phosphate group, nitrogenous base",
+      "Glycerol, sugar, nitrogenous base"
+    ],
+    "answer": "Pentose sugar, phosphate group, nitrogenous base"
+  },
+  {
+    "id": 4,
+    "question": "Which sugar is found in DNA?",
+    "options": [
+      "Ribose",
+      "Glucose",
+      "Fructose",
+      "Deoxyribose"
+    ],
+    "answer": "Deoxyribose"
+  },
+  {
+    "id": 5,
+    "question": "Which sugar is found in RNA?",
+    "options": [
+      "Ribose",
+      "Deoxyribose",
+      "Galactose",
+      "Maltose"
+    ],
+    "answer": "Ribose"
+  },
+  {
+    "id": 6,
+    "question": "Which nitrogenous base is present in DNA but absent from RNA?",
+    "options": [
+      "Cytosine",
+      "Guanine",
+      "Thymine",
+      "Adenine"
+    ],
+    "answer": "Thymine"
+  },
+  {
+    "id": 7,
+    "question": "Which nitrogenous base is present in RNA but absent from DNA?",
+    "options": [
+      "Uracil",
+      "Guanine",
+      "Adenine",
+      "Cytosine"
+    ],
+    "answer": "Uracil"
+  },
+  {
+    "id": 8,
+    "question": "What type of reaction joins nucleotides together?",
+    "options": [
+      "Hydrolysis",
+      "Oxidation",
+      "Condensation",
+      "Neutralization"
+    ],
+    "answer": "Condensation"
+  },
+  {
+    "id": 9,
+    "question": "What bond forms between nucleotides in a polynucleotide chain?",
+    "options": [
+      "Peptide bond",
+      "Hydrogen bond",
+      "Glycosidic bond",
+      "Phosphodiester bond"
+    ],
+    "answer": "Phosphodiester bond"
+  },
+  {
+    "id": 10,
+    "question": "Which description best matches DNA structure?",
+    "options": [
+      "Single-stranded polypeptide",
+      "Double helix of two polynucleotide chains",
+      "Triple-stranded nucleic acid",
+      "Circular protein molecule"
+    ],
+    "answer": "Double helix of two polynucleotide chains"
+  },
+  {
+    "id": 11,
+    "question": "What holds the two strands of DNA together?",
+    "options": [
+      "Disulfide bonds",
+      "Peptide bonds",
+      "Hydrogen bonds between complementary bases",
+      "Phosphodiester bonds"
+    ],
+    "answer": "Hydrogen bonds between complementary bases"
+  },
+  {
+    "id": 12,
+    "question": "Which complementary base pair occurs in DNA?",
+    "options": [
+      "A-U",
+      "A-T",
+      "C-U",
+      "G-A"
+    ],
+    "answer": "A-T"
+  },
+  {
+    "id": 13,
+    "question": "How many hydrogen bonds form between adenine and thymine?",
+    "options": [
+      "4",
+      "1",
+      "3",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 14,
+    "question": "How many hydrogen bonds form between guanine and cytosine?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 15,
+    "question": "Which complementary base pair occurs in RNA?",
+    "options": [
+      "A-U",
+      "A-T",
+      "G-A",
+      "C-T"
+    ],
+    "answer": "A-U"
+  },
+  {
+    "id": 16,
+    "question": "What does mRNA stand for?",
+    "options": [
+      "Molecular RNA",
+      "Messenger RNA",
+      "Micro RNA",
+      "Membrane RNA"
+    ],
+    "answer": "Messenger RNA"
+  },
+  {
+    "id": 17,
+    "question": "What is the function of mRNA?",
+    "options": [
+      "Forms ribosomes",
+      "Stores ATP",
+      "Carries genetic information from DNA to ribosomes",
+      "Breaks hydrogen bonds"
+    ],
+    "answer": "Carries genetic information from DNA to ribosomes"
+  },
+  {
+    "id": 18,
+    "question": "What does rRNA stand for?",
+    "options": [
+      "Ribosomal RNA",
+      "Regulatory RNA",
+      "Replication RNA",
+      "Reactive RNA"
+    ],
+    "answer": "Ribosomal RNA"
+  },
+  {
+    "id": 19,
+    "question": "What is the function of tRNA?",
+    "options": [
+      "Transfers amino acids during protein synthesis",
+      "Replicates DNA",
+      "Forms cell membranes",
+      "Stores glucose"
+    ],
+    "answer": "Transfers amino acids during protein synthesis"
+  },
+  {
+    "id": 20,
+    "question": "What is a codon?",
+    "options": [
+      "A sequence of three bases on mRNA that specifies an amino acid",
+      "A DNA enzyme",
+      "A phosphate group",
+      "A protein folding unit"
+    ],
+    "answer": "A sequence of three bases on mRNA that specifies an amino acid"
+  },
+  {
+    "id": 21,
+    "question": "What type of DNA replication occurs in cells?",
+    "options": [
+      "Conservative",
+      "Dispersive",
+      "Semi-conservative",
+      "Fragmented"
+    ],
+    "answer": "Semi-conservative"
+  },
+  {
+    "id": 22,
+    "question": "What does semi-conservative replication mean?",
+    "options": [
+      "Each daughter DNA contains one original strand and one new strand",
+      "Both strands are newly synthesized",
+      "Both strands remain original",
+      "DNA is copied only partially"
+    ],
+    "answer": "Each daughter DNA contains one original strand and one new strand"
+  },
+  {
+    "id": 23,
+    "question": "Which enzyme unwinds the DNA double helix?",
+    "options": [
+      "Ligase",
+      "Primase",
+      "DNA polymerase",
+      "Helicase"
+    ],
+    "answer": "Helicase"
+  },
+  {
+    "id": 24,
+    "question": "What is the role of helicase during DNA replication?",
+    "options": [
+      "Synthesizes RNA primers",
+      "Joins Okazaki fragments",
+      "Breaks hydrogen bonds and unwinds DNA",
+      "Proofreads DNA"
+    ],
+    "answer": "Breaks hydrogen bonds and unwinds DNA"
+  },
+  {
+    "id": 25,
+    "question": "Which enzyme synthesizes RNA primers?",
+    "options": [
+      "Primase",
+      "Helicase",
+      "ATP synthase",
+      "Ligase"
+    ],
+    "answer": "Primase"
+  },
+  {
+    "id": 26,
+    "question": "Why are RNA primers needed during DNA replication?",
+    "options": [
+      "To stabilize ATP",
+      "To identify origins of replication",
+      "To provide a starting point for DNA polymerase",
+      "To separate DNA strands"
+    ],
+    "answer": "To provide a starting point for DNA polymerase"
+  },
+  {
+    "id": 27,
+    "question": "What is the role of DNA polymerase?",
+    "options": [
+      "Builds new DNA strands by joining nucleotides",
+      "Breaks phosphodiester bonds",
+      "Produces ATP",
+      "Forms hydrogen bonds only"
+    ],
+    "answer": "Builds new DNA strands by joining nucleotides"
+  },
+  {
+    "id": 28,
+    "question": "In which direction does DNA polymerase synthesize DNA?",
+    "options": [
+      "3' to 3'",
+      "5' to 5'",
+      "3' to 5'",
+      "5' to 3'"
+    ],
+    "answer": "5' to 3'"
+  },
+  {
+    "id": 29,
+    "question": "What are Okazaki fragments?",
+    "options": [
+      "RNA primers",
+      "Short DNA fragments synthesized on the lagging strand",
+      "Hydrogen-bonded base pairs",
+      "DNA repair enzymes"
+    ],
+    "answer": "Short DNA fragments synthesized on the lagging strand"
+  },
+  {
+    "id": 30,
+    "question": "Which enzyme joins Okazaki fragments together?",
+    "options": [
+      "ATP hydrolase",
+      "Ligase",
+      "Helicase",
+      "Primase"
+    ],
+    "answer": "Ligase"
+  },
+  {
+    "id": 31,
+    "question": "What is ATP?",
+    "options": [
+      "A nucleotide derivative containing adenine, ribose, and three phosphate groups",
+      "A protein enzyme",
+      "A type of lipid",
+      "A DNA nucleotide"
+    ],
+    "answer": "A nucleotide derivative containing adenine, ribose, and three phosphate groups"
+  },
+  {
+    "id": 32,
+    "question": "What does ATP stand for?",
+    "options": [
+      "Adenosine triphosphate",
+      "Adenine transfer phosphate",
+      "Activated triphosphate",
+      "Adenosine tetraphosphate"
+    ],
+    "answer": "Adenosine triphosphate"
+  },
+  {
+    "id": 33,
+    "question": "Which enzyme catalyzes ATP hydrolysis?",
+    "options": [
+      "ATP synthase",
+      "ATP hydrolase",
+      "DNA polymerase",
+      "Ligase"
+    ],
+    "answer": "ATP hydrolase"
+  },
+  {
+    "id": 34,
+    "question": "What are the products of ATP hydrolysis?",
+    "options": [
+      "ATP and water",
+      "AMP and phosphate",
+      "ADP and inorganic phosphate",
+      "Glucose and phosphate"
+    ],
+    "answer": "ADP and inorganic phosphate"
+  },
+  {
+    "id": 35,
+    "question": "Which enzyme resynthesizes ATP from ADP and Pi?",
+    "options": [
+      "ATP synthase",
+      "Helicase",
+      "ATP hydrolase",
+      "Primase"
+    ],
+    "answer": "ATP synthase"
+  },
+  {
+    "id": 36,
+    "question": "What is phosphorylation?",
+    "options": [
+      "The removal of a hydrogen ion",
+      "The addition of a phosphate group to a molecule",
+      "The formation of ATP",
+      "DNA replication"
+    ],
+    "answer": "The addition of a phosphate group to a molecule"
+  },
+  {
+    "id": 37,
+    "question": "Why is ATP considered the energy currency of the cell?",
+    "options": [
+      "It stores genetic information",
+      "It releases manageable amounts of energy and is readily regenerated",
+      "It is found only in mitochondria",
+      "It forms cell membranes"
+    ],
+    "answer": "It releases manageable amounts of energy and is readily regenerated"
+  },
+  {
+    "id": 38,
+    "question": "Why is water a polar molecule?",
+    "options": [
+      "It contains ionic bonds",
+      "Its electrons are shared equally",
+      "Oxygen attracts electrons more strongly than hydrogen",
+      "It has four hydrogen atoms"
+    ],
+    "answer": "Oxygen attracts electrons more strongly than hydrogen"
+  },
+  {
+    "id": 39,
+    "question": "What type of bond forms between water molecules?",
+    "options": [
+      "Peptide bond",
+      "Phosphodiester bond",
+      "Ionic bond",
+      "Hydrogen bond"
+    ],
+    "answer": "Hydrogen bond"
+  },
+  {
+    "id": 40,
+    "question": "What is cohesion?",
+    "options": [
+      "Attraction between water molecules",
+      "Attraction between water and other surfaces",
+      "Water evaporation",
+      "Hydrolysis of water"
+    ],
+    "answer": "Attraction between water molecules"
+  },
+  {
+    "id": 41,
+    "question": "What is adhesion?",
+    "options": [
+      "Attraction between water molecules",
+      "Attraction between water molecules and other surfaces",
+      "Formation of ice",
+      "Surface tension"
+    ],
+    "answer": "Attraction between water molecules and other surfaces"
+  },
+  {
+    "id": 42,
+    "question": "Water has a high specific heat capacity because:",
+    "options": [
+      "It contains dissolved salts",
+      "Hydrogen bonds require considerable energy to break",
+      "It is nonpolar",
+      "It contains oxygen"
+    ],
+    "answer": "Hydrogen bonds require considerable energy to break"
+  },
+  {
+    "id": 43,
+    "question": "Why does ice float on water?",
+    "options": [
+      "Ice contains trapped gases",
+      "Ice is denser than water",
+      "Frozen water is less dense than liquid water",
+      "Ice lacks hydrogen bonds"
+    ],
+    "answer": "Frozen water is less dense than liquid water"
+  },
+  {
+    "id": 44,
+    "question": "What is evaporative cooling?",
+    "options": [
+      "Cooling caused by loss of high-energy water molecules",
+      "Cooling due to freezing",
+      "Cooling caused by ATP hydrolysis",
+      "Cooling due to osmosis"
+    ],
+    "answer": "Cooling caused by loss of high-energy water molecules"
+  },
+  {
+    "id": 45,
+    "question": "What are inorganic ions?",
+    "options": [
+      "Ions that contain carbon atoms",
+      "Ions that do not contain carbon atoms",
+      "Organic acids",
+      "Protein molecules"
+    ],
+    "answer": "Ions that do not contain carbon atoms"
+  },
+  {
+    "id": 46,
+    "question": "What effect does a high concentration of hydrogen ions have on pH?",
+    "options": [
+      "Raises pH",
+      "Has no effect on pH",
+      "Lowers pH, making it more acidic",
+      "Makes pH neutral"
+    ],
+    "answer": "Lowers pH, making it more acidic"
+  },
+  {
+    "id": 47,
+    "question": "What role do iron ions play in hemoglobin?",
+    "options": [
+      "Transport glucose",
+      "Form the haem group that binds oxygen",
+      "Catalyze ATP hydrolysis",
+      "Stabilize DNA"
+    ],
+    "answer": "Form the haem group that binds oxygen"
+  },
+  {
+    "id": 48,
+    "question": "How many haem groups are found in one hemoglobin molecule?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "8"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 49,
+    "question": "What is one role of sodium ions in the body?",
+    "options": [
+      "DNA replication",
+      "Co-transport of glucose and amino acids",
+      "Formation of haemoglobin",
+      "Protein denaturation"
+    ],
+    "answer": "Co-transport of glucose and amino acids"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following molecules contains phosphate ions as a component?",
+    "options": [
+      "DNA",
+      "ATP",
+      "NADP",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 51,
+    "question": "What type of biomolecule are DNA and RNA classified as?",
+    "options": ["Proteins", "Nucleic acids", "Lipids", "Carbohydrates"],
+    "answer": "Nucleic acids"
+  },
+  {
+    "id": 52,
+    "question": "Which organic base is found in both DNA and RNA?",
+    "options": ["Thymine", "Uracil", "Adenine", "None of these"],
+    "answer": "Adenine"
+  },
+  {
+    "id": 53,
+    "question": "What forms the backbone of a DNA strand?",
+    "options": ["Alternating sugar and phosphate groups", "Nitrogenous bases only", "Hydrogen bonds", "Amino acids"],
+    "answer": "Alternating sugar and phosphate groups"
+  },
+  {
+    "id": 54,
+    "question": "In eukaryotic cells, where is most DNA located?",
+    "options": ["Mitochondria only", "Ribosomes", "Nucleus", "Cell membrane"],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 55,
+    "question": "Which molecule can be found both inside and outside the nucleus in eukaryotic cells?",
+    "options": ["DNA", "RNA", "ATP synthase", "Hemoglobin"],
+    "answer": "RNA"
+  },
+  {
+    "id": 56,
+    "question": "Which of the following bases is a pyrimidine found in DNA?",
+    "options": ["Thymine", "Adenine", "Guanine", "Both adenine and guanine"],
+    "answer": "Thymine"
+  },
+  {
+    "id": 57,
+    "question": "Which structure is directly responsible for protein synthesis?",
+    "options": ["Golgi apparatus", "Ribosome", "Lysosome", "Nucleus"],
+    "answer": "Ribosome"
+  },
+  {
+    "id": 58,
+    "question": "What determines inherited characteristics according to the notes?",
+    "options": ["Cell membrane composition", "RNA abundance", "Genetic information", "Water content"],
+    "answer": "Genetic information"
+  },
+  {
+    "id": 59,
+    "question": "What would 12 DNA nucleotides contain?",
+    "options": ["6 bases", "12 bases", "24 bases", "3 bases"],
+    "answer": "12 bases"
+  },
+  {
+    "id": 60,
+    "question": "If a DNA strand contains the sequence ACGT, what is the complementary DNA sequence?",
+    "options": ["UGCA", "ACGT", "TGCA", "GCAT"],
+    "answer": "TGCA"
+  },
+  {
+    "id": 61,
+    "question": "What is the complementary RNA sequence to a DNA sequence containing ATGC?",
+    "options": ["AUGC", "UACG", "UAGC", "TACG"],
+    "answer": "UACG"
+  },
+  {
+    "id": 62,
+    "question": "What is the purpose of transcription?",
+    "options": ["To synthesize proteins directly", "To create a complementary RNA copy of DNA", "To replicate DNA", "To degrade RNA"],
+    "answer": "To create a complementary RNA copy of DNA"
+  },
+  {
+    "id": 63,
+    "question": "Why must DNA replicate before cell division?",
+    "options": ["To produce ATP", "To allow protein synthesis", "To ensure daughter cells receive DNA", "To form ribosomes"],
+    "answer": "To ensure daughter cells receive DNA"
+  },
+  {
+    "id": 64,
+    "question": "During which stage of the cell cycle does DNA replication occur in eukaryotes?",
+    "options": ["Interphase", "Cytokinesis", "Telophase", "Anaphase"],
+    "answer": "Interphase"
+  },
+  {
+    "id": 65,
+    "question": "Which enzyme is often called the 'unzipping enzyme'?",
+    "options": ["Ligase", "Helicase", "Polymerase", "Primase"],
+    "answer": "Helicase"
+  },
+  {
+    "id": 66,
+    "question": "Which enzyme is described as the 'builder' during DNA replication?",
+    "options": ["Primase", "DNA polymerase", "Ligase", "Topoisomerase"],
+    "answer": "DNA polymerase"
+  },
+  {
+    "id": 67,
+    "question": "Which enzyme is described as the 'gluer' during DNA replication?",
+    "options": ["Helicase", "ATP synthase", "Ligase", "Primase"],
+    "answer": "Ligase"
+  },
+  {
+    "id": 68,
+    "question": "What is the origin in DNA replication?",
+    "options": ["The site where replication begins", "The newest DNA strand", "An RNA primer", "The leading strand"],
+    "answer": "The site where replication begins"
+  },
+  {
+    "id": 69,
+    "question": "What is the function of SSB proteins?",
+    "options": ["Synthesize ATP", "Join DNA fragments", "Keep DNA strands separated", "Proofread DNA"],
+    "answer": "Keep DNA strands separated"
+  },
+  {
+    "id": 70,
+    "question": "Why is topoisomerase important during DNA replication?",
+    "options": ["It forms RNA primers", "It prevents excessive supercoiling", "It joins fragments", "It adds nucleotides"],
+    "answer": "It prevents excessive supercoiling"
+  },
+  {
+    "id": 71,
+    "question": "What does antiparallel mean?",
+    "options": ["DNA strands have identical sequences", "DNA strands run in opposite directions", "DNA contains RNA", "DNA strands are circular"],
+    "answer": "DNA strands run in opposite directions"
+  },
+  {
+    "id": 72,
+    "question": "On which strand are Okazaki fragments formed?",
+    "options": ["Leading strand", "Template strand", "Lagging strand", "Parental strand"],
+    "answer": "Lagging strand"
+  },
+  {
+    "id": 73,
+    "question": "Why is the lagging strand synthesized in fragments?",
+    "options": ["DNA polymerase only works 5' to 3'", "Helicase is absent", "The strand lacks bases", "ATP is unavailable"],
+    "answer": "DNA polymerase only works 5' to 3'"
+  },
+  {
+    "id": 74,
+    "question": "What is one major benefit of DNA polymerase proofreading?",
+    "options": ["Faster transcription", "Lower mutation rate", "Higher ATP production", "More RNA synthesis"],
+    "answer": "Lower mutation rate"
+  },
+  {
+    "id": 75,
+    "question": "The sugar found in ATP is:",
+    "options": ["Deoxyribose", "Glucose", "Ribose", "Fructose"],
+    "answer": "Ribose"
+  },
+  {
+    "id": 76,
+    "question": "How many phosphate groups does ATP contain?",
+    "options": ["Three", "Two", "One", "Four"],
+    "answer": "Three"
+  },
+  {
+    "id": 77,
+    "question": "What does ADP stand for?",
+    "options": ["Adenine diphosphate", "Adenosine diphosphate", "Activated diphosphate", "Adenosine triphosphate"],
+    "answer": "Adenosine diphosphate"
+  },
+  {
+    "id": 78,
+    "question": "What is released when ATP is hydrolysed?",
+    "options": ["Only heat", "ADP and inorganic phosphate", "Glucose", "DNA"],
+    "answer": "ADP and inorganic phosphate"
+  },
+  {
+    "id": 79,
+    "question": "ATP hydrolysis is an example of what type of reaction?",
+    "options": ["Endergonic", "Anabolic", "Exergonic", "Condensation"],
+    "answer": "Exergonic"
+  },
+  {
+    "id": 80,
+    "question": "What often happens to a molecule after it receives a phosphate group from ATP?",
+    "options": ["It becomes less reactive", "It becomes more reactive", "It becomes DNA", "It stops functioning"],
+    "answer": "It becomes more reactive"
+  },
+  {
+    "id": 81,
+    "question": "Which cellular process was specifically mentioned as requiring ATP?",
+    "options": ["Diffusion", "Osmosis", "Active transport", "Facilitated diffusion"],
+    "answer": "Active transport"
+  },
+  {
+    "id": 82,
+    "question": "ATP is rapidly regenerated through:",
+    "options": ["Hydrolysis of DNA", "Condensation of ADP and Pi", "Protein digestion", "Transcription"],
+    "answer": "Condensation of ADP and Pi"
+  },
+  {
+    "id": 83,
+    "question": "What makes ATP unstable compared with ADP?",
+    "options": ["Its adenine", "Its ribose", "Repulsion between phosphate groups", "Its hydrogen bonds"],
+    "answer": "Repulsion between phosphate groups"
+  },
+  {
+    "id": 84,
+    "question": "Water molecules stick together because of:",
+    "options": ["Ionic bonds", "Peptide bonds", "Hydrogen bonds", "Phosphodiester bonds"],
+    "answer": "Hydrogen bonds"
+  },
+  {
+    "id": 85,
+    "question": "Which property of water helps transport water through xylem vessels?",
+    "options": ["Cohesion and adhesion", "Low density", "Low heat capacity", "Hydrolysis"],
+    "answer": "Cohesion and adhesion"
+  },
+  {
+    "id": 86,
+    "question": "Surface tension in water is largely due to:",
+    "options": ["Osmosis", "Cohesion", "Hydrolysis", "Ionization"],
+    "answer": "Cohesion"
+  },
+  {
+    "id": 87,
+    "question": "Why is water considered an important biological solvent?",
+    "options": ["It dissolves many polar and ionic substances", "It is nonpolar", "It contains ATP", "It prevents all reactions"],
+    "answer": "It dissolves many polar and ionic substances"
+  },
+  {
+    "id": 88,
+    "question": "What unusual property does water show when freezing?",
+    "options": ["It contracts greatly", "It becomes denser", "It expands and becomes less dense", "It loses all hydrogen bonds"],
+    "answer": "It expands and becomes less dense"
+  },
+  {
+    "id": 89,
+    "question": "Why does floating ice help aquatic organisms survive?",
+    "options": ["It increases salinity", "It blocks all oxygen", "It forms an insulating layer", "It warms the water"],
+    "answer": "It forms an insulating layer"
+  },
+  {
+    "id": 90,
+    "question": "Water's high heat capacity means it:",
+    "options": ["Changes temperature rapidly", "Resists temperature change", "Freezes easily", "Boils quickly"],
+    "answer": "Resists temperature change"
+  },
+  {
+    "id": 91,
+    "question": "What is a metabolite?",
+    "options": ["A molecule involved in metabolic reactions", "An ion only", "A protein enzyme", "A DNA strand"],
+    "answer": "A molecule involved in metabolic reactions"
+  },
+  {
+    "id": 92,
+    "question": "Water participates directly in which type of reaction?",
+    "options": ["Transcription only", "Hydrolysis reactions", "Translation only", "DNA repair only"],
+    "answer": "Hydrolysis reactions"
+  },
+  {
+    "id": 93,
+    "question": "Where are inorganic ions commonly found in organisms?",
+    "options": ["Only in the nucleus", "Only in blood plasma", "In cytoplasm and body fluids", "Only in ribosomes"],
+    "answer": "In cytoplasm and body fluids"
+  },
+  {
+    "id": 94,
+    "question": "What happens to proteins when excess H+ ions disrupt their tertiary structure?",
+    "options": ["They replicate", "They denature", "They produce ATP", "They synthesize DNA"],
+    "answer": "They denature"
+  },
+  {
+    "id": 95,
+    "question": "Iron ions bind to which structure to form a haem group?",
+    "options": ["Porphyrin ring", "Ribose", "ATP", "Glucose"],
+    "answer": "Porphyrin ring"
+  },
+  {
+    "id": 96,
+    "question": "How many oxygen molecules can one haemoglobin molecule carry?",
+    "options": ["8", "1", "2", "4"],
+    "answer": "4"
+  },
+  {
+    "id": 97,
+    "question": "Sodium ions are important for the propagation of:",
+    "options": ["Action potentials", "DNA replication", "Protein folding", "Photosynthesis"],
+    "answer": "Action potentials"
+  },
+  {
+    "id": 98,
+    "question": "Which molecule listed is NOT stated as containing phosphate ions?",
+    "options": ["ATP", "DNA", "cAMP", "Hemoglobin"],
+    "answer": "Hemoglobin"
+  },
+  {
+    "id": 99,
+    "question": "Which ion is a component of ATP and DNA?",
+    "options": ["Sodium ion", "Iron ion", "Phosphate ion", "Hydrogen ion"],
+    "answer": "Phosphate ion"
+  },
+  {
+    "id": 100,
+    "question": "Which statement best summarizes the biological importance of ATP?",
+    "options": [
+      "It acts as the immediate energy-transfer molecule for cells",
+      "It stores hereditary information",
+      "It forms ribosomes",
+      "It transports oxygen in blood"
+    ],
+    "answer": "It acts as the immediate energy-transfer molecule for cells"
+  },
+  {
+    "id": 101,
+    "question": "Which cellular structures are formed from RNA and proteins?",
+    "options": ["Lysosomes", "Ribosomes", "Centrioles", "Vacuoles"],
+    "answer": "Ribosomes"
+  },
+  {
+    "id": 102,
+    "question": "Which organic base is found in DNA nucleotides but not RNA nucleotides?",
+    "options": ["Uracil", "Thymine", "Cytosine", "Guanine"],
+    "answer": "Thymine"
+  },
+  {
+    "id": 103,
+    "question": "Which organic base is unique to RNA nucleotides?",
+    "options": ["Uracil", "Adenine", "Cytosine", "Guanine"],
+    "answer": "Uracil"
+  },
+  {
+    "id": 104,
+    "question": "The process of joining adjacent nucleotides during DNA synthesis is a:",
+    "options": ["Condensation reaction", "Hydrolysis reaction", "Oxidation reaction", "Reduction reaction"],
+    "answer": "Condensation reaction"
+  },
+  {
+    "id": 105,
+    "question": "Genes primarily code for:",
+    "options": ["Only lipids", "Functional RNA and amino acid sequences of polypeptides", "Only carbohydrates", "Only ATP"],
+    "answer": "Functional RNA and amino acid sequences of polypeptides"
+  },
+  {
+    "id": 106,
+    "question": "The sequence of bases within DNA is important because it:",
+    "options": ["Determines inherited characteristics", "Determines cell size only", "Controls water balance only", "Produces ions directly"],
+    "answer": "Determines inherited characteristics"
+  },
+  {
+    "id": 107,
+    "question": "In prokaryotic cells, DNA replication still occurs despite the absence of:",
+    "options": ["ATP", "Ribosomes", "RNA", "A nucleus"],
+    "answer": "A nucleus"
+  },
+  {
+    "id": 108,
+    "question": "DNA replication occurs before:",
+    "options": ["Protein digestion", "Cell division", "Transcription", "Translation"],
+    "answer": "Cell division"
+  },
+  {
+    "id": 109,
+    "question": "Which process specifically ensures genetic continuity between generations of cells?",
+    "options": ["Protein synthesis", "Photosynthesis", "DNA replication", "Respiration"],
+    "answer": "DNA replication"
+  },
+  {
+    "id": 110,
+    "question": "What directly attracts free DNA nucleotides to exposed template strands?",
+    "options": ["Complementary base pairing", "ATP hydrolysis", "Hydrophobic interactions", "Peptide bonding"],
+    "answer": "Complementary base pairing"
+  },
+  {
+    "id": 111,
+    "question": "The template strands used in replication are:",
+    "options": ["The original DNA strands", "RNA primers", "Okazaki fragments", "Newly synthesized strands"],
+    "answer": "The original DNA strands"
+  },
+  {
+    "id": 112,
+    "question": "Which carbon numbering system is used to describe DNA strand direction?",
+    "options": ["1 and 2", "Alpha and beta", "5' and 3'", "N and C"],
+    "answer": "5' and 3'"
+  },
+  {
+    "id": 113,
+    "question": "The leading strand is synthesized:",
+    "options": ["Continuously", "Only at the end of replication", "In RNA fragments", "Without DNA polymerase"],
+    "answer": "Continuously"
+  },
+  {
+    "id": 114,
+    "question": "The lagging strand is synthesized:",
+    "options": ["Without primers", "In discontinuous fragments", "Continuously", "Without helicase"],
+    "answer": "In discontinuous fragments"
+  },
+  {
+    "id": 115,
+    "question": "RNA primers must eventually be replaced because:",
+    "options": ["The final DNA molecule should contain DNA nucleotides", "They block ATP synthesis", "They contain glucose", "They contain amino acids"],
+    "answer": "The final DNA molecule should contain DNA nucleotides"
+  },
+  {
+    "id": 116,
+    "question": "The term 'semi-conservative' refers to the fact that each replicated DNA molecule contains:",
+    "options": ["Half the genetic information", "One original and one new strand", "Only newly synthesized strands", "Only parental strands"],
+    "answer": "One original and one new strand"
+  },
+  {
+    "id": 117,
+    "question": "Why are mutations minimized during DNA replication?",
+    "options": ["DNA polymerase proofreads", "Helicase repairs errors", "Ligase removes mutations", "Primase edits DNA"],
+    "answer": "DNA polymerase proofreads"
+  },
+  {
+    "id": 118,
+    "question": "ATP belongs to the same major biomolecule group as:",
+    "options": ["Proteins", "Lipids", "Nucleic acids", "Carbohydrates"],
+    "answer": "Nucleic acids"
+  },
+  {
+    "id": 119,
+    "question": "The 'tri' in triphosphate refers to:",
+    "options": ["Three sugars", "Three phosphate groups", "Three adenines", "Three ribose molecules"],
+    "answer": "Three phosphate groups"
+  },
+  {
+    "id": 120,
+    "question": "ATP can provide energy for:",
+    "options": ["Active transport", "Only diffusion", "Only osmosis", "Only hydrolysis"],
+    "answer": "Active transport"
+  },
+  {
+    "id": 121,
+    "question": "ATP is especially important in:",
+    "options": ["Cell signaling", "Only DNA replication", "Only digestion", "Only respiration"],
+    "answer": "Cell signaling"
+  },
+  {
+    "id": 122,
+    "question": "Muscle contraction was mentioned as an example of a process requiring:",
+    "options": ["ATP", "DNA helicase", "Iron ions", "Hydrogen ions"],
+    "answer": "ATP"
+  },
+  {
+    "id": 123,
+    "question": "The ATP cycle involves repeated conversion between ATP and:",
+    "options": ["RNA", "ADP", "DNA", "Glucose"],
+    "answer": "ADP"
+  },
+  {
+    "id": 124,
+    "question": "The addition of water to ATP during hydrolysis results in:",
+    "options": ["ATP breakdown", "ATP synthesis", "DNA replication", "Protein synthesis"],
+    "answer": "ATP breakdown"
+  },
+  {
+    "id": 125,
+    "question": "ATP is considered efficient because it releases:",
+    "options": ["Small amounts of energy at a time", "All cellular energy at once", "Only heat", "No usable energy"],
+    "answer": "Small amounts of energy at a time"
+  },
+  {
+    "id": 126,
+    "question": "ATP can be resynthesized during:",
+    "options": ["Photosynthesis and respiration", "Only photosynthesis", "Only respiration", "Only transcription"],
+    "answer": "Photosynthesis and respiration"
+  },
+  {
+    "id": 127,
+    "question": "The V-shaped structure of water contributes to its:",
+    "options": ["Polarity", "Neutral charge", "Protein structure", "ATP production"],
+    "answer": "Polarity"
+  },
+  {
+    "id": 128,
+    "question": "The slightly negative region of a water molecule is found near the:",
+    "options": ["Oxygen atom", "Hydrogen atoms", "Entire molecule equally", "Hydrogen bonds"],
+    "answer": "Oxygen atom"
+  },
+  {
+    "id": 129,
+    "question": "The slightly positive regions of water occur on the:",
+    "options": ["Hydrogen atoms", "Oxygen atom", "Hydrogen bonds", "Electron cloud"],
+    "answer": "Hydrogen atoms"
+  },
+  {
+    "id": 130,
+    "question": "Hydrogen bonding allows water molecules to:",
+    "options": ["Interact strongly with each other", "Become nonpolar", "Lose electrons", "Form phosphodiester bonds"],
+    "answer": "Interact strongly with each other"
+  },
+  {
+    "id": 131,
+    "question": "Which property helps water move upward in plant xylem against gravity?",
+    "options": ["Adhesion", "ATP hydrolysis", "Diffusion", "Protein denaturation"],
+    "answer": "Adhesion"
+  },
+  {
+    "id": 132,
+    "question": "Water molecules pulling one another upward in plants is an example of:",
+    "options": ["Cohesion", "Hydrolysis", "Osmosis", "Condensation"],
+    "answer": "Cohesion"
+  },
+  {
+    "id": 133,
+    "question": "Water striders can walk on water largely because of water's:",
+    "options": ["Surface tension", "Low density", "Low boiling point", "Acidity"],
+    "answer": "Surface tension"
+  },
+  {
+    "id": 134,
+    "question": "Water is especially effective at dissolving:",
+    "options": ["Polar molecules and ionic compounds", "Only lipids", "Only proteins", "Nonpolar hydrocarbons"],
+    "answer": "Polar molecules and ionic compounds"
+  },
+  {
+    "id": 135,
+    "question": "Many metabolic reactions occur efficiently because water acts as a:",
+    "options": ["Solvent", "Buffer protein", "Hormone", "Enzyme"],
+    "answer": "Solvent"
+  },
+  {
+    "id": 136,
+    "question": "When water freezes, hydrogen bonds form a:",
+    "options": ["Lattice structure", "Protein complex", "Phospholipid bilayer", "Polypeptide chain"],
+    "answer": "Lattice structure"
+  },
+  {
+    "id": 137,
+    "question": "Compared with liquid water, ice is:",
+    "options": ["Less dense", "More dense", "Equally dense", "Chemically different"],
+    "answer": "Less dense"
+  },
+  {
+    "id": 138,
+    "question": "A high specific heat capacity enables water to:",
+    "options": ["Buffer environmental temperature changes", "Freeze rapidly", "Avoid hydrogen bonding", "Prevent evaporation entirely"],
+    "answer": "Buffer environmental temperature changes"
+  },
+  {
+    "id": 139,
+    "question": "Aquatic habitats benefit from water's high heat capacity because temperatures remain:",
+    "options": ["More stable", "Extremely variable", "Always warm", "Always cold"],
+    "answer": "More stable"
+  },
+  {
+    "id": 140,
+    "question": "Evaporation cools organisms because the escaping water molecules are generally:",
+    "options": ["Higher energy molecules", "Lower energy molecules", "Charged ions", "Protein-bound molecules"],
+    "answer": "Higher energy molecules"
+  },
+  {
+    "id": 141,
+    "question": "Plants also use evaporative cooling to:",
+    "options": ["Reduce overheating", "Increase ATP storage", "Make glucose directly", "Replicate DNA"],
+    "answer": "Reduce overheating"
+  },
+  {
+    "id": 142,
+    "question": "Inorganic ions are characterized by:",
+    "options": ["Not containing carbon atoms", "Always being positively charged", "Being organic molecules", "Containing amino acids"],
+    "answer": "Not containing carbon atoms"
+  },
+  {
+    "id": 143,
+    "question": "In organisms, some inorganic ions occur in:",
+    "options": ["High concentrations and others in very low concentrations", "Only high concentrations", "Only low concentrations", "Equal concentrations"],
+    "answer": "High concentrations and others in very low concentrations"
+  },
+  {
+    "id": 144,
+    "question": "A low pH corresponds to a:",
+    "options": ["High concentration of hydrogen ions", "Low concentration of hydrogen ions", "High sodium concentration only", "Complete absence of ions"],
+    "answer": "High concentration of hydrogen ions"
+  },
+  {
+    "id": 145,
+    "question": "Hydrogen ions can alter protein structure by affecting:",
+    "options": ["Hydrogen and ionic bonds", "Peptide bonds only", "Phosphodiester bonds only", "Covalent bonds exclusively"],
+    "answer": "Hydrogen and ionic bonds"
+  },
+  {
+    "id": 146,
+    "question": "Denaturation occurs when a protein loses its:",
+    "options": ["Normal three-dimensional structure", "Phosphate groups", "Amino acids", "Carbon atoms"],
+    "answer": "Normal three-dimensional structure"
+  },
+  {
+    "id": 147,
+    "question": "The iron ion incorporated into hemoglobin is:",
+    "options": ["Fe²⁺", "Fe³⁺", "Na⁺", "H⁺"],
+    "answer": "Fe²⁺"
+  },
+  {
+    "id": 148,
+    "question": "Each haem group can bind:",
+    "options": ["One oxygen molecule", "Two oxygen molecules", "Four oxygen molecules", "One glucose molecule"],
+    "answer": "One oxygen molecule"
+  },
+  {
+    "id": 149,
+    "question": "Sodium ions are important in the gut because they help transport:",
+    "options": ["Glucose and amino acids", "ATP and DNA", "Proteins and lipids", "Water and oxygen"],
+    "answer": "Glucose and amino acids"
+  },
+  {
+    "id": 150,
+    "question": "Which molecule listed in the notes was identified as containing phosphate ions?",
+    "options": ["cAMP", "Hemoglobin", "Collagen", "Cellulose"],
+    "answer": "cAMP"
+  }
+]
