@@ -1,0 +1,899 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following are the four major classes of biomolecules?",
+    "options": [
+      "Carbohydrates, Vitamins, Proteins, Minerals",
+      "Lipids, Vitamins, Proteins, Water",
+      "Carbohydrates, Lipids, Proteins, Nucleic Acids",
+      "Carbohydrates, Lipids, Enzymes, Minerals"
+    ],
+    "answer": "Carbohydrates, Lipids, Proteins, Nucleic Acids"
+  },
+  {
+    "id": 2,
+    "question": "What is a monomer?",
+    "options": [
+      "A large complex molecule",
+      "A building block of a larger molecule",
+      "A type of enzyme",
+      "A storage carbohydrate"
+    ],
+    "answer": "A building block of a larger molecule"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is an example of a monomer?",
+    "options": [
+      "Cellulose",
+      "Glucose",
+      "Starch",
+      "Glycogen"
+    ],
+    "answer": "Glucose"
+  },
+  {
+    "id": 4,
+    "question": "What is a polymer?",
+    "options": [
+      "A large molecule made from repeating monomer units",
+      "A molecule composed of one amino acid",
+      "A type of monosaccharide",
+      "A molecule that cannot be broken down"
+    ],
+    "answer": "A large molecule made from repeating monomer units"
+  },
+  {
+    "id": 5,
+    "question": "What occurs during a condensation reaction?",
+    "options": [
+      "A bond forms and water is produced",
+      "A bond breaks and carbon dioxide is released",
+      "A bond breaks and water is produced",
+      "A bond forms and oxygen is released"
+    ],
+    "answer": "A bond forms and water is produced"
+  },
+  {
+    "id": 6,
+    "question": "What occurs during a hydrolysis reaction?",
+    "options": [
+      "Water is used to break a chemical bond",
+      "Water is produced when a bond forms",
+      "Hydrogen bonds are formed",
+      "A phospholipid is produced"
+    ],
+    "answer": "Water is used to break a chemical bond"
+  },
+  {
+    "id": 7,
+    "question": "What is the monomer of carbohydrates?",
+    "options": [
+      "Amino acid",
+      "Nucleotide",
+      "Fatty acid",
+      "Monosaccharide"
+
+    ],
+    "answer": "Monosaccharide"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is a monosaccharide?",
+    "options": [
+      "Glucose",
+      "Sucrose",
+      "Maltose",
+      "Lactose"
+    ],
+    "answer": "Glucose"
+  },
+  {
+    "id": 9,
+    "question": "Which process uses glucose to produce ATP?",
+    "options": [
+      "Photosynthesis",
+      "Transcription",
+      "Translation",
+      "Cellular respiration"
+    ],
+    "answer": "Cellular respiration"
+  },
+  {
+    "id": 10,
+    "question": "What is a disaccharide?",
+    "options": [
+      "A carbohydrate composed of three monosaccharides",
+      "A single sugar molecule",
+      "A large carbohydrate polymer",
+      "A carbohydrate composed of two monosaccharides"
+    ],
+    "answer": "A carbohydrate composed of two monosaccharides"
+  },
+  {
+    "id": 11,
+    "question": "Which disaccharide consists of two glucose molecules?",
+    "options": [
+      "Sucrose",
+      "Lactose",
+      "Maltose",
+      "Cellulose"
+    ],
+    "answer": "Maltose"
+  },
+  {
+    "id": 12,
+    "question": "Which disaccharide is formed from glucose and fructose?",
+    "options": [
+      "Sucrose",
+      "Maltose",
+      "Lactose",
+      "Glycogen"
+    ],
+    "answer": "Sucrose"
+  },
+  {
+    "id": 13,
+    "question": "Which disaccharide is formed from glucose and galactose?",
+    "options": [
+      "Sucrose",
+      "Cellulose",
+      "Lactose",
+      "Maltose"
+    ],
+    "answer": "Lactose"
+  },
+  {
+    "id": 14,
+    "question": "What type of bond joins two monosaccharides together?",
+    "options": [
+      "Glycosidic bond",
+      "Peptide bond",
+      "Ester bond",
+      "Hydrogen bond"
+    ],
+    "answer": "Glycosidic bond"
+  },
+  {
+    "id": 15,
+    "question": "Which three molecules are common hexose monosaccharides?",
+    "options": [
+      "Fructose, Sucrose, Lactose",
+      "Glucose, Maltose, Lactose",
+      "Glucose, Fructose, Galactose",
+      "Glucose, Cellulose, Glycogen"
+    ],
+    "answer": "Glucose, Fructose, Galactose"
+  },
+  {
+    "id": 16,
+    "question": "What is the molecular formula of glucose, fructose and galactose?",
+    "options": [
+      "C6H12O6",
+      "C6H10O5",
+      "C3H8O3",
+      "C12H22O11"
+    ],
+    "answer": "C6H12O6"
+  },
+  {
+    "id": 17,
+    "question": "Which polysaccharide forms plant cell walls?",
+    "options": [
+      "Starch",
+      "Glycogen",
+      "Cellulose",
+      "Maltose"
+    ],
+    "answer": "Cellulose"
+  },
+  {
+    "id": 18,
+    "question": "Which polysaccharide is used for energy storage in plants?",
+    "options": [
+      "Cellulose",
+      "Glycogen",
+      "Chitin",
+      "Starch"
+    ],
+    "answer": "Starch"
+  },
+  {
+    "id": 19,
+    "question": "Which polysaccharide is used for energy storage in animals?",
+    "options": [
+      "Starch",
+      "Cellulose",
+      "Chitin",
+      "Glycogen"
+    ],
+    "answer": "Glycogen"
+  },
+  {
+    "id": 20,
+    "question": "Which polysaccharide forms fungal cell walls?",
+    "options": [
+      "Cellulose",
+      "Glycogen",
+      "Chitin",
+      "Starch"
+    ],
+    "answer": "Chitin"
+  },
+  {
+    "id": 21,
+    "question": "Which biomolecule class is considered a fast source of energy?",
+    "options": [
+      "Carbohydrates",
+      "Lipids",
+      "Proteins",
+      "Nucleic acids"
+    ],
+    "answer": "Carbohydrates"
+  },
+  {
+    "id": 22,
+    "question": "Most lipids are built from which molecules?",
+    "options": [
+      "Amino acids and glycerol",
+      "Glycerol and fatty acids",
+      "Glucose and fructose",
+      "Nucleotides and fatty acids"
+    ],
+    "answer": "Glycerol and fatty acids"
+  },
+  {
+    "id": 23,
+    "question": "What does hydrophobic mean?",
+    "options": [
+      "Does not mix with water",
+      "Attracts water",
+      "Contains hydrogen",
+      "Can dissolve all substances"
+    ],
+    "answer": "Does not mix with water"
+  },
+  {
+    "id": 24,
+    "question": "A triglyceride consists of:",
+    "options": [
+      "One glycerol and one phosphate",
+      "One glycerol and three fatty acids",
+      "Three glycerol and one fatty acid",
+      "Three glucose molecules"
+    ],
+    "answer": "One glycerol and three fatty acids"
+  },
+  {
+    "id": 25,
+    "question": "What bond is formed between glycerol and fatty acids?",
+    "options": [
+      "Peptide bond",
+      "Glycosidic bond",
+      "Hydrogen bond",
+      "Ester bond"
+    ],
+    "answer": "Ester bond"
+  },
+  {
+    "id": 26,
+    "question": "What is the primary long-term energy storage molecule in organisms?",
+    "options": [
+      "Carbohydrates",
+      "Proteins",
+      "Lipids",
+      "DNA"
+    ],
+    "answer": "Lipids"
+  },
+  {
+    "id": 27,
+    "question": "Which lipid is the main component of cell membranes?",
+    "options": [
+      "Phospholipid",
+      "Triglyceride",
+      "Steroid",
+      "Glycolipid"
+    ],
+    "answer": "Phospholipid"
+  },
+  {
+    "id": 28,
+    "question": "What is the monomer of proteins?",
+    "options": [
+      "Monosaccharide",
+      "Amino acid",
+      "Nucleotide",
+      "Fatty acid"
+    ],
+    "answer": "Amino acid"
+  },
+  {
+    "id": 29,
+    "question": "What bond joins amino acids together?",
+    "options": [
+      "Hydrogen bond",
+      "Peptide bond",
+      "Glycosidic bond",
+      "Ester bond"
+      
+    ],
+    "answer": "Peptide bond"
+  },
+  {
+    "id": 30,
+    "question": "What is the monomer of nucleic acids?",
+    "options": [
+      "Amino acid",
+      "Monosaccharide",
+      "Nucleotide",
+      "Fatty acid"
+    ],
+    "answer": "Nucleotide"
+  },
+  {
+    "id": 31,
+    "question": "Which carbohydrate is formed by the condensation of many β-glucose molecules?",
+    "options": ["Cellulose", "Glycogen", "Starch", "Maltose"],
+    "answer": "Cellulose"
+  },
+  {
+    "id": 32,
+    "question": "Which carbohydrate is formed by the condensation of many α-glucose molecules in animals?",
+    "options": ["Lactose", "Glycogen", "Cellulose", "Chitin"],
+    "answer": "Glycogen"
+  },
+  {
+    "id": 33,
+    "question": "Which carbohydrate is formed by the condensation of many α-glucose molecules in plants?",
+    "options": ["Sucrose", "Lactose", "Starch", "Cellulose"],
+    "answer": "Starch"
+  },
+  {
+    "id": 34,
+    "question": "What is the primary function of glycogen?",
+    "options": [
+      "Energy storage in animals",
+      "Energy storage in plants",
+      "Formation of cell walls",
+      "Formation of DNA"
+    ],
+    "answer": "Energy storage in animals"
+  },
+  {
+    "id": 35,
+    "question": "Which statement about cellulose is correct?",
+    "options": [
+      "It is a lipid",
+      "It forms plant cell walls",
+      "It is the main storage carbohydrate in animals",
+      "It consists of amino acids"
+    ],
+    "answer": "It forms plant cell walls"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is NOT a lipid?",
+    "options": [
+      "Phospholipid",
+      "Glycogen",
+      "Triglyceride",
+      "Steroid"
+    ],
+    "answer": "Glycogen"
+  },
+  {
+    "id": 37,
+    "question": "Which property is shared by most lipids?",
+    "options": [
+      "They are hydrophobic",
+      "They dissolve readily in water",
+      "They are composed of nucleotides",
+      "They contain peptide bonds"
+    ],
+    "answer": "They are hydrophobic"
+  },
+  {
+    "id": 38,
+    "question": "Which lipid is primarily responsible for forming cell membranes?",
+    "options": [
+      "Triglycerides",
+      "Glycogen",
+      "Amino acids",
+      "Phospholipids"
+    ],
+    "answer": "Phospholipids"
+  },
+  {
+    "id": 39,
+    "question": "What replaces one fatty acid in a phospholipid?",
+    "options": [
+      "A phosphate-containing group",
+      "A glucose molecule",
+      "An amino acid",
+      "A nucleotide"
+    ],
+    "answer": "A phosphate-containing group"
+  },
+  {
+    "id": 40,
+    "question": "Which type of bond is formed during the production of a triglyceride?",
+    "options": [
+      "Peptide bond",
+      "Hydrogen bond",
+      "Ester bond",
+      "Glycosidic bond"
+    ],
+    "answer": "Ester bond"
+  },
+  {
+    "id": 41,
+    "question": "Which structure provides electrical insulation around many neurons?",
+    "options": [
+      "Cellulose wall",
+      "Glycogen granule",
+      "Myelin sheath",
+      "Ribosome"
+    ],
+    "answer": "Myelin sheath"
+  },
+  {
+    "id": 42,
+    "question": "What is the major role of blubber in marine mammals?",
+    "options": [
+      "Thermal insulation",
+      "Protein synthesis",
+      "Genetic storage",
+      "Cell signaling"
+    ],
+    "answer": "Thermal insulation"
+  },
+  {
+    "id": 43,
+    "question": "Which biomolecule can act as a hormone and chemical messenger?",
+    "options": [
+      "Cellulose",
+      "DNA",
+      "Lipids",
+      "Starch"
+    ],
+    "answer": "Lipids"
+  },
+  {
+    "id": 44,
+    "question": "What feature differs among the twenty common amino acids?",
+    "options": [
+      "Their amino groups",
+      "Their carboxyl groups",
+      "Their R groups",
+      "Their peptide bonds"
+    ],
+    "answer": "Their R groups"
+  },
+  {
+    "id": 45,
+    "question": "What is another name for the R group of an amino acid?",
+    "options": [
+      "Side chain",
+      "Active site",
+      "Ester group",
+      "Phosphate group"
+    ],
+    "answer": "Side chain"
+  },
+  {
+    "id": 46,
+    "question": "A protein made from a single chain of amino acids is called a:",
+    "options": [
+      "Nucleotide",
+      "Disaccharide",
+      "Triglyceride",
+      "Polypeptide"
+    ],
+    "answer": "Polypeptide"
+  },
+  {
+    "id": 47,
+    "question": "Which level of protein structure refers to the amino acid sequence?",
+    "options": [
+      "Primary structure",
+      "Secondary structure",
+      "Tertiary structure",
+      "Quaternary structure"
+    ],
+    "answer": "Primary structure"
+  },
+  {
+    "id": 48,
+    "question": "Changes in which level of protein structure can result from a mutation altering one amino acid?",
+    "options": [
+      "No level is affected",
+      "Primary structure",
+      "Secondary structure",
+      "Quaternary structure only"
+    ],
+    "answer": "Primary structure"
+  },
+  {
+    "id": 49,
+    "question": "Which protein structure level includes alpha helices and beta-pleated sheets?",
+    "options": [
+      "Primary structure",
+      "Secondary structure",
+      "Tertiary structure",
+      "Quaternary structure"
+    ],
+    "answer": "Secondary structure"
+  },
+  {
+    "id": 50,
+    "question": "Which type of bond plays a major role in stabilizing secondary protein structure?",
+    "options": [
+      "Peptide bonds",
+      "Ester bonds",
+      "Hydrogen bonds",
+      "Glycosidic bonds"
+    ],
+    "answer": "Hydrogen bonds"
+  },
+  {
+    "id": 51,
+    "question": "Tertiary protein structure refers to:",
+    "options": [
+      "The amino acid sequence",
+      "The joining of monosaccharides",
+      "The structure of DNA",
+      "The overall 3D shape of a polypeptide"
+    ],
+    "answer": "The overall 3D shape of a polypeptide"
+  },
+  {
+    "id": 52,
+    "question": "Which interaction contributes to tertiary protein structure?",
+    "options": [
+      "Glycosidic bonds only",
+      "Ester bonds only",
+      "Disulfide bonds",
+      "Phosphodiester bonds only"
+    ],
+    "answer": "Disulfide bonds"
+  },
+  {
+    "id": 53,
+    "question": "Hydrophobic amino acid side chains are most likely to be found:",
+    "options": [
+      "On the exterior surface only",
+      "In the interior of a protein",
+      "Attached to DNA",
+      "Within phospholipids"
+    ],
+    "answer": "In the interior of a protein"
+  },
+  {
+    "id": 54,
+    "question": "Quaternary structure is present when:",
+    "options": [
+      "A carbohydrate is formed",
+      "A protein contains an alpha helix",
+      "Multiple polypeptide chains interact",
+      "A nucleotide is added"
+    ],
+    "answer": "Multiple polypeptide chains interact"
+  },
+  {
+    "id": 55,
+    "question": "What is the role of chaperonins?",
+    "options": [
+      "Assist protein folding",
+      "Store genetic information",
+      "Digest lipids",
+      "Produce ATP"
+    ],
+    "answer": "Assist protein folding"
+  },
+  {
+    "id": 56,
+    "question": "Which condition can cause protein denaturation?",
+    "options": [
+      "Correct pH",
+      "Adequate hydration",
+      "Extreme temperature",
+      "Normal temperature"
+    ],
+    "answer": "Extreme temperature"
+  },
+  {
+    "id": 57,
+    "question": "What is the consequence of protein denaturation?",
+    "options": [
+      "Loss of functional shape",
+      "Production of more amino acids",
+      "Increased enzyme specificity",
+      "Formation of carbohydrates"
+    ],
+    "answer": "Loss of functional shape"
+  },
+  {
+    "id": 58,
+    "question": "Why are nucleic acids essential to living organisms?",
+    "options": [
+      "They provide long-term energy storage",
+      "They form cell membranes",
+      "They act as thermal insulators",
+      "They store genetic information and direct cell activities"
+    ],
+    "answer": "They store genetic information and direct cell activities"
+  },
+  {
+    "id": 59,
+    "question": "Which nucleic acid is responsible for storing most genetic information in cells?",
+    "options": [
+      "DNA",
+      "RNA",
+      "ATP",
+      "Cellulose"
+    ],
+    "answer": "DNA"
+  },
+  {
+    "id": 60,
+    "question": "Which mnemonic correctly represents the major elements found in the four biomolecule classes?",
+    "options": [
+      "CHO, CHO, CHON, CHONP",
+      "CHON, CHONP, CHO, CHO",
+      "CHOP, CHON, CHO, CHO",
+      "CHO, CHON, CHOP, CHONP"
+    ],
+    "answer": "CHO, CHO, CHON, CHONP"
+  },
+  {
+    "id": 61,
+    "question": "Which biomolecule contains both DNA and RNA?",
+    "options": ["Proteins", "Nucleic acids", "Lipids", "Carbohydrates"],
+    "answer": "Nucleic acids"
+  },
+  {
+    "id": 62,
+    "question": "Which bond is formed when two amino acids join together?",
+    "options": ["Hydrogen bond", "Peptide bond", "Ester bond", "Glycosidic bond"],
+    "answer": "Peptide bond"
+  },
+  {
+    "id": 63,
+    "question": "Which of the following is NOT a disaccharide?",
+    "options": ["Lactose", "Glucose", "Maltose", "Sucrose"],
+    "answer": "Glucose"
+  },
+  {
+    "id": 64,
+    "question": "Which molecule serves as the monomer of nucleic acids?",
+    "options": ["Fatty acid", "Amino acid", "Nucleotide", "Monosaccharide"],
+    "answer": "Nucleotide"
+  },
+  {
+    "id": 65,
+    "question": "What type of carbohydrate is maltose?",
+    "options": ["Disaccharide", "Monosaccharide", "Polysaccharide", "Lipid"],
+    "answer": "Disaccharide"
+  },
+  {
+    "id": 66,
+    "question": "Which biomolecule is the primary component of antibodies?",
+    "options": ["Proteins", "Lipids", "Carbohydrates", "Nucleic acids"],
+    "answer": "Proteins"
+  },
+  {
+    "id": 67,
+    "question": "What is the function of protein receptors in cell membranes?",
+    "options": [
+      "Store energy",
+      "Provide insulation",
+      "Cell signaling",
+      "Store genetic information"
+    ],
+    "answer": "Cell signaling"
+  },
+  {
+    "id": 68,
+    "question": "Which structure is composed of phospholipids?",
+    "options": [
+      "Cell membrane",
+      "Ribosome",
+      "Cell wall",
+      "Chromosome"
+    ],
+    "answer": "Cell membrane"
+  },
+  {
+    "id": 69,
+    "question": "Which statement best describes glycogen?",
+    "options": [
+      "Animal energy-storage polysaccharide",
+      "Plant cell wall component",
+      "Protein monomer",
+      "Type of phospholipid"
+    ],
+    "answer": "Animal energy-storage polysaccharide"
+  },
+  {
+    "id": 70,
+    "question": "Which biomolecule class includes steroids?",
+    "options": ["Proteins", "Lipids", "Nucleic acids", "Carbohydrates"],
+    "answer": "Lipids"
+  },
+  {
+    "id": 71,
+    "question": "The active site of an enzyme is best described as:",
+    "options": [
+      "The region where substrates bind",
+      "The location where DNA is stored",
+      "The fatty acid portion of a lipid",
+      "The monomer of proteins"
+    ],
+    "answer": "The region where substrates bind"
+  },
+  {
+    "id": 72,
+    "question": "Which factor directly lowers the activation energy of a reaction?",
+    "options": ["ATP", "An enzyme", "A nucleotide", "A phospholipid"],
+    "answer": "An enzyme"
+  },
+  {
+    "id": 73,
+    "question": "Which enzyme breaks down proteins?",
+    "options": ["Amylase", "Protease", "Lipase", "Lactase"],
+    "answer": "Protease"
+  },
+  {
+    "id": 74,
+    "question": "Which enzyme breaks down starch?",
+    "options": ["Lipase", "Lactase", "Amylase", "Protease"],
+    "answer": "Amylase"
+  },
+  {
+    "id": 75,
+    "question": "Which enzyme breaks down lipids?",
+    "options": ["Protease", "Lipase", "Amylase", "Lactase"],
+    "answer": "Lipase"
+  },
+  {
+    "id": 76,
+    "question": "The induced-fit model suggests that:",
+    "options": [
+      "The substrate changes shape permanently",
+      "The active site adjusts shape around the substrate",
+      "The enzyme is consumed in the reaction",
+      "The product binds first"
+    ],
+    "answer": "The active site adjusts shape around the substrate"
+  },
+  {
+    "id": 77,
+    "question": "Which of the following is an example of a protein hormone?",
+    "options": ["Cellulose", "Insulin", "DNA", "Glycogen"],
+    "answer": "Insulin"
+  },
+  {
+    "id": 78,
+    "question": "Which protein structure level depends heavily on interactions between R groups?",
+    "options": [
+      "Primary structure",
+      "Tertiary structure",
+      "Secondary structure",
+      "No protein structure"
+    ],
+    "answer": "Tertiary structure"
+  },
+  {
+    "id": 79,
+    "question": "What is the main role of genes according to the notes?",
+    "options": [
+      "Determine amino acid sequence in proteins",
+      "Store lipids",
+      "Digest carbohydrates",
+      "Form phospholipid bilayers"
+    ],
+    "answer": "Determine amino acid sequence in proteins"
+  },
+  {
+    "id": 80,
+    "question": "A protein consisting of multiple interacting polypeptide chains demonstrates:",
+    "options": [
+      "Secondary structure",
+      "Primary structure",
+      "Quaternary structure",
+      "Tertiary structure only"
+    ],
+    "answer": "Quaternary structure"
+  },
+  {
+    "id": 81,
+    "question": "Which interaction is specifically mentioned as helping hold protein subunits together in quaternary structure?",
+    "options": [
+      "Disulfide bonds",
+      "Glycosidic bonds",
+      "Ester bonds",
+      "Phosphodiester bonds"
+    ],
+    "answer": "Disulfide bonds"
+  },
+  {
+    "id": 82,
+    "question": "What is the result of a condensation reaction between many amino acids?",
+    "options": [
+      "A phospholipid",
+      "A polypeptide",
+      "A nucleotide",
+      "A triglyceride"
+    ],
+    "answer": "A polypeptide"
+  },
+  {
+    "id": 83,
+    "question": "How many fatty acids are present in a triglyceride molecule?",
+    "options": ["Four", "Three", "Two", "One"],
+    "answer": "Three"
+  },
+  {
+    "id": 84,
+    "question": "Which of the following contains phosphorus as a major element?",
+    "options": [
+      "Nucleic acids",
+      "Carbohydrates only",
+      "Proteins only",
+      "Starch only"
+    ],
+    "answer": "Nucleic acids"
+  },
+  {
+    "id": 85,
+    "question": "What does the 'N' in CHON represent?",
+    "options": ["Nickel", "Nitrogen", "Neon", "Nitrate"],
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 86,
+    "question": "Which carbohydrate-related term often ends with '-ose'?",
+    "options": ["Sugar", "Protein", "Lipid", "Enzyme"],
+    "answer": "Sugar"
+  },
+  {
+    "id": 87,
+    "question": "Amino acids are linked together by which process?",
+    "options": [
+      "Condensation reaction",
+      "Hydrolysis reaction",
+      "Oxidation",
+      "Diffusion"
+    ],
+    "answer": "Condensation reaction"
+  },
+  {
+    "id": 88,
+    "question": "What is a major reason protein shape is important?",
+    "options": [
+      "Function depends on shape",
+      "Shape determines color",
+      "Shape determines DNA sequence",
+      "Shape stores energy"
+    ],
+    "answer": "Function depends on shape"
+  },
+  {
+    "id": 89,
+    "question": "Which term describes a helper molecule that assists enzyme function?",
+    "options": ["Cofactor", "Substrate", "Product", "Monomer"],
+    "answer": "Cofactor"
+  },
+  {
+    "id": 90,
+    "question": "What happens when an enzyme becomes denatured?",
+    "options": [
+      "Its shape is altered and it may no longer function",
+      "It becomes a carbohydrate",
+      "It forms ATP",
+      "It gains additional active sites"
+    ],
+    "answer": "Its shape is altered and it may no longer function"
+  }
+]

@@ -1,0 +1,20 @@
+{
+"title": "Prior Knowledge — Study Hub",
+"intro": "Choose a resource to begin.",
+"resources": [
+	{
+		"id": "biomols-flashcards",
+		"title": "Biomolecules 1 :: Flashcards",
+		"url": "sg_biomolecules_1.html",
+		"img": "assets/biomols-flashcards.jpg",
+		"description": "Flashcards"
+	},
+	{
+		"id": "biomols-mcqs",
+		"title": "Biomolecules 1 :: Practice MCQs",
+		"url": "mcqs_biomolecules_1.html",
+		"img": "assets/biomols-mcqs.jpg",
+		"description": "Timed multiple-choice practice."
+	}
+]
+}

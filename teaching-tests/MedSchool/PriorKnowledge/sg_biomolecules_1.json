@@ -1,0 +1,351 @@
+[
+  {
+    "topic": "Biological Molecules",
+    "flashcards": [
+      {
+        "question": "What are biomolecules (macromolecules)?",
+        "answer": "Large molecules needed for life that are important for the structure and function of cells."
+      },
+      {
+        "question": "What are the four major classes of biomolecules?",
+        "answer": "Carbohydrates, lipids, proteins, and nucleic acids."
+      },
+      {
+        "question": "What is a monomer?",
+        "answer": "A small building-block molecule that can join with other monomers to form larger molecules."
+      },
+      {
+        "question": "What is a polymer?",
+        "answer": "A large molecule formed by chemically linking many repeating monomer units together."
+      },
+      {
+        "question": "Give examples of monomers.",
+        "answer": "Monosaccharides, amino acids, and nucleotides."
+      },
+      {
+        "question": "Give examples of polymers.",
+        "answer": "Polysaccharides, proteins, DNA, and RNA."
+      },
+      {
+        "question": "What happens in a condensation reaction?",
+        "answer": "Two molecules join together, forming a chemical bond and releasing a molecule of water."
+      },
+      {
+        "question": "What happens in a hydrolysis reaction?",
+        "answer": "A water molecule is used to break a chemical bond between two molecules."
+      },
+      {
+        "question": "What is the monomer of carbohydrates?",
+        "answer": "A monosaccharide."
+      },
+      {
+        "question": "What is a monosaccharide?",
+        "answer": "A simple sugar molecule that acts as the building block of carbohydrates."
+      },
+      {
+        "question": "What is glucose?",
+        "answer": "A monosaccharide used in cellular respiration to produce ATP."
+      },
+      {
+        "question": "What is a disaccharide?",
+        "answer": "A carbohydrate formed when two monosaccharides join together."
+      },
+      {
+        "question": "What is maltose and how is it formed?",
+        "answer": "A disaccharide formed by the condensation of two glucose molecules."
+      },
+      {
+        "question": "What is sucrose and how is it formed?",
+        "answer": "A disaccharide formed by the condensation of glucose and fructose."
+      },
+      {
+        "question": "What is lactose and how is it formed?",
+        "answer": "A disaccharide formed by the condensation of glucose and galactose."
+      },
+      {
+        "question": "What is a polysaccharide?",
+        "answer": "A large carbohydrate formed by joining many monosaccharides together."
+      },
+      {
+        "question": "Name the three common hexose monosaccharides.",
+        "answer": "Glucose, fructose, and galactose."
+      },
+      {
+        "question": "What molecular formula do glucose, fructose, and galactose share?",
+        "answer": "C6H12O6."
+      },
+      {
+        "question": "What bond is formed between monosaccharides during condensation?",
+        "answer": "A glycosidic bond."
+      },
+      {
+        "question": "What are the two isomers of glucose?",
+        "answer": "Alpha-glucose (α-glucose) and beta-glucose (β-glucose)."
+      },
+      {
+        "question": "What polysaccharides are formed from α-glucose?",
+        "answer": "Starch and glycogen."
+      },
+      {
+        "question": "What polysaccharide is formed from β-glucose?",
+        "answer": "Cellulose."
+      },
+      {
+        "question": "What carbohydrate forms plant cell walls?",
+        "answer": "Cellulose."
+      },
+      {
+        "question": "What carbohydrate forms fungal cell walls?",
+        "answer": "Chitin."
+      },
+      {
+        "question": "What carbohydrate forms the exoskeleton of insects?",
+        "answer": "Chitin."
+      },
+      {
+        "question": "What is the primary energy role of carbohydrates?",
+        "answer": "They provide a fast source of energy for cells."
+      },
+      {
+        "question": "How do plants store carbohydrate energy?",
+        "answer": "As starch."
+      },
+      {
+        "question": "How do animals store carbohydrate energy?",
+        "answer": "As glycogen."
+      },
+      {
+        "question": "What are lipids?",
+        "answer": "A diverse group of biomolecules that includes fats, oils, phospholipids, triglycerides, and steroids."
+      },
+      {
+        "question": "What are the typical building blocks of most lipids?",
+        "answer": "Glycerol and fatty acids."
+      },
+      {
+        "question": "What does hydrophobic mean?",
+        "answer": "Not mixing with or dissolving in water."
+      },
+      {
+        "question": "What is a triglyceride?",
+        "answer": "A lipid formed from one glycerol molecule and three fatty acid molecules."
+      },
+      {
+        "question": "What bond forms between glycerol and fatty acids?",
+        "answer": "An ester bond."
+      },
+      {
+        "question": "What types of fatty acids can occur in lipids?",
+        "answer": "Saturated and unsaturated fatty acids."
+      },
+      {
+        "question": "How is a phospholipid different from a triglyceride?",
+        "answer": "One fatty acid is replaced by a phosphate-containing group."
+      },
+      {
+        "question": "What is the main structural role of phospholipids?",
+        "answer": "They form the phospholipid bilayer of cell membranes."
+      },
+      {
+        "question": "What is the main energy-storage role of lipids?",
+        "answer": "Long-term energy storage."
+      },
+      {
+        "question": "How do lipids contribute to insulation?",
+        "answer": "They provide thermal insulation and electrical insulation, such as myelin sheaths around neurons."
+      },
+      {
+        "question": "How can lipids function as chemical messengers?",
+        "answer": "Many lipids act as hormones."
+      },
+      {
+        "question": "What is the monomer of proteins?",
+        "answer": "An amino acid."
+      },
+      {
+        "question": "What are the three main components of an amino acid?",
+        "answer": "An amine group (NH2), a carboxyl group (COOH), and a variable R group."
+      },
+      {
+        "question": "How many common amino acids occur in living organisms?",
+        "answer": "Twenty."
+      },
+      {
+        "question": "What distinguishes one amino acid from another?",
+        "answer": "Its R group (side chain)."
+      },
+      {
+        "question": "What bond forms when two amino acids join?",
+        "answer": "A peptide bond."
+      },
+      {
+        "question": "What is a dipeptide?",
+        "answer": "A molecule formed by the condensation of two amino acids."
+      },
+      {
+        "question": "What is a polypeptide?",
+        "answer": "A chain of many amino acids joined by peptide bonds."
+      },
+      {
+        "question": "Can a functional protein contain more than one polypeptide chain?",
+        "answer": "Yes, a functional protein may contain one or more polypeptide chains."
+      },
+      {
+        "question": "What are some structural functions of proteins?",
+        "answer": "They form tissues such as muscle and structures such as hair and collagen."
+      },
+      {
+        "question": "What role do proteins play in cell membranes?",
+        "answer": "They form channels and receptors involved in transport and cell signaling."
+      },
+      {
+        "question": "What are enzymes?",
+        "answer": "Proteins that catalyze biological reactions."
+      },
+      {
+        "question": "What are antibodies?",
+        "answer": "Proteins made by immune cells that help protect the body."
+      },
+      {
+        "question": "What protein hormone is specifically mentioned?",
+        "answer": "Insulin."
+      },
+      {
+        "question": "What are nucleic acids?",
+        "answer": "Biomolecules that include DNA and RNA and store genetic information."
+      },
+      {
+        "question": "What is the monomer of nucleic acids?",
+        "answer": "A nucleotide."
+      },
+      {
+        "question": "What is the primary function of DNA and RNA?",
+        "answer": "To store and transmit genetic information required for traits and cellular activities."
+      },
+      {
+        "question": "What is primary protein structure?",
+        "answer": "The specific sequence of amino acids in a polypeptide chain."
+      },
+      {
+        "question": "Why is primary protein structure important?",
+        "answer": "The amino acid sequence determines the protein's structure and function."
+      },
+      {
+        "question": "What is secondary protein structure?",
+        "answer": "Local folding of the polypeptide chain into structures such as alpha helices and beta-pleated sheets."
+      },
+      {
+        "question": "What interactions mainly stabilize secondary structure?",
+        "answer": "Hydrogen bonds."
+      },
+      {
+        "question": "What are the two common forms of secondary structure?",
+        "answer": "Alpha helix and beta-pleated sheet."
+      },
+      {
+        "question": "What is tertiary protein structure?",
+        "answer": "The overall three-dimensional shape formed by folding of a single polypeptide chain."
+      },
+      {
+        "question": "Which amino acid component is most important in tertiary structure?",
+        "answer": "The R groups (side chains)."
+      },
+      {
+        "question": "What interactions contribute to tertiary structure?",
+        "answer": "Hydrogen bonds, ionic bonds, disulfide bonds, hydrophobic interactions, and Van der Waals interactions."
+      },
+      {
+        "question": "What is quaternary protein structure?",
+        "answer": "The arrangement of multiple polypeptide chains into a functional protein."
+      },
+      {
+        "question": "Do all proteins have quaternary structure?",
+        "answer": "No, only proteins composed of more than one polypeptide chain."
+      },
+      {
+        "question": "What are chaperonins?",
+        "answer": "Proteins that assist other proteins in folding correctly."
+      },
+      {
+        "question": "What is protein denaturation?",
+        "answer": "A change in protein shape that disrupts function, often caused by extreme temperature or pH."
+      },
+      {
+        "question": "Why does denaturation affect protein function?",
+        "answer": "Because protein function depends on its specific three-dimensional shape."
+      },
+      {
+        "question": "What is activation energy?",
+        "answer": "The energy required for a reaction to begin."
+      },
+      {
+        "question": "How do enzymes affect activation energy?",
+        "answer": "They lower the activation energy needed for a reaction."
+      },
+      {
+        "question": "What is the induced-fit model of enzyme action?",
+        "answer": "A model where the enzyme active site changes shape slightly to bind the substrate more effectively."
+      },
+      {
+        "question": "What is an enzyme's active site?",
+        "answer": "The specifically shaped region where substrates bind."
+      },
+      {
+        "question": "Why are enzymes specific?",
+        "answer": "Because their active sites are complementary in shape to particular substrates."
+      },
+      {
+        "question": "What is an enzyme-substrate complex?",
+        "answer": "The temporary structure formed when a substrate binds to an enzyme."
+      },
+      {
+        "question": "What is a catalyst?",
+        "answer": "A substance that speeds up a reaction without being used up."
+      },
+      {
+        "question": "Why are enzymes considered catalysts?",
+        "answer": "Because they can be reused after catalyzing reactions."
+      },
+      {
+        "question": "What does lactase do?",
+        "answer": "It breaks down lactose into smaller sugars that can be absorbed."
+      },
+      {
+        "question": "What is lactose intolerance?",
+        "answer": "A condition in which a person produces insufficient lactase and cannot efficiently digest lactose."
+      },
+      {
+        "question": "What does lipase do?",
+        "answer": "It breaks down lipids (fats)."
+      },
+      {
+        "question": "What does amylase do?",
+        "answer": "It breaks down starch."
+      },
+      {
+        "question": "What does protease do?",
+        "answer": "It breaks down proteins."
+      },
+      {
+        "question": "What are cofactors and coenzymes?",
+        "answer": "Helper molecules that assist enzymes in carrying out their functions."
+      },
+      {
+        "question": "How does temperature affect enzymes?",
+        "answer": "Temperatures outside an enzyme's optimal range may denature it and reduce activity."
+      },
+      {
+        "question": "How does pH affect enzymes?",
+        "answer": "pH values outside the optimal range can denature enzymes and prevent substrate binding."
+      },
+      {
+        "question": "What does the mnemonic CHO, CHO, CHON, CHONP represent?",
+        "answer": "The major elements in carbohydrates (CHO), lipids (CHO), proteins (CHON), and nucleic acids (CHONP)."
+      },
+      {
+        "question": "Which elements are represented in the mnemonic CHONP?",
+        "answer": "Carbon, hydrogen, oxygen, nitrogen, and phosphorus."
+      }
+    ]
+  }
+]
