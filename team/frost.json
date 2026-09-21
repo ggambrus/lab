@@ -1,6 +1,10 @@
 {
     "name": "Ellen A. Frost",
     "photo": "profile_images\/EF.jpg",
+	
+	"external_links": {
+	"orcid"         : "https:\/\/orcid.org\/0009-0000-1352-7045"},
+	
     "education": [
 		{"degree"    : "Medicine (in progress)",
 		 "university": "University of Southampton",
