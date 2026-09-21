@@ -1,0 +1,1633 @@
+[
+  {
+    "topic": "Cell Structures",
+    "flashcards": [
+      {
+        "question": "What is another name for the cell-surface membrane?",
+        "answer": "The plasma membrane."
+      },
+      {
+        "question": "Which types of cells possess a cell membrane?",
+        "answer": "All cells, including both prokaryotic and eukaryotic cells."
+      },
+      {
+        "question": "Where is the cell membrane located?",
+        "answer": "It forms the external boundary of the cell."
+      },
+      {
+        "question": "What is the primary function of the cell membrane?",
+        "answer": "To control what enters and leaves the cell."
+      },
+      {
+        "question": "How does the cell membrane help maintain homeostasis?",
+        "answer": "By regulating the movement of substances into and out of the cell."
+      },
+      {
+        "question": "What does it mean that the cell membrane is selectively permeable?",
+        "answer": "It allows certain substances to pass through while restricting others."
+      },
+      {
+        "question": "Why is the cell membrane essential for cell survival?",
+        "answer": "It maintains stable internal conditions and controls material exchange with the environment."
+      },
+      {
+        "question": "What role does the cell membrane play in maintaining a stable internal environment?",
+        "answer": "It regulates transport and helps maintain homeostasis."
+      },
+      {
+        "question": "What would happen if a cell permanently lost its cell membrane?",
+        "answer": "The cell would not survive because it could no longer control its internal environment."
+      },
+      {
+        "question": "Which structures are found in the cell membrane that can allow substances to move through it?",
+        "answer": "Membrane proteins."
+      },
+    
+      {
+        "question": "Which organisms commonly possess a cell wall?",
+        "answer": "Most prokaryotes, plant cells, and fungal cells."
+      },
+      {
+        "question": "Do animal cells possess a cell wall?",
+        "answer": "No, animal cells do not have a cell wall."
+      },
+      {
+        "question": "What is the primary function of the cell wall?",
+        "answer": "To provide mechanical strength and support."
+      },
+      {
+        "question": "How does the cell wall help protect cells?",
+        "answer": "It acts as a physical barrier against pathogens."
+      },
+      {
+        "question": "How does the cell wall contribute to cell shape?",
+        "answer": "It helps maintain the shape of the cell."
+      },
+      {
+        "question": "What substance is found in the cell walls of prokaryotic cells?",
+        "answer": "Murein, a glycoprotein."
+      },
+      {
+        "question": "What is the apoplast pathway in plants?",
+        "answer": "A pathway involving cell walls that allows easy diffusion of water."
+      },
+      {
+        "question": "How does the plant cell wall assist water movement?",
+        "answer": "It forms part of the apoplast pathway that enables diffusion of water."
+      },
+      {
+        "question": "Why is the cell wall considered an additional protective layer?",
+        "answer": "Because it lies outside the cell membrane and provides extra structural support and protection."
+      },
+      {
+        "question": "What key difference regarding cell walls exists between plant and animal cells?",
+        "answer": "Plant cells have cell walls, whereas animal cells do not."
+      },
+    
+      {
+        "question": "What is the cytoplasm?",
+        "answer": "The material inside a cell that surrounds internal structures and organelles."
+      },
+      {
+        "question": "Which types of cells contain cytoplasm?",
+        "answer": "Both prokaryotic and eukaryotic cells."
+      },
+      {
+        "question": "What is cytosol?",
+        "answer": "The jelly-like fluid component of the cytoplasm."
+      },
+      {
+        "question": "What is the function of cytoplasm?",
+        "answer": "It suspends and supports organelles within the cell."
+      },
+      {
+        "question": "How is the cytoplasm defined in eukaryotic cells?",
+        "answer": "Everything inside the cell except the nucleus."
+      },
+      {
+        "question": "What is the cytoskeleton?",
+        "answer": "A collection of protein fibers that support the cell and its organelles."
+      },
+      {
+        "question": "What is a major function of the cytoskeleton?",
+        "answer": "Providing structural support to the cell."
+      },
+      {
+        "question": "How does the cytoskeleton help organelles?",
+        "answer": "It supports and organizes them within the cell."
+      },
+      {
+        "question": "Besides support, what other role can the cytoskeleton perform?",
+        "answer": "It can play a major role in cell movement."
+      },
+      {
+        "question": "How do cytoplasm and cytoskeleton work together?",
+        "answer": "They help support and maintain the organization of the cell's organelles."
+      },
+ 
+      {
+        "question": "What is the nucleus?",
+        "answer": "A membrane-bound organelle in eukaryotic cells that contains DNA and controls cellular activities."
+      },
+      {
+        "question": "Which cells contain a nucleus?",
+        "answer": "Eukaryotic cells."
+      },
+      {
+        "question": "Do prokaryotic cells contain a nucleus?",
+        "answer": "No. Their DNA is free in the cytoplasm."
+      },
+      {
+        "question": "What is the main function of the nucleus?",
+        "answer": "To control cellular activities and store genetic material."
+      },
+      {
+        "question": "What genetic material is found in the nucleus?",
+        "answer": "DNA."
+      },
+      {
+        "question": "How is DNA organized within the nucleus?",
+        "answer": "DNA is coiled around proteins called chromatin and organized into chromosomes."
+      },
+      {
+        "question": "What surrounds the nucleus?",
+        "answer": "A nuclear envelope."
+      },
+      {
+        "question": "What is the nuclear envelope?",
+        "answer": "A semi-permeable double membrane surrounding the nucleus."
+      },
+      {
+        "question": "What are nuclear pores?",
+        "answer": "Openings in the nuclear envelope that allow substances to enter and leave the nucleus."
+      },
+      {
+        "question": "What is the nucleolus?",
+        "answer": "A dense region inside the nucleus composed of RNA and proteins."
+      },
+      {
+        "question": "What is the function of the nucleolus?",
+        "answer": "It assembles ribosomes."
+      },
+      {
+        "question": "Why is the nucleus essential to eukaryotic cells?",
+        "answer": "It stores genetic information and directs cellular activities."
+      },
+   
+      {
+        "question": "What are ribosomes?",
+        "answer": "Small organelles responsible for protein synthesis."
+      },
+      {
+        "question": "What is the primary function of ribosomes?",
+        "answer": "To make proteins."
+      },
+      {
+        "question": "Which types of cells contain ribosomes?",
+        "answer": "Both prokaryotic and eukaryotic cells."
+      },
+      {
+        "question": "Are ribosomes membrane-bound organelles?",
+        "answer": "No."
+      },
+      {
+        "question": "Where can ribosomes be found within a cell?",
+        "answer": "Free in the cytoplasm or attached to rough endoplasmic reticulum."
+      },
+      {
+        "question": "Why are ribosomes important?",
+        "answer": "Because proteins are needed for most cellular structures and functions."
+      },
+      {
+        "question": "What cellular instructions do ribosomes use to make proteins?",
+        "answer": "Instructions encoded in DNA."
+      },
+      {
+        "question": "How do prokaryotic ribosomes compare with eukaryotic ribosomes?",
+        "answer": "Prokaryotic ribosomes are smaller."
+      },
+      {
+        "question": "What organelle produces ribosomes in eukaryotic cells?",
+        "answer": "The nucleolus."
+      },
+      {
+        "question": "How are ribosomes related to genetic material?",
+        "answer": "They translate genetic instructions into proteins."
+      },
+      {
+        "question": "What would happen if ribosomes malfunctioned?",
+        "answer": "Protein production would be disrupted, affecting cellular function."
+      },
+    
+      {
+        "question": "What does ER stand for?",
+        "answer": "Endoplasmic Reticulum."
+      },
+      {
+        "question": "In which cells is the endoplasmic reticulum found?",
+        "answer": "Eukaryotic cells."
+      },
+      {
+        "question": "What is a major function of the endoplasmic reticulum?",
+        "answer": "Processing and transporting molecules within the cell."
+      },
+      {
+        "question": "Why is the ER often described as a cellular highway?",
+        "answer": "Because it transports materials throughout the cell."
+      },
+      {
+        "question": "What are the two types of endoplasmic reticulum?",
+        "answer": "Rough ER and Smooth ER."
+      },
+      {
+        "question": "Why is rough ER called 'rough'?",
+        "answer": "Because ribosomes are attached to its surface."
+      },
+      {
+        "question": "What is the main role of rough ER?",
+        "answer": "Protein production, processing, and transport."
+      },
+      {
+        "question": "What is the relationship between ribosomes and rough ER?",
+        "answer": "Ribosomes attached to rough ER synthesize proteins."
+      },
+      {
+        "question": "Why is smooth ER called 'smooth'?",
+        "answer": "Because it lacks ribosomes."
+      },
+      {
+        "question": "What is one function of smooth ER?",
+        "answer": "Detoxification of harmful substances."
+      },
+      {
+        "question": "Which cells tend to contain abundant smooth ER and why?",
+        "answer": "Liver cells because smooth ER is involved in detoxification."
+      },
+      {
+        "question": "What type of molecules can smooth ER synthesize?",
+        "answer": "Lipids."
+      },
+      {
+        "question": "What process occurs in the ER that helps proteins function properly?",
+        "answer": "Protein folding."
+      },
+      {
+        "question": "How do molecules leave the ER?",
+        "answer": "In transport vesicles that bud off from the ER."
+      },
+      {
+        "question": "Where are ER transport vesicles commonly sent?",
+        "answer": "To the Golgi apparatus."
+      },
+      {
+        "question": "How does the ER contribute to intracellular transport?",
+        "answer": "It processes molecules and packages them into vesicles for delivery."
+      },
+
+      {
+        "question": "What is the Golgi apparatus?",
+        "answer": "A membrane-bound organelle that modifies, sorts, and packages molecules for transport."
+      },
+      {
+        "question": "In which cells is the Golgi apparatus found?",
+        "answer": "Eukaryotic cells, including both plant and animal cells."
+      },
+      {
+        "question": "What is the main function of the Golgi apparatus?",
+        "answer": "To modify, sort, package, and direct molecules to their destinations."
+      },
+      {
+        "question": "Why is the Golgi apparatus often called the cell's packaging center?",
+        "answer": "Because it sorts and packages materials before they are transported."
+      },
+      {
+        "question": "Where does the Golgi apparatus receive many of its materials from?",
+        "answer": "Transport vesicles produced by the endoplasmic reticulum."
+      },
+      {
+        "question": "What are Golgi vesicles?",
+        "answer": "Small membrane-bound sacs that transport materials to and from the Golgi apparatus."
+      },
+      {
+        "question": "What happens to proteins after they arrive at the Golgi apparatus?",
+        "answer": "They may be modified, sorted, and packaged for transport."
+      },
+      {
+        "question": "What role do enzymes in the Golgi apparatus play?",
+        "answer": "They modify molecules received from other organelles."
+      },
+      {
+        "question": "How does the Golgi apparatus help secretion?",
+        "answer": "It packages substances into vesicles that can fuse with the cell membrane and release their contents outside the cell."
+      },
+      {
+        "question": "What is a transport vesicle?",
+        "answer": "A membrane-bound sac used to move substances between organelles."
+      },
+      {
+        "question": "What happens after a molecule is sorted by the Golgi apparatus?",
+        "answer": "It is directed to a specific location within or outside the cell."
+      },
+      {
+        "question": "How do the endoplasmic reticulum and Golgi apparatus work together?",
+        "answer": "The ER produces and transports molecules to the Golgi, which then modifies and packages them."
+      },
+      {
+        "question": "Which organelle is commonly involved in packaging proteins for export from the cell?",
+        "answer": "The Golgi apparatus."
+      },
+  
+      {
+        "question": "What are lysosomes?",
+        "answer": "Membrane-bound organelles containing digestive enzymes."
+      },
+      {
+        "question": "In which cells are lysosomes most commonly found?",
+        "answer": "Animal cells."
+      },
+      {
+        "question": "What is the primary function of lysosomes?",
+        "answer": "To break down and digest substances within the cell."
+      },
+      {
+        "question": "What type of enzymes do lysosomes contain?",
+        "answer": "Hydrolytic enzymes."
+      },
+      {
+        "question": "What are hydrolytic enzymes?",
+        "answer": "Enzymes that break down biological molecules using water."
+      },
+      {
+        "question": "Why are lysosomes considered the recycling centers of the cell?",
+        "answer": "Because they break down worn-out organelles and cellular waste materials."
+      },
+      {
+        "question": "How do lysosomes help defend cells?",
+        "answer": "They can digest invading pathogens."
+      },
+      {
+        "question": "Why must lysosomes be membrane-bound?",
+        "answer": "To prevent their digestive enzymes from damaging the rest of the cell."
+      },
+      {
+        "question": "What kinds of materials can lysosomes digest?",
+        "answer": "Waste products, damaged organelles, and foreign substances."
+      },
+      {
+        "question": "What would happen if lysosomal enzymes leaked into the cytoplasm in large amounts?",
+        "answer": "They could damage or digest cellular components."
+      },
+      {
+        "question": "How do lysosomes contribute to cell maintenance?",
+        "answer": "By removing damaged structures and recycling useful materials."
+      },
+      {
+        "question": "Why are lysosomes important for cellular health?",
+        "answer": "They prevent the accumulation of waste and damaged components."
+      },
+    
+      {
+        "question": "What are mitochondria?",
+        "answer": "Membrane-bound organelles that produce ATP through cellular respiration."
+      },
+      {
+        "question": "What is the singular form of mitochondria?",
+        "answer": "Mitochondrion."
+      },
+      {
+        "question": "In which cells are mitochondria found?",
+        "answer": "Most eukaryotic cells, including plant and animal cells."
+      },
+      {
+        "question": "What is the primary function of mitochondria?",
+        "answer": "To generate ATP for cellular activities."
+      },
+      {
+        "question": "What is ATP?",
+        "answer": "Adenosine triphosphate, the main energy currency of cells."
+      },
+      {
+        "question": "Which process occurs in mitochondria to produce ATP?",
+        "answer": "Cellular respiration."
+      },
+      {
+        "question": "Why are mitochondria often called the powerhouse of the cell?",
+        "answer": "Because they produce most of the cell's ATP."
+      },
+      {
+        "question": "What fuel is commonly used by mitochondria during cellular respiration?",
+        "answer": "Glucose."
+      },
+      {
+        "question": "Why is oxygen important for efficient ATP production in mitochondria?",
+        "answer": "Oxygen enables aerobic respiration, which produces large amounts of ATP."
+      },
+      {
+        "question": "How does ATP support cellular processes?",
+        "answer": "It provides energy for metabolic reactions and cellular work."
+      },
+      {
+        "question": "What are mitochondrial disorders?",
+        "answer": "Diseases caused by malfunctioning mitochondria."
+      },
+      {
+        "question": "What would happen if mitochondria could not produce sufficient ATP?",
+        "answer": "Cells would struggle to perform energy-demanding functions."
+      },
+      {
+        "question": "Why are mitochondria especially important in active tissues?",
+        "answer": "Because active tissues require large amounts of ATP."
+      },
+      {
+        "question": "How are mitochondria related to cellular respiration?",
+        "answer": "They are the main site where cellular respiration occurs in eukaryotic cells."
+      },
+   
+      {
+        "question": "What are chloroplasts?",
+        "answer": "Membrane-bound organelles found in plant cells that carry out photosynthesis."
+      },
+      {
+        "question": "In which types of cells are chloroplasts found?",
+        "answer": "Plant cells and some photosynthetic protists."
+      },
+      {
+        "question": "Are chloroplasts found in animal cells?",
+        "answer": "No, animal cells do not contain chloroplasts."
+      },
+      {
+        "question": "What is the primary function of chloroplasts?",
+        "answer": "To carry out photosynthesis and produce glucose."
+      },
+      {
+        "question": "What process occurs inside chloroplasts?",
+        "answer": "Photosynthesis."
+      },
+      {
+        "question": "What is photosynthesis?",
+        "answer": "A process that uses light energy to produce glucose from carbon dioxide and water."
+      },
+      {
+        "question": "Why do chloroplasts appear green?",
+        "answer": "Because they contain pigments that reflect green light."
+      },
+      {
+        "question": "What pigment is primarily responsible for capturing light energy in chloroplasts?",
+        "answer": "Chlorophyll."
+      },
+      {
+        "question": "What product of photosynthesis can be used by mitochondria?",
+        "answer": "Glucose."
+      },
+      {
+        "question": "How do chloroplasts contribute to plant survival?",
+        "answer": "They produce food in the form of glucose."
+      },
+      {
+        "question": "How are chloroplasts and mitochondria functionally linked?",
+        "answer": "Chloroplasts produce glucose, which mitochondria can use to generate ATP."
+      },
+      {
+        "question": "Why are chloroplasts considered essential organelles in plants?",
+        "answer": "Because they enable plants to convert light energy into chemical energy."
+      },
+    
+      {
+        "question": "What is a vacuole?",
+        "answer": "A membrane-bound organelle used for storage within cells."
+      },
+      {
+        "question": "In which cells are vacuoles found?",
+        "answer": "Both plant and animal cells."
+      },
+      {
+        "question": "What is the main function of vacuoles?",
+        "answer": "Storage of substances such as water, proteins, nutrients, and waste products."
+      },
+      {
+        "question": "What is the difference between plant and animal vacuoles?",
+        "answer": "Plant cells usually contain one large central vacuole, while animal cells typically contain several smaller vacuoles."
+      },
+      {
+        "question": "What is a central vacuole?",
+        "answer": "The large vacuole found in most plant cells."
+      },
+      {
+        "question": "What substances can vacuoles store?",
+        "answer": "Water, proteins, nutrients, pigments, and waste products."
+      },
+      {
+        "question": "Why are vacuoles considered storage organelles?",
+        "answer": "Because they hold materials needed by the cell or materials awaiting disposal."
+      },
+      {
+        "question": "How do vacuoles help plant cells maintain structure?",
+        "answer": "The large central vacuole helps maintain turgor pressure."
+      },
+      {
+        "question": "What is turgor pressure?",
+        "answer": "The pressure exerted by water within a plant cell that helps keep the cell rigid."
+      },
+      {
+        "question": "How do vacuoles contribute to waste management in cells?",
+        "answer": "They can store waste products until they are removed or processed."
+      },
+      {
+        "question": "Why can vacuoles vary in size and contents?",
+        "answer": "Their contents and functions depend on the type of cell."
+      },
+      {
+        "question": "How do vacuoles support cellular homeostasis?",
+        "answer": "By storing and regulating important substances within the cell."
+      },
+    
+      {
+        "question": "What are centrioles?",
+        "answer": "Cell structures involved in organizing microtubules and assisting cell division."
+      },
+      {
+        "question": "In which cells are centrioles commonly found?",
+        "answer": "Animal cells."
+      },
+      {
+        "question": "Are centrioles typically found in plant cells?",
+        "answer": "No, they are generally absent from plant cells."
+      },
+      {
+        "question": "Where are centrioles located?",
+        "answer": "Within the centrosome."
+      },
+      {
+        "question": "How many centrioles are usually present in a centrosome?",
+        "answer": "Two centrioles."
+      },
+      {
+        "question": "What is the primary function of centrioles?",
+        "answer": "To help organize microtubules during cell division."
+      },
+      {
+        "question": "How are centrioles involved in mitosis?",
+        "answer": "They help organize the spindle fibers that move chromosomes."
+      },
+      {
+        "question": "What are spindle fibers?",
+        "answer": "Microtubule structures that separate chromosomes during cell division."
+      },
+      {
+        "question": "Why are centrioles important for successful cell division?",
+        "answer": "They help ensure chromosomes are correctly distributed to daughter cells."
+      },
+      {
+        "question": "What cellular structure contains centrioles?",
+        "answer": "The centrosome."
+      },
+      {
+        "question": "How do centrioles contribute to chromosome movement?",
+        "answer": "They organize the spindle apparatus that pulls chromosomes apart."
+      },
+      {
+        "question": "What would likely happen if centrioles failed to function properly during cell division?",
+        "answer": "Chromosomes might not be distributed correctly between daughter cells."
+      }
+    ]
+  },
+
+  
+  {
+    "topic": "Cell Theory",
+    "flashcards": [
+      {
+        "question": "What is the modern cell theory?",
+        "answer": "A scientific theory stating that cells are the basic unit of life, all living things are made of cells, and all cells come from pre-existing cells."
+      },
+      {
+        "question": "What is the smallest living unit in all organisms?",
+        "answer": "The cell."
+      },
+      {
+        "question": "According to cell theory, what are all living things made of?",
+        "answer": "One or more cells."
+      },
+      {
+        "question": "According to cell theory, where do new cells come from?",
+        "answer": "Pre-existing cells."
+      },
+      {
+        "question": "Why is the statement 'all cells come from pre-existing cells' important?",
+        "answer": "It explains how cells reproduce and how organisms grow and repair tissues."
+      },
+      {
+        "question": "What is a unicellular organism?",
+        "answer": "An organism composed of a single cell."
+      },
+      {
+        "question": "What is a multicellular organism?",
+        "answer": "An organism composed of many cells."
+      },
+      {
+        "question": "What is an example of a unicellular organism mentioned in the notes?",
+        "answer": "An amoeba."
+      },
+      {
+        "question": "Are humans unicellular or multicellular?",
+        "answer": "Humans are multicellular."
+      },
+      {
+        "question": "Why is cell theory considered a fundamental principle of biology?",
+        "answer": "Because it explains the basic organization and origin of all living organisms."
+      },
+      {
+        "question": "How does cell theory relate to growth in organisms?",
+        "answer": "Growth occurs through the production of new cells from existing cells."
+      },
+      {
+        "question": "How does cell theory explain tissue repair?",
+        "answer": "Damaged cells are replaced by new cells produced from pre-existing cells."
+      }
+    ]
+  },
+  {
+    "topic": "Specialised Cells, Tissues, Organs and Organ Systems",
+    "flashcards": [
+      {
+        "question": "What is a specialised cell?",
+        "answer": "A cell adapted to perform a particular function."
+      },
+      {
+        "question": "Why do cells become specialised in multicellular organisms?",
+        "answer": "To perform specific functions efficiently."
+      },
+      {
+        "question": "What is a tissue?",
+        "answer": "A group of similar specialised cells working together to perform a specific function."
+      },
+      {
+        "question": "What is an organ?",
+        "answer": "A structure composed of different tissues working together to perform a specific function."
+      },
+      {
+        "question": "What is an organ system?",
+        "answer": "A group of organs working together to carry out major body functions."
+      },
+      {
+        "question": "What is the correct biological hierarchy from cell to system?",
+        "answer": "Cell → Tissue → Organ → Organ System."
+      },
+      {
+        "question": "How are specialised cells related to tissues?",
+        "answer": "Groups of specialised cells form tissues."
+      },
+      {
+        "question": "How are tissues related to organs?",
+        "answer": "Different tissue types combine to form organs."
+      },
+      {
+        "question": "How are organs related to organ systems?",
+        "answer": "Multiple organs work together within organ systems."
+      },
+      {
+        "question": "Why is cell specialisation important in complex organisms?",
+        "answer": "It allows division of labour, making biological processes more efficient."
+      },
+      {
+        "question": "How does cell structure relate to cell function?",
+        "answer": "Specialised cells possess adaptations that enable them to perform specific roles."
+      },
+      {
+        "question": "What is meant by division of labour in multicellular organisms?",
+        "answer": "Different cells, tissues, and organs perform different specialised functions."
+      }
+    ]
+  },
+  {
+    "topic": "Mitosis and Daughter Cells",
+    "flashcards": [
+      {
+        "question": "What is mitosis?",
+        "answer": "A type of nuclear division that produces two genetically identical daughter cells."
+      },
+      {
+        "question": "How many daughter cells are produced during mitosis?",
+        "answer": "Two."
+      },
+      {
+        "question": "Are daughter cells produced by mitosis genetically identical?",
+        "answer": "Yes, they are genetically identical to each other and to the parent cell."
+      },
+      {
+        "question": "What is a daughter cell?",
+        "answer": "A new cell formed after cell division."
+      },
+      {
+        "question": "What is the purpose of mitosis?",
+        "answer": "Growth, tissue repair, cell replacement, and asexual reproduction."
+      },
+      {
+        "question": "How does mitosis contribute to growth?",
+        "answer": "It increases the number of cells in an organism."
+      },
+      {
+        "question": "How does mitosis contribute to tissue repair?",
+        "answer": "It replaces damaged or dead cells with new identical cells."
+      },
+      {
+        "question": "How does mitosis contribute to cell replacement?",
+        "answer": "It continually produces new cells to replace old or worn-out cells."
+      },
+      {
+        "question": "How is mitosis involved in asexual reproduction?",
+        "answer": "It produces genetically identical offspring without the need for fertilisation."
+      },
+      {
+        "question": "Why is chromosome distribution important during mitosis?",
+        "answer": "Each daughter cell must receive a complete and identical set of genetic information."
+      },
+      {
+        "question": "Which cell structures help separate chromosomes during mitosis?",
+        "answer": "Spindle fibres."
+      },
+      {
+        "question": "What role do centrioles play in mitosis?",
+        "answer": "They help organise spindle fibres that move chromosomes."
+      },
+      {
+        "question": "Why must DNA be copied before mitosis occurs?",
+        "answer": "So each daughter cell receives a complete copy of the genetic material."
+      },
+      {
+        "question": "What would happen if chromosomes were not distributed correctly during mitosis?",
+        "answer": "Daughter cells could receive incorrect amounts of genetic information."
+      }
+    ]
+  },
+
+  {
+    "topic": "Prokaryotic and Eucaryotic Cells",
+    "flashcards": [
+      {
+        "question": "What is a prokaryotic cell?",
+        "answer": "A simple cell that lacks a nucleus and membrane-bound organelles."
+      },
+      {
+        "question": "Which groups of organisms are prokaryotes?",
+        "answer": "Bacteria and Archaea."
+      },
+      {
+        "question": "Are prokaryotes unicellular or multicellular?",
+        "answer": "They are unicellular organisms."
+      },
+      {
+        "question": "Do prokaryotic cells contain a nucleus?",
+        "answer": "No, prokaryotic cells do not have a nucleus."
+      },
+      {
+        "question": "Where is the DNA found in a prokaryotic cell?",
+        "answer": "Free in the cytoplasm."
+      },
+      {
+        "question": "What is the shape of the main DNA molecule in prokaryotes?",
+        "answer": "A single circular DNA molecule."
+      },
+      {
+        "question": "Is prokaryotic DNA associated with proteins?",
+        "answer": "No, it is not associated with proteins."
+      },
+      {
+        "question": "Do prokaryotic cells contain membrane-bound organelles?",
+        "answer": "No."
+      },
+      {
+        "question": "What type of ribosomes do prokaryotic cells contain?",
+        "answer": "Small ribosomes."
+      },
+      {
+        "question": "What is the composition of the prokaryotic cell wall?",
+        "answer": "Murein, a glycoprotein."
+      },
+      {
+        "question": "Why are prokaryotic cells generally considered less complex than eukaryotic cells?",
+        "answer": "Because they lack a nucleus and membrane-bound organelles."
+      },
+      {
+        "question": "Do prokaryotic cells contain cytoplasm?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Do prokaryotic cells contain ribosomes?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Do prokaryotic cells contain a cell membrane?",
+        "answer": "Yes."
+      },
+      {
+        "question": "How do prokaryotic cells compare in size with eukaryotic cells?",
+        "answer": "They are generally much smaller."
+      },
+      {
+        "question": "What does the prefix 'pro' help remind students about prokaryotes?",
+        "answer": "That they have no nucleus and no membrane-bound organelles."
+      },
+   
+      {
+        "question": "What is a eukaryotic cell?",
+        "answer": "A complex cell that contains a nucleus and membrane-bound organelles."
+      },
+      {
+        "question": "Which groups of organisms are eukaryotes?",
+        "answer": "Animals, plants, fungi, and protists."
+      },
+      {
+        "question": "Can eukaryotes be both unicellular and multicellular?",
+        "answer": "Yes."
+      },
+      {
+        "question": "What feature distinguishes eukaryotic cells from prokaryotic cells?",
+        "answer": "The presence of a nucleus."
+      },
+      {
+        "question": "Where is DNA stored in eukaryotic cells?",
+        "answer": "Inside the nucleus."
+      },
+      {
+        "question": "Do eukaryotic cells contain membrane-bound organelles?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Give three examples of membrane-bound organelles found in eukaryotic cells.",
+        "answer": "Nucleus, mitochondria, and Golgi apparatus."
+      },
+      {
+        "question": "Do all eukaryotic cells contain mitochondria?",
+        "answer": "Most eukaryotic cells do."
+      },
+      {
+        "question": "What organelle is responsible for controlling cell activities in eukaryotes?",
+        "answer": "The nucleus."
+      },
+      {
+        "question": "How does the complexity of eukaryotic cells compare with prokaryotic cells?",
+        "answer": "Eukaryotic cells are more complex."
+      },
+      {
+        "question": "Are plant cells and animal cells examples of eukaryotic cells?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which eukaryotic organelle carries out photosynthesis?",
+        "answer": "The chloroplast."
+      },
+      {
+        "question": "Which eukaryotic organelle generates ATP through cellular respiration?",
+        "answer": "The mitochondrion."
+      },
+      {
+        "question": "What does the prefix 'eu' help remind students about eukaryotes?",
+        "answer": "That they do have a nucleus and membrane-bound organelles."
+      },
+      {
+        "question": "Can different types of eukaryotic cells contain different organelles?",
+        "answer": "Yes, for example plant cells contain chloroplasts while animal cells do not."
+      },
+   
+      {
+        "question": "What feature is found in eukaryotic cells but not in prokaryotic cells?",
+        "answer": "A nucleus."
+      },
+      {
+        "question": "Which cell type contains membrane-bound organelles?",
+        "answer": "Eukaryotic cells."
+      },
+      {
+        "question": "Which cell type lacks membrane-bound organelles?",
+        "answer": "Prokaryotic cells."
+      },
+      {
+        "question": "Which cell type generally has a larger size?",
+        "answer": "Eukaryotic cells."
+      },
+      {
+        "question": "How is DNA arranged in prokaryotic cells?",
+        "answer": "As a single circular DNA molecule free in the cytoplasm."
+      },
+      {
+        "question": "How is DNA arranged in eukaryotic cells?",
+        "answer": "As linear chromosomes located within the nucleus."
+      },
+      {
+        "question": "Do both prokaryotic and eukaryotic cells contain DNA?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Do both prokaryotic and eukaryotic cells contain ribosomes?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Do both prokaryotic and eukaryotic cells contain cytoplasm?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Do both prokaryotic and eukaryotic cells contain a cell membrane?",
+        "answer": "Yes."
+      },
+      {
+        "question": "How do prokaryotic ribosomes compare with eukaryotic ribosomes?",
+        "answer": "Prokaryotic ribosomes are smaller."
+      },
+      {
+        "question": "Do all prokaryotic cells have cell walls?",
+        "answer": "Most do."
+      },
+      {
+        "question": "Do all eukaryotic cells have cell walls?",
+        "answer": "No. Plant and fungal cells have them, but animal cells do not."
+      },
+      {
+        "question": "Which type of cell is typically more structurally complex?",
+        "answer": "Eukaryotic cells."
+      },
+      {
+        "question": "Which domains of life contain prokaryotes?",
+        "answer": "Bacteria and Archaea."
+      },
+      {
+        "question": "Which domain of life contains eukaryotes?",
+        "answer": "Eukarya."
+      },
+      {
+        "question": "What structures are shared by both prokaryotic and eukaryotic cells?",
+        "answer": "DNA, ribosomes, cytoplasm, and a cell membrane."
+      },
+      {
+        "question": "What structures are unique to eukaryotic cells in this comparison?",
+        "answer": "A nucleus and membrane-bound organelles."
+      }
+    ]
+  },
+
+  {
+    "topic": "Viruses",
+    "flashcards": [
+      {
+        "question": "What is a virus?",
+        "answer": "A microscopic acellular particle that contains genetic material and can replicate only inside a host cell."
+      },
+      {
+        "question": "Are viruses considered cells?",
+        "answer": "No, viruses are not cells."
+      },
+      {
+        "question": "Why can viruses not be classified as prokaryotes or eukaryotes?",
+        "answer": "Because viruses are not made of cells."
+      },
+      {
+        "question": "Why are viruses often referred to as particles rather than cells?",
+        "answer": "They are acellular, lack cytoplasm, have no metabolism, and cannot reproduce independently."
+      },
+      {
+        "question": "What does 'acellular' mean?",
+        "answer": "Not composed of cells."
+      },
+      {
+        "question": "Are viruses generally smaller or larger than cells?",
+        "answer": "Viruses are much smaller than cells."
+      },
+      {
+        "question": "What type of microscope is usually needed to view viruses?",
+        "answer": "An electron microscope."
+      },
+      {
+        "question": "Do viruses exhibit all characteristics of life?",
+        "answer": "No, which is why their classification as living or non-living is debated."
+      },
+      {
+        "question": "Can viruses reproduce on their own?",
+        "answer": "No, they require a host cell."
+      },
+      {
+        "question": "Why are viruses considered obligate intracellular parasites?",
+        "answer": "Because they can only reproduce inside living host cells."
+      },
+      {
+        "question": "Can antibiotics treat viral infections?",
+        "answer": "No, antibiotics target bacteria rather than viruses."
+      },
+      {
+        "question": "Why are antibiotics ineffective against viruses?",
+        "answer": "Viruses lack the cellular structures and processes targeted by antibiotics."
+      },
+      {
+        "question": "Can viruses infect organisms other than humans?",
+        "answer": "Yes, they can infect animals, plants, fungi, insects, and bacteria."
+      },
+      {
+        "question": "What is a host cell?",
+        "answer": "A living cell that provides the machinery needed for viral replication."
+      },
+      {
+        "question": "Why must viruses infect host cells?",
+        "answer": "Because they lack the machinery necessary for self-replication."
+      },
+      {
+        "question": "What characteristic makes viruses highly dependent on host cells?",
+        "answer": "Their inability to carry out independent metabolism and reproduction."
+      },
+   
+      {
+        "question": "What two types of genetic material can viruses contain?",
+        "answer": "DNA or RNA."
+      },
+      {
+        "question": "Do viruses contain both DNA and RNA?",
+        "answer": "No, a virus typically contains either DNA or RNA."
+      },
+      {
+        "question": "What is the role of viral genetic material?",
+        "answer": "It contains instructions for producing new viruses."
+      },
+      {
+        "question": "What is a capsid?",
+        "answer": "A protein coat that surrounds and protects viral genetic material."
+      },
+      {
+        "question": "What are capsomeres?",
+        "answer": "Protein subunits that make up the capsid."
+      },
+      {
+        "question": "What is the main function of the capsid?",
+        "answer": "To protect the viral genetic material."
+      },
+      {
+        "question": "Do viruses contain cytoplasm?",
+        "answer": "No."
+      },
+      {
+        "question": "Do viruses contain membrane-bound organelles?",
+        "answer": "No."
+      },
+      {
+        "question": "What additional structures may some viruses possess?",
+        "answer": "Enzymes and an outer envelope."
+      },
+      {
+        "question": "Why might a virus carry enzymes?",
+        "answer": "To assist with viral replication."
+      },
+      {
+        "question": "What is a viral envelope?",
+        "answer": "An outer layer surrounding some viruses."
+      },
+      {
+        "question": "What enzyme is specifically mentioned in the notes as being found in some viruses?",
+        "answer": "Reverse transcriptase."
+      },
+      {
+        "question": "What is the structure of a viral particle according to the specification?",
+        "answer": "Genetic material, viral enzymes, and a capsid, with no cytoplasm."
+      },
+      {
+        "question": "Can viral genetic material be linear?",
+        "answer": "Yes, viral genetic material may be linear DNA or RNA."
+      },
+      {
+        "question": "How does viral structure differ from cellular structure?",
+        "answer": "Viruses lack cytoplasm, organelles, and other cellular components."
+      },
+   
+      {
+        "question": "What is host specificity in viruses?",
+        "answer": "The tendency of a virus to infect only particular host organisms or cell types."
+      },
+      {
+        "question": "Why can a virus infect only certain cells?",
+        "answer": "Because it can attach only to cells with suitable receptors."
+      },
+      {
+        "question": "What is a receptor in the context of viral infection?",
+        "answer": "A molecule on a cell surface that a virus can recognize and bind to."
+      },
+      {
+        "question": "Why is viral attachment important?",
+        "answer": "Attachment is necessary for viral entry and replication."
+      },
+      {
+        "question": "Can any living organism serve as a host for viruses?",
+        "answer": "Yes, viruses can infect a wide range of living organisms."
+      },
+      {
+        "question": "What happens after a virus successfully enters a host cell?",
+        "answer": "It uses the host cell's machinery to produce more viruses."
+      },
+      {
+        "question": "Why is viral replication often harmful to host cells?",
+        "answer": "Because it diverts cellular resources toward producing viruses."
+      },
+      {
+        "question": "What ultimately causes many viral diseases?",
+        "answer": "The replication of viruses within host cells."
+      },
+      {
+        "question": "What is a bacteriophage?",
+        "answer": "A virus that infects bacteria."
+      },
+      {
+        "question": "Do all viruses have the same shape?",
+        "answer": "No, viruses exhibit a wide variety of shapes."
+      },
+      {
+        "question": "Why are cells essential for viral reproduction?",
+        "answer": "Cells provide the machinery needed for viral replication."
+      },
+      {
+        "question": "How does viral specificity influence disease spread?",
+        "answer": "A virus can only infect organisms and cells with compatible receptors."
+      },
+      {
+        "question": "What makes viral reproduction different from cellular reproduction?",
+        "answer": "Viruses must use a host cell's machinery rather than reproducing independently."
+      },
+      {
+        "question": "Why is virus-host interaction considered highly selective?",
+        "answer": "Because viruses generally bind only to specific receptors on specific cells."
+      },
+   
+      {
+        "question": "What is the lysogenic cycle?",
+        "answer": "A viral replication cycle in which viral genetic material becomes incorporated into host genetic material before producing new viruses."
+      },
+      {
+        "question": "How does the lysogenic cycle begin?",
+        "answer": "The virus attaches to a host cell and introduces its genetic material."
+      },
+      {
+        "question": "What happens to viral genetic material in the lysogenic cycle?",
+        "answer": "It becomes hidden within the host cell's genetic material."
+      },
+      {
+        "question": "Why is the lysogenic cycle considered a 'hidden' or 'sneaky' cycle?",
+        "answer": "Because viral DNA can remain dormant inside the host for extended periods."
+      },
+      {
+        "question": "What happens when the host cell replicates during the lysogenic cycle?",
+        "answer": "Both host DNA and viral DNA are copied."
+      },
+      {
+        "question": "How is viral DNA passed to daughter cells in the lysogenic cycle?",
+        "answer": "It is replicated and inherited whenever the host cell divides."
+      },
+      {
+        "question": "Does the host cell immediately burst in the lysogenic cycle?",
+        "answer": "No."
+      },
+      {
+        "question": "How does the lysogenic cycle differ from the lytic cycle?",
+        "answer": "The virus remains dormant instead of immediately producing and releasing new viruses."
+      },
+      {
+        "question": "What can eventually happen to viral DNA hidden in the host genome?",
+        "answer": "It can become active and enter the lytic cycle."
+      },
+      {
+        "question": "What is meant by a dormant virus?",
+        "answer": "A virus whose genetic material is present but not actively producing new viruses."
+      },
+      {
+        "question": "What may trigger a lysogenic virus to enter the lytic cycle?",
+        "answer": "Environmental factors such as chemicals or lack of nutrients."
+      },
+      {
+        "question": "Why can the lysogenic cycle lead to widespread infection?",
+        "answer": "Many descendant cells may inherit viral DNA before activation occurs."
+      },
+      {
+        "question": "What advantage does the lysogenic cycle provide for a virus?",
+        "answer": "It allows the virus to persist and spread without immediately destroying host cells."
+      },
+      {
+        "question": "What happens if a lysogenic infection switches to the lytic cycle?",
+        "answer": "Cells containing viral DNA begin producing viruses that can destroy the host cells."
+      },
+      {
+        "question": "Why can the lysogenic cycle make viral infections difficult to eliminate?",
+        "answer": "Because viral genetic material can persist silently within cells for long periods."
+      },
+    
+      {
+        "question": "What does HIV stand for?",
+        "answer": "Human Immunodeficiency Virus."
+      },
+      {
+        "question": "What disease can result from HIV infection?",
+        "answer": "AIDS (Acquired Immunodeficiency Syndrome)."
+      },
+      {
+        "question": "Why is HIV considered a highly specialised virus?",
+        "answer": "Because it targets specific cells with a CD4 glycoprotein on their surface."
+      },
+      {
+        "question": "Which immune cells are targeted by HIV?",
+        "answer": "Helper T cells and other cells that possess CD4 receptors."
+      },
+      {
+        "question": "What molecule does HIV bind to when infecting cells?",
+        "answer": "The CD4 glycoprotein."
+      },
+      {
+        "question": "Why are Helper T cells important?",
+        "answer": "They play a critical role in coordinating immune responses."
+      },
+      {
+        "question": "How does HIV weaken the immune system?",
+        "answer": "By infecting and damaging Helper T cells."
+      },
+      {
+        "question": "Why are people with HIV more vulnerable to infections?",
+        "answer": "Because HIV reduces the effectiveness of the immune system."
+      },
+      {
+        "question": "What is one goal of HIV medications?",
+        "answer": "To reduce the rate of viral replication."
+      },
+      {
+        "question": "Why are scientists interested in preventing HIV attachment?",
+        "answer": "Because a virus cannot infect a cell if it cannot attach to it."
+      },
+      {
+        "question": "What challenge makes HIV difficult to treat?",
+        "answer": "It can mutate."
+      },
+      {
+        "question": "What is a mutation?",
+        "answer": "A change in genetic material."
+      },
+      {
+        "question": "Why can viral mutations complicate treatment?",
+        "answer": "A treatment effective against one form may be less effective against a mutated form."
+      },
+      {
+        "question": "How is HIV similar to other viruses?",
+        "answer": "It requires host cells to replicate."
+      },
+      {
+        "question": "Why is understanding HIV important for medicine?",
+        "answer": "It helps scientists develop treatments that reduce infection and disease progression."
+      },
+
+      {
+        "question": "Can viruses have beneficial applications?",
+        "answer": "Yes, viruses can be used in fields such as gene therapy and biological pest control."
+      },
+      {
+        "question": "What is gene therapy?",
+        "answer": "A medical technique that uses genes to treat or help prevent disease."
+      },
+      {
+        "question": "How can viruses be used in gene therapy?",
+        "answer": "Viruses can act as vectors that deliver genetic material into target cells."
+      },
+      {
+        "question": "Why are viruses useful as gene delivery vehicles?",
+        "answer": "Because they naturally evolved mechanisms for entering cells and delivering genetic material."
+      },
+      {
+        "question": "What is a viral vector?",
+        "answer": "A modified virus used to transport genetic material into cells."
+      },
+      {
+        "question": "What is biological pest control?",
+        "answer": "The use of living organisms or biological agents to control pest populations."
+      },
+      {
+        "question": "How can viruses be used as biological pest control agents?",
+        "answer": "Some viruses specifically infect and kill pest insects."
+      },
+      {
+        "question": "Why might viral pest control be considered an alternative to chemical pesticides?",
+        "answer": "Because viruses can target specific pest species."
+      },
+      {
+        "question": "What insect-targeting virus was mentioned in the notes?",
+        "answer": "Nuclear Polyhedrosis Virus."
+      },
+      {
+        "question": "What is an advantage of a virus that targets specific pest insects?",
+        "answer": "It may reduce damage caused by pest populations."
+      },
+      {
+        "question": "Why must scientists consider ecological consequences when using viral pesticides?",
+        "answer": "Because introducing biological control agents can affect ecosystems."
+      },
+      {
+        "question": "How do beneficial uses of viruses differ from disease-causing infections?",
+        "answer": "Beneficial applications harness viral properties for human purposes rather than allowing uncontrolled infection."
+      },
+
+      {
+        "question": "Why are viruses described as particles instead of cells?",
+        "answer": "Because they are acellular and lack the structures required to be considered cells."
+      },
+      {
+        "question": "What does 'acellular' mean?",
+        "answer": "Not made of cells."
+      },
+      {
+        "question": "Do viruses contain cytoplasm?",
+        "answer": "No."
+      },
+      {
+        "question": "Do viruses contain ribosomes?",
+        "answer": "No."
+      },
+      {
+        "question": "Do viruses contain membrane-bound organelles?",
+        "answer": "No."
+      },
+      {
+        "question": "Can viruses carry out metabolism independently?",
+        "answer": "No."
+      },
+      {
+        "question": "What is metabolism?",
+        "answer": "The sum of the chemical reactions that occur within a living organism."
+      },
+      {
+        "question": "Can viruses reproduce independently?",
+        "answer": "No, they require a host cell."
+      },
+      {
+        "question": "What cellular structures do viruses lack that living cells possess?",
+        "answer": "Cytoplasm, ribosomes, membrane-bound organelles, and independent metabolic machinery."
+      },
+      {
+        "question": "What do all living cells possess that viruses do not?",
+        "answer": "Cellular organization and the machinery needed for independent life processes."
+      },
+      {
+        "question": "How do viruses obtain the machinery needed for replication?",
+        "answer": "They use the machinery of host cells."
+      },
+      {
+        "question": "Why are viruses often considered non-living by some scientists?",
+        "answer": "Because they cannot metabolize or reproduce independently."
+      },
+      {
+        "question": "What characteristic of viruses leads to debate about whether they are living?",
+        "answer": "They contain genetic material and evolve, but lack independent cellular functions."
+      },
+      {
+        "question": "What is one key similarity between viruses and cells?",
+        "answer": "Both contain genetic material."
+      },
+      {
+        "question": "What is one major difference between viruses and cells?",
+        "answer": "Cells can function independently, whereas viruses cannot."
+      },
+      {
+        "question": "Why can viruses not be placed into the prokaryotic or eukaryotic categories?",
+        "answer": "Because both categories describe cells, and viruses are not cells."
+      }
+    ]
+  },
+
+
+	{
+    "topic": "Plasmids",
+    "flashcards": [
+      {
+        "question": "What is a plasmid?",
+        "answer": "A small circular ring of DNA found in many prokaryotic cells."
+      },
+      {
+        "question": "Where are plasmids commonly found?",
+        "answer": "In prokaryotic cells, especially bacteria."
+      },
+      {
+        "question": "Are plasmids part of the main bacterial chromosome?",
+        "answer": "No, plasmids are separate from the main circular DNA molecule."
+      },
+      {
+        "question": "What type of genes are typically carried by plasmids?",
+        "answer": "Non-essential genes."
+      },
+      {
+        "question": "What does it mean that plasmids carry non-essential genes?",
+        "answer": "The genes are not required for basic survival but may provide advantages."
+      },
+      {
+        "question": "How can plasmids be transferred between bacterial cells?",
+        "answer": "Through conjugation."
+      },
+      {
+        "question": "What is conjugation?",
+        "answer": "The transfer of genetic material, including plasmids, between bacterial cells."
+      },
+      {
+        "question": "Why are plasmids important in bacterial populations?",
+        "answer": "They allow useful genes to spread rapidly between cells."
+      },
+      {
+        "question": "Can plasmids replicate independently of the bacterial chromosome?",
+        "answer": "Yes."
+      },
+      {
+        "question": "How do plasmids contribute to genetic variation in bacteria?",
+        "answer": "They can be exchanged between cells and introduce new genes."
+      },
+      {
+        "question": "Are plasmids found in all cells?",
+        "answer": "No, they are mainly associated with prokaryotes."
+      },
+      {
+        "question": "How do plasmids differ from the main bacterial DNA molecule?",
+        "answer": "They are smaller, circular DNA molecules separate from the chromosome."
+      }
+    ]
+  },
+
+  {
+    "topic": "Flagella",
+    "flashcards": [
+      {
+        "question": "What is a flagellum?",
+        "answer": "A tail-like structure used for movement."
+      },
+      {
+        "question": "What is the plural of flagellum?",
+        "answer": "Flagella."
+      },
+      {
+        "question": "What is the primary function of a flagellum?",
+        "answer": "To propel a cell through its environment."
+      },
+      {
+        "question": "In prokaryotes, how does a flagellum generate movement?",
+        "answer": "By rotating like a propeller."
+      },
+      {
+        "question": "What role do flagella play in prokaryotic cells?",
+        "answer": "They provide locomotion."
+      },
+      {
+        "question": "Why is movement beneficial to prokaryotes?",
+        "answer": "It helps them move toward favorable conditions and away from harmful ones."
+      },
+      {
+        "question": "Are flagella found in all prokaryotic cells?",
+        "answer": "No, only some prokaryotic cells possess flagella."
+      },
+      {
+        "question": "How would the movement of a prokaryote be affected if its flagellum stopped functioning?",
+        "answer": "It would lose or greatly reduce its ability to move."
+      },
+      {
+        "question": "What structure is described in the specification as a rotating tail?",
+        "answer": "The flagellum."
+      },
+      {
+        "question": "What type of organism is most commonly propelled by a flagellum?",
+        "answer": "A unicellular organism."
+      },
+      {
+        "question": "How does a flagellum help a bacterium survive?",
+        "answer": "It enables the bacterium to move to environments with more favorable conditions."
+      },
+      {
+        "question": "What is the relationship between flagella and locomotion?",
+        "answer": "Flagella are specialized structures that provide cellular movement."
+      }
+    ]
+  },
+
+  {
+    "topic": "ATP, ATP Synthase, and Energy Transfer",
+    "flashcards": [
+      {
+        "question": "What does ATP stand for?",
+        "answer": "Adenosine triphosphate."
+      },
+      {
+        "question": "What is ATP often described as?",
+        "answer": "The energy currency of the cell."
+      },
+      {
+        "question": "Why is ATP important?",
+        "answer": "It provides energy for cellular processes."
+      },
+      {
+        "question": "Which organelle produces most ATP in eukaryotic cells?",
+        "answer": "The mitochondrion."
+      },
+      {
+        "question": "Which cellular process produces ATP in mitochondria?",
+        "answer": "Cellular respiration."
+      },
+      {
+        "question": "What molecule is used as a fuel source during cellular respiration?",
+        "answer": "Glucose."
+      },
+      {
+        "question": "What enzyme synthesizes ATP?",
+        "answer": "ATP synthase."
+      },
+      {
+        "question": "What reaction does ATP synthase catalyze?",
+        "answer": "The condensation of ADP and inorganic phosphate (Pi) to form ATP."
+      },
+      {
+        "question": "What molecules combine to form ATP?",
+        "answer": "ADP and inorganic phosphate (Pi)."
+      },
+      {
+        "question": "What does ADP stand for?",
+        "answer": "Adenosine diphosphate."
+      },
+      {
+        "question": "What does Pi represent in ATP synthesis?",
+        "answer": "Inorganic phosphate."
+      },
+      {
+        "question": "During which major biological processes does ATP synthase produce ATP?",
+        "answer": "Respiration and photosynthesis."
+      },
+      {
+        "question": "How is ATP related to cellular work?",
+        "answer": "It supplies the energy needed for biological activities."
+      },
+      {
+        "question": "Why is ATP called an energy currency?",
+        "answer": "Because energy can be stored in ATP and transferred to cellular processes when needed."
+      },
+      {
+        "question": "How are photosynthesis and respiration linked through ATP production?",
+        "answer": "Both processes use ATP synthase to generate ATP."
+      },
+      {
+        "question": "What would happen if cells could not produce ATP efficiently?",
+        "answer": "Many essential cellular processes would slow or stop due to lack of energy."
+      }
+    ]
+  },
+  {
+    "topic": "Pathway of Protein Secretion",
+    "flashcards": [
+      {
+        "question": "Where do the instructions for making a protein originate?",
+        "answer": "In DNA located within the nucleus."
+      },
+      {
+        "question": "Which organelle contains the DNA instructions for protein production?",
+        "answer": "The nucleus."
+      },
+      {
+        "question": "Which cellular structure synthesizes proteins?",
+        "answer": "Ribosomes."
+      },
+      {
+        "question": "Which ribosomes are commonly involved in producing proteins for secretion?",
+        "answer": "Ribosomes attached to the rough endoplasmic reticulum."
+      },
+      {
+        "question": "What role does the rough endoplasmic reticulum play in protein secretion?",
+        "answer": "It processes and transports newly synthesized proteins."
+      },
+      {
+        "question": "How do proteins move from the rough ER to the Golgi apparatus?",
+        "answer": "In transport vesicles."
+      },
+      {
+        "question": "What happens to proteins in the Golgi apparatus?",
+        "answer": "They are modified, sorted, and packaged."
+      },
+      {
+        "question": "How does the Golgi apparatus determine a protein's destination?",
+        "answer": "It sorts proteins and packages them into specific vesicles."
+      },
+      {
+        "question": "What transports proteins from the Golgi apparatus to the cell membrane?",
+        "answer": "Golgi-derived vesicles."
+      },
+      {
+        "question": "What is secretion?",
+        "answer": "The release of substances from a cell."
+      },
+      {
+        "question": "How are proteins released outside the cell?",
+        "answer": "A vesicle fuses with the cell membrane and releases its contents."
+      },
+      {
+        "question": "What is the correct sequence of protein secretion?",
+        "answer": "DNA → Ribosome → Rough ER → Transport Vesicle → Golgi Apparatus → Secretory Vesicle → Cell Membrane → Outside Cell."
+      },
+      {
+        "question": "Why are vesicles important in protein secretion?",
+        "answer": "They transport proteins between organelles and to the cell surface."
+      },
+      {
+        "question": "Which organelles work together during protein secretion?",
+        "answer": "The nucleus, ribosomes, rough ER, Golgi apparatus, vesicles, and cell membrane."
+      }
+    ]
+  }
+
+  
+]

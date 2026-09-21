@@ -1,0 +1,2232 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following best describes gene therapy?",
+    "options": [
+      "The use of viruses to destroy all body cells",
+      "A method that uses genes to treat or help prevent disease",
+      "The use of antibiotics against viral infections",
+      "A process that prevents protein synthesis"
+    ],
+    "answer": "A method that uses genes to treat or help prevent disease"
+  },
+  {
+    "id": 2,
+    "question": "How can viruses be used in gene therapy?",
+    "options": [
+      "They can act as vectors that deliver genetic material into target cells",
+      "They can directly synthesize proteins",
+      "They replace mitochondria in diseased cells",
+      "They produce ATP for damaged tissues"
+    ],
+    "answer": "They can act as vectors that deliver genetic material into target cells"
+  },
+  {
+    "id": 3,
+    "question": "What is a viral vector?",
+    "options": [
+      "A molecule that destroys DNA",
+      "A modified virus used to transport genetic material into cells",
+      "A bacterial plasmid",
+      "A type of ribosome"
+    ],
+    "answer": "A modified virus used to transport genetic material into cells"
+  },
+  {
+    "id": 4,
+    "question": "Why are viruses useful as delivery vehicles in gene therapy?",
+    "options": [
+      "They naturally enter cells and deliver genetic material",
+      "They generate ATP inside cells",
+      "They synthesize antibodies",
+      "They replace nuclei in damaged cells"
+    ],
+    "answer": "They naturally enter cells and deliver genetic material"
+  },
+  {
+    "id": 5,
+    "question": "What is biological pest control?",
+    "options": [
+      "The use of synthetic pesticides only",
+      "The removal of all insect species from ecosystems",
+      "The use of living organisms or biological agents to control pests",
+      "The application of antibiotics to crops"
+    ],
+    "answer": "The use of living organisms or biological agents to control pests"
+  },
+  {
+    "id": 6,
+    "question": "How can viruses contribute to pest control?",
+    "options": [
+      "By increasing insect reproduction",
+      "By infecting and killing specific pest species",
+      "By stimulating photosynthesis",
+      "By producing plant hormones"
+    ],
+    "answer": "By infecting and killing specific pest species"
+  },
+  {
+    "id": 7,
+    "question": "Which virus was mentioned as a potential biological control agent?",
+    "options": [
+      "Influenza virus",
+      "Human Immunodeficiency Virus",
+      "Nuclear Polyhedrosis Virus",
+      "Coronavirus"
+    ],
+    "answer": "Nuclear Polyhedrosis Virus"
+  },
+  {
+    "id": 8,
+    "question": "What is a major advantage of viral pest control?",
+    "options": [
+      "It can target specific pest species",
+      "It sterilizes all organisms in an ecosystem",
+      "It eliminates the need for monitoring crops",
+      "It guarantees zero ecological impact"
+    ],
+    "answer": "It can target specific pest species"
+  },
+  {
+    "id": 9,
+    "question": "Why must ecological effects be considered when using viral pesticides?",
+    "options": [
+      "Viruses always infect all species equally",
+      "Biological control agents can affect ecosystems",
+      "Viruses cannot survive outside laboratories",
+      "Plants become bacteria"
+    ],
+    "answer": "Biological control agents can affect ecosystems"
+  },
+  {
+    "id": 10,
+    "question": "What is the first source of information for producing a secreted protein?",
+    "options": [
+      "The Golgi apparatus",
+      "DNA in the nucleus",
+      "The lysosome",
+      "The plasma membrane"
+    ],
+    "answer": "DNA in the nucleus"
+  },
+  {
+    "id": 11,
+    "question": "Which structure directly synthesizes proteins?",
+    "options": [
+      "Ribosomes",
+      "Golgi apparatus",
+      "Vacuoles",
+      "Flagella"
+    ],
+    "answer": "Ribosomes"
+  },
+  {
+    "id": 12,
+    "question": "Which ribosomes are commonly involved in producing proteins for secretion?",
+    "options": [
+      "Ribosomes on rough ER",
+      "Ribosomes in chloroplasts",
+      "Ribosomes in lysosomes",
+      "Ribosomes in plasmids"
+    ],
+    "answer": "Ribosomes on rough ER"
+  },
+  {
+    "id": 13,
+    "question": "What is a primary role of the rough endoplasmic reticulum during protein secretion?",
+    "options": [
+      "DNA replication",
+      "Protein processing and transport",
+      "ATP production",
+      "Cell division"
+    ],
+    "answer": "Protein processing and transport"
+  },
+  {
+    "id": 14,
+    "question": "How do proteins move from the rough ER to the Golgi apparatus?",
+    "options": [
+      "Through plasmids",
+      "Via transport vesicles",
+      "By diffusion through DNA",
+      "Using centrioles"
+    ],
+    "answer": "Via transport vesicles"
+  },
+  {
+    "id": 15,
+    "question": "What is the main function of the Golgi apparatus in protein secretion?",
+    "options": [
+      "Protein degradation",
+      "Chromosome separation",
+      "Protein modification, sorting, and packaging",
+      "Photosynthesis"
+    ],
+    "answer": "Protein modification, sorting, and packaging"
+  },
+  {
+    "id": 16,
+    "question": "What structure transports proteins from the Golgi apparatus to the cell surface?",
+    "options": [
+      "Golgi-derived vesicles",
+      "Nuclear pores",
+      "Cell walls",
+      "Centrioles"
+    ],
+    "answer": "Golgi-derived vesicles"
+  },
+  {
+    "id": 17,
+    "question": "What is secretion?",
+    "options": [
+      "DNA replication",
+      "The release of substances from a cell",
+      "The digestion of proteins",
+      "The formation of ATP"
+    ],
+    "answer": "The release of substances from a cell"
+  },
+  {
+    "id": 18,
+    "question": "How are proteins released from the cell?",
+    "options": [
+      "The nucleus bursts",
+      "A vesicle fuses with the cell membrane",
+      "The ribosome exits the cell",
+      "The chloroplast transports them"
+    ],
+    "answer": "A vesicle fuses with the cell membrane"
+  },
+  {
+    "id": 19,
+    "question": "Which sequence correctly describes the pathway of a secreted protein?",
+    "options": [
+      "DNA → Ribosome → Rough ER → Golgi Apparatus → Vesicle → Cell Membrane",
+      "DNA → Golgi → Nucleus → Ribosome",
+      "Cell Membrane → DNA → Ribosome",
+      "Lysosome → Rough ER → Nucleus"
+    ],
+    "answer": "DNA → Ribosome → Rough ER → Golgi Apparatus → Vesicle → Cell Membrane"
+  },
+  {
+    "id": 20,
+    "question": "Why are vesicles important in protein secretion?",
+    "options": [
+      "They produce ATP",
+      "They transport proteins between organelles",
+      "They contain chromosomes",
+      "They synthesize lipids"
+    ],
+    "answer": "They transport proteins between organelles"
+  },
+  {
+    "id": 21,
+    "question": "Why are viruses referred to as particles rather than cells?",
+    "options": [
+      "They are acellular",
+      "They possess too many organelles",
+      "They contain chloroplasts",
+      "They have cell walls made of murein"
+    ],
+    "answer": "They are acellular"
+  },
+  {
+    "id": 22,
+    "question": "What does the term 'acellular' mean?",
+    "options": [
+      "Contains many cells",
+      "Made entirely of proteins",
+      "Not composed of cells",
+      "Lacks DNA"
+    ],
+    "answer": "Not composed of cells"
+  },
+  {
+    "id": 23,
+    "question": "Which cellular component is absent from viruses?",
+    "options": [
+      "Capsid",
+      "Genetic material",
+      "Cytoplasm",
+      "Protein"
+    ],
+    "answer": "Cytoplasm"
+  },
+  {
+    "id": 24,
+    "question": "Do viruses contain ribosomes?",
+    "options": [
+      "No",
+      "Only RNA viruses",
+      "Only animal viruses",
+      "Only bacteriophages"
+    ],
+    "answer": "No"
+  },
+  {
+    "id": 25,
+    "question": "Do viruses possess membrane-bound organelles?",
+    "options": [
+      "Only enveloped viruses",
+      "Yes",
+      "Only DNA viruses",
+      "No"
+    ],
+    "answer": "No"
+  },
+  {
+    "id": 26,
+    "question": "Can viruses carry out metabolism independently?",
+    "options": [
+      "Only outside host cells",
+      "No",
+      "Only bacteriophages",
+      "Only RNA viruses"
+    ],
+    "answer": "No"
+  },
+  {
+    "id": 27,
+    "question": "Why can't viruses reproduce independently?",
+    "options": [
+      "They lack the cellular machinery required for replication",
+      "They do not contain genetic material",
+      "They have too many organelles",
+      "They cannot enter host cells"
+    ],
+    "answer": "They lack the cellular machinery required for replication"
+  },
+  {
+    "id": 28,
+    "question": "What do viruses rely on for replication?",
+    "options": [
+      "The machinery of host cells",
+      "ATP synthase alone",
+      "Mitochondria inside the virus",
+      "Their own ribosomes"
+    ],
+    "answer": "The machinery of host cells"
+  },
+  {
+    "id": 29,
+    "question": "What is one important similarity between viruses and cells?",
+    "options": [
+      "Both contain genetic material",
+      "Both possess organelles",
+      "Both perform metabolism independently",
+      "Both contain cytoplasm"
+    ],
+    "answer": "Both contain genetic material"
+  },
+  {
+    "id": 30,
+    "question": "Why can viruses not be classified as either prokaryotes or eukaryotes?",
+    "options": [
+      "They have no DNA",
+      "They are not cells",
+      "They are too small",
+      "They contain only proteins"
+    ],
+    "answer": "They are not cells"
+  },
+
+  {
+    "id": 1,
+    "question": "What is another name for the cell-surface membrane?",
+    "options": ["Cell wall", "Plasma membrane", "Nuclear membrane", "Capsid"],
+    "answer": "Plasma membrane"
+  },
+  {
+    "id": 2,
+    "question": "Which cells possess a cell membrane?",
+    "options": ["Only prokaryotic cells", "Only eukaryotic cells", "All cells", "Only plant cells"],
+    "answer": "All cells"
+  },
+  {
+    "id": 3,
+    "question": "What is the primary function of the cell membrane?",
+    "options": ["ATP production", "Protein synthesis", "Control of substance movement into and out of the cell", "Photosynthesis"],
+    "answer": "Control of substance movement into and out of the cell"
+  },
+  {
+    "id": 4,
+    "question": "The cell membrane helps maintain which condition within the cell?",
+    "options": ["Mutation", "Homeostasis", "Mitosis", "Replication"],
+    "answer": "Homeostasis"
+  },
+  {
+    "id": 5,
+    "question": "What does selectively permeable mean?",
+    "options": ["Allows all substances through", "Blocks all substances", "Allows some substances through but not others", "Only allows water through"],
+    "answer": "Allows some substances through but not others"
+  },
+  {
+    "id": 6,
+    "question": "Which structure in the membrane may help substances cross it?",
+    "options": ["Chromosomes", "Membrane proteins", "Ribosomes", "Centrioles"],
+    "answer": "Membrane proteins"
+  },
+  {
+    "id": 7,
+    "question": "Why is the cell membrane essential for survival?",
+    "options": ["It controls the internal environment", "It contains DNA", "It performs photosynthesis", "It produces ribosomes"],
+    "answer": "It controls the internal environment"
+  },
+  {
+    "id": 8,
+    "question": "Which process is most directly affected by the cell membrane?",
+    "options": ["Transport of substances", "Chromosome duplication", "Protein folding", "Cell specialization"],
+    "answer": "Transport of substances"
+  },
+  {
+    "id": 9,
+    "question": "Which structure forms the boundary between the cell and its surroundings?",
+    "options": ["Golgi apparatus", "Cell membrane", "Nucleus", "Vacuole"],
+    "answer": "Cell membrane"
+  },
+  {
+    "id": 10,
+    "question": "Loss of a cell membrane would most likely result in:",
+    "options": ["Faster protein synthesis", "Cell death", "Increased photosynthesis", "More plasmids"],
+    "answer": "Cell death"
+  },
+
+  {
+    "id": 1,
+    "question": "What is another name for the cell-surface membrane?",
+    "options": ["Cell wall", "Plasma membrane", "Nuclear membrane", "Capsid"],
+    "answer": "Plasma membrane"
+  },
+  {
+    "id": 2,
+    "question": "Which cells possess a cell membrane?",
+    "options": ["Only prokaryotic cells", "Only eukaryotic cells", "All cells", "Only plant cells"],
+    "answer": "All cells"
+  },
+  {
+    "id": 3,
+    "question": "What is the primary function of the cell membrane?",
+    "options": ["ATP production", "Protein synthesis", "Control of substance movement into and out of the cell", "Photosynthesis"],
+    "answer": "Control of substance movement into and out of the cell"
+  },
+  {
+    "id": 4,
+    "question": "The cell membrane helps maintain which condition within the cell?",
+    "options": ["Mutation", "Homeostasis", "Mitosis", "Replication"],
+    "answer": "Homeostasis"
+  },
+  {
+    "id": 5,
+    "question": "What does selectively permeable mean?",
+    "options": ["Allows all substances through", "Blocks all substances", "Allows some substances through but not others", "Only allows water through"],
+    "answer": "Allows some substances through but not others"
+  },
+  {
+    "id": 6,
+    "question": "Which structure in the membrane may help substances cross it?",
+    "options": ["Chromosomes", "Membrane proteins", "Ribosomes", "Centrioles"],
+    "answer": "Membrane proteins"
+  },
+  {
+    "id": 7,
+    "question": "Why is the cell membrane essential for survival?",
+    "options": ["It controls the internal environment", "It contains DNA", "It performs photosynthesis", "It produces ribosomes"],
+    "answer": "It controls the internal environment"
+  },
+  {
+    "id": 8,
+    "question": "Which process is most directly affected by the cell membrane?",
+    "options": ["Transport of substances", "Chromosome duplication", "Protein folding", "Cell specialization"],
+    "answer": "Transport of substances"
+  },
+  {
+    "id": 9,
+    "question": "Which structure forms the boundary between the cell and its surroundings?",
+    "options": ["Golgi apparatus", "Cell membrane", "Nucleus", "Vacuole"],
+    "answer": "Cell membrane"
+  },
+  {
+    "id": 10,
+    "question": "Loss of a cell membrane would most likely result in:",
+    "options": ["Faster protein synthesis", "Cell death", "Increased photosynthesis", "More plasmids"],
+    "answer": "Cell death"
+  },
+
+
+  {
+    "id": 1,
+    "question": "What is a primary function of the cell wall?",
+    "options": ["ATP production", "Mechanical support", "Protein synthesis", "DNA storage"],
+    "answer": "Mechanical support"
+  },
+  {
+    "id": 2,
+    "question": "Which cells definitely possess a cell wall?",
+    "options": ["Animal cells", "Most prokaryotic cells", "Red blood cells", "Helper T cells"],
+    "answer": "Most prokaryotic cells"
+  },
+  {
+    "id": 3,
+    "question": "Plant cell walls also help with:",
+    "options": ["Photosynthesis only", "DNA replication", "Shape maintenance", "Cell division only"],
+    "answer": "Shape maintenance"
+  },
+  {
+    "id": 4,
+    "question": "What substance is found in prokaryotic cell walls?",
+    "options": ["Cellulose", "Chitin", "Murein", "ATP synthase"],
+    "answer": "Murein"
+  },
+  {
+    "id": 5,
+    "question": "Which cells lack a cell wall?",
+    "options": ["Plant cells", "Many bacteria", "Animal cells", "Fungal cells"],
+    "answer": "Animal cells"
+  },
+  {
+    "id": 6,
+    "question": "The cell wall acts as a physical barrier against:",
+    "options": ["ATP", "Pathogens", "Ribosomes", "Chromosomes"],
+    "answer": "Pathogens"
+  },
+  {
+    "id": 7,
+    "question": "In plants, the cell wall contributes to which pathway?",
+    "options": ["Lytic pathway", "Apoplast pathway", "Lysogenic pathway", "Respiration pathway"],
+    "answer": "Apoplast pathway"
+  },
+  {
+    "id": 8,
+    "question": "What is a major difference between the cell wall and cell membrane?",
+    "options": ["Only the wall provides structural support", "Only the membrane contains DNA", "The wall performs respiration", "The membrane performs photosynthesis"],
+    "answer": "Only the wall provides structural support"
+  },
+  {
+    "id": 9,
+    "question": "What advantage does a cell wall provide?",
+    "options": ["Gene transcription", "Additional protection", "ATP production", "Protein folding"],
+    "answer": "Additional protection"
+  },
+  {
+    "id": 10,
+    "question": "Which statement about cell walls is correct?",
+    "options": ["All cells have one", "Only plant cells have one", "They help maintain shape and support", "They contain chromosomes"],
+    "answer": "They help maintain shape and support"
+  },
+
+  {
+    "id": 1,
+    "question": "What is the cytoplasm?",
+    "options": ["Material inside a cell surrounding organelles", "DNA inside the nucleus", "Cell wall material", "Protein coat of a virus"],
+    "answer": "Material inside a cell surrounding organelles"
+  },
+  {
+    "id": 2,
+    "question": "Which cells contain cytoplasm?",
+    "options": ["Only eukaryotic cells", "Only prokaryotic cells", "Both prokaryotic and eukaryotic cells", "Only plant cells"],
+    "answer": "Both prokaryotic and eukaryotic cells"
+  },
+  {
+    "id": 3,
+    "question": "What is cytosol?",
+    "options": ["Jelly-like fluid component of the cytoplasm", "Cell wall material", "Genetic material", "Proteins in ribosomes"],
+    "answer": "Jelly-like fluid component of the cytoplasm"
+  },
+  {
+    "id": 4,
+    "question": "Which structure supports the cell and its organelles?",
+    "options": ["Capsid", "Cytoskeleton", "Golgi apparatus", "Nucleolus"],
+    "answer": "Cytoskeleton"
+  },
+  {
+    "id": 5,
+    "question": "The cytoskeleton is primarily composed of:",
+    "options": ["Chromosomes", "Fibers", "Sugars", "Lipids only"],
+    "answer": "Fibers"
+  },
+  {
+    "id": 6,
+    "question": "Besides support, the cytoskeleton is involved in:",
+    "options": ["Photosynthesis", "Cell movement", "DNA replication", "Virus formation"],
+    "answer": "Cell movement"
+  },
+  {
+    "id": 7,
+    "question": "In a eukaryotic cell, cytoplasm is often described as:",
+    "options": ["Everything outside the cell", "Everything inside the cell except the nucleus", "Just the nucleus", "Just the cytoskeleton"],
+    "answer": "Everything inside the cell except the nucleus"
+  },
+  {
+    "id": 8,
+    "question": "What is a major role of cytoplasm?",
+    "options": ["Supporting organelles", "Containing chromosomes", "Producing ATP", "Making ribosomes"],
+    "answer": "Supporting organelles"
+  },
+  {
+    "id": 9,
+    "question": "The cytoskeleton helps maintain:",
+    "options": ["Cell structure", "Virus replication", "Genetic mutation", "Transcription only"],
+    "answer": "Cell structure"
+  },
+  {
+    "id": 10,
+    "question": "Which component provides a medium in which organelles are suspended?",
+    "options": ["Cell wall", "Cytoplasm", "Plasmid", "Flagellum"],
+    "answer": "Cytoplasm"
+  },
+
+  {
+    "id": 1,
+    "question": "What is the cytoplasm?",
+    "options": ["Material inside a cell surrounding organelles", "DNA inside the nucleus", "Cell wall material", "Protein coat of a virus"],
+    "answer": "Material inside a cell surrounding organelles"
+  },
+  {
+    "id": 2,
+    "question": "Which cells contain cytoplasm?",
+    "options": ["Only eukaryotic cells", "Only prokaryotic cells", "Both prokaryotic and eukaryotic cells", "Only plant cells"],
+    "answer": "Both prokaryotic and eukaryotic cells"
+  },
+  {
+    "id": 3,
+    "question": "What is cytosol?",
+    "options": ["Jelly-like fluid component of the cytoplasm", "Cell wall material", "Genetic material", "Proteins in ribosomes"],
+    "answer": "Jelly-like fluid component of the cytoplasm"
+  },
+  {
+    "id": 4,
+    "question": "Which structure supports the cell and its organelles?",
+    "options": ["Capsid", "Cytoskeleton", "Golgi apparatus", "Nucleolus"],
+    "answer": "Cytoskeleton"
+  },
+  {
+    "id": 5,
+    "question": "The cytoskeleton is primarily composed of:",
+    "options": ["Chromosomes", "Fibers", "Sugars", "Lipids only"],
+    "answer": "Fibers"
+  },
+  {
+    "id": 6,
+    "question": "Besides support, the cytoskeleton is involved in:",
+    "options": ["Photosynthesis", "Cell movement", "DNA replication", "Virus formation"],
+    "answer": "Cell movement"
+  },
+  {
+    "id": 7,
+    "question": "In a eukaryotic cell, cytoplasm is often described as:",
+    "options": ["Everything outside the cell", "Everything inside the cell except the nucleus", "Just the nucleus", "Just the cytoskeleton"],
+    "answer": "Everything inside the cell except the nucleus"
+  },
+  {
+    "id": 8,
+    "question": "What is a major role of cytoplasm?",
+    "options": ["Supporting organelles", "Containing chromosomes", "Producing ATP", "Making ribosomes"],
+    "answer": "Supporting organelles"
+  },
+  {
+    "id": 9,
+    "question": "The cytoskeleton helps maintain:",
+    "options": ["Cell structure", "Virus replication", "Genetic mutation", "Transcription only"],
+    "answer": "Cell structure"
+  },
+  {
+    "id": 10,
+    "question": "Which component provides a medium in which organelles are suspended?",
+    "options": ["Cell wall", "Cytoplasm", "Plasmid", "Flagellum"],
+    "answer": "Cytoplasm"
+  },
+
+  {
+    "id": 1,
+    "question": "What is the main function of ribosomes?",
+    "options": ["Protein synthesis", "ATP production", "Photosynthesis", "DNA storage"],
+    "answer": "Protein synthesis"
+  },
+  {
+    "id": 2,
+    "question": "Which cells contain ribosomes?",
+    "options": ["Only eukaryotes", "Only prokaryotes", "Both prokaryotes and eukaryotes", "Viruses only"],
+    "answer": "Both prokaryotes and eukaryotes"
+  },
+  {
+    "id": 3,
+    "question": "Are ribosomes membrane-bound organelles?",
+    "options": ["Yes", "Only in plants", "Only in animals", "No"],
+    "answer": "No"
+  },
+  {
+    "id": 4,
+    "question": "Where can ribosomes be found?",
+    "options": ["Only in the nucleus", "Free in cytoplasm or attached to rough ER", "Only in mitochondria", "Only in chloroplasts"],
+    "answer": "Free in cytoplasm or attached to rough ER"
+  },
+  {
+    "id": 5,
+    "question": "What instructions do ribosomes use to make proteins?",
+    "options": ["Cell wall instructions", "Genetic information encoded in DNA", "ATP molecules", "Lipids"],
+    "answer": "Genetic information encoded in DNA"
+  },
+  {
+    "id": 6,
+    "question": "Which ribosomes are associated with protein secretion?",
+    "options": ["Attached to rough ER", "Nuclear ribosomes", "Plasmid ribosomes", "Lysosomal ribosomes"],
+    "answer": "Attached to rough ER"
+  },
+  {
+    "id": 7,
+    "question": "Compared with eukaryotic ribosomes, prokaryotic ribosomes are:",
+    "options": ["Larger", "Smaller", "Identical in size", "Absent"],
+    "answer": "Smaller"
+  },
+  {
+    "id": 8,
+    "question": "Which structure in the nucleus is responsible for ribosome assembly?",
+    "options": ["Golgi body", "Nucleolus", "Centriole", "Flagellum"],
+    "answer": "Nucleolus"
+  },
+  {
+    "id": 9,
+    "question": "What would be most directly affected if ribosomes stopped functioning?",
+    "options": ["Protein production", "Cell wall formation", "DNA storage", "Homeostasis only"],
+    "answer": "Protein production"
+  },
+  {
+    "id": 10,
+    "question": "Why are ribosomes essential to cells?",
+    "options": ["Proteins are required for most cellular structures and functions", "They produce DNA", "They create nuclei", "They store ATP"],
+    "answer": "Proteins are required for most cellular structures and functions"
+  },
+
+  {
+    "id": 1,
+    "question": "What does ER stand for?",
+    "options": ["Endoplasmic Reticulum", "External Ribosome Region", "Energy Regulation Ring", "Enzyme Reaction Region"],
+    "answer": "Endoplasmic Reticulum"
+  },
+  {
+    "id": 2,
+    "question": "In which type of cells is the endoplasmic reticulum found?",
+    "options": ["Viruses", "Prokaryotic cells", "Eukaryotic cells", "Bacteriophages only"],
+    "answer": "Eukaryotic cells"
+  },
+  {
+    "id": 3,
+    "question": "Why is the ER sometimes described as a cellular highway?",
+    "options": ["It stores DNA", "It transports materials through the cell", "It produces ATP", "It controls mitosis"],
+    "answer": "It transports materials through the cell"
+  },
+  {
+    "id": 4,
+    "question": "Which two forms of ER exist in eukaryotic cells?",
+    "options": ["Primary and secondary ER", "Rough and smooth ER", "Inner and outer ER", "Animal and plant ER"],
+    "answer": "Rough and smooth ER"
+  },
+  {
+    "id": 5,
+    "question": "Why does rough ER appear rough?",
+    "options": ["It contains ribosomes", "It contains DNA", "It has pores", "It contains chlorophyll"],
+    "answer": "It contains ribosomes"
+  },
+  {
+    "id": 6,
+    "question": "Which process is strongly associated with rough ER?",
+    "options": ["Photosynthesis", "Protein synthesis and transport", "Cell division", "ATP production"],
+    "answer": "Protein synthesis and transport"
+  },
+  {
+    "id": 7,
+    "question": "What distinguishes smooth ER from rough ER?",
+    "options": ["Smooth ER lacks ribosomes", "Smooth ER contains DNA", "Smooth ER produces chromosomes", "Smooth ER forms the nucleus"],
+    "answer": "Smooth ER lacks ribosomes"
+  },
+  {
+    "id": 8,
+    "question": "What important function is carried out by smooth ER?",
+    "options": ["Protein translation", "Detoxification", "Chromosome replication", "Cell locomotion"],
+    "answer": "Detoxification"
+  },
+  {
+    "id": 9,
+    "question": "Which molecules can be synthesized by smooth ER?",
+    "options": ["DNA", "ATP", "Lipids", "Chromosomes"],
+    "answer": "Lipids"
+  },
+  {
+    "id": 10,
+    "question": "Where are vesicles from the ER commonly transported?",
+    "options": ["Golgi apparatus", "Cell wall", "Nucleolus", "Centrosome"],
+    "answer": "Golgi apparatus"
+  },
+
+  {
+    "id": 1,
+    "question": "What is the primary function of the Golgi apparatus?",
+    "options": ["ATP production", "Modification, sorting, and packaging of molecules", "DNA replication", "Photosynthesis"],
+    "answer": "Modification, sorting, and packaging of molecules"
+  },
+  {
+    "id": 2,
+    "question": "The Golgi apparatus is found in:",
+    "options": ["Viruses", "Prokaryotes only", "Eukaryotic cells", "Bacteria only"],
+    "answer": "Eukaryotic cells"
+  },
+  {
+    "id": 3,
+    "question": "What organelle commonly sends materials to the Golgi apparatus?",
+    "options": ["Centrioles", "Endoplasmic reticulum", "Cell wall", "Nucleus"],
+    "answer": "Endoplasmic reticulum"
+  },
+  {
+    "id": 4,
+    "question": "How do materials travel from the ER to the Golgi apparatus?",
+    "options": ["Flagella", "Nuclear pores", "Transport vesicles", "Chromosomes"],
+    "answer": "Transport vesicles"
+  },
+  {
+    "id": 5,
+    "question": "Why is the Golgi apparatus often called a packaging center?",
+    "options": ["It stores ATP", "It packages molecules for transport", "It builds ribosomes", "It produces lipids"],
+    "answer": "It packages molecules for transport"
+  },
+  {
+    "id": 6,
+    "question": "What are Golgi vesicles?",
+    "options": ["DNA-containing structures", "Transport vesicles associated with the Golgi", "Cell wall pores", "ATP-producing compartments"],
+    "answer": "Transport vesicles associated with the Golgi"
+  },
+  {
+    "id": 7,
+    "question": "What can enzymes in the Golgi apparatus do?",
+    "options": ["Modify molecules", "Produce chromosomes", "Form plasmids", "Destroy nuclei"],
+    "answer": "Modify molecules"
+  },
+  {
+    "id": 8,
+    "question": "Which process is assisted by the Golgi apparatus?",
+    "options": ["Cell secretion", "Cell division only", "Photosynthesis only", "DNA replication only"],
+    "answer": "Cell secretion"
+  },
+  {
+    "id": 9,
+    "question": "What happens after molecules are sorted in the Golgi apparatus?",
+    "options": ["They are directed to specific destinations", "They are converted into DNA", "They become ribosomes", "They leave the organism"],
+    "answer": "They are directed to specific destinations"
+  },
+  {
+    "id": 10,
+    "question": "Which organelle works most closely with the Golgi apparatus in protein processing?",
+    "options": ["Endoplasmic reticulum", "Vacuole", "Lysosome", "Cell wall"],
+    "answer": "Endoplasmic reticulum"
+  },
+
+  {
+    "id": 1,
+    "question": "What are lysosomes?",
+    "options": ["Membrane-bound organelles containing digestive enzymes", "ATP-producing organelles", "Protein-making structures", "Photosynthetic organelles"],
+    "answer": "Membrane-bound organelles containing digestive enzymes"
+  },
+  {
+    "id": 2,
+    "question": "Which cells most commonly contain lysosomes?",
+    "options": ["Animal cells", "Viruses", "Bacteria only", "All prokaryotes"],
+    "answer": "Animal cells"
+  },
+  {
+    "id": 3,
+    "question": "What type of enzymes are found in lysosomes?",
+    "options": ["Hydrolytic enzymes", "Respiratory enzymes only", "Photosynthetic enzymes", "DNA polymerases only"],
+    "answer": "Hydrolytic enzymes"
+  },
+  {
+    "id": 4,
+    "question": "What is the main role of lysosomes?",
+    "options": ["Digestion of cellular materials", "ATP synthesis", "Protein secretion", "Chromosome movement"],
+    "answer": "Digestion of cellular materials"
+  },
+  {
+    "id": 5,
+    "question": "Why are lysosomes often called the recycling centers of the cell?",
+    "options": ["They break down worn-out structures", "They produce ATP", "They store water", "They synthesize DNA"],
+    "answer": "They break down worn-out structures"
+  },
+  {
+    "id": 6,
+    "question": "How can lysosomes help defend cells?",
+    "options": ["By digesting pathogens", "By producing antibodies", "By building membranes", "By creating plasmids"],
+    "answer": "By digesting pathogens"
+  },
+  {
+    "id": 7,
+    "question": "Why are lysosomes membrane-bound?",
+    "options": ["To prevent digestive enzymes damaging the cell", "To store ATP", "To keep DNA safe", "To allow mitosis"],
+    "answer": "To prevent digestive enzymes damaging the cell"
+  },
+  {
+    "id": 8,
+    "question": "What might lysosomes digest?",
+    "options": ["Damaged organelles", "Waste products", "Foreign substances", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "id": 9,
+    "question": "What would happen if lysosomal enzymes leaked extensively into the cytoplasm?",
+    "options": ["Cellular damage could occur", "Photosynthesis would increase", "ATP production would stop immediately", "The nucleus would disappear"],
+    "answer": "Cellular damage could occur"
+  },
+  {
+    "id": 10,
+    "question": "Why are lysosomes important for cell maintenance?",
+    "options": ["They remove waste and damaged components", "They perform respiration", "They build ribosomes", "They control transcription"],
+    "answer": "They remove waste and damaged components"
+  },
+
+  {
+    "id": 1,
+    "question": "What is the primary function of mitochondria?",
+    "options": ["ATP production", "Protein synthesis", "Photosynthesis", "DNA storage"],
+    "answer": "ATP production"
+  },
+  {
+    "id": 2,
+    "question": "What is the singular form of mitochondria?",
+    "options": ["Mitochondrion", "Mitochondrium", "Mitochondral", "Mitochondrite"],
+    "answer": "Mitochondrion"
+  },
+  {
+    "id": 3,
+    "question": "Which cells contain mitochondria?",
+    "options": ["Most eukaryotic cells", "Viruses only", "Bacteria only", "All prokaryotes"],
+    "answer": "Most eukaryotic cells"
+  },
+  {
+    "id": 4,
+    "question": "Which process occurs in mitochondria?",
+    "options": ["Cellular respiration", "Protein translation", "Mitosis", "DNA replication"],
+    "answer": "Cellular respiration"
+  },
+  {
+    "id": 5,
+    "question": "Why are mitochondria called the powerhouse of the cell?",
+    "options": ["They generate most ATP", "They contain chromosomes", "They make ribosomes", "They secrete proteins"],
+    "answer": "They generate most ATP"
+  },
+  {
+    "id": 6,
+    "question": "What fuel molecule is commonly used during cellular respiration?",
+    "options": ["Glucose", "Cellulose", "DNA", "RNA"],
+    "answer": "Glucose"
+  },
+  {
+    "id": 7,
+    "question": "Why is oxygen important for efficient ATP production?",
+    "options": ["It enables aerobic respiration", "It creates ribosomes", "It forms chromosomes", "It produces plasmids"],
+    "answer": "It enables aerobic respiration"
+  },
+  {
+    "id": 8,
+    "question": "What is ATP?",
+    "options": ["Energy currency of the cell", "Digestive enzyme", "Structural protein", "Cell wall component"],
+    "answer": "Energy currency of the cell"
+  },
+  {
+    "id": 9,
+    "question": "What are mitochondrial disorders?",
+    "options": ["Diseases resulting from mitochondrial dysfunction", "Viral infections", "Cell wall diseases", "DNA mutations only"],
+    "answer": "Diseases resulting from mitochondrial dysfunction"
+  },
+  {
+    "id": 10,
+    "question": "Cells with high energy demands generally contain:",
+    "options": ["Many mitochondria", "Few ribosomes", "No nucleus", "Many plasmids"],
+    "answer": "Many mitochondria"
+  },
+
+  {
+    "id": 1,
+    "question": "What is the main function of chloroplasts?",
+    "options": ["Photosynthesis", "ATP production only", "Protein secretion", "DNA replication"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "id": 2,
+    "question": "Which cells typically contain chloroplasts?",
+    "options": ["Plant cells", "Animal cells", "Bacterial cells", "Viruses"],
+    "answer": "Plant cells"
+  },
+  {
+    "id": 3,
+    "question": "Are chloroplasts found in animal cells?",
+    "options": ["No", "Yes", "Only in muscle cells", "Only in blood cells"],
+    "answer": "No"
+  },
+  {
+    "id": 4,
+    "question": "What does photosynthesis produce?",
+    "options": ["Glucose", "Chromosomes", "Proteins", "Plasmids"],
+    "answer": "Glucose"
+  },
+  {
+    "id": 5,
+    "question": "What energy source drives photosynthesis?",
+    "options": ["Light energy", "ATP only", "Heat only", "Water only"],
+    "answer": "Light energy"
+  },
+  {
+    "id": 6,
+    "question": "Why do chloroplasts appear green?",
+    "options": ["They contain chlorophyll", "They contain ATP", "They contain DNA", "They contain ribosomes only"],
+    "answer": "They contain chlorophyll"
+  },
+  {
+    "id": 7,
+    "question": "What is the main light-capturing pigment in chloroplasts?",
+    "options": ["Chlorophyll", "Hemoglobin", "Cellulose", "Keratin"],
+    "answer": "Chlorophyll"
+  },
+  {
+    "id": 8,
+    "question": "How are chloroplasts and mitochondria linked?",
+    "options": ["Chloroplasts produce glucose used by mitochondria", "They are the same organelle", "Both perform mitosis", "Both make ribosomes"],
+    "answer": "Chloroplasts produce glucose used by mitochondria"
+  },
+  {
+    "id": 9,
+    "question": "What type of organism relies on chloroplasts to manufacture food?",
+    "options": ["Plants", "Animals", "Fungi", "Viruses"],
+    "answer": "Plants"
+  },
+  {
+    "id": 10,
+    "question": "Why are chloroplasts essential in plants?",
+    "options": ["They convert light energy into chemical energy", "They digest waste", "They perform cell division", "They store chromosomes"],
+    "answer": "They convert light energy into chemical energy"
+  },
+
+  {
+    "id": 1,
+    "question": "What is the primary function of a vacuole?",
+    "options": ["Storage of substances", "ATP synthesis", "Protein production", "Cell division"],
+    "answer": "Storage of substances"
+  },
+  {
+    "id": 2,
+    "question": "In which types of cells are vacuoles found?",
+    "options": ["Only plant cells", "Only animal cells", "Both plant and animal cells", "Viruses only"],
+    "answer": "Both plant and animal cells"
+  },
+  {
+    "id": 3,
+    "question": "What is the large vacuole found in most plant cells called?",
+    "options": ["Storage vacuole", "Central vacuole", "Primary vacuole", "Golgi vacuole"],
+    "answer": "Central vacuole"
+  },
+  {
+    "id": 4,
+    "question": "How do animal cell vacuoles typically compare with plant cell vacuoles?",
+    "options": ["One large vacuole", "Smaller and more numerous", "Absent entirely", "Larger than plant vacuoles"],
+    "answer": "Smaller and more numerous"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following may be stored in vacuoles?",
+    "options": ["Water", "Proteins", "Waste products", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "id": 6,
+    "question": "How does the central vacuole contribute to plant structure?",
+    "options": ["Maintains turgor pressure", "Produces ATP", "Synthesizes proteins", "Stores DNA"],
+    "answer": "Maintains turgor pressure"
+  },
+  {
+    "id": 7,
+    "question": "What is turgor pressure?",
+    "options": ["Pressure exerted by water inside plant cells", "Pressure generated by mitochondria", "Pressure within the nucleus", "Pressure in blood vessels"],
+    "answer": "Pressure exerted by water inside plant cells"
+  },
+  {
+    "id": 8,
+    "question": "Why are vacuoles considered storage organelles?",
+    "options": ["They contain genetic material", "They store useful and waste substances", "They produce enzymes", "They transport proteins"],
+    "answer": "They store useful and waste substances"
+  },
+  {
+    "id": 9,
+    "question": "How can vacuoles assist in waste management?",
+    "options": ["By storing waste products", "By digesting DNA", "By producing ATP", "By assembling ribosomes"],
+    "answer": "By storing waste products"
+  },
+  {
+    "id": 10,
+    "question": "Why do vacuoles differ in size and contents?",
+    "options": ["They depend on cell type and function", "They always contain water only", "They are identical in all cells", "They contain chromosomes"],
+    "answer": "They depend on cell type and function"
+  },
+
+
+  {
+    "id": 1,
+    "question": "What is the primary function of centrioles?",
+    "options": ["Organizing microtubules during cell division", "ATP production", "Protein synthesis", "Photosynthesis"],
+    "answer": "Organizing microtubules during cell division"
+  },
+  {
+    "id": 2,
+    "question": "Centrioles are most commonly found in:",
+    "options": ["Animal cells", "Plant cells", "Viruses", "Bacterial cells"],
+    "answer": "Animal cells"
+  },
+  {
+    "id": 3,
+    "question": "Where are centrioles located?",
+    "options": ["Within the centrosome", "Inside mitochondria", "Within chloroplasts", "Inside vacuoles"],
+    "answer": "Within the centrosome"
+  },
+  {
+    "id": 4,
+    "question": "How many centrioles are typically found within a centrosome?",
+    "options": ["Four", "One", "Two", "Eight"],
+    "answer": "Two"
+  },
+  {
+    "id": 5,
+    "question": "Centrioles are closely associated with which process?",
+    "options": ["Cell division", "Photosynthesis", "Protein secretion", "Respiration"],
+    "answer": "Cell division"
+  },
+  {
+    "id": 6,
+    "question": "What structures do centrioles help organize?",
+    "options": ["Spindle fibers", "Ribosomes", "Golgi vesicles", "Lysosomes"],
+    "answer": "Spindle fibers"
+  },
+  {
+    "id": 7,
+    "question": "What role do spindle fibers play?",
+    "options": ["Move chromosomes during cell division", "Produce ATP", "Store proteins", "Digest pathogens"],
+    "answer": "Move chromosomes during cell division"
+  },
+  {
+    "id": 8,
+    "question": "Why are centrioles important in mitosis?",
+    "options": ["They help ensure chromosome separation", "They replicate DNA", "They synthesize proteins", "They maintain turgor pressure"],
+    "answer": "They help ensure chromosome separation"
+  },
+  {
+    "id": 9,
+    "question": "What might occur if centrioles malfunction during cell division?",
+    "options": ["Incorrect chromosome distribution", "Faster photosynthesis", "More ATP production", "Increased secretion"],
+    "answer": "Incorrect chromosome distribution"
+  },
+  {
+    "id": 10,
+    "question": "Which cellular structure contains centrioles?",
+    "options": ["Centrosome", "Nucleus", "Golgi apparatus", "Cell membrane"],
+    "answer": "Centrosome"
+  },
+
+  {
+    "id": 1,
+    "question": "According to modern cell theory, what is the smallest living unit?",
+    "options": ["The organelle", "The cell", "The atom", "The tissue"],
+    "answer": "The cell"
+  },
+  {
+    "id": 2,
+    "question": "According to cell theory, all living things are made of:",
+    "options": ["Proteins", "Cells", "Organelles", "DNA only"],
+    "answer": "Cells"
+  },
+  {
+    "id": 3,
+    "question": "How many cells can an organism have according to cell theory?",
+    "options": ["One or more cells", "Exactly one cell", "Exactly one billion cells", "At least one million cells"],
+    "answer": "One or more cells"
+  },
+  {
+    "id": 4,
+    "question": "Where do new cells come from according to modern cell theory?",
+    "options": ["Spontaneous generation", "Pre-existing cells", "Viruses", "Organic molecules"],
+    "answer": "Pre-existing cells"
+  },
+  {
+    "id": 5,
+    "question": "What is a unicellular organism?",
+    "options": ["An organism made of one cell", "An organism without DNA", "An organism made of tissues", "An organism with no nucleus"],
+    "answer": "An organism made of one cell"
+  },
+  {
+    "id": 6,
+    "question": "Humans are classified as:",
+    "options": ["Unicellular", "Prokaryotic", "Multicellular", "Acellular"],
+    "answer": "Multicellular"
+  },
+  {
+    "id": 7,
+    "question": "Which organism mentioned in the notes is unicellular?",
+    "options": ["Human", "Oak tree", "Amoeba", "Mushroom"],
+    "answer": "Amoeba"
+  },
+  {
+    "id": 8,
+    "question": "Cell theory provides the basis for understanding:",
+    "options": ["The organization of living things", "Planetary motion", "Atomic structure", "Weather systems"],
+    "answer": "The organization of living things"
+  },
+  {
+    "id": 9,
+    "question": "Which statement is part of modern cell theory?",
+    "options": ["All cells arise from pre-existing cells", "All cells have a cell wall", "All organisms are unicellular", "All cells contain chloroplasts"],
+    "answer": "All cells arise from pre-existing cells"
+  },
+  {
+    "id": 10,
+    "question": "Cell theory helps explain tissue growth because:",
+    "options": ["New cells are produced from existing cells", "Cells appear spontaneously", "Viruses form tissues", "Organelles become organisms"],
+    "answer": "New cells are produced from existing cells"
+  },
+
+  {
+    "id": 1,
+    "question": "What is a specialised cell?",
+    "options": ["A cell adapted for a specific function", "A cell without DNA", "A cell with no organelles", "A virus"],
+    "answer": "A cell adapted for a specific function"
+  },
+  {
+    "id": 2,
+    "question": "Why do cells become specialised?",
+    "options": ["To perform particular functions efficiently", "To stop dividing", "To avoid metabolism", "To become viruses"],
+    "answer": "To perform particular functions efficiently"
+  },
+  {
+    "id": 3,
+    "question": "What is a tissue?",
+    "options": ["A group of similar cells performing a function", "A collection of organs", "A single specialised cell", "A group of organelles"],
+    "answer": "A group of similar cells performing a function"
+  },
+  {
+    "id": 4,
+    "question": "What is an organ?",
+    "options": ["Several tissues working together", "A collection of organelles", "One specialised cell", "A membrane-bound structure"],
+    "answer": "Several tissues working together"
+  },
+  {
+    "id": 5,
+    "question": "What is an organ system?",
+    "options": ["A group of organs working together", "A group of cells", "A collection of tissues only", "A set of chromosomes"],
+    "answer": "A group of organs working together"
+  },
+  {
+    "id": 6,
+    "question": "Which hierarchy is correct?",
+    "options": ["Cell → Tissue → Organ → Organ System", "Cell → Organ → Tissue → Organ System", "Tissue → Cell → Organ → System", "Organ → Cell → Tissue → System"],
+    "answer": "Cell → Tissue → Organ → Organ System"
+  },
+  {
+    "id": 7,
+    "question": "Groups of specialised cells form:",
+    "options": ["Tissues", "Organelles", "Chromosomes", "Viruses"],
+    "answer": "Tissues"
+  },
+  {
+    "id": 8,
+    "question": "Different tissue types combine to form:",
+    "options": ["Organs", "Cells", "Plasmids", "Capsids"],
+    "answer": "Organs"
+  },
+  {
+    "id": 9,
+    "question": "Division of labour in organisms means:",
+    "options": ["Different cells perform different functions", "All cells perform the same tasks", "Only organs function", "No specialization occurs"],
+    "answer": "Different cells perform different functions"
+  },
+  {
+    "id": 10,
+    "question": "Specialised cells have adaptations that:",
+    "options": ["Enable specific functions", "Prevent metabolism", "Remove DNA", "Produce viruses"],
+    "answer": "Enable specific functions"
+  },
+
+  {
+    "id": 1,
+    "question": "What is mitosis?",
+    "options": ["A type of cell division producing identical cells", "Protein synthesis", "ATP production", "Photosynthesis"],
+    "answer": "A type of cell division producing identical cells"
+  },
+  {
+    "id": 2,
+    "question": "How many daughter cells are produced by mitosis?",
+    "options": ["One", "Two", "Four", "Eight"],
+    "answer": "Two"
+  },
+  {
+    "id": 3,
+    "question": "The daughter cells produced by mitosis are:",
+    "options": ["Genetically identical", "Genetically unrelated", "Always mutated", "Always haploid"],
+    "answer": "Genetically identical"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is a purpose of mitosis?",
+    "options": ["Growth", "Tissue repair", "Cell replacement", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "id": 5,
+    "question": "How does mitosis contribute to growth?",
+    "options": ["Increases cell number", "Decreases cell number", "Removes DNA", "Produces ATP"],
+    "answer": "Increases cell number"
+  },
+  {
+    "id": 6,
+    "question": "How does mitosis help tissue repair?",
+    "options": ["Replaces damaged cells", "Creates plasmids", "Produces chlorophyll", "Breaks down proteins"],
+    "answer": "Replaces damaged cells"
+  },
+  {
+    "id": 7,
+    "question": "Why must DNA replicate before mitosis?",
+    "options": ["Each daughter cell needs a full copy of genetic information", "To produce ATP", "To form ribosomes", "To digest pathogens"],
+    "answer": "Each daughter cell needs a full copy of genetic information"
+  },
+  {
+    "id": 8,
+    "question": "Which structures help separate chromosomes during mitosis?",
+    "options": ["Spindle fibers", "Vacuoles", "Lysosomes", "Capsids"],
+    "answer": "Spindle fibers"
+  },
+  {
+    "id": 9,
+    "question": "What role do centrioles play in mitosis?",
+    "options": ["Organize spindle fibers", "Store DNA", "Produce ATP", "Digest waste"],
+    "answer": "Organize spindle fibers"
+  },
+  {
+    "id": 10,
+    "question": "Incorrect chromosome distribution during mitosis would result in:",
+    "options": ["Abnormal daughter cells", "Increased photosynthesis", "More ATP production", "Additional plasmids"],
+    "answer": "Abnormal daughter cells"
+  },
+
+  {
+    "id": 1,
+    "question": "Which organisms are classified as prokaryotes?",
+    "options": ["Animals and plants", "Bacteria and Archaea", "Fungi and protists", "Viruses and fungi"],
+    "answer": "Bacteria and Archaea"
+  },
+  {
+    "id": 2,
+    "question": "Do prokaryotic cells contain a nucleus?",
+    "options": ["Only some do", "No", "Yes", "Only during reproduction"],
+    "answer": "No"
+  },
+  {
+    "id": 3,
+    "question": "Where is the DNA found in a prokaryotic cell?",
+    "options": ["In a nucleus", "Inside mitochondria", "Free in the cytoplasm", "Inside ribosomes"],
+    "answer": "Free in the cytoplasm"
+  },
+  {
+    "id": 4,
+    "question": "What is the structure of the main DNA molecule in prokaryotes?",
+    "options": ["Linear chromosome", "Single circular DNA molecule", "Multiple chromosomes", "RNA molecule"],
+    "answer": "Single circular DNA molecule"
+  },
+  {
+    "id": 5,
+    "question": "Do prokaryotic cells contain membrane-bound organelles?",
+    "options": ["Yes", "Only ribosomes", "No", "Only in bacteria"],
+    "answer": "No"
+  },
+  {
+    "id": 6,
+    "question": "How do prokaryotic ribosomes compare with eukaryotic ribosomes?",
+    "options": ["They are smaller", "They are larger", "They are absent", "They are identical"],
+    "answer": "They are smaller"
+  },
+  {
+    "id": 7,
+    "question": "What substance is present in the cell wall of most prokaryotes?",
+    "options": ["Cellulose", "Chitin", "Murein", "Keratin"],
+    "answer": "Murein"
+  },
+  {
+    "id": 8,
+    "question": "Most prokaryotes are:",
+    "options": ["Multicellular", "Acellular", "Unicellular", "Colonial only"],
+    "answer": "Unicellular"
+  },
+  {
+    "id": 9,
+    "question": "Which structures are found in prokaryotic cells?",
+    "options": ["DNA, ribosomes, cytoplasm and cell membrane", "Chloroplasts and nucleus", "Golgi apparatus and ER", "Mitochondria and nucleus"],
+    "answer": "DNA, ribosomes, cytoplasm and cell membrane"
+  },
+  {
+    "id": 10,
+    "question": "Compared with eukaryotic cells, prokaryotic cells are generally:",
+    "options": ["Larger", "More complex", "Smaller", "Multinucleate"],
+    "answer": "Smaller"
+  },
+
+
+  {
+    "id": 1,
+    "question": "What is a defining feature of eukaryotic cells?",
+    "options": ["Presence of a nucleus", "Absence of DNA", "Presence of murein", "Lack of organelles"],
+    "answer": "Presence of a nucleus"
+  },
+  {
+    "id": 2,
+    "question": "Which groups are eukaryotes?",
+    "options": ["Animals, plants, fungi and protists", "Bacteria only", "Archaea only", "Viruses"],
+    "answer": "Animals, plants, fungi and protists"
+  },
+  {
+    "id": 3,
+    "question": "Where is DNA located in eukaryotic cells?",
+    "options": ["Cytoplasm", "Ribosome", "Nucleus", "Golgi apparatus"],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 4,
+    "question": "Do eukaryotic cells contain membrane-bound organelles?",
+    "options": ["No", "Only plant cells", "Yes", "Only animal cells"],
+    "answer": "Yes"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is a membrane-bound organelle?",
+    "options": ["Ribosome", "Mitochondrion", "Plasmid", "Flagellum"],
+    "answer": "Mitochondrion"
+  },
+  {
+    "id": 6,
+    "question": "Eukaryotic cells are generally _____ than prokaryotic cells.",
+    "options": ["Smaller", "Less complex", "Larger and more complex", "Identical in structure"],
+    "answer": "Larger and more complex"
+  },
+  {
+    "id": 7,
+    "question": "Can eukaryotes be unicellular?",
+    "options": ["No", "Only fungi", "Yes", "Only plants"],
+    "answer": "Yes"
+  },
+  {
+    "id": 8,
+    "question": "Which organelle controls cellular activities in eukaryotes?",
+    "options": ["Golgi apparatus", "Nucleus", "Lysosome", "Vacuole"],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 9,
+    "question": "Which organelle is present in plant cells but absent from animal cells?",
+    "options": ["Mitochondrion", "Nucleus", "Chloroplast", "Golgi apparatus"],
+    "answer": "Chloroplast"
+  },
+  {
+    "id": 10,
+    "question": "The word 'eukaryote' helps remind students that these cells:",
+    "options": ["Do have membrane-bound organelles", "Lack DNA", "Lack ribosomes", "Lack membranes"],
+    "answer": "Do have membrane-bound organelles"
+  },
+
+  {
+    "id": 1,
+    "question": "Which structure is present in eukaryotic cells but absent in prokaryotic cells?",
+    "options": ["Cell membrane", "Ribosome", "Nucleus", "Cytoplasm"],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 2,
+    "question": "Both prokaryotic and eukaryotic cells contain:",
+    "options": ["Chloroplasts", "DNA", "Golgi apparatus", "Mitochondria"],
+    "answer": "DNA"
+  },
+  {
+    "id": 3,
+    "question": "Which cell type contains membrane-bound organelles?",
+    "options": ["Prokaryotic", "Eukaryotic", "Both equally", "Neither"],
+    "answer": "Eukaryotic"
+  },
+  {
+    "id": 4,
+    "question": "Which structures are found in both cell types?",
+    "options": ["DNA, ribosomes, cytoplasm and cell membrane", "Mitochondria and nucleus", "ER and Golgi", "Chloroplasts and vacuoles"],
+    "answer": "DNA, ribosomes, cytoplasm and cell membrane"
+  },
+  {
+    "id": 5,
+    "question": "How is prokaryotic DNA organized?",
+    "options": ["Inside a nucleus", "As a circular DNA molecule in the cytoplasm", "In chloroplasts", "In mitochondria"],
+    "answer": "As a circular DNA molecule in the cytoplasm"
+  },
+  {
+    "id": 6,
+    "question": "How is eukaryotic DNA organized?",
+    "options": ["As plasmids only", "As RNA", "As linear chromosomes in a nucleus", "Free in cytoplasm"],
+    "answer": "As linear chromosomes in a nucleus"
+  },
+  {
+    "id": 7,
+    "question": "Which cell type generally has smaller ribosomes?",
+    "options": ["Eukaryotic", "Prokaryotic", "Plant only", "Animal only"],
+    "answer": "Prokaryotic"
+  },
+  {
+    "id": 8,
+    "question": "Animal cells differ from most prokaryotic cells because animal cells:",
+    "options": ["Have a nucleus", "Lack DNA", "Lack ribosomes", "Lack cytoplasm"],
+    "answer": "Have a nucleus"
+  },
+  {
+    "id": 9,
+    "question": "Which statement is true?",
+    "options": ["All cells have cell walls", "All cells have chloroplasts", "Both cell types have cell membranes", "Only prokaryotes contain DNA"],
+    "answer": "Both cell types have cell membranes"
+  },
+  {
+    "id": 10,
+    "question": "Which type of cell is usually more structurally complex?",
+    "options": ["Prokaryotic", "Eukaryotic", "Both equal", "Neither"],
+    "answer": "Eukaryotic"
+  },
+
+  {
+    "id": 1,
+    "question": "What is a virus?",
+    "options": ["A unicellular organism", "An acellular infectious particle", "A eukaryotic cell", "A prokaryotic cell"],
+    "answer": "An acellular infectious particle"
+  },
+  {
+    "id": 2,
+    "question": "Why are viruses not classified as cells?",
+    "options": ["They are too large", "They are acellular", "They contain DNA", "They have membranes"],
+    "answer": "They are acellular"
+  },
+  {
+    "id": 3,
+    "question": "Viruses are generally _____ than cells.",
+    "options": ["Larger", "The same size", "Much smaller", "Identical"],
+    "answer": "Much smaller"
+  },
+  {
+    "id": 4,
+    "question": "Which microscope is typically needed to view viruses?",
+    "options": ["Light microscope", "Dissecting microscope", "Electron microscope", "Hand lens"],
+    "answer": "Electron microscope"
+  },
+  {
+    "id": 5,
+    "question": "Do viruses reproduce independently?",
+    "options": ["Yes", "Only RNA viruses", "No", "Only bacteriophages"],
+    "answer": "No"
+  },
+  {
+    "id": 6,
+    "question": "What type of organism must a virus infect to reproduce?",
+    "options": ["A host cell", "A plasmid", "A capsid", "A ribosome"],
+    "answer": "A host cell"
+  },
+  {
+    "id": 7,
+    "question": "Why are antibiotics ineffective against viruses?",
+    "options": ["Viruses lack the cellular structures targeted by antibiotics", "Viruses are too large", "Viruses produce antibiotics", "Viruses contain chloroplasts"],
+    "answer": "Viruses lack the cellular structures targeted by antibiotics"
+  },
+  {
+    "id": 8,
+    "question": "Which statement about viruses is correct?",
+    "options": ["All scientists agree they are living", "They are prokaryotic cells", "Their status as living is debated", "They contain nuclei"],
+    "answer": "Their status as living is debated"
+  },
+  {
+    "id": 9,
+    "question": "A virus that infects bacteria is called a:",
+    "options": ["Protist", "Bacteriophage", "Plasmid", "Prion"],
+    "answer": "Bacteriophage"
+  },
+  {
+    "id": 10,
+    "question": "Why are viruses called obligate intracellular parasites?",
+    "options": ["They only live in soil", "They require host cells to reproduce", "They produce ATP independently", "They contain organelles"],
+    "answer": "They require host cells to reproduce"
+  },
+
+  {
+    "id": 1,
+    "question": "What genetic material can a virus contain?",
+    "options": ["DNA or RNA", "DNA and RNA together always", "Proteins only", "ATP"],
+    "answer": "DNA or RNA"
+  },
+  {
+    "id": 2,
+    "question": "What is a capsid?",
+    "options": ["A protein coat surrounding viral genetic material", "A viral enzyme", "A host cell receptor", "A membrane-bound organelle"],
+    "answer": "A protein coat surrounding viral genetic material"
+  },
+  {
+    "id": 3,
+    "question": "What is the main function of the capsid?",
+    "options": ["ATP production", "Protection of viral genetic material", "Photosynthesis", "Protein synthesis"],
+    "answer": "Protection of viral genetic material"
+  },
+  {
+    "id": 4,
+    "question": "Capsomeres are:",
+    "options": ["Protein subunits of the capsid", "Viral chromosomes", "Host receptors", "Types of RNA"],
+    "answer": "Protein subunits of the capsid"
+  },
+  {
+    "id": 5,
+    "question": "Do viruses contain cytoplasm?",
+    "options": ["Yes", "Only large viruses", "No", "Only RNA viruses"],
+    "answer": "No"
+  },
+  {
+    "id": 6,
+    "question": "Which structure may surround some viruses in addition to a capsid?",
+    "options": ["Cell wall", "Flagellum", "Envelope", "Nucleolus"],
+    "answer": "Envelope"
+  },
+  {
+    "id": 7,
+    "question": "Some viruses carry enzymes such as:",
+    "options": ["ATP synthase", "Reverse transcriptase", "Amylase", "Catalase"],
+    "answer": "Reverse transcriptase"
+  },
+  {
+    "id": 8,
+    "question": "Do viruses contain membrane-bound organelles?",
+    "options": ["Always", "Sometimes", "No", "Only bacteriophages"],
+    "answer": "No"
+  },
+  {
+    "id": 9,
+    "question": "What is the minimum structure of a simple virus?",
+    "options": ["Genetic material and capsid", "Nucleus and DNA", "ER and Golgi", "Cell wall and membrane"],
+    "answer": "Genetic material and capsid"
+  },
+  {
+    "id": 10,
+    "question": "What feature do all viruses share?",
+    "options": ["Genetic material", "Cytoplasm", "Ribosomes", "Nucleus"],
+    "answer": "Genetic material"
+  },
+
+  {
+    "id": 1,
+    "question": "What is meant by host specificity in viruses?",
+    "options": ["Viruses infect only particular hosts or cell types", "Viruses infect every organism equally", "Viruses only infect bacteria", "Viruses only infect humans"],
+    "answer": "Viruses infect only particular hosts or cell types"
+  },
+  {
+    "id": 2,
+    "question": "Why can a virus infect only certain cells?",
+    "options": ["Because of compatible cell receptors", "Because of ATP availability", "Because of cell size", "Because of chromosome number"],
+    "answer": "Because of compatible cell receptors"
+  },
+  {
+    "id": 3,
+    "question": "What is a receptor in viral infection?",
+    "options": ["A molecule on the cell surface that a virus binds to", "A viral enzyme", "A protein coat", "A chromosome"],
+    "answer": "A molecule on the cell surface that a virus binds to"
+  },
+  {
+    "id": 4,
+    "question": "Why is attachment important for a virus?",
+    "options": ["It is required for infection to begin", "It produces ATP", "It creates ribosomes", "It copies chromosomes"],
+    "answer": "It is required for infection to begin"
+  },
+  {
+    "id": 5,
+    "question": "After entering a host cell, a virus typically:",
+    "options": ["Uses the cell's machinery to reproduce", "Forms a nucleus", "Produces mitochondria", "Builds a cell wall"],
+    "answer": "Uses the cell's machinery to reproduce"
+  },
+  {
+    "id": 6,
+    "question": "Why are living cells essential for viral replication?",
+    "options": ["They provide replication machinery", "They provide chloroplasts", "They provide cell walls", "They provide plasmids"],
+    "answer": "They provide replication machinery"
+  },
+  {
+    "id": 7,
+    "question": "A bacteriophage is a virus that infects:",
+    "options": ["Plants", "Animals", "Bacteria", "Fungi"],
+    "answer": "Bacteria"
+  },
+  {
+    "id": 8,
+    "question": "Do all viruses have the same shape?",
+    "options": ["No", "Yes", "Only animal viruses differ", "Only plant viruses differ"],
+    "answer": "No"
+  },
+  {
+    "id": 9,
+    "question": "What determines which cells a virus can infect?",
+    "options": ["Presence of suitable receptors", "Cell color", "Cell age", "DNA size"],
+    "answer": "Presence of suitable receptors"
+  },
+  {
+    "id": 10,
+    "question": "What makes virus-host interactions highly selective?",
+    "options": ["Specific receptor recognition", "ATP concentration", "Presence of vacuoles", "Type of ribosome"],
+    "answer": "Specific receptor recognition"
+  },
+
+  {
+    "id": 1,
+    "question": "What is the lytic cycle?",
+    "options": ["A viral cycle that destroys the host cell", "A form of mitosis", "A type of photosynthesis", "A method of protein synthesis"],
+    "answer": "A viral cycle that destroys the host cell"
+  },
+  {
+    "id": 2,
+    "question": "What is the first stage of the lytic cycle?",
+    "options": ["Virus attachment to a host cell", "Cell lysis", "Protein secretion", "Chromosome replication"],
+    "answer": "Virus attachment to a host cell"
+  },
+  {
+    "id": 3,
+    "question": "How does a virus commonly attach to a host cell?",
+    "options": ["By binding to receptors", "By digesting the cell wall", "By photosynthesis", "By mitosis"],
+    "answer": "By binding to receptors"
+  },
+  {
+    "id": 4,
+    "question": "What enters the host cell after viral attachment?",
+    "options": ["Viral DNA or RNA", "ATP", "Cellulose", "Ribosomes"],
+    "answer": "Viral DNA or RNA"
+  },
+  {
+    "id": 5,
+    "question": "What does the host cell begin producing after infection?",
+    "options": ["New virus components", "Chloroplasts", "Extra nuclei", "Cell walls"],
+    "answer": "New virus components"
+  },
+  {
+    "id": 6,
+    "question": "What resources are used to make new viruses?",
+    "options": ["Host cell resources", "Only viral enzymes", "Environmental glucose only", "External ATP only"],
+    "answer": "Host cell resources"
+  },
+  {
+    "id": 7,
+    "question": "What does the term 'lysis' mean?",
+    "options": ["Cell bursting", "Cell division", "Protein folding", "DNA repair"],
+    "answer": "Cell bursting"
+  },
+  {
+    "id": 8,
+    "question": "What happens to the host cell at the end of the lytic cycle?",
+    "options": ["It is destroyed", "It becomes multicellular", "It reproduces normally", "It becomes dormant"],
+    "answer": "It is destroyed"
+  },
+  {
+    "id": 9,
+    "question": "What happens to newly produced viruses after host cell lysis?",
+    "options": ["They infect new cells", "They become organelles", "They form tissues", "They become plasmids"],
+    "answer": "They infect new cells"
+  },
+  {
+    "id": 10,
+    "question": "Why is the lytic cycle harmful?",
+    "options": ["It destroys host cells during replication", "It removes ATP", "It stops DNA existing", "It eliminates ribosomes permanently"],
+    "answer": "It destroys host cells during replication"
+  },
+
+  {
+    "id": 1,
+    "question": "What characterizes the lysogenic cycle?",
+    "options": ["Viral DNA remains hidden within host DNA", "Immediate host cell destruction", "ATP overproduction", "Photosynthesis"],
+    "answer": "Viral DNA remains hidden within host DNA"
+  },
+  {
+    "id": 2,
+    "question": "How does the lysogenic cycle begin?",
+    "options": ["Viral genetic material enters the host cell", "Cell lysis", "Protein secretion", "Mitosis"],
+    "answer": "Viral genetic material enters the host cell"
+  },
+  {
+    "id": 3,
+    "question": "What happens to viral DNA during the lysogenic cycle?",
+    "options": ["It integrates with host genetic material", "It becomes ATP", "It forms ribosomes", "It leaves the cell immediately"],
+    "answer": "It integrates with host genetic material"
+  },
+  {
+    "id": 4,
+    "question": "Why is the lysogenic cycle considered hidden or dormant?",
+    "options": ["The virus remains inactive for a period", "The host cell disappears", "ATP production stops", "All DNA is destroyed"],
+    "answer": "The virus remains inactive for a period"
+  },
+  {
+    "id": 5,
+    "question": "When the host cell divides during the lysogenic cycle:",
+    "options": ["Viral DNA is copied with host DNA", "The virus dies", "The nucleus disappears", "Protein synthesis stops"],
+    "answer": "Viral DNA is copied with host DNA"
+  },
+  {
+    "id": 6,
+    "question": "Does the host cell immediately burst during the lysogenic cycle?",
+    "options": ["No", "Yes", "Only in plants", "Only in bacteria"],
+    "answer": "No"
+  },
+  {
+    "id": 7,
+    "question": "How does the lysogenic cycle differ from the lytic cycle?",
+    "options": ["The virus remains dormant initially", "No genetic material enters the cell", "No host involvement occurs", "ATP is never produced"],
+    "answer": "The virus remains dormant initially"
+  },
+  {
+    "id": 8,
+    "question": "What may eventually happen to a lysogenic virus?",
+    "options": ["It may switch to the lytic cycle", "It becomes a ribosome", "It becomes a plasmid", "It becomes a chloroplast"],
+    "answer": "It may switch to the lytic cycle"
+  },
+  {
+    "id": 9,
+    "question": "What can trigger transition from lysogenic to lytic cycle?",
+    "options": ["Environmental changes", "Cell wall growth", "Vacuole formation", "ATP synthase activity"],
+    "answer": "Environmental changes"
+  },
+  {
+    "id": 10,
+    "question": "Why can lysogenic infections spread widely before symptoms appear?",
+    "options": ["Viral DNA can be copied into many cells before activation", "They lack DNA", "The host lacks ribosomes", "The virus leaves immediately"],
+    "answer": "Viral DNA can be copied into many cells before activation"
+  },
+
+  {
+    "id": 1,
+    "question": "What does HIV stand for?",
+    "options": ["Human Immunodeficiency Virus", "Human Infection Virus", "Host Immune Vector", "Human Intracellular Virus"],
+    "answer": "Human Immunodeficiency Virus"
+  },
+  {
+    "id": 2,
+    "question": "HIV infection can lead to:",
+    "options": ["AIDS", "Influenza", "Tuberculosis", "Malaria"],
+    "answer": "AIDS"
+  },
+  {
+    "id": 3,
+    "question": "Which molecule does HIV bind to on host cells?",
+    "options": ["CD4 glycoprotein", "ATP synthase", "Cellulose", "Murein"],
+    "answer": "CD4 glycoprotein"
+  },
+  {
+    "id": 4,
+    "question": "Which cells are commonly targeted by HIV?",
+    "options": ["Helper T cells", "Red blood cells", "Plant cells", "Neurons only"],
+    "answer": "Helper T cells"
+  },
+  {
+    "id": 5,
+    "question": "Why are Helper T cells important?",
+    "options": ["They coordinate immune responses", "They perform photosynthesis", "They store ATP", "They produce murein"],
+    "answer": "They coordinate immune responses"
+  },
+  {
+    "id": 6,
+    "question": "How does HIV weaken the immune system?",
+    "options": ["By damaging Helper T cells", "By destroying chloroplasts", "By removing cell walls", "By stopping mitosis completely"],
+    "answer": "By damaging Helper T cells"
+  },
+  {
+    "id": 7,
+    "question": "Why are HIV-infected individuals more susceptible to infection?",
+    "options": ["Their immune defenses are weakened", "They lose ATP", "Their DNA disappears", "Their ribosomes stop working"],
+    "answer": "Their immune defenses are weakened"
+  },
+  {
+    "id": 8,
+    "question": "One goal of HIV treatment is to:",
+    "options": ["Reduce viral replication", "Increase chloroplast activity", "Produce more plasmids", "Eliminate ribosomes"],
+    "answer": "Reduce viral replication"
+  },
+  {
+    "id": 9,
+    "question": "Why are scientists interested in preventing HIV attachment to cells?",
+    "options": ["Without attachment infection cannot begin", "It increases ATP", "It produces antibodies directly", "It stops mitosis"],
+    "answer": "Without attachment infection cannot begin"
+  },
+  {
+    "id": 10,
+    "question": "Why is HIV difficult to treat?",
+    "options": ["It can mutate", "It contains chloroplasts", "It lacks genetic material", "It reproduces without cells"],
+    "answer": "It can mutate"
+  },
+
+  {
+    "id": 1,
+    "question": "What is a plasmid?",
+    "options": ["A small circular DNA molecule", "A ribosome", "A viral envelope", "A mitochondrion"],
+    "answer": "A small circular DNA molecule"
+  },
+  {
+    "id": 2,
+    "question": "Plasmids are most commonly found in:",
+    "options": ["Prokaryotic cells", "Animal cells", "Plant cells", "Viruses"],
+    "answer": "Prokaryotic cells"
+  },
+  {
+    "id": 3,
+    "question": "How do plasmids differ from the main bacterial chromosome?",
+    "options": ["They are separate DNA molecules", "They contain ATP", "They are proteins", "They are organelles"],
+    "answer": "They are separate DNA molecules"
+  },
+  {
+    "id": 4,
+    "question": "What type of genes are commonly carried on plasmids?",
+    "options": ["Non-essential genes", "Ribosomal genes only", "All genes required for life", "Photosynthetic genes only"],
+    "answer": "Non-essential genes"
+  },
+  {
+    "id": 5,
+    "question": "What does non-essential mean in relation to plasmid genes?",
+    "options": ["Not required for basic survival", "Not genetic", "Always harmful", "Only found in viruses"],
+    "answer": "Not required for basic survival"
+  },
+  {
+    "id": 6,
+    "question": "How can plasmids move between bacterial cells?",
+    "options": ["Conjugation", "Photosynthesis", "Mitosis", "Respiration"],
+    "answer": "Conjugation"
+  },
+  {
+    "id": 7,
+    "question": "What is conjugation?",
+    "options": ["Transfer of genetic material between bacteria", "Protein synthesis", "ATP production", "Cell death"],
+    "answer": "Transfer of genetic material between bacteria"
+  },
+  {
+    "id": 8,
+    "question": "Why are plasmids important in bacterial populations?",
+    "options": ["They spread useful genes", "They form nuclei", "They produce organelles", "They generate ATP directly"],
+    "answer": "They spread useful genes"
+  },
+  {
+    "id": 9,
+    "question": "Can plasmids replicate independently?",
+    "options": ["Yes", "No", "Only in animal cells", "Only in viruses"],
+    "answer": "Yes"
+  },
+  {
+    "id": 10,
+    "question": "Plasmids contribute to bacterial genetic variation because they:",
+    "options": ["Can be exchanged between cells", "Replace chromosomes", "Destroy DNA", "Prevent mutation"],
+    "answer": "Can be exchanged between cells"
+  },
+
+  {
+    "id": 1,
+    "question": "What is a flagellum?",
+    "options": ["A tail-like structure used for movement", "A protein-making organelle", "A DNA molecule", "A type of vesicle"],
+    "answer": "A tail-like structure used for movement"
+  },
+  {
+    "id": 2,
+    "question": "What is the plural form of flagellum?",
+    "options": ["Flagelli", "Flagella", "Flagellae", "Flagellums"],
+    "answer": "Flagella"
+  },
+  {
+    "id": 3,
+    "question": "What is the primary function of a flagellum?",
+    "options": ["ATP production", "Protein synthesis", "Locomotion", "DNA storage"],
+    "answer": "Locomotion"
+  },
+  {
+    "id": 4,
+    "question": "How does a prokaryotic flagellum typically move?",
+    "options": ["It rotates like a propeller", "It contracts like muscle", "It expands and contracts", "It remains stationary"],
+    "answer": "It rotates like a propeller"
+  },
+  {
+    "id": 5,
+    "question": "Flagella are most useful for:",
+    "options": ["Cell movement", "Chromosome replication", "Photosynthesis", "Protein packaging"],
+    "answer": "Cell movement"
+  },
+  {
+    "id": 6,
+    "question": "Why is movement advantageous to many prokaryotes?",
+    "options": ["It helps them move toward favorable environments", "It increases chromosome number", "It produces ATP directly", "It creates ribosomes"],
+    "answer": "It helps them move toward favorable environments"
+  },
+  {
+    "id": 7,
+    "question": "Are flagella present in all prokaryotic cells?",
+    "options": ["Yes", "No", "Only in Archaea", "Only in photosynthetic bacteria"],
+    "answer": "No"
+  },
+  {
+    "id": 8,
+    "question": "A cell that loses a functioning flagellum would most directly lose its ability to:",
+    "options": ["Move efficiently", "Store DNA", "Synthesize proteins", "Maintain homeostasis"],
+    "answer": "Move efficiently"
+  },
+  {
+    "id": 9,
+    "question": "Which structure is described as a rotating tail that propels cells?",
+    "options": ["Flagellum", "Pilus", "Capsid", "Centrosome"],
+    "answer": "Flagellum"
+  },
+  {
+    "id": 10,
+    "question": "Flagella are especially useful for:",
+    "options": ["Unicellular organisms", "Viruses", "Organ systems", "Tissues"],
+    "answer": "Unicellular organisms"
+  },
+
+  {
+    "id": 1,
+    "question": "What does ATP stand for?",
+    "options": ["Adenosine triphosphate", "Adenine transport protein", "Active transfer phosphate", "Amino transfer peptide"],
+    "answer": "Adenosine triphosphate"
+  },
+  {
+    "id": 2,
+    "question": "ATP is often described as the:",
+    "options": ["Energy currency of the cell", "Cell wall polymer", "Genetic code", "Respiratory enzyme"],
+    "answer": "Energy currency of the cell"
+  },
+  {
+    "id": 3,
+    "question": "What is the main function of ATP?",
+    "options": ["Providing energy for cellular processes", "Storing DNA", "Building cell walls", "Producing ribosomes"],
+    "answer": "Providing energy for cellular processes"
+  },
+  {
+    "id": 4,
+    "question": "Which organelle produces most ATP in eukaryotic cells?",
+    "options": ["Mitochondrion", "Golgi apparatus", "Nucleus", "Lysosome"],
+    "answer": "Mitochondrion"
+  },
+  {
+    "id": 5,
+    "question": "Which enzyme synthesizes ATP?",
+    "options": ["ATP synthase", "Catalase", "Reverse transcriptase", "Amylase"],
+    "answer": "ATP synthase"
+  },
+  {
+    "id": 6,
+    "question": "ATP synthase forms ATP from:",
+    "options": ["ADP and inorganic phosphate", "DNA and RNA", "Protein and lipid", "Glucose and oxygen"],
+    "answer": "ADP and inorganic phosphate"
+  },
+  {
+    "id": 7,
+    "question": "What does ADP stand for?",
+    "options": ["Adenosine diphosphate", "Adenine delivery protein", "ATP degradation pathway", "Active diffusion particle"],
+    "answer": "Adenosine diphosphate"
+  },
+  {
+    "id": 8,
+    "question": "During which processes does ATP synthase generate ATP?",
+    "options": ["Respiration and photosynthesis", "Mitosis only", "Protein synthesis only", "DNA replication only"],
+    "answer": "Respiration and photosynthesis"
+  },
+  {
+    "id": 9,
+    "question": "Why is ATP referred to as a currency?",
+    "options": ["It stores and transfers usable cellular energy", "It contains DNA", "It builds chromosomes", "It regulates mitosis"],
+    "answer": "It stores and transfers usable cellular energy"
+  },
+  {
+    "id": 10,
+    "question": "If ATP production stopped, which outcome would be most likely?",
+    "options": ["Essential cellular processes would fail", "Cells would divide faster", "Protein synthesis would increase", "More chloroplasts would form"],
+    "answer": "Essential cellular processes would fail"
+  },
+
+  {
+    "id": 1,
+    "question": "Which beneficial application of viruses was discussed in the notes?",
+    "options": ["Gene therapy", "Protein synthesis", "Cell wall formation", "Respiration"],
+    "answer": "Gene therapy"
+  },
+  {
+    "id": 2,
+    "question": "What is gene therapy?",
+    "options": ["Using genes to treat or help prevent disease", "Destroying DNA in cells", "Increasing ATP production", "Producing antibodies directly"],
+    "answer": "Using genes to treat or help prevent disease"
+  },
+  {
+    "id": 3,
+    "question": "How can viruses assist in gene therapy?",
+    "options": ["They can deliver genetic material into cells", "They replace mitochondria", "They produce cell walls", "They become organelles"],
+    "answer": "They can deliver genetic material into cells"
+  },
+  {
+    "id": 4,
+    "question": "A modified virus used to transfer genes is called a:",
+    "options": ["Viral vector", "Plasmid", "Capsomere", "Flagellum"],
+    "answer": "Viral vector"
+  },
+  {
+    "id": 5,
+    "question": "Why are viruses useful as gene-delivery systems?",
+    "options": ["They naturally enter cells", "They contain nuclei", "They perform mitosis", "They synthesize proteins independently"],
+    "answer": "They naturally enter cells"
+  },
+  {
+    "id": 6,
+    "question": "What is biological pest control?",
+    "options": ["Using living agents to control pests", "Using only chemical pesticides", "Destroying all insects", "Eliminating plant diseases only"],
+    "answer": "Using living agents to control pests"
+  },
+  {
+    "id": 7,
+    "question": "How can viruses be used in pest control?",
+    "options": ["By infecting specific pest insects", "By feeding on insects", "By producing insect hormones", "By forming cell walls"],
+    "answer": "By infecting specific pest insects"
+  },
+  {
+    "id": 8,
+    "question": "Which virus was specifically mentioned as a biological control agent?",
+    "options": ["Nuclear Polyhedrosis Virus", "HIV", "Influenza virus", "Rabies virus"],
+    "answer": "Nuclear Polyhedrosis Virus"
+  },
+  {
+    "id": 9,
+    "question": "One advantage of virus-based pest control is:",
+    "options": ["High specificity toward target pests", "Guaranteed lack of ecological effects", "Universal effect on all organisms", "ATP production"],
+    "answer": "High specificity toward target pests"
+  },
+  {
+    "id": 10,
+    "question": "Why must ecological consequences be considered before using viral pesticides?",
+    "options": ["They may affect ecosystems", "They eliminate photosynthesis", "They destroy all bacteria", "They stop ATP synthesis"],
+    "answer": "They may affect ecosystems"
+  },
+
+  {
+    "id": 1,
+    "question": "Where does the information for a secreted protein originate?",
+    "options": ["DNA in the nucleus", "Golgi apparatus", "Cell membrane", "Lysosome"],
+    "answer": "DNA in the nucleus"
+  },
+  {
+    "id": 2,
+    "question": "Which structures synthesize proteins?",
+    "options": ["Ribosomes", "Vacuoles", "Centrioles", "Cell walls"],
+    "answer": "Ribosomes"
+  },
+  {
+    "id": 3,
+    "question": "Which ribosomes are commonly involved in secretion?",
+    "options": ["Ribosomes attached to rough ER", "Ribosomes in the nucleus", "Prokaryotic ribosomes", "Free viral ribosomes"],
+    "answer": "Ribosomes attached to rough ER"
+  },
+  {
+    "id": 4,
+    "question": "What role does rough ER play in secretion?",
+    "options": ["Protein processing and transport", "ATP production", "DNA replication", "Digestion"],
+    "answer": "Protein processing and transport"
+  },
+  {
+    "id": 5,
+    "question": "How do proteins travel from rough ER to the Golgi apparatus?",
+    "options": ["Transport vesicles", "Flagella", "Chromosomes", "Nuclear pores"],
+    "answer": "Transport vesicles"
+  },
+  {
+    "id": 6,
+    "question": "What is a key function of the Golgi apparatus during protein secretion?",
+    "options": ["Modification and sorting of proteins", "ATP synthesis", "DNA storage", "Cell movement"],
+    "answer": "Modification and sorting of proteins"
+  },
+  {
+    "id": 7,
+    "question": "How are proteins moved from the Golgi apparatus to the cell surface?",
+    "options": ["Golgi-derived vesicles", "Ribosomes", "Centrioles", "Plasmids"],
+    "answer": "Golgi-derived vesicles"
+  },
+  {
+    "id": 8,
+    "question": "What is secretion?",
+    "options": ["Release of substances from a cell", "DNA replication", "Mitosis", "Photosynthesis"],
+    "answer": "Release of substances from a cell"
+  },
+  {
+    "id": 9,
+    "question": "How are proteins ultimately released from the cell?",
+    "options": ["A vesicle fuses with the cell membrane", "The nucleus opens", "The lysosome digests them", "The cell wall dissolves"],
+    "answer": "A vesicle fuses with the cell membrane"
+  },
+  {
+    "id": 10,
+    "question": "Which sequence correctly describes protein secretion?",
+    "options": [
+      "DNA → Ribosome → Rough ER → Golgi → Vesicle → Cell Membrane",
+      "Golgi → DNA → Ribosome → Cell Membrane",
+      "DNA → Lysosome → Vacuole → Secretion",
+      "Ribosome → Nucleus → Golgi → ATP"
+    ],
+    "answer": "DNA → Ribosome → Rough ER → Golgi → Vesicle → Cell Membrane"
+  },
+
+  {
+    "id": 1,
+    "question": "Why are viruses described as particles rather than cells?",
+    "options": ["They are acellular", "They are larger than cells", "They contain tissues", "They have organ systems"],
+    "answer": "They are acellular"
+  },
+  {
+    "id": 2,
+    "question": "What does acellular mean?",
+    "options": ["Not made of cells", "Made of many cells", "Containing no DNA", "Having no proteins"],
+    "answer": "Not made of cells"
+  },
+  {
+    "id": 3,
+    "question": "Do viruses contain cytoplasm?",
+    "options": ["No", "Yes", "Only some viruses", "Only RNA viruses"],
+    "answer": "No"
+  },
+  {
+    "id": 4,
+    "question": "Do viruses contain ribosomes?",
+    "options": ["No", "Yes", "Only bacteriophages", "Only animal viruses"],
+    "answer": "No"
+  },
+  {
+    "id": 5,
+    "question": "Do viruses possess membrane-bound organelles?",
+    "options": ["No", "Yes", "Only complex viruses", "Only DNA viruses"],
+    "answer": "No"
+  },
+  {
+    "id": 6,
+    "question": "Can viruses carry out metabolism independently?",
+    "options": ["No", "Yes", "Only when inside a host", "Only RNA viruses"],
+    "answer": "No"
+  },
+  {
+    "id": 7,
+    "question": "Why can't viruses reproduce independently?",
+    "options": ["They lack cellular machinery", "They lack proteins", "They have too much DNA", "They have no genetic material"],
+    "answer": "They lack cellular machinery"
+  },
+  {
+    "id": 8,
+    "question": "What do viruses use for replication?",
+    "options": ["Host cell machinery", "Their own organelles", "Their own ribosomes", "Cell walls"],
+    "answer": "Host cell machinery"
+  },
+  {
+    "id": 9,
+    "question": "What is one similarity between viruses and cells?",
+    "options": ["Both contain genetic material", "Both contain nuclei", "Both have cytoplasm", "Both perform metabolism independently"],
+    "answer": "Both contain genetic material"
+  },
+  {
+    "id": 10,
+    "question": "Why can viruses not be classified as prokaryotic or eukaryotic?",
+    "options": ["They are not cells", "They are too small", "They contain proteins", "They contain DNA"],
+    "answer": "They are not cells"
+  }
+
+]

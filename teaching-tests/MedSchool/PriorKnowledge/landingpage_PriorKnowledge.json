@@ -29,6 +29,23 @@
 		"url": "topics/biomolecules_2/mcqs_biomolecules_2.html",
 		"img": "assets/biomols-mcqs2.jpg",
 		"description": "Timed multiple-choice practice."
+	},
+
+    {
+		"id": "cellstructure-flashcards-1",
+		"title": "Cell Structure 1 :: Flashcards",
+		"url": "topics/cellstructure_1/sg_cellstructure_1.html",
+		"img": "assets/cellstructure-flashcards1.jpg",
+		"description": "Flashcards"
+	},
+	{
+		"id": "cellstructure-mcqs-1",
+		"title": "Cell Structure 1 :: Practice MCQs",
+		"url": "topics/cellstructure_1/mcqs_cellstructure_1.html",
+		"img": "assets/cellstructure-mcqs1.jpg",
+		"description": "Timed multiple-choice practice."
 	}
+
+
 ]
 }
