@@ -1,0 +1,1024 @@
+[
+  {
+    "topic": "Eyes",
+    "flashcards": [
+      {
+        "question": "What is the function of the retina?",
+        "answer": "The retina detects light and contains photoreceptor cells that convert light into nerve impulses."
+      },
+      {
+        "question": "What are the three layers of the eye from outermost to innermost?",
+        "answer": "Fibrous layer, vascular layer, and inner layer (retina)."
+      },
+      {
+        "question": "What structures make up the fibrous layer of the eye?",
+        "answer": "The cornea and sclera."
+      },
+      {
+        "question": "What is the function of the sclera?",
+        "answer": "It is the tough white outer layer of the eye that maintains eye shape and provides attachment points for extraocular muscles."
+      },
+      {
+        "question": "What is the function of the cornea?",
+        "answer": "It bends and focuses incoming light."
+      },
+      {
+        "question": "What structures make up the vascular layer of the eye?",
+        "answer": "The iris, ciliary body, and choroid."
+      },
+      {
+        "question": "What is the function of the iris?",
+        "answer": "The iris controls pupil size and therefore regulates the amount of light entering the eye."
+      },
+      {
+        "question": "What kind of muscle controls the pupil?",
+        "answer": "Smooth muscle within the iris."
+      },
+      {
+        "question": "What is the function of the ciliary body?",
+        "answer": "It produces aqueous humor and adjusts lens shape for focusing."
+      },
+      {
+        "question": "What is the role of the ciliary muscles?",
+        "answer": "They alter lens shape and focal length during accommodation."
+      },
+      {
+        "question": "What is the function of the choroid?",
+        "answer": "It supplies nutrients and oxygen to the retina through its blood vessels."
+      },
+      {
+        "question": "What are the two retinal layers in the posterior eye?",
+        "answer": "The neural layer and the pigmented layer."
+      },
+      {
+        "question": "What is the function of the neural layer of the retina?",
+        "answer": "It contains photoreceptors that detect light."
+      },
+      {
+        "question": "What is the function of the pigmented layer of the retina?",
+        "answer": "It maintains retinal health and absorbs stray light."
+      },
+      {
+        "question": "What is the fovea centralis?",
+        "answer": "The center of the macula containing the highest density of photoreceptors and providing the sharpest vision."
+      },
+      {
+        "question": "Why does the fovea provide the greatest visual acuity?",
+        "answer": "Because it contains the highest density of cone photoreceptors."
+      },
+      {
+        "question": "What is the optic disc?",
+        "answer": "The point where the optic nerve leaves the eye."
+      },
+      {
+        "question": "Why is the optic disc called the blind spot?",
+        "answer": "Because it contains no photoreceptor cells."
+      },
+      {
+        "question": "What is the vitreous body?",
+        "answer": "A transparent gel that fills the posterior chamber of the eye."
+      },
+      {
+        "question": "What is aqueous humor?",
+        "answer": "A clear fluid located in the anterior chamber between the cornea and lens."
+      },
+      {
+        "question": "What is the function of the lens?",
+        "answer": "It focuses light onto the retina by changing shape."
+      },
+      {
+        "question": "What is the pathway of light through the eye?",
+        "answer": "Cornea → pupil → lens → vitreous humor → retina."
+      },
+      {
+        "question": "What are photoreceptors?",
+        "answer": "Specialized retinal cells that detect light."
+      },
+      {
+        "question": "Where are photoreceptors located?",
+        "answer": "In the retina, particularly concentrated in the fovea."
+      },
+      {
+        "question": "What carries signals from photoreceptors to the brain?",
+        "answer": "The optic nerve."
+      },
+      {
+        "question": "What are the two types of photoreceptors?",
+        "answer": "Rods and cones."
+      },
+      {
+        "question": "What is the function of cone cells?",
+        "answer": "Color vision and high visual acuity."
+      },
+      {
+        "question": "What pigment is found in cone cells?",
+        "answer": "Iodopsin."
+      },
+      {
+        "question": "Where are cone cells most concentrated?",
+        "answer": "In the fovea."
+      },
+      {
+        "question": "Are cone cells sensitive or insensitive to low light?",
+        "answer": "They are relatively insensitive and require bright light."
+      },
+      {
+        "question": "How many types of cone cells are there?",
+        "answer": "Three types."
+      },
+      {
+        "question": "Which colors are cone cells sensitive to?",
+        "answer": "Red, green, and blue."
+      },
+      {
+        "question": "Why do cone cells provide high visual acuity?",
+        "answer": "Because each cone usually has its own synapse via a bipolar neuron to an optic sensory neuron."
+      },
+      {
+        "question": "What is the function of rod cells?",
+        "answer": "Monochromatic vision and vision in dim light."
+      },
+      {
+        "question": "What pigment is found in rod cells?",
+        "answer": "Rhodopsin."
+      },
+      {
+        "question": "Where are rod cells most concentrated?",
+        "answer": "Outside the fovea."
+      },
+      {
+        "question": "Why are rod cells sensitive to low light?",
+        "answer": "Because they contain the pigment rhodopsin."
+      },
+      {
+        "question": "Why do rod cells provide low visual acuity?",
+        "answer": "Because many rod cells share the same bipolar neuron and synapse."
+      },
+      {
+        "question": "Why must multiple rod cells often be stimulated before a signal is produced?",
+        "answer": "Because several rods converge onto the same bipolar cell."
+      },
+      {
+        "question": "Compare the visual acuity of rods and cones.",
+        "answer": "Cones provide high visual acuity because each cone has a dedicated pathway, whereas rods provide lower acuity because several rods share one pathway."
+      },
+      {
+        "question": "Compare the light sensitivity of rods and cones.",
+        "answer": "Rods are highly sensitive and function in dim light, whereas cones require bright light."
+      },
+      {
+        "question": "Compare the pigments found in rods and cones.",
+        "answer": "Rods contain rhodopsin; cones contain iodopsin."
+      },
+      {
+        "question": "Compare the retinal distribution of rods and cones.",
+        "answer": "Cones are concentrated in the fovea, while rods are concentrated outside the fovea."
+      },
+      {
+        "question": "How are differences in color vision explained by cone cells?",
+        "answer": "There are three types of cone cells, each sensitive to red, green, or blue wavelengths."
+      },
+      {
+        "question": "How are differences in light sensitivity explained by rods and cones?",
+        "answer": "Rods contain rhodopsin and are very sensitive to low light, whereas cones contain iodopsin and require brighter light."
+      },
+      {
+        "question": "How are differences in visual acuity explained by retinal wiring?",
+        "answer": "Cones have individual connections to optic neurons, while multiple rods converge onto shared pathways."
+      }
+    ]
+  },
+  
+  
+  {
+    "topic": "Nerve Impulses",
+    "flashcards": [
+      {
+        "question": "What is a stimulus?",
+        "answer": "Something that can be detected by an organism, either from the internal or external environment."
+      },
+      {
+        "question": "What is a receptor?",
+        "answer": "A specialized cell or organ that detects a stimulus."
+      },
+      {
+        "question": "What is a response?",
+        "answer": "A reaction of an organism to a detected stimulus, such as movement or a behavioral change."
+      },
+      {
+        "question": "What is a taxis?",
+        "answer": "A response involving movement in a specific direction relative to a stimulus."
+      },
+      {
+        "question": "What is positive taxis?",
+        "answer": "Movement toward a stimulus."
+      },
+      {
+        "question": "What is negative taxis?",
+        "answer": "Movement away from a stimulus."
+      },
+      {
+        "question": "What is chemotaxis?",
+        "answer": "Movement in response to a chemical stimulus."
+      },
+      {
+        "question": "What is a kinesis?",
+        "answer": "A response involving random movement where speed and frequency of direction changes increase."
+      },
+      {
+        "question": "Why does an organism exhibit kinesis?",
+        "answer": "To increase the likelihood of entering more favorable environmental conditions."
+      },
+      {
+        "question": "What is a reflex?",
+        "answer": "A rapid, automatic response to a stimulus that helps protect the organism."
+      },
+      {
+        "question": "Why are reflexes fast?",
+        "answer": "Because they bypass the brain and do not require conscious decision-making."
+      },
+      {
+        "question": "What is the pathway of a simple reflex arc?",
+        "answer": "Stimulus → Receptor → Sensory neuron → Intermediate neuron → Motor neuron → Effector → Response."
+      },
+      {
+        "question": "What is the role of a sensory neuron?",
+        "answer": "To carry nerve impulses from receptors to the central nervous system."
+      },
+      {
+        "question": "What is the role of an intermediate neuron?",
+        "answer": "To relay nerve impulses between sensory and motor neurons within the spinal cord."
+      },
+      {
+        "question": "What is the role of a motor neuron?",
+        "answer": "To carry nerve impulses from the central nervous system to an effector."
+      },
+      {
+        "question": "What is an effector?",
+        "answer": "A muscle or gland that carries out a response."
+      },
+      {
+        "question": "What are receptors?",
+        "answer": "Specialized structures that detect changes in the internal or external environment."
+      },
+      {
+        "question": "What are photoreceptors?",
+        "answer": "Receptors that detect light."
+      },
+      {
+        "question": "What are mechanoreceptors?",
+        "answer": "Receptors that detect mechanical stimuli such as pressure and vibration."
+      },
+      {
+        "question": "What is a Pacinian corpuscle?",
+        "answer": "A mechanoreceptor that detects pressure and vibrations."
+      },
+      {
+        "question": "Where are Pacinian corpuscles found?",
+        "answer": "Deep in the skin, particularly in fingers, soles of the feet, external genitalia, joints, tendons, and ligaments."
+      },
+      {
+        "question": "What is the structure of a Pacinian corpuscle?",
+        "answer": "A sensory neuron surrounded by concentric layers of connective tissue called lamellae separated by gel."
+      },
+      {
+        "question": "What type of ion channels are present in Pacinian corpuscles?",
+        "answer": "Stretch-mediated sodium ion channels."
+      },
+      {
+        "question": "What happens to a Pacinian corpuscle when pressure is applied?",
+        "answer": "The membrane deforms, stretch-mediated sodium channels open, and sodium ions enter."
+      },
+      {
+        "question": "How does a Pacinian corpuscle generate an action potential?",
+        "answer": "Sodium ions enter, causing depolarization and a generator potential that triggers an action potential."
+      },
+      {
+        "question": "What are neurons?",
+        "answer": "Specialized nerve cells that transmit electrical impulses throughout the nervous system."
+      },
+      {
+        "question": "What are the main structural components of a neuron?",
+        "answer": "Cell body, dendrites, and axon."
+      },
+      {
+        "question": "What is the function of dendrites?",
+        "answer": "To conduct impulses toward the cell body."
+      },
+      {
+        "question": "What is the function of the axon?",
+        "answer": "To conduct impulses away from the cell body."
+      },
+      {
+        "question": "What is meant by a polarized neuron?",
+        "answer": "The inside of the membrane is negatively charged relative to the outside."
+      },
+      {
+        "question": "What is the resting potential?",
+        "answer": "The voltage across the membrane of a resting neuron, typically about -70 mV."
+      },
+      {
+        "question": "Why is the inside of a resting neuron negative?",
+        "answer": "Because of unequal distributions of sodium and potassium ions across the membrane."
+      },
+      {
+        "question": "What is the role of the sodium-potassium pump?",
+        "answer": "To maintain ion gradients by actively transporting sodium out and potassium into the neuron."
+      },
+      {
+        "question": "How many sodium and potassium ions are moved by the sodium-potassium pump per cycle?",
+        "answer": "Three sodium ions are pumped out and two potassium ions are pumped in."
+      },
+      {
+        "question": "Why does the sodium-potassium pump require ATP?",
+        "answer": "Because it carries out active transport against concentration gradients."
+      },
+      {
+        "question": "Why is sodium concentration higher outside the neuron?",
+        "answer": "Because the sodium-potassium pump moves sodium ions out of the cell."
+      },
+      {
+        "question": "Why is potassium concentration higher inside the neuron?",
+        "answer": "Because the sodium-potassium pump moves potassium ions into the cell."
+      },
+      {
+        "question": "Why does potassium diffuse out of a resting neuron?",
+        "answer": "Because potassium channels are open and allow facilitated diffusion down its concentration gradient."
+      },
+      {
+        "question": "Why does the neuron membrane have low permeability to sodium at rest?",
+        "answer": "Because most sodium ion channels are closed."
+      },
+      {
+        "question": "What is an action potential?",
+        "answer": "A rapid, temporary reversal of membrane potential that travels along a neuron."
+      },
+      {
+        "question": "What is depolarization?",
+        "answer": "The process by which the membrane becomes less negative due to sodium ion influx."
+      },
+      {
+        "question": "What initiates depolarization?",
+        "answer": "Opening of sodium ion channels following stimulation."
+      },
+      {
+        "question": "What happens when sodium channels open?",
+        "answer": "Sodium ions diffuse into the neuron down their electrochemical gradient."
+      },
+      {
+        "question": "What is the threshold potential for an action potential?",
+        "answer": "Approximately -55 mV."
+      },
+      {
+        "question": "What happens when threshold is reached?",
+        "answer": "Many more voltage-gated sodium channels open, causing rapid depolarization."
+      },
+      {
+        "question": "What membrane potential is reached at peak depolarization?",
+        "answer": "Approximately +40 mV."
+      },
+      {
+        "question": "What is repolarization?",
+        "answer": "The return of membrane potential toward its resting value."
+      },
+      {
+        "question": "What causes repolarization?",
+        "answer": "Closure of sodium channels and opening of potassium channels."
+      },
+      {
+        "question": "What happens to potassium ions during repolarization?",
+        "answer": "They diffuse out of the neuron down their concentration gradient."
+      },
+      {
+        "question": "What is hyperpolarization?",
+        "answer": "A temporary state in which the membrane becomes more negative than the resting potential."
+      },
+      {
+        "question": "Why does hyperpolarization occur?",
+        "answer": "Because potassium channels close slowly and potassium continues to leave the neuron."
+      },
+      {
+        "question": "How is the resting potential restored after an action potential?",
+        "answer": "By the sodium-potassium pump re-establishing ion gradients."
+      },
+      {
+        "question": "What are ligand-gated ion channels?",
+        "answer": "Ion channels that open when a neurotransmitter or other ligand binds."
+      },
+      {
+        "question": "What are mechanically-gated ion channels?",
+        "answer": "Ion channels that open in response to physical deformation or pressure."
+      },
+      {
+        "question": "What are voltage-gated ion channels?",
+        "answer": "Ion channels that open or close in response to changes in membrane potential."
+      },
+      {
+        "question": "Which channels are mainly responsible for depolarization?",
+        "answer": "Voltage-gated sodium channels."
+      },
+      {
+        "question": "Which channels are mainly responsible for repolarization?",
+        "answer": "Voltage-gated potassium channels."
+      },
+      {
+        "question": "How does an action potential propagate along an unmyelinated axon?",
+        "answer": "Depolarization in one region triggers depolarization in the adjacent region."
+      },
+      {
+        "question": "What is a nerve impulse?",
+        "answer": "The propagation of an action potential along a neuron."
+      },
+      {
+        "question": "What is the myelin sheath?",
+        "answer": "A fatty insulating layer surrounding some axons."
+      },
+      {
+        "question": "How does myelin affect conduction speed?",
+        "answer": "It increases conduction speed by insulating the axon."
+      },
+      {
+        "question": "What are nodes of Ranvier?",
+        "answer": "Gaps in the myelin sheath where action potentials are regenerated."
+      },
+      {
+        "question": "What is saltatory conduction?",
+        "answer": "The apparent jumping of an action potential from one node of Ranvier to the next."
+      },
+      {
+        "question": "Why is saltatory conduction faster than conduction in unmyelinated axons?",
+        "answer": "Because action potentials are generated only at nodes rather than along the entire axon."
+      },
+      {
+        "question": "What is the refractory period?",
+        "answer": "The brief period after an action potential during which a neuron cannot generate another action potential."
+      },
+      {
+        "question": "Why does the refractory period occur?",
+        "answer": "Because sodium channels are temporarily inactivated."
+      },
+      {
+        "question": "How does the refractory period ensure one-way transmission?",
+        "answer": "It prevents previously depolarized regions from being immediately re-excited."
+      },
+      {
+        "question": "How does the refractory period help produce discrete impulses?",
+        "answer": "It separates successive action potentials and prevents overlap."
+      },
+      {
+        "question": "How does the refractory period limit impulse frequency?",
+        "answer": "A neuron cannot generate another action potential until recovery is complete."
+      },
+      {
+        "question": "What is the all-or-nothing principle?",
+        "answer": "An action potential either occurs fully when threshold is reached or does not occur at all."
+      },
+      {
+        "question": "Do stronger stimuli produce larger action potentials?",
+        "answer": "No, all action potentials have the same amplitude."
+      },
+      {
+        "question": "What determines whether an action potential occurs?",
+        "answer": "Whether the threshold potential is reached."
+      },
+      {
+        "question": "What are the three main factors affecting conduction speed?",
+        "answer": "Myelination, axon diameter, and temperature."
+      },
+      {
+        "question": "How does axon diameter affect conduction speed?",
+        "answer": "Larger-diameter axons conduct impulses faster."
+      },
+      {
+        "question": "How does temperature affect conduction speed?",
+        "answer": "Higher temperatures increase ion diffusion and metabolic activity, speeding conduction."
+      },
+      {
+        "question": "Why are excitable cells called excitable?",
+        "answer": "Because they can generate and transmit electrical signals in response to stimuli."
+      },
+      {
+        "question": "Which cells are considered excitable cells?",
+        "answer": "Neurons and muscle cells."
+      },
+      {
+        "question": "Why are action potentials important?",
+        "answer": "They enable communication, sensation, movement, and rapid responses to stimuli."
+      }
+    ]
+  },
+
+  {
+    "topic": "Synaptic Transmission",
+    "flashcards": [
+      {
+        "question": "What is a synapse?",
+        "answer": "A junction between two neurons where communication occurs."
+      },
+      {
+        "question": "What is the function of a synapse?",
+        "answer": "To transmit signals between neurons and regulate communication within the nervous system."
+      },
+      {
+        "question": "Why do synapses ensure unidirectional transmission?",
+        "answer": "Because neurotransmitters are released only from the presynaptic neuron and receptors are located only on the postsynaptic membrane."
+      },
+      {
+        "question": "What is meant by unidirectional transmission at a synapse?",
+        "answer": "Nerve impulses can only travel from the presynaptic neuron to the postsynaptic neuron."
+      },
+      {
+        "question": "What is the presynaptic neuron?",
+        "answer": "The neuron that releases neurotransmitter into the synapse."
+      },
+      {
+        "question": "What is the postsynaptic neuron?",
+        "answer": "The neuron that receives neurotransmitter and may generate a new action potential."
+      },
+      {
+        "question": "What is the synaptic cleft?",
+        "answer": "The gap between the presynaptic and postsynaptic membranes."
+      },
+      {
+        "question": "What are synaptic vesicles?",
+        "answer": "Membrane-bound sacs in the presynaptic neuron that contain neurotransmitters."
+      },
+      {
+        "question": "What are neurotransmitters?",
+        "answer": "Chemical messengers that transmit signals across synapses."
+      },
+      {
+        "question": "What is acetylcholine?",
+        "answer": "A neurotransmitter commonly used at cholinergic synapses and neuromuscular junctions."
+      },
+      {
+        "question": "What is a cholinergic synapse?",
+        "answer": "A synapse that uses acetylcholine as its neurotransmitter."
+      },
+      {
+        "question": "What is temporal summation?",
+        "answer": "The addition of neurotransmitter effects from repeated impulses arriving over a short period of time from the same presynaptic neuron."
+      },
+      {
+        "question": "How does temporal summation allow an action potential to be generated?",
+        "answer": "Repeated neurotransmitter release causes the postsynaptic membrane potential to reach threshold."
+      },
+      {
+        "question": "What is spatial summation?",
+        "answer": "The addition of neurotransmitter effects from several presynaptic neurons acting simultaneously on a postsynaptic neuron."
+      },
+      {
+        "question": "How does spatial summation allow an action potential to be generated?",
+        "answer": "Neurotransmitter release from multiple neurons combines to reach threshold potential."
+      },
+      {
+        "question": "What is an excitatory synapse?",
+        "answer": "A synapse that increases the likelihood of generating an action potential in the postsynaptic neuron."
+      },
+      {
+        "question": "What is an inhibitory synapse?",
+        "answer": "A synapse that decreases the likelihood of generating an action potential in the postsynaptic neuron."
+      },
+      {
+        "question": "How do inhibitory synapses affect nerve transmission?",
+        "answer": "They reduce depolarization and make it more difficult for threshold to be reached."
+      },
+      {
+        "question": "What happens when an action potential arrives at the presynaptic membrane?",
+        "answer": "The presynaptic membrane depolarizes and calcium ion channels open."
+      },
+      {
+        "question": "What is the first step in synaptic transmission?",
+        "answer": "Arrival of an action potential at the presynaptic membrane."
+      },
+      {
+        "question": "What happens when calcium channels open in the presynaptic membrane?",
+        "answer": "Calcium ions diffuse into the presynaptic neuron."
+      },
+      {
+        "question": "Why do calcium ions enter the presynaptic neuron?",
+        "answer": "Because calcium ion channels open when the presynaptic membrane depolarizes."
+      },
+      {
+        "question": "What is the role of calcium ions in synaptic transmission?",
+        "answer": "They trigger synaptic vesicles to fuse with the presynaptic membrane."
+      },
+      {
+        "question": "What happens to synaptic vesicles when calcium ions enter the neuron?",
+        "answer": "The vesicles fuse with the presynaptic membrane and release neurotransmitter."
+      },
+      {
+        "question": "How is neurotransmitter released into the synaptic cleft?",
+        "answer": "By exocytosis following fusion of synaptic vesicles with the presynaptic membrane."
+      },
+      {
+        "question": "What happens after neurotransmitter is released into the synaptic cleft?",
+        "answer": "It diffuses across the cleft toward the postsynaptic membrane."
+      },
+      {
+        "question": "How does a neurotransmitter affect the postsynaptic neuron?",
+        "answer": "It binds to receptors on the postsynaptic membrane."
+      },
+      {
+        "question": "What happens when acetylcholine binds to its receptor?",
+        "answer": "Sodium ion channels open."
+      },
+      {
+        "question": "What happens when sodium channels open on the postsynaptic membrane?",
+        "answer": "Sodium ions diffuse into the neuron, causing depolarization."
+      },
+      {
+        "question": "How is a new action potential generated in the postsynaptic neuron?",
+        "answer": "Depolarization reaches threshold and triggers an action potential."
+      },
+      {
+        "question": "What happens to acetylcholine after transmission?",
+        "answer": "It is broken down by acetylcholinesterase."
+      },
+      {
+        "question": "What enzyme hydrolyses acetylcholine?",
+        "answer": "Acetylcholinesterase."
+      },
+      {
+        "question": "Into which molecules is acetylcholine broken down?",
+        "answer": "Choline and ethanoic acid (acetate)."
+      },
+      {
+        "question": "Why is acetylcholine broken down after transmission?",
+        "answer": "To prevent continuous stimulation of the postsynaptic membrane."
+      },
+      {
+        "question": "What happens to choline after acetylcholine is hydrolyzed?",
+        "answer": "It diffuses back into the presynaptic neuron where it is recycled."
+      },
+      {
+        "question": "What are the benefits of neurotransmitter recycling?",
+        "answer": "It conserves resources and allows neurotransmitter molecules to be reused."
+      },
+      {
+        "question": "What is the sequence of events in transmission across a cholinergic synapse?",
+        "answer": "Action potential arrives → calcium channels open → calcium enters → vesicles fuse → acetylcholine released → acetylcholine diffuses → binds receptors → sodium channels open → depolarization → action potential generated → acetylcholine broken down by acetylcholinesterase."
+      },
+      {
+        "question": "Why can't action potentials travel backward across a synapse?",
+        "answer": "Because neurotransmitter release occurs only at the presynaptic membrane and receptors exist only on the postsynaptic membrane."
+      },
+      {
+        "question": "What is a neuromuscular junction?",
+        "answer": "A specialized synapse between a motor neuron and a skeletal muscle fiber."
+      },
+      {
+        "question": "What neurotransmitter is used at a neuromuscular junction?",
+        "answer": "Acetylcholine."
+      },
+      {
+        "question": "What is the postsynaptic cell at a neuromuscular junction?",
+        "answer": "A skeletal muscle fiber."
+      },
+      {
+        "question": "What is the postsynaptic cell in a typical cholinergic synapse?",
+        "answer": "Another neuron."
+      },
+      {
+        "question": "What do cholinergic synapses and neuromuscular junctions have in common?",
+        "answer": "Both use acetylcholine, possess a synaptic cleft, and transmit signals chemically via neurotransmitter release."
+      },
+      {
+        "question": "What is a key difference between a cholinergic synapse and a neuromuscular junction?",
+        "answer": "A cholinergic synapse connects neurons, whereas a neuromuscular junction connects a motor neuron to a muscle fiber."
+      },
+      {
+        "question": "What response occurs after transmission at a neuromuscular junction?",
+        "answer": "Muscle contraction."
+      },
+      {
+        "question": "What response occurs after transmission at a cholinergic synapse?",
+        "answer": "Generation of an action potential in another neuron."
+      },
+      {
+        "question": "Why are synapses important in nervous system communication?",
+        "answer": "They allow transmission, integration, amplification, inhibition, and direction of nerve signals."
+      },
+      {
+        "question": "What role do synapses play in signal amplification?",
+        "answer": "They allow weak inputs to be combined through temporal and spatial summation to reach threshold."
+      },
+      {
+        "question": "What is the detailed structure of a synapse?",
+        "answer": "A presynaptic membrane containing synaptic vesicles, a synaptic cleft, and a postsynaptic membrane containing neurotransmitter receptors."
+      }
+    ]
+  },
+  
+  
+  {
+    "topic": "Skeletal Muscles",
+    "flashcards": [
+      {
+        "question": "What are the three types of muscle tissue?",
+        "answer": "Cardiac muscle, smooth muscle, and skeletal muscle."
+      },
+      {
+        "question": "What are the characteristics of cardiac muscle?",
+        "answer": "Cardiac muscle is branched, striated, involuntary, contains one or two nuclei per cell, and has intercalated discs."
+      },
+      {
+        "question": "What are the characteristics of smooth muscle?",
+        "answer": "Smooth muscle consists of spindle-shaped cells with one nucleus, lacks striations, and is involuntary."
+      },
+      {
+        "question": "Where is smooth muscle found?",
+        "answer": "In structures such as blood vessels, the digestive tract, and the iris."
+      },
+      {
+        "question": "What are the characteristics of skeletal muscle?",
+        "answer": "Skeletal muscle is long, cylindrical, striated, multinucleated, voluntary, and attached to bones."
+      },
+      {
+        "question": "What four properties are shared by all muscle tissues?",
+        "answer": "Extensibility, elasticity, excitability, and contractility."
+      },
+      {
+        "question": "What is extensibility?",
+        "answer": "The ability of muscle tissue to stretch."
+      },
+      {
+        "question": "What is elasticity?",
+        "answer": "The ability of muscle tissue to return to its original length after stretching."
+      },
+      {
+        "question": "What is excitability?",
+        "answer": "The ability of muscle tissue to respond to stimuli by generating action potentials."
+      },
+      {
+        "question": "What is contractility?",
+        "answer": "The ability of muscle tissue to shorten and generate force."
+      },
+      {
+        "question": "What is a muscle fiber?",
+        "answer": "A muscle cell."
+      },
+      {
+        "question": "What are myofibrils?",
+        "answer": "Protein-containing structures within muscle fibers responsible for contraction."
+      },
+      {
+        "question": "What is a sarcomere?",
+        "answer": "The repeating functional unit of a myofibril responsible for muscle contraction."
+      },
+      {
+        "question": "Why do skeletal muscles appear striated?",
+        "answer": "Because myofibrils are organized into repeating sarcomeres."
+      },
+      {
+        "question": "What is the origin of a muscle?",
+        "answer": "The attachment point that remains relatively fixed during contraction."
+      },
+      {
+        "question": "What is the insertion of a muscle?",
+        "answer": "The attachment point that moves during contraction."
+      },
+      {
+        "question": "What is an agonist muscle?",
+        "answer": "The prime mover responsible for producing a particular movement."
+      },
+      {
+        "question": "What is an antagonist muscle?",
+        "answer": "A muscle that opposes the action of the agonist."
+      },
+      {
+        "question": "What are antagonistic muscle pairs?",
+        "answer": "Pairs of muscles that work in opposite directions, with one contracting while the other relaxes."
+      },
+      {
+        "question": "Why do muscles work in antagonistic pairs?",
+        "answer": "Because muscles can only pull and cannot push."
+      },
+      {
+        "question": "What are flexors?",
+        "answer": "Muscles that decrease the angle at a joint."
+      },
+      {
+        "question": "What are extensors?",
+        "answer": "Muscles that increase the angle at a joint."
+      },
+      {
+        "question": "How do the biceps and triceps function as an antagonistic pair?",
+        "answer": "When the biceps contract to lift the arm, the triceps relax; when the triceps contract, the biceps relax."
+      },
+      {
+        "question": "What is a tendon?",
+        "answer": "A non-elastic connective tissue that attaches muscle to bone."
+      },
+      {
+        "question": "What is a ligament?",
+        "answer": "An elastic connective tissue that joins bone to bone."
+      },
+      {
+        "question": "What is a joint?",
+        "answer": "The location where two bones meet, allowing movement."
+      },
+      {
+        "question": "What are thin filaments composed of?",
+        "answer": "Actin and tropomyosin."
+      },
+      {
+        "question": "What are thick filaments composed of?",
+        "answer": "Myosin."
+      },
+      {
+        "question": "What is actin?",
+        "answer": "The protein that forms thin filaments and contains binding sites for myosin."
+      },
+      {
+        "question": "What is myosin?",
+        "answer": "The protein that forms thick filaments and whose heads bind to actin during contraction."
+      },
+      {
+        "question": "What is tropomyosin?",
+        "answer": "A regulatory protein that blocks myosin-binding sites on actin."
+      },
+      {
+        "question": "What are myosin heads?",
+        "answer": "Projections from myosin filaments that bind to actin and generate force."
+      },
+      {
+        "question": "What are Z lines?",
+        "answer": "Structures marking the ends of a sarcomere where thin filaments are attached."
+      },
+      {
+        "question": "What is the M line?",
+        "answer": "The central region of a sarcomere where thick filaments are anchored."
+      },
+      {
+        "question": "What happens to a sarcomere during contraction?",
+        "answer": "The sarcomere shortens as thin filaments slide toward the center."
+      },
+      {
+        "question": "Do actin and myosin filaments shorten during contraction?",
+        "answer": "No, the filaments remain the same length and slide past one another."
+      },
+      {
+        "question": "What is the sliding filament model?",
+        "answer": "The theory that muscle contraction occurs through the sliding of actin filaments past myosin filaments."
+      },
+      {
+        "question": "What is a cross-bridge?",
+        "answer": "The connection formed when a myosin head binds to actin."
+      },
+      {
+        "question": "What is the first step of the cross-bridge cycle?",
+        "answer": "A myosin head binds ATP."
+      },
+      {
+        "question": "What happens when ATP is hydrolyzed by myosin?",
+        "answer": "ATP is converted to ADP and Pi, energizing the myosin head."
+      },
+      {
+        "question": "What happens after ATP hydrolysis in the cross-bridge cycle?",
+        "answer": "The energized myosin head binds to actin."
+      },
+      {
+        "question": "What is the power stroke?",
+        "answer": "The movement of the myosin head that pulls the actin filament toward the center of the sarcomere."
+      },
+      {
+        "question": "What causes the power stroke?",
+        "answer": "The release of ADP and Pi from the myosin head."
+      },
+      {
+        "question": "What causes a myosin head to detach from actin?",
+        "answer": "Binding of a new ATP molecule."
+      },
+      {
+        "question": "Why is ATP essential for muscle relaxation?",
+        "answer": "Because ATP is required for myosin heads to detach from actin."
+      },
+      {
+        "question": "What is rigor mortis?",
+        "answer": "The stiffening of muscles after death caused by a lack of ATP preventing myosin detachment."
+      },
+      {
+        "question": "How many times can the cross-bridge cycle repeat during contraction?",
+        "answer": "Hundreds of times per sarcomere while ATP and calcium are available."
+      },
+      {
+        "question": "What role does calcium play in muscle contraction?",
+        "answer": "Calcium initiates contraction by exposing myosin-binding sites on actin."
+      },
+      {
+        "question": "What happens to tropomyosin when calcium levels are low?",
+        "answer": "Tropomyosin blocks the myosin-binding sites on actin."
+      },
+      {
+        "question": "What happens when calcium ions are released into muscle cells?",
+        "answer": "They cause regulatory proteins to move tropomyosin away from actin binding sites."
+      },
+      {
+        "question": "How does calcium allow cross-bridge formation?",
+        "answer": "By exposing myosin-binding sites on actin."
+      },
+      {
+        "question": "Why are calcium ions necessary for contraction?",
+        "answer": "Without calcium, myosin cannot bind to actin."
+      },
+      {
+        "question": "What are the roles of actin and myosin in muscle contraction?",
+        "answer": "Actin provides binding sites while myosin forms cross-bridges and generates force."
+      },
+      {
+        "question": "What are the roles of calcium and tropomyosin in muscle contraction?",
+        "answer": "Calcium removes tropomyosin's inhibition, allowing myosin to bind actin."
+      },
+      {
+        "question": "What are the roles of ATP in muscle contraction?",
+        "answer": "ATP powers myosin movement, enables myosin detachment, and helps pump calcium ions back after contraction."
+      },
+      {
+        "question": "Why do muscles require large amounts of ATP?",
+        "answer": "Because ATP is used for cross-bridge cycling and calcium ion transport."
+      },
+      {
+        "question": "What happens to calcium ions after contraction?",
+        "answer": "They are actively pumped back into storage compartments using ATP."
+      },
+      {
+        "question": "What is phosphocreatine?",
+        "answer": "A high-energy phosphate compound that helps rapidly regenerate ATP."
+      },
+      {
+        "question": "How does phosphocreatine help muscle contraction?",
+        "answer": "It donates phosphate groups to ADP to quickly reform ATP."
+      },
+      {
+        "question": "Why is phosphocreatine important during intense exercise?",
+        "answer": "It provides a rapid source of ATP when demand is high."
+      },
+      {
+        "question": "What is myoglobin?",
+        "answer": "An oxygen-binding protein found in muscle fibers."
+      },
+      {
+        "question": "Why is myoglobin important in muscle tissue?",
+        "answer": "It stores oxygen and supports aerobic respiration."
+      },
+      {
+        "question": "What are slow-twitch muscle fibers?",
+        "answer": "Muscle fibers specialized for prolonged, aerobic activity and resistance to fatigue."
+      },
+      {
+        "question": "What activities rely heavily on slow-twitch fibers?",
+        "answer": "Endurance activities such as marathon running."
+      },
+      {
+        "question": "Why do slow-twitch fibers resist fatigue?",
+        "answer": "They have many mitochondria, abundant myoglobin, and a rich blood supply."
+      },
+      {
+        "question": "What adaptations do slow-twitch fibers have for aerobic respiration?",
+        "answer": "Numerous mitochondria, high myoglobin content, and extensive blood vessels."
+      },
+      {
+        "question": "What are fast-twitch muscle fibers?",
+        "answer": "Muscle fibers specialized for rapid, powerful contractions."
+      },
+      {
+        "question": "What activities rely heavily on fast-twitch fibers?",
+        "answer": "Explosive activities such as sprinting."
+      },
+      {
+        "question": "Why do fast-twitch fibers fatigue more quickly?",
+        "answer": "They rely heavily on anaerobic metabolism and rapid ATP use."
+      },
+      {
+        "question": "What adaptations do fast-twitch fibers have?",
+        "answer": "More myosin filaments, high glycogen stores, anaerobic enzymes, and phosphocreatine reserves."
+      },
+      {
+        "question": "Why do fast-twitch fibers contain large glycogen stores?",
+        "answer": "To provide glucose rapidly for ATP production."
+      },
+      {
+        "question": "Why do fast-twitch fibers contain phosphocreatine reserves?",
+        "answer": "To regenerate ATP rapidly during intense activity."
+      },
+      {
+        "question": "Compare slow-twitch and fast-twitch fibers.",
+        "answer": "Slow-twitch fibers contract slowly, resist fatigue, and rely on aerobic respiration; fast-twitch fibers contract rapidly, fatigue quickly, and are adapted for anaerobic energy production."
+      },
+      {
+        "question": "How are skeletal muscles attached to bones?",
+        "answer": "By tendons."
+      },
+      {
+        "question": "What is meant by an incompressible skeleton?",
+        "answer": "A skeleton made of rigid bones that muscles pull against to create movement."
+      },
+      {
+        "question": "How do muscles generate movement of bones?",
+        "answer": "By contracting and pulling on tendons attached to bones."
+      }
+    ]
+  }
+
+]

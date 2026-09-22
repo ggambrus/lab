@@ -1,0 +1,3205 @@
+[
+  {
+    "id": 1,
+    "question": "Which layer of the eye contains the retina?",
+    "options": [
+      "Fibrous layer",
+      "Inner layer",
+      "Vascular layer",
+      "Corneal layer"
+    ],
+    "answer": "Inner layer"
+  },
+  {
+    "id": 2,
+    "question": "Which structures form the fibrous layer of the eye?",
+    "options": [
+      "Iris and choroid",
+      "Cornea and sclera",
+      "Lens and cornea",
+      "Retina and sclera"
+    ],
+    "answer": "Cornea and sclera"
+  },
+  {
+    "id": 3,
+    "question": "What is the primary function of the cornea?",
+    "options": [
+      "Supply nutrients to the retina",
+      "Control pupil size",
+      "Bend incoming light",
+      "Detect photons"
+    ],
+    "answer": "Bend incoming light"
+  },
+  {
+    "id": 4,
+    "question": "What is the primary function of the sclera?",
+    "options": [
+      "Contains photoreceptors",
+      "Produces aqueous humor",
+      "Provides structural support and muscle attachment",
+      "Focuses light"
+    ],
+    "answer": "Provides structural support and muscle attachment"
+  },
+  {
+    "id": 5,
+    "question": "Which structure controls the amount of light entering the eye?",
+    "options": [
+      "Lens",
+      "Retina",
+      "Iris",
+      "Choroid"
+    ],
+    "answer": "Iris"
+  },
+  {
+    "id": 6,
+    "question": "The iris regulates light entry by altering the size of the:",
+    "options": [
+      "Fovea",
+      "Retina",
+      "Pupil",
+      "Lens"
+    ],
+    "answer": "Pupil"
+  },
+  {
+    "id": 7,
+    "question": "Which structure adjusts the shape of the lens?",
+    "options": [
+      "Cornea",
+      "Choroid",
+      "Ciliary body",
+      "Retina"
+    ],
+    "answer": "Ciliary body"
+  },
+  {
+    "id": 8,
+    "question": "What is the function of the choroid?",
+    "options": [
+      "Produces nerve impulses",
+      "Supplies nutrients to the retina",
+      "Detects color",
+      "Focuses light"
+    ],
+    "answer": "Supplies nutrients to the retina"
+  },
+  {
+    "id": 9,
+    "question": "Which retinal layer contains photoreceptors?",
+    "options": [
+      "Neural layer",
+      "Fibrous layer",
+      "Pigmented layer",
+      "Vascular layer"
+    ],
+    "answer": "Neural layer"
+  },
+  {
+    "id": 10,
+    "question": "What is the function of the pigmented layer of the retina?",
+    "options": [
+      "Generate action potentials",
+      "Detect color",
+      "Absorb stray light",
+      "Control pupil size"
+    ],
+    "answer": "Absorb stray light"
+  },
+  {
+    "id": 11,
+    "question": "Which region of the retina has the highest visual acuity?",
+    "options": [
+      "Optic disc",
+      "Blind spot",
+      "Fovea centralis",
+      "Choroid"
+    ],
+    "answer": "Fovea centralis"
+  },
+  {
+    "id": 12,
+    "question": "Why does the fovea provide the sharpest vision?",
+    "options": [
+      "It contains mostly rods",
+      "It contains no blood vessels",
+      "It has the highest photoreceptor density",
+      "It contains the optic nerve"
+    ],
+    "answer": "It has the highest photoreceptor density"
+  },
+  {
+    "id": 13,
+    "question": "What is another name for the optic disc?",
+    "options": [
+      "Macula",
+      "Blind spot",
+      "Fovea",
+      "Lens"
+    ],
+    "answer": "Blind spot"
+  },
+  {
+    "id": 14,
+    "question": "Why is the optic disc called the blind spot?",
+    "options": [
+      "It absorbs too much light",
+      "It lacks blood vessels",
+      "It contains no photoreceptors",
+      "It contains only rods"
+    ],
+    "answer": "It contains no photoreceptors"
+  },
+  {
+    "id": 15,
+    "question": "What exits the eye at the optic disc?",
+    "options": [
+      "Lens",
+      "Ciliary body",
+      "Optic nerve",
+      "Cornea"
+    ],
+    "answer": "Optic nerve"
+  },
+  {
+    "id": 16,
+    "question": "What fills the posterior chamber of the eye?",
+    "options": [
+      "Aqueous humor",
+      "Blood",
+      "Vitreous body",
+      "Lymph"
+    ],
+    "answer": "Vitreous body"
+  },
+  {
+    "id": 17,
+    "question": "What is the vitreous body?",
+    "options": [
+      "A transparent gel",
+      "A muscle",
+      "A photoreceptor layer",
+      "A blood vessel network"
+    ],
+    "answer": "A transparent gel"
+  },
+  {
+    "id": 18,
+    "question": "Where is aqueous humor found?",
+    "options": [
+      "Inside rods",
+      "Anterior chamber",
+      "Retina",
+      "Optic nerve"
+    ],
+    "answer": "Anterior chamber"
+  },
+  {
+    "id": 19,
+    "question": "What is the function of the lens?",
+    "options": [
+      "Produce neurotransmitters",
+      "Focus light onto the retina",
+      "Control pupil size",
+      "Detect light"
+    ],
+    "answer": "Focus light onto the retina"
+  },
+  {
+    "id": 20,
+    "question": "Which structure directly converts light into neural signals?",
+    "options": [
+      "Cornea",
+      "Iris",
+      "Photoreceptors",
+      "Lens"
+    ],
+    "answer": "Photoreceptors"
+  },
+  {
+    "id": 21,
+    "question": "The two types of photoreceptors are:",
+    "options": [
+      "Cones and rods",
+      "Bipolar cells and rods",
+      "Ganglion cells and cones",
+      "Rods and ganglion cells"
+    ],
+    "answer": "Cones and rods"
+  },
+  {
+    "id": 22,
+    "question": "Which photoreceptor is responsible for color vision?",
+    "options": [
+      "Rod",
+      "Cone",
+      "Bipolar neuron",
+      "Ganglion neuron"
+    ],
+    "answer": "Cone"
+  },
+  {
+    "id": 23,
+    "question": "Which photoreceptor is most important for vision in dim light?",
+    "options": [
+      "Cone",
+      "Bipolar cell",
+      "Rod",
+      "Ganglion cell"
+    ],
+    "answer": "Rod"
+  },
+  {
+    "id": 24,
+    "question": "Which pigment is found in cone cells?",
+    "options": [
+      "Melanin",
+      "Rhodopsin",
+      "Iodopsin",
+      "Hemoglobin"
+    ],
+    "answer": "Iodopsin"
+  },
+  {
+    "id": 25,
+    "question": "Which pigment is found in rod cells?",
+    "options": [
+      "Iodopsin",
+      "Myoglobin",
+      "Melanin",
+      "Rhodopsin"
+    ],
+    "answer": "Rhodopsin"
+  },
+  {
+    "id": 26,
+    "question": "Where are cone cells most densely packed?",
+    "options": [
+      "Optic disc",
+      "Blind spot",
+      "Fovea",
+      "Choroid"
+    ],
+    "answer": "Fovea"
+  },
+  {
+    "id": 27,
+    "question": "Where are rod cells most densely packed?",
+    "options": [
+      "Outside the fovea",
+      "At the optic disc",
+      "Inside the lens",
+      "Cornea"
+    ],
+    "answer": "Outside the fovea"
+  },
+  {
+    "id": 28,
+    "question": "Why are rods more sensitive to low light than cones?",
+    "options": [
+      "They contain rhodopsin",
+      "They are larger",
+      "They produce ATP",
+      "They are closer to the lens"
+    ],
+    "answer": "They contain rhodopsin"
+  },
+  {
+    "id": 29,
+    "question": "How many types of cone cells are present in the human retina?",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 30,
+    "question": "Cone cells are sensitive to which colors?",
+    "options": [
+      "Red, green, blue",
+      "Yellow, green, blue",
+      "Red, yellow, blue",
+      "Black, white, gray"
+    ],
+    "answer": "Red, green, blue"
+  },
+  {
+    "id": 31,
+    "question": "Which photoreceptor provides high visual acuity?",
+    "options": [
+      "Rod",
+      "Cone",
+      "Neither",
+      "Both equally"
+    ],
+    "answer": "Cone"
+  },
+  {
+    "id": 32,
+    "question": "Why do cone cells provide high visual acuity?",
+    "options": [
+      "Many cones share one neuron",
+      "Each cone has its own pathway",
+      "Cones contain rhodopsin",
+      "Cones are larger than rods"
+    ],
+    "answer": "Each cone has its own pathway"
+  },
+  {
+    "id": 33,
+    "question": "Why do rod cells provide lower visual acuity?",
+    "options": [
+      "Each rod has its own neuron",
+      "Rods contain iodopsin",
+      "Multiple rods converge on one pathway",
+      "They cannot detect light"
+    ],
+    "answer": "Multiple rods converge on one pathway"
+  },
+  {
+    "id": 34,
+    "question": "Which photoreceptors function best in bright light?",
+    "options": [
+      "Cones",
+      "Rods",
+      "Ganglion cells",
+      "Bipolar cells"
+    ],
+    "answer": "Cones"
+  },
+  {
+    "id": 35,
+    "question": "Night vision relies primarily on:",
+    "options": [
+      "Cones",
+      "Rods",
+      "Bipolar cells",
+      "The lens"
+    ],
+    "answer": "Rods"
+  },
+  {
+    "id": 36,
+    "question": "A person loses color vision but retains good dim-light vision. Which cells are most likely damaged?",
+    "options": [
+      "Rods",
+      "Cones",
+      "Ganglion cells",
+      "Bipolar neurons"
+    ],
+    "answer": "Cones"
+  },
+  {
+    "id": 37,
+    "question": "A person struggles to see in dim light but sees colors normally. Which cells are most likely affected?",
+    "options": [
+      "Cones",
+      "Ganglion cells",
+      "Rods",
+      "Bipolar neurons"
+    ],
+    "answer": "Rods"
+  },
+  {
+    "id": 38,
+    "question": "Which photoreceptor type is responsible for monochromatic vision?",
+    "options": [
+      "Cone",
+      "Rod",
+      "Ganglion cell",
+      "Horizontal cell"
+    ],
+    "answer": "Rod"
+  },
+  {
+    "id": 39,
+    "question": "What is visual acuity?",
+    "options": [
+      "Sensitivity to color",
+      "Ability to detect movement",
+      "Sharpness of vision",
+      "Ability to focus light"
+    ],
+    "answer": "Sharpness of vision"
+  },
+  {
+    "id": 40,
+    "question": "Why must several rods often be stimulated before an impulse is generated?",
+    "options": [
+      "They share synapses",
+      "They lack pigment",
+      "They do not connect to neurons",
+      "They exist only in the blind spot"
+    ],
+    "answer": "They share synapses"
+  },
+  {
+    "id": 41,
+    "question": "Which structure carries visual information to the brain?",
+    "options": [
+      "Optic nerve",
+      "Lens",
+      "Cornea",
+      "Iris"
+    ],
+    "answer": "Optic nerve"
+  },
+  {
+    "id": 42,
+    "question": "What occurs first when light enters the eye?",
+    "options": [
+      "It reaches the retina",
+      "It passes through the cornea",
+      "It stimulates rods",
+      "It enters the optic nerve"
+    ],
+    "answer": "It passes through the cornea"
+  },
+  {
+    "id": 43,
+    "question": "Light is focused onto the retina by the:",
+    "options": [
+      "Lens",
+      "Iris",
+      "Choroid",
+      "Optic disc"
+    ],
+    "answer": "Lens"
+  },
+  {
+    "id": 44,
+    "question": "Which sequence correctly describes the pathway of light?",
+    "options": [
+      "Lens → Cornea → Retina → Pupil",
+      "Cornea → Pupil → Lens → Retina",
+      "Pupil → Retina → Lens → Cornea",
+      "Retina → Lens → Cornea → Pupil"
+    ],
+    "answer": "Cornea → Pupil → Lens → Retina"
+  },
+  {
+    "id": 45,
+    "question": "What happens after photoreceptors absorb light?",
+    "options": [
+      "They generate nerve impulses",
+      "They enlarge",
+      "They release ATP",
+      "They contract"
+    ],
+    "answer": "They generate nerve impulses"
+  },
+
+  {
+    "id": 46,
+    "question": "Which structure produces aqueous humor?",
+    "options": [
+      "Ciliary body",
+      "Retina",
+      "Lens",
+      "Cornea"
+    ],
+    "answer": "Ciliary body"
+  },
+  {
+    "id": 47,
+    "question": "The ciliary muscles are directly involved in:",
+    "options": [
+      "Absorbing stray light",
+      "Changing lens shape",
+      "Detecting light",
+      "Transmitting signals to the brain"
+    ],
+    "answer": "Changing lens shape"
+  },
+  {
+    "id": 48,
+    "question": "Which statement best explains why cones provide better visual acuity than rods?",
+    "options": [
+      "Cones contain rhodopsin",
+      "Multiple cones share one bipolar neuron",
+      "Each cone typically has a dedicated neural pathway",
+      "Cones are more numerous than rods everywhere in the retina"
+    ],
+    "answer": "Each cone typically has a dedicated neural pathway"
+  },
+  {
+    "id": 49,
+    "question": "Which statement best explains why rods are more sensitive than cones?",
+    "options": [
+      "Rods are concentrated in the blind spot",
+      "Rods contain rhodopsin and exhibit convergence",
+      "Rods contain iodopsin",
+      "Each rod has a dedicated bipolar neuron"
+    ],
+    "answer": "Rods contain rhodopsin and exhibit convergence"
+  },
+  {
+    "id": 50,
+    "question": "A person focuses on reading small print. Which retinal region is primarily responsible?",
+    "options": [
+      "Optic disc",
+      "Choroid",
+      "Fovea centralis",
+      "Peripheral retina"
+    ],
+    "answer": "Fovea centralis"
+  },
+  {
+    "id": 51,
+    "question": "Damage to the optic nerve would most directly impair:",
+    "options": [
+      "Light entry into the eye",
+      "Transmission of visual information to the brain",
+      "Production of aqueous humor",
+      "Accommodation of the lens"
+    ],
+    "answer": "Transmission of visual information to the brain"
+  },
+  {
+    "id": 52,
+    "question": "Which eye structure absorbs stray light and helps prevent internal reflection?",
+    "options": [
+      "Pigmented retinal layer",
+      "Lens",
+      "Ciliary body",
+      "Cornea"
+    ],
+    "answer": "Pigmented retinal layer"
+  },
+  {
+    "id": 53,
+    "question": "Which layer lies between the fibrous and inner layers of the eye?",
+    "options": [
+      "Retinal layer",
+      "Vascular layer",
+      "Photoreceptor layer",
+      "Neural layer"
+    ],
+    "answer": "Vascular layer"
+  },
+  {
+    "id": 54,
+    "question": "The primary function of rods is:",
+    "options": [
+      "Color discrimination",
+      "High-acuity vision",
+      "Vision in low light conditions",
+      "Lens accommodation"
+    ],
+    "answer": "Vision in low light conditions"
+  },
+  {
+    "id": 55,
+    "question": "Which structure contains smooth muscle that acts like a camera aperture?",
+    "options": [
+      "Choroid",
+      "Cornea",
+      "Iris",
+      "Retina"
+    ],
+    "answer": "Iris"
+  },
+  {
+    "id": 56,
+    "question": "What would be the most likely consequence of damaged cone cells?",
+    "options": [
+      "Loss of color vision and reduced visual acuity",
+      "Complete blindness",
+      "Inability to focus light",
+      "Loss of hearing"
+    ],
+    "answer": "Loss of color vision and reduced visual acuity"
+  },
+  {
+    "id": 57,
+    "question": "What would be the most likely consequence of damaged rod cells?",
+    "options": [
+      "Inability to accommodate the lens",
+      "Difficulty seeing in dim light",
+      "Loss of color discrimination only",
+      "Loss of pupil reflexes"
+    ],
+    "answer": "Difficulty seeing in dim light"
+  },
+  {
+    "id": 58,
+    "question": "Which statement correctly compares rods and cones?",
+    "options": [
+      "Rods provide color vision while cones provide monochromatic vision",
+      "Both rods and cones are concentrated at the optic disc",
+      "Rods are more light-sensitive, whereas cones provide greater visual acuity",
+      "Cones are more sensitive to dim light than rods"
+    ],
+    "answer": "Rods are more light-sensitive, whereas cones provide greater visual acuity"
+  },
+  {
+    "id": 59,
+    "question": "Why is color vision possible in humans?",
+    "options": [
+      "The retina contains rods of different sensitivities",
+      "There are three types of cone cells sensitive to different wavelengths",
+      "The optic nerve generates color signals",
+      "The choroid selectively absorbs wavelengths"
+    ],
+    "answer": "There are three types of cone cells sensitive to different wavelengths"
+  },
+  {
+    "id": 60,
+    "question": "Which sequence correctly describes visual signal formation?",
+    "options": [
+      "Light stimulates photoreceptors → nerve impulses generated → signals travel via optic nerve to the brain",
+      "Optic nerve generates light → retina receives signal → brain interprets it",
+      "Lens generates impulses → retina amplifies them → optic nerve transmits them",
+      "Cornea detects photons → choroid processes signals → optic nerve transmits them"
+    ],
+    "answer": "Light stimulates photoreceptors → nerve impulses generated → signals travel via optic nerve to the brain"
+  },
+
+  {
+    "id": 61,
+    "question": "What is a stimulus?",
+    "options": [
+      "A specialized receptor cell",
+      "A change that can be detected by an organism",
+      "A response to an environmental change",
+      "A nerve impulse traveling along a neuron"
+    ],
+    "answer": "A change that can be detected by an organism"
+  },
+  {
+    "id": 62,
+    "question": "What is a receptor?",
+    "options": [
+      "A structure that detects a stimulus",
+      "A neuron that carries impulses to the brain",
+      "A muscle that produces a response",
+      "A chemical messenger"
+    ],
+    "answer": "A structure that detects a stimulus"
+  },
+  {
+    "id": 63,
+    "question": "What is a response?",
+    "options": [
+      "A receptor detecting a stimulus",
+      "A reaction resulting from a detected stimulus",
+      "A change in membrane potential",
+      "The movement of sodium ions"
+    ],
+    "answer": "A reaction resulting from a detected stimulus"
+  },
+  {
+    "id": 64,
+    "question": "What is a taxis?",
+    "options": [
+      "Movement in a specific direction relative to a stimulus",
+      "Random movement regardless of stimuli",
+      "A type of action potential",
+      "A sensory receptor"
+    ],
+    "answer": "Movement in a specific direction relative to a stimulus"
+  },
+  {
+    "id": 65,
+    "question": "What is positive taxis?",
+    "options": [
+      "Movement away from a stimulus",
+      "No movement in response to a stimulus",
+      "Movement toward a stimulus",
+      "Random movement around a stimulus"
+    ],
+    "answer": "Movement toward a stimulus"
+  },
+  {
+    "id": 66,
+    "question": "What is negative taxis?",
+    "options": [
+      "Movement away from a stimulus",
+      "Movement toward a stimulus",
+      "No response to a stimulus",
+      "Random movement"
+    ],
+    "answer": "Movement away from a stimulus"
+  },
+  {
+    "id": 67,
+    "question": "What is a kinesis?",
+    "options": [
+      "Movement in a fixed direction",
+      "Random movement with changing speed and turning frequency",
+      "Transmission across a synapse",
+      "An action potential"
+    ],
+    "answer": "Random movement with changing speed and turning frequency"
+  },
+  {
+    "id": 68,
+    "question": "Why does a woodlouse increase its speed and turning rate in dry conditions?",
+    "options": [
+      "Positive taxis",
+      "Negative chemotaxis",
+      "Kinesis",
+      "Reflex action"
+    ],
+    "answer": "Kinesis"
+  },
+  {
+    "id": 69,
+    "question": "What is a reflex?",
+    "options": [
+      "A slow conscious response",
+      "A rapid automatic response to a stimulus",
+      "A type of receptor",
+      "A neurotransmitter"
+    ],
+    "answer": "A rapid automatic response to a stimulus"
+  },
+  {
+    "id": 70,
+    "question": "Why are reflexes usually very fast?",
+    "options": [
+      "They bypass the brain",
+      "They involve only muscles",
+      "They do not require receptors",
+      "They use hormones"
+    ],
+    "answer": "They bypass the brain"
+  },
+  {
+    "id": 71,
+    "question": "Which sequence correctly describes a reflex arc?",
+    "options": [
+      "Stimulus → Motor neuron → Receptor → Response",
+      "Stimulus → Receptor → Sensory neuron → Interneuron → Motor neuron → Effector → Response",
+      "Stimulus → Brain → Receptor → Effector",
+      "Receptor → Stimulus → Motor neuron → Response"
+    ],
+    "answer": "Stimulus → Receptor → Sensory neuron → Interneuron → Motor neuron → Effector → Response"
+  },
+  {
+    "id": 72,
+    "question": "What is the role of a sensory neuron?",
+    "options": [
+      "Carries impulses to an effector",
+      "Carries impulses from a receptor to the CNS",
+      "Produces neurotransmitters",
+      "Forms the myelin sheath"
+    ],
+    "answer": "Carries impulses from a receptor to the CNS"
+  },
+  {
+    "id": 73,
+    "question": "What is the role of an intermediate (relay) neuron?",
+    "options": [
+      "Carries impulses to muscles",
+      "Detects stimuli",
+      "Relays impulses between sensory and motor neurons",
+      "Produces hormones"
+    ],
+    "answer": "Relays impulses between sensory and motor neurons"
+  },
+  {
+    "id": 74,
+    "question": "What is the role of a motor neuron?",
+    "options": [
+      "Carries impulses from the CNS to an effector",
+      "Carries impulses to the brain only",
+      "Detects pressure",
+      "Generates neurotransmitters"
+    ],
+    "answer": "Carries impulses from the CNS to an effector"
+  },
+  {
+    "id": 75,
+    "question": "Which of the following is an effector?",
+    "options": [
+      "Photoreceptor",
+      "Muscle",
+      "Dendrite",
+      "Node of Ranvier"
+    ],
+    "answer": "Muscle"
+  },
+  {
+    "id": 76,
+    "question": "Which receptor detects light?",
+    "options": [
+      "Mechanoreceptor",
+      "Photoreceptor",
+      "Chemoreceptor",
+      "Thermoreceptor"
+    ],
+    "answer": "Photoreceptor"
+  },
+  {
+    "id": 77,
+    "question": "Which receptor detects pressure and vibration?",
+    "options": [
+      "Photoreceptor",
+      "Chemoreceptor",
+      "Mechanoreceptor",
+      "Osmoreceptor"
+    ],
+    "answer": "Mechanoreceptor"
+  },
+  {
+    "id": 78,
+    "question": "What is a Pacinian corpuscle?",
+    "options": [
+      "A photoreceptor",
+      "A mechanoreceptor sensitive to pressure",
+      "A motor neuron",
+      "A neurotransmitter"
+    ],
+    "answer": "A mechanoreceptor sensitive to pressure"
+  },
+  {
+    "id": 79,
+    "question": "Where are Pacinian corpuscles commonly found?",
+    "options": [
+      "Only in the retina",
+      "Deep within the skin",
+      "Only in muscles",
+      "Only in the brain"
+    ],
+    "answer": "Deep within the skin"
+  },
+  {
+    "id": 80,
+    "question": "What surrounds the sensory neuron in a Pacinian corpuscle?",
+    "options": [
+      "Myelin sheath",
+      "Lamellae",
+      "Axon terminals",
+      "Dendrites"
+    ],
+    "answer": "Lamellae"
+  },
+  {
+    "id": 81,
+    "question": "Which ion channels open when a Pacinian corpuscle is compressed?",
+    "options": [
+      "Potassium channels",
+      "Calcium channels",
+      "Stretch-mediated sodium channels",
+      "Chloride channels"
+    ],
+    "answer": "Stretch-mediated sodium channels"
+  },
+  {
+    "id": 82,
+    "question": "What happens when sodium ions enter a Pacinian corpuscle receptor membrane?",
+    "options": [
+      "Hyperpolarization occurs",
+      "Depolarization occurs",
+      "ATP is produced",
+      "The membrane becomes more negative"
+    ],
+    "answer": "Depolarization occurs"
+  },
+  {
+    "id": 83,
+    "question": "What is a generator potential?",
+    "options": [
+      "A hormone",
+      "A localized change in membrane potential that can trigger an action potential",
+      "A neurotransmitter",
+      "A refractory state"
+    ],
+    "answer": "A localized change in membrane potential that can trigger an action potential"
+  },
+  {
+    "id": 84,
+    "question": "What are the main structural components of a neuron?",
+    "options": [
+      "Cell body, dendrites, axon",
+      "Nucleus, Golgi, lysosome",
+      "Myelin, nodes, synapse",
+      "Axon, lens, retina"
+    ],
+    "answer": "Cell body, dendrites, axon"
+  },
+  {
+    "id": 85,
+    "question": "What is the function of dendrites?",
+    "options": [
+      "Carry impulses toward the cell body",
+      "Carry impulses away from the cell body",
+      "Produce ATP",
+      "Insulate axons"
+    ],
+    "answer": "Carry impulses toward the cell body"
+  },
+  {
+    "id": 86,
+    "question": "What is the function of the axon?",
+    "options": [
+      "Detect stimuli",
+      "Produce neurotransmitters",
+      "Carry impulses away from the cell body",
+      "Generate ATP"
+    ],
+    "answer": "Carry impulses away from the cell body"
+  },
+  {
+    "id": 87,
+    "question": "What is the resting membrane potential of a neuron?",
+    "options": [
+      "+40 mV",
+      "-70 mV",
+      "-55 mV",
+      "0 mV"
+    ],
+    "answer": "-70 mV"
+  },
+  {
+    "id": 88,
+    "question": "During resting potential, the inside of the neuron is:",
+    "options": [
+      "Positive relative to outside",
+      "Neutral",
+      "Negative relative to outside",
+      "Variable"
+    ],
+    "answer": "Negative relative to outside"
+  },
+  {
+    "id": 89,
+    "question": "Which membrane protein is primarily responsible for maintaining resting potential?",
+    "options": [
+      "Acetylcholinesterase",
+      "Sodium-potassium pump",
+      "Myosin",
+      "Rhodopsin"
+    ],
+    "answer": "Sodium-potassium pump"
+  },
+  {
+    "id": 90,
+    "question": "How many sodium ions are pumped out during one cycle of the sodium-potassium pump?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 91,
+    "question": "How many potassium ions are pumped into the neuron during one cycle?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 92,
+    "question": "Why does the sodium-potassium pump require ATP?",
+    "options": [
+      "It uses facilitated diffusion",
+      "It performs active transport",
+      "It opens ion channels",
+      "It generates neurotransmitters"
+    ],
+    "answer": "It performs active transport"
+  },
+  {
+    "id": 93,
+    "question": "At rest, sodium ion concentration is highest:",
+    "options": [
+      "Inside the axon",
+      "Outside the axon",
+      "Equal on both sides",
+      "Inside the nucleus"
+    ],
+    "answer": "Outside the axon"
+  },
+  {
+    "id": 94,
+    "question": "At rest, potassium ion concentration is highest:",
+    "options": [
+      "Outside the neuron",
+      "Inside the neuron",
+      "Equal on both sides",
+      "Only in dendrites"
+    ],
+    "answer": "Inside the neuron"
+  },
+  {
+    "id": 95,
+    "question": "Why can potassium ions diffuse out of a resting neuron?",
+    "options": [
+      "Potassium channels are open",
+      "Potassium pumps force them out",
+      "There are no sodium ions present",
+      "The membrane is impermeable"
+    ],
+    "answer": "Potassium channels are open"
+  },
+  {
+    "id": 96,
+    "question": "What is an action potential?",
+    "options": [
+      "A temporary reversal of membrane potential",
+      "A neurotransmitter",
+      "A receptor potential",
+      "A synapse"
+    ],
+    "answer": "A temporary reversal of membrane potential"
+  },
+  {
+    "id": 97,
+    "question": "What is depolarization?",
+    "options": [
+      "The membrane becomes less negative",
+      "The membrane becomes more negative",
+      "The membrane remains unchanged",
+      "The neuron dies"
+    ],
+    "answer": "The membrane becomes less negative"
+  },
+  {
+    "id": 98,
+    "question": "What causes depolarization during an action potential?",
+    "options": [
+      "Influx of sodium ions",
+      "Efflux of sodium ions",
+      "Influx of potassium ions",
+      "Loss of ATP"
+    ],
+    "answer": "Influx of sodium ions"
+  },
+  {
+    "id": 99,
+    "question": "What is the threshold potential that must be reached to trigger an action potential?",
+    "options": [
+      "-90 mV",
+      "-70 mV",
+      "-55 mV",
+      "+40 mV"
+    ],
+    "answer": "-55 mV"
+  },
+  {
+    "id": 100,
+    "question": "What happens when threshold is reached?",
+    "options": [
+      "Voltage-gated sodium channels open rapidly",
+      "Potassium channels permanently close",
+      "The neuron enters hyperpolarization",
+      "Neurotransmitters are released"
+    ],
+    "answer": "Voltage-gated sodium channels open rapidly"
+  },
+
+  {
+    "id": 101,
+    "question": "Approximately what membrane potential is reached at the peak of depolarization?",
+    "options": [
+      "+40 mV",
+      "-70 mV",
+      "-55 mV",
+      "-90 mV"
+    ],
+    "answer": "+40 mV"
+  },
+  {
+    "id": 102,
+    "question": "What is repolarization?",
+    "options": [
+      "The membrane becomes more positive",
+      "The membrane potential returns toward the resting value",
+      "The sodium-potassium pump stops working",
+      "The neuron releases neurotransmitter"
+    ],
+    "answer": "The membrane potential returns toward the resting value"
+  },
+  {
+    "id": 103,
+    "question": "Which event initiates repolarization?",
+    "options": [
+      "Opening of sodium channels",
+      "Influx of calcium ions",
+      "Closure of sodium channels and opening of potassium channels",
+      "Activation of the sodium-potassium pump"
+    ],
+    "answer": "Closure of sodium channels and opening of potassium channels"
+  },
+  {
+    "id": 104,
+    "question": "During repolarization, potassium ions:",
+    "options": [
+      "Diffuse out of the neuron",
+      "Diffuse into the neuron",
+      "Are actively transported in",
+      "Remain stationary"
+    ],
+    "answer": "Diffuse out of the neuron"
+  },
+  {
+    "id": 105,
+    "question": "What is hyperpolarization?",
+    "options": [
+      "The membrane becomes temporarily more negative than resting potential",
+      "The membrane reaches threshold potential",
+      "The membrane becomes positive",
+      "The neuron releases neurotransmitter"
+    ],
+    "answer": "The membrane becomes temporarily more negative than resting potential"
+  },
+  {
+    "id": 106,
+    "question": "Why does hyperpolarization occur?",
+    "options": [
+      "Sodium channels open too widely",
+      "Potassium channels close slowly",
+      "The sodium-potassium pump stops functioning",
+      "Calcium ions enter the neuron"
+    ],
+    "answer": "Potassium channels close slowly"
+  },
+  {
+    "id": 107,
+    "question": "How is the resting potential restored after hyperpolarization?",
+    "options": [
+      "By acetylcholinesterase",
+      "By the sodium-potassium pump",
+      "By calcium channels",
+      "By myelin"
+    ],
+    "answer": "By the sodium-potassium pump"
+  },
+  {
+    "id": 108,
+    "question": "Which type of ion channel opens when a neurotransmitter binds to it?",
+    "options": [
+      "Voltage-gated channel",
+      "Mechanically-gated channel",
+      "Ligand-gated channel",
+      "Leak channel"
+    ],
+    "answer": "Ligand-gated channel"
+  },
+  {
+    "id": 109,
+    "question": "Which type of ion channel responds to physical deformation or pressure?",
+    "options": [
+      "Ligand-gated channel",
+      "Mechanically-gated channel",
+      "Voltage-gated channel",
+      "Potassium pump"
+    ],
+    "answer": "Mechanically-gated channel"
+  },
+  {
+    "id": 110,
+    "question": "Which type of ion channel responds to changes in membrane potential?",
+    "options": [
+      "Ligand-gated channel",
+      "Mechanically-gated channel",
+      "Voltage-gated channel",
+      "Stretch receptor"
+    ],
+    "answer": "Voltage-gated channel"
+  },
+  {
+    "id": 111,
+    "question": "How does an action potential move along an unmyelinated axon?",
+    "options": [
+      "Adjacent regions are depolarized sequentially",
+      "It jumps between nodes of Ranvier",
+      "It moves through synapses only",
+      "The entire axon depolarizes simultaneously"
+    ],
+    "answer": "Adjacent regions are depolarized sequentially"
+  },
+  {
+    "id": 112,
+    "question": "What is a nerve impulse?",
+    "options": [
+      "A neurotransmitter molecule",
+      "The propagation of an action potential along a neuron",
+      "A receptor potential",
+      "The resting potential"
+    ],
+    "answer": "The propagation of an action potential along a neuron"
+  },
+  {
+    "id": 113,
+    "question": "What is the myelin sheath?",
+    "options": [
+      "A neurotransmitter",
+      "A fatty insulating layer surrounding an axon",
+      "A receptor protein",
+      "A type of neuron"
+    ],
+    "answer": "A fatty insulating layer surrounding an axon"
+  },
+  {
+    "id": 114,
+    "question": "What are nodes of Ranvier?",
+    "options": [
+      "Synaptic junctions",
+      "Gaps in the myelin sheath",
+      "Ion pumps",
+      "Regions of the cell body"
+    ],
+    "answer": "Gaps in the myelin sheath"
+  },
+  {
+    "id": 115,
+    "question": "What is saltatory conduction?",
+    "options": [
+      "Continuous conduction along an unmyelinated axon",
+      "Diffusion of neurotransmitters across a synapse",
+      "Action potentials jumping between nodes of Ranvier",
+      "Movement of potassium ions through channels"
+    ],
+    "answer": "Action potentials jumping between nodes of Ranvier"
+  },
+  {
+    "id": 116,
+    "question": "Why is conduction faster in myelinated axons?",
+    "options": [
+      "They contain more sodium ions",
+      "Action potentials are generated only at nodes of Ranvier",
+      "They have more neurotransmitters",
+      "Potassium channels are absent"
+    ],
+    "answer": "Action potentials are generated only at nodes of Ranvier"
+  },
+  {
+    "id": 117,
+    "question": "What is the refractory period?",
+    "options": [
+      "The period before threshold is reached",
+      "The brief time during which a neuron cannot generate another action potential",
+      "The period of resting potential only",
+      "The time neurotransmitters remain in a synapse"
+    ],
+    "answer": "The brief time during which a neuron cannot generate another action potential"
+  },
+  {
+    "id": 118,
+    "question": "What causes the refractory period?",
+    "options": [
+      "Inactivation of sodium channels",
+      "Opening of chloride channels",
+      "Activation of photoreceptors",
+      "Closure of potassium channels"
+    ],
+    "answer": "Inactivation of sodium channels"
+  },
+  {
+    "id": 119,
+    "question": "How does the refractory period help ensure one-way transmission of action potentials?",
+    "options": [
+      "It increases neurotransmitter release",
+      "It prevents recently depolarized regions from being immediately re-excited",
+      "It opens sodium channels continuously",
+      "It speeds up saltatory conduction"
+    ],
+    "answer": "It prevents recently depolarized regions from being immediately re-excited"
+  },
+  {
+    "id": 120,
+    "question": "What is the all-or-nothing principle?",
+    "options": [
+      "Action potentials vary in size depending on stimulus strength",
+      "A neuron always produces multiple action potentials",
+      "An action potential occurs only if threshold is reached and is always the same size",
+      "Only myelinated neurons can generate action potentials"
+    ],
+    "answer": "An action potential occurs only if threshold is reached and is always the same size"
+  },
+
+  {
+    "id": 121,
+    "question": "What is a synapse?",
+    "options": [
+      "A junction between two neurons",
+      "A gap within the myelin sheath",
+      "A receptor detecting a stimulus",
+      "An action potential"
+    ],
+    "answer": "A junction between two neurons"
+  },
+  {
+    "id": 122,
+    "question": "What is the primary function of a synapse?",
+    "options": [
+      "To insulate axons",
+      "To transmit signals between neurons",
+      "To generate ATP",
+      "To produce myelin"
+    ],
+    "answer": "To transmit signals between neurons"
+  },
+  {
+    "id": 123,
+    "question": "Which part of a synapse contains neurotransmitter-filled vesicles?",
+    "options": [
+      "Postsynaptic membrane",
+      "Synaptic cleft",
+      "Presynaptic neuron",
+      "Node of Ranvier"
+    ],
+    "answer": "Presynaptic neuron"
+  },
+  {
+    "id": 124,
+    "question": "What is the synaptic cleft?",
+    "options": [
+      "A gap between two neurons",
+      "A gap in the myelin sheath",
+      "A receptor protein",
+      "A type of neurotransmitter"
+    ],
+    "answer": "A gap between two neurons"
+  },
+  {
+    "id": 125,
+    "question": "What are neurotransmitters?",
+    "options": [
+      "Electrical impulses",
+      "Chemical messengers released at synapses",
+      "Structural proteins",
+      "Membrane pumps"
+    ],
+    "answer": "Chemical messengers released at synapses"
+  },
+  {
+    "id": 126,
+    "question": "Which neurotransmitter is used at a cholinergic synapse?",
+    "options": [
+      "Dopamine",
+      "Noradrenaline",
+      "Acetylcholine",
+      "Serotonin"
+    ],
+    "answer": "Acetylcholine"
+  },
+  {
+    "id": 127,
+    "question": "Why is transmission across a synapse unidirectional?",
+    "options": [
+      "Receptors occur only on the presynaptic membrane",
+      "Neurotransmitters are released only by the postsynaptic membrane",
+      "Neurotransmitters are released by the presynaptic neuron and receptors are on the postsynaptic membrane",
+      "Action potentials cannot travel along axons"
+    ],
+    "answer": "Neurotransmitters are released by the presynaptic neuron and receptors are on the postsynaptic membrane"
+  },
+  {
+    "id": 128,
+    "question": "What is the first event when an action potential reaches the presynaptic membrane?",
+    "options": [
+      "Acetylcholine is hydrolyzed",
+      "Calcium ion channels open",
+      "Sodium channels close",
+      "Potassium enters the neuron"
+    ],
+    "answer": "Calcium ion channels open"
+  },
+  {
+    "id": 129,
+    "question": "Which ion enters the presynaptic neuron when an action potential arrives?",
+    "options": [
+      "Potassium",
+      "Sodium",
+      "Calcium",
+      "Chloride"
+    ],
+    "answer": "Calcium"
+  },
+  {
+    "id": 130,
+    "question": "What triggers synaptic vesicles to fuse with the presynaptic membrane?",
+    "options": [
+      "Influx of sodium ions",
+      "Influx of potassium ions",
+      "Influx of calcium ions",
+      "Efflux of chloride ions"
+    ],
+    "answer": "Influx of calcium ions"
+  },
+  {
+    "id": 131,
+    "question": "How are neurotransmitters released from the presynaptic neuron?",
+    "options": [
+      "Diffusion",
+      "Active transport",
+      "Exocytosis",
+      "Osmosis"
+    ],
+    "answer": "Exocytosis"
+  },
+  {
+    "id": 132,
+    "question": "After release from the presynaptic membrane, acetylcholine moves across the synaptic cleft by:",
+    "options": [
+      "Facilitated diffusion",
+      "Active transport",
+      "Diffusion",
+      "Osmosis"
+    ],
+    "answer": "Diffusion"
+  },
+  {
+    "id": 133,
+    "question": "Where does acetylcholine bind after crossing the synaptic cleft?",
+    "options": [
+      "Voltage-gated channels",
+      "Sodium-potassium pumps",
+      "Receptors on the postsynaptic membrane",
+      "Myelin sheath"
+    ],
+    "answer": "Receptors on the postsynaptic membrane"
+  },
+  {
+    "id": 134,
+    "question": "What happens when acetylcholine binds to its receptor?",
+    "options": [
+      "Potassium channels open",
+      "Calcium channels close",
+      "Sodium channels open",
+      "ATP synthesis begins"
+    ],
+    "answer": "Sodium channels open"
+  },
+  {
+    "id": 135,
+    "question": "What is the immediate effect of sodium ions entering the postsynaptic neuron?",
+    "options": [
+      "Hyperpolarization",
+      "Depolarization",
+      "Repolarization",
+      "Myelination"
+    ],
+    "answer": "Depolarization"
+  },
+  {
+    "id": 136,
+    "question": "A new action potential is generated if:",
+    "options": [
+      "Threshold is reached in the postsynaptic membrane",
+      "Potassium enters the neuron",
+      "ATP is depleted",
+      "Acetylcholine remains in the cleft"
+    ],
+    "answer": "Threshold is reached in the postsynaptic membrane"
+  },
+  {
+    "id": 137,
+    "question": "Which enzyme breaks down acetylcholine?",
+    "options": [
+      "ATP synthase",
+      "Myosin ATPase",
+      "Acetylcholinesterase",
+      "Polymerase"
+    ],
+    "answer": "Acetylcholinesterase"
+  },
+  {
+    "id": 138,
+    "question": "Acetylcholine is broken down into:",
+    "options": [
+      "Glucose and phosphate",
+      "Choline and ethanoic acid",
+      "Amino acids",
+      "Sodium and potassium"
+    ],
+    "answer": "Choline and ethanoic acid"
+  },
+  {
+    "id": 139,
+    "question": "Why must acetylcholine be rapidly broken down in the synaptic cleft?",
+    "options": [
+      "To prevent continuous stimulation of the postsynaptic neuron",
+      "To generate ATP",
+      "To maintain the resting potential",
+      "To increase diffusion speed"
+    ],
+    "answer": "To prevent continuous stimulation of the postsynaptic neuron"
+  },
+  {
+    "id": 140,
+    "question": "What happens to choline after acetylcholine is hydrolyzed?",
+    "options": [
+      "It is excreted",
+      "It diffuses back into the presynaptic neuron",
+      "It enters the postsynaptic neuron",
+      "It becomes potassium"
+    ],
+    "answer": "It diffuses back into the presynaptic neuron"
+  },
+
+
+  {
+    "id": 141,
+    "question": "What is temporal summation?",
+    "options": [
+      "The combined effect of repeated neurotransmitter release from one presynaptic neuron over a short time",
+      "The combined effect of several presynaptic neurons acting simultaneously",
+      "The inhibition of a postsynaptic neuron",
+      "The rapid breakdown of neurotransmitter"
+    ],
+    "answer": "The combined effect of repeated neurotransmitter release from one presynaptic neuron over a short time"
+  },
+  {
+    "id": 142,
+    "question": "Temporal summation occurs when:",
+    "options": [
+      "Multiple postsynaptic neurons release neurotransmitter",
+      "A single presynaptic neuron fires repeatedly in quick succession",
+      "Several synapses are inhibited simultaneously",
+      "Multiple action potentials travel along the same axon at once"
+    ],
+    "answer": "A single presynaptic neuron fires repeatedly in quick succession"
+  },
+  {
+    "id": 143,
+    "question": "What is the purpose of temporal summation?",
+    "options": [
+      "To decrease neurotransmitter release",
+      "To allow threshold to be reached in the postsynaptic neuron",
+      "To cause hyperpolarization",
+      "To prevent action potentials"
+    ],
+    "answer": "To allow threshold to be reached in the postsynaptic neuron"
+  },
+  {
+    "id": 144,
+    "question": "What is spatial summation?",
+    "options": [
+      "Repeated stimulation from one neuron",
+      "The breakdown of neurotransmitters across a large area",
+      "The combined effect of neurotransmitter release from multiple presynaptic neurons",
+      "The movement of neurotransmitter through several synapses"
+    ],
+    "answer": "The combined effect of neurotransmitter release from multiple presynaptic neurons"
+  },
+  {
+    "id": 145,
+    "question": "Spatial summation occurs when:",
+    "options": [
+      "One neuron releases neurotransmitter repeatedly",
+      "Several presynaptic neurons stimulate the same postsynaptic neuron simultaneously",
+      "A postsynaptic neuron stimulates itself",
+      "Acetylcholine accumulates in one synapse"
+    ],
+    "answer": "Several presynaptic neurons stimulate the same postsynaptic neuron simultaneously"
+  },
+  {
+    "id": 146,
+    "question": "Which statement correctly distinguishes temporal and spatial summation?",
+    "options": [
+      "Temporal involves one neuron repeatedly; spatial involves multiple neurons simultaneously",
+      "Temporal occurs only at neuromuscular junctions",
+      "Spatial uses calcium whereas temporal uses sodium",
+      "Temporal is inhibitory whereas spatial is excitatory"
+    ],
+    "answer": "Temporal involves one neuron repeatedly; spatial involves multiple neurons simultaneously"
+  },
+  {
+    "id": 147,
+    "question": "What is an excitatory synapse?",
+    "options": [
+      "A synapse that increases the likelihood of an action potential",
+      "A synapse that always prevents action potentials",
+      "A synapse lacking neurotransmitters",
+      "A synapse with no receptors"
+    ],
+    "answer": "A synapse that increases the likelihood of an action potential"
+  },
+  {
+    "id": 148,
+    "question": "What is an inhibitory synapse?",
+    "options": [
+      "A synapse that always produces action potentials",
+      "A synapse that reduces the likelihood of an action potential",
+      "A synapse without neurotransmitters",
+      "A damaged synapse"
+    ],
+    "answer": "A synapse that reduces the likelihood of an action potential"
+  },
+  {
+    "id": 149,
+    "question": "What is a major effect of inhibitory synapses?",
+    "options": [
+      "They promote depolarization",
+      "They increase sodium entry",
+      "They make threshold less likely to be reached",
+      "They increase neurotransmitter production"
+    ],
+    "answer": "They make threshold less likely to be reached"
+  },
+  {
+    "id": 150,
+    "question": "Why are inhibitory synapses important?",
+    "options": [
+      "They prevent excessive neuronal excitation",
+      "They produce more ATP",
+      "They speed up diffusion",
+      "They generate action potentials directly"
+    ],
+    "answer": "They prevent excessive neuronal excitation"
+  },
+  {
+    "id": 151,
+    "question": "A postsynaptic neuron receives repeated impulses from one neuron and eventually reaches threshold. This is an example of:",
+    "options": [
+      "Spatial summation",
+      "Saltatory conduction",
+      "Temporal summation",
+      "Inhibition"
+    ],
+    "answer": "Temporal summation"
+  },
+  {
+    "id": 152,
+    "question": "A postsynaptic neuron receives input from several neurons simultaneously and reaches threshold. This is an example of:",
+    "options": [
+      "Spatial summation",
+      "Temporal summation",
+      "Refractory conduction",
+      "Negative feedback"
+    ],
+    "answer": "Spatial summation"
+  },
+  {
+    "id": 153,
+    "question": "What is a neuromuscular junction?",
+    "options": [
+      "A junction between two sensory neurons",
+      "A junction between a motor neuron and a skeletal muscle fiber",
+      "A junction between two muscle cells",
+      "A gap in myelin"
+    ],
+    "answer": "A junction between a motor neuron and a skeletal muscle fiber"
+  },
+  {
+    "id": 154,
+    "question": "Which neurotransmitter is released at a neuromuscular junction?",
+    "options": [
+      "Serotonin",
+      "Dopamine",
+      "Acetylcholine",
+      "Adrenaline"
+    ],
+    "answer": "Acetylcholine"
+  },
+  {
+    "id": 155,
+    "question": "The postsynaptic cell at a neuromuscular junction is:",
+    "options": [
+      "Another neuron",
+      "A glial cell",
+      "A skeletal muscle fiber",
+      "A receptor cell"
+    ],
+    "answer": "A skeletal muscle fiber"
+  },
+  {
+    "id": 156,
+    "question": "The postsynaptic cell in a typical cholinergic synapse is usually:",
+    "options": [
+      "A skeletal muscle fiber",
+      "Another neuron",
+      "A red blood cell",
+      "A bone cell"
+    ],
+    "answer": "Another neuron"
+  },
+  {
+    "id": 157,
+    "question": "Which feature is shared by both cholinergic synapses and neuromuscular junctions?",
+    "options": [
+      "Both use acetylcholine as a neurotransmitter",
+      "Both connect two muscle fibers",
+      "Both generate ATP directly",
+      "Both lack receptors"
+    ],
+    "answer": "Both use acetylcholine as a neurotransmitter"
+  },
+  {
+    "id": 158,
+    "question": "What is the usual outcome of transmission across a neuromuscular junction?",
+    "options": [
+      "Formation of a reflex arc",
+      "Generation of a muscle contraction",
+      "Creation of a receptor potential",
+      "Hyperpolarization of a sensory neuron"
+    ],
+    "answer": "Generation of a muscle contraction"
+  },
+  {
+    "id": 159,
+    "question": "What is the usual outcome of transmission across a cholinergic synapse between neurons?",
+    "options": [
+      "Muscle contraction",
+      "Bone movement",
+      "Generation of an action potential in another neuron",
+      "Production of hormones"
+    ],
+    "answer": "Generation of an action potential in another neuron"
+  },
+  {
+    "id": 160,
+    "question": "Which statement best compares a cholinergic synapse and a neuromuscular junction?",
+    "options": [
+      "Both use acetylcholine, but a cholinergic synapse usually connects neurons whereas a neuromuscular junction connects a motor neuron to a muscle fiber",
+      "A neuromuscular junction uses dopamine while a cholinergic synapse uses acetylcholine",
+      "Only cholinergic synapses contain receptors",
+      "Only neuromuscular junctions release neurotransmitters"
+    ],
+    "answer": "Both use acetylcholine, but a cholinergic synapse usually connects neurons whereas a neuromuscular junction connects a motor neuron to a muscle fiber"
+  },
+
+  {
+    "id": 161,
+    "question": "Which structure contains neurotransmitter receptors in a synapse?",
+    "options": [
+      "Synaptic vesicles",
+      "Postsynaptic membrane",
+      "Node of Ranvier",
+      "Myelin sheath"
+    ],
+    "answer": "Postsynaptic membrane"
+  },
+  {
+    "id": 162,
+    "question": "Which event occurs immediately before neurotransmitter release?",
+    "options": [
+      "Sodium enters the postsynaptic neuron",
+      "Calcium ions enter the presynaptic neuron",
+      "Acetylcholine is hydrolyzed",
+      "Potassium leaves the postsynaptic neuron"
+    ],
+    "answer": "Calcium ions enter the presynaptic neuron"
+  },
+  {
+    "id": 163,
+    "question": "Why is calcium essential for synaptic transmission?",
+    "options": [
+      "It breaks down neurotransmitters",
+      "It opens postsynaptic sodium channels directly",
+      "It triggers vesicle fusion with the presynaptic membrane",
+      "It repolarizes neurons"
+    ],
+    "answer": "It triggers vesicle fusion with the presynaptic membrane"
+  },
+  {
+    "id": 164,
+    "question": "What would happen if calcium channels in the presynaptic membrane failed to open?",
+    "options": [
+      "More neurotransmitter would be released",
+      "Neurotransmitter release would be greatly reduced",
+      "Threshold would be reached faster",
+      "The synaptic cleft would widen"
+    ],
+    "answer": "Neurotransmitter release would be greatly reduced"
+  },
+  {
+    "id": 165,
+    "question": "The receptors for acetylcholine are examples of:",
+    "options": [
+      "Ligand-gated proteins",
+      "Voltage-gated sodium channels",
+      "Myosin proteins",
+      "Sodium-potassium pumps"
+    ],
+    "answer": "Ligand-gated proteins"
+  },
+  {
+    "id": 166,
+    "question": "Why does acetylcholine diffuse across the synaptic cleft?",
+    "options": [
+      "It is actively transported",
+      "Its concentration is higher in the postsynaptic neuron",
+      "Its concentration is higher in the synaptic cleft",
+      "Its concentration is higher near the presynaptic membrane after release"
+    ],
+    "answer": "Its concentration is higher near the presynaptic membrane after release"
+  },
+  {
+    "id": 167,
+    "question": "What directly causes depolarization of the postsynaptic membrane in a cholinergic synapse?",
+    "options": [
+      "Calcium ions entering the postsynaptic neuron",
+      "Sodium ions entering the postsynaptic neuron",
+      "Potassium ions leaving the postsynaptic neuron",
+      "ATP hydrolysis"
+    ],
+    "answer": "Sodium ions entering the postsynaptic neuron"
+  },
+  {
+    "id": 168,
+    "question": "Which process prevents acetylcholine from continuously stimulating the postsynaptic membrane?",
+    "options": [
+      "Saltatory conduction",
+      "Myelination",
+      "Hydrolysis by acetylcholinesterase",
+      "Spatial summation"
+    ],
+    "answer": "Hydrolysis by acetylcholinesterase"
+  },
+  {
+    "id": 169,
+    "question": "What would most likely happen if acetylcholinesterase were absent from a synapse?",
+    "options": [
+      "Acetylcholine would be removed more rapidly",
+      "Postsynaptic stimulation would continue for longer",
+      "Calcium ions could not enter the presynaptic neuron",
+      "Neurotransmitter release would stop"
+    ],
+    "answer": "Postsynaptic stimulation would continue for longer"
+  },
+  {
+    "id": 170,
+    "question": "Which molecule is recycled following the breakdown of acetylcholine?",
+    "options": [
+      "Potassium",
+      "Sodium",
+      "Choline",
+      "ATP"
+    ],
+    "answer": "Choline"
+  },
+  {
+    "id": 171,
+    "question": "Why is neurotransmitter recycling beneficial?",
+    "options": [
+      "It prevents action potentials",
+      "It allows neurotransmitter molecules to be reused",
+      "It generates calcium ions",
+      "It removes the need for ATP"
+    ],
+    "answer": "It allows neurotransmitter molecules to be reused"
+  },
+  {
+    "id": 172,
+    "question": "Which event occurs last during transmission across a cholinergic synapse?",
+    "options": [
+      "Calcium enters the presynaptic neuron",
+      "Acetylcholine binds receptors",
+      "Acetylcholine is hydrolyzed by acetylcholinesterase",
+      "Neurotransmitter diffuses across the cleft"
+    ],
+    "answer": "Acetylcholine is hydrolyzed by acetylcholinesterase"
+  },
+  {
+    "id": 173,
+    "question": "Which statement about synapses is correct?",
+    "options": [
+      "They can be excitatory or inhibitory",
+      "They always produce action potentials",
+      "They use only electrical transmission",
+      "They contain no receptors"
+    ],
+    "answer": "They can be excitatory or inhibitory"
+  },
+  {
+    "id": 174,
+    "question": "A synapse that increases the chance of reaching threshold is described as:",
+    "options": [
+      "Refractory",
+      "Excitatory",
+      "Inhibitory",
+      "Myelinated"
+    ],
+    "answer": "Excitatory"
+  },
+  {
+    "id": 175,
+    "question": "A synapse that decreases the probability of generating an action potential is:",
+    "options": [
+      "Excitatory",
+      "Cholinergic",
+      "Inhibitory",
+      "Saltatory"
+    ],
+    "answer": "Inhibitory"
+  },
+  {
+    "id": 176,
+    "question": "Which scenario best illustrates temporal summation?",
+    "options": [
+      "Five presynaptic neurons release neurotransmitter simultaneously",
+      "One presynaptic neuron fires repeatedly at high frequency",
+      "A neuron receives both excitatory and inhibitory inputs",
+      "A motor neuron stimulates a muscle fiber"
+    ],
+    "answer": "One presynaptic neuron fires repeatedly at high frequency"
+  },
+  {
+    "id": 177,
+    "question": "Which scenario best illustrates spatial summation?",
+    "options": [
+      "A single neuron fires repeatedly over time",
+      "Multiple neurons stimulate the same postsynaptic neuron at the same time",
+      "One action potential crosses several synapses",
+      "Repeated release of acetylcholine at one synapse"
+    ],
+    "answer": "Multiple neurons stimulate the same postsynaptic neuron at the same time"
+  },
+  {
+    "id": 178,
+    "question": "Which feature helps synapses amplify weak signals?",
+    "options": [
+      "Myelination",
+      "Summation",
+      "Refractory periods",
+      "Hyperpolarization"
+    ],
+    "answer": "Summation"
+  },
+  {
+    "id": 179,
+    "question": "Compared with a cholinergic synapse between neurons, a neuromuscular junction has a postsynaptic:",
+    "options": [
+      "Sensory receptor",
+      "Relay neuron",
+      "Skeletal muscle fiber",
+      "Presynaptic neuron"
+    ],
+    "answer": "Skeletal muscle fiber"
+  },
+  {
+    "id": 180,
+    "question": "Which statement best summarizes the role of synapses in the nervous system?",
+    "options": [
+      "They only transmit action potentials between neurons",
+      "They allow signal transmission, amplification, integration, and inhibition",
+      "They replace the need for receptors",
+      "They generate all action potentials independently"
+    ],
+    "answer": "They allow signal transmission, amplification, integration, and inhibition"
+  },
+
+  {
+    "id": 181,
+    "question": "Which of the following events occurs first during transmission across a cholinergic synapse?",
+    "options": [
+      "Acetylcholine diffuses across the synaptic cleft",
+      "Calcium ions enter the presynaptic neuron",
+      "Sodium ions enter the postsynaptic neuron",
+      "Acetylcholine is hydrolyzed"
+    ],
+    "answer": "Calcium ions enter the presynaptic neuron"
+  },
+  {
+    "id": 182,
+    "question": "Which event occurs immediately after synaptic vesicles fuse with the presynaptic membrane?",
+    "options": [
+      "Acetylcholine is released into the synaptic cleft",
+      "Sodium channels open",
+      "Threshold is reached",
+      "Acetylcholine is hydrolyzed"
+    ],
+    "answer": "Acetylcholine is released into the synaptic cleft"
+  },
+  {
+    "id": 183,
+    "question": "What would be the most direct effect of blocking voltage-gated calcium channels in the presynaptic membrane?",
+    "options": [
+      "Increased neurotransmitter release",
+      "Reduced neurotransmitter release",
+      "Increased sodium influx into the postsynaptic neuron",
+      "Enhanced temporal summation"
+    ],
+    "answer": "Reduced neurotransmitter release"
+  },
+  {
+    "id": 184,
+    "question": "What would be the most direct effect of blocking acetylcholine receptors on the postsynaptic membrane?",
+    "options": [
+      "Acetylcholine release would stop",
+      "Sodium channels would fail to open",
+      "Calcium channels would remain closed",
+      "Acetylcholine would not diffuse"
+    ],
+    "answer": "Sodium channels would fail to open"
+  },
+  {
+    "id": 185,
+    "question": "If sodium channels on the postsynaptic membrane fail to open, the result would most likely be:",
+    "options": [
+      "Increased depolarization",
+      "Failure to reach threshold",
+      "Excessive neurotransmitter release",
+      "Increased calcium entry"
+    ],
+    "answer": "Failure to reach threshold"
+  },
+  {
+    "id": 186,
+    "question": "Which process directly causes neurotransmitter release?",
+    "options": [
+      "Diffusion of sodium ions",
+      "Fusion of synaptic vesicles with the presynaptic membrane",
+      "Opening of potassium channels",
+      "Hydrolysis of neurotransmitter"
+    ],
+    "answer": "Fusion of synaptic vesicles with the presynaptic membrane"
+  },
+  {
+    "id": 187,
+    "question": "Which ion is most directly responsible for vesicle fusion?",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Calcium",
+      "Chloride"
+    ],
+    "answer": "Calcium"
+  },
+  {
+    "id": 188,
+    "question": "What is the main advantage of unidirectional transmission at synapses?",
+    "options": [
+      "It prevents confusion in signal flow",
+      "It increases ATP production",
+      "It speeds diffusion",
+      "It eliminates the need for receptors"
+    ],
+    "answer": "It prevents confusion in signal flow"
+  },
+  {
+    "id": 189,
+    "question": "A chemical that inhibits acetylcholinesterase would most likely cause:",
+    "options": [
+      "Reduced postsynaptic stimulation",
+      "Prolonged stimulation of the postsynaptic membrane",
+      "Reduced acetylcholine release",
+      "Closure of calcium channels"
+    ],
+    "answer": "Prolonged stimulation of the postsynaptic membrane"
+  },
+  {
+    "id": 190,
+    "question": "Which of the following is recycled following neurotransmission?",
+    "options": [
+      "Calcium",
+      "Potassium",
+      "Choline",
+      "ATP"
+    ],
+    "answer": "Choline"
+  },
+  {
+    "id": 191,
+    "question": "Which process explains how weak repeated stimulation from one neuron can generate an action potential?",
+    "options": [
+      "Spatial summation",
+      "Temporal summation",
+      "Saltatory conduction",
+      "Inhibition"
+    ],
+    "answer": "Temporal summation"
+  },
+  {
+    "id": 192,
+    "question": "Which process explains how inputs from several neurons can combine to produce an action potential?",
+    "options": [
+      "Temporal summation",
+      "Spatial summation",
+      "Refractory conduction",
+      "Hyperpolarization"
+    ],
+    "answer": "Spatial summation"
+  },
+  {
+    "id": 193,
+    "question": "A neuron receives three weak excitatory inputs simultaneously and reaches threshold. This is an example of:",
+    "options": [
+      "Inhibition",
+      "Spatial summation",
+      "Temporal summation",
+      "Saltatory conduction"
+    ],
+    "answer": "Spatial summation"
+  },
+  {
+    "id": 194,
+    "question": "A neuron receives rapid repeated impulses from one presynaptic neuron and reaches threshold. This is an example of:",
+    "options": [
+      "Spatial summation",
+      "Temporal summation",
+      "Inhibition",
+      "Repolarization"
+    ],
+    "answer": "Temporal summation"
+  },
+  {
+    "id": 195,
+    "question": "Which synapse type decreases the likelihood of an action potential being generated?",
+    "options": [
+      "Excitatory",
+      "Cholinergic",
+      "Inhibitory",
+      "Neuromuscular"
+    ],
+    "answer": "Inhibitory"
+  },
+  {
+    "id": 196,
+    "question": "Which synapse type increases the likelihood of reaching threshold?",
+    "options": [
+      "Inhibitory",
+      "Excitatory",
+      "Refractory",
+      "Electrical"
+    ],
+    "answer": "Excitatory"
+  },
+  {
+    "id": 197,
+    "question": "Why are inhibitory synapses important in neural networks?",
+    "options": [
+      "They limit excessive excitation",
+      "They increase neurotransmitter production",
+      "They speed action potentials",
+      "They replace refractory periods"
+    ],
+    "answer": "They limit excessive excitation"
+  },
+  {
+    "id": 198,
+    "question": "What is the main functional difference between a cholinergic synapse and a neuromuscular junction?",
+    "options": [
+      "Only neuromuscular junctions use neurotransmitters",
+      "Only cholinergic synapses contain receptors",
+      "The postsynaptic cell differs",
+      "The mechanism of transmission is completely different"
+    ],
+    "answer": "The postsynaptic cell differs"
+  },
+  {
+    "id": 199,
+    "question": "In a neuromuscular junction, the postsynaptic cell is:",
+    "options": [
+      "A sensory neuron",
+      "A relay neuron",
+      "A skeletal muscle fiber",
+      "A receptor cell"
+    ],
+    "answer": "A skeletal muscle fiber"
+  },
+  {
+    "id": 200,
+    "question": "Which statement best summarizes synaptic integration?",
+    "options": [
+      "The combining of excitatory and inhibitory inputs to determine whether threshold is reached",
+      "The hydrolysis of acetylcholine",
+      "The movement of action potentials along axons",
+      "The transport of calcium ions"
+    ],
+    "answer": "The combining of excitatory and inhibitory inputs to determine whether threshold is reached"
+  },
+
+  {
+    "id": 201,
+    "question": "Which type of muscle tissue is under voluntary control?",
+    "options": [
+      "Smooth muscle",
+      "Cardiac muscle",
+      "Skeletal muscle",
+      "Visceral muscle"
+    ],
+    "answer": "Skeletal muscle"
+  },
+  {
+    "id": 202,
+    "question": "Which type of muscle tissue is found attached to bones?",
+    "options": [
+      "Cardiac muscle",
+      "Smooth muscle",
+      "Skeletal muscle",
+      "Involuntary muscle"
+    ],
+    "answer": "Skeletal muscle"
+  },
+  {
+    "id": 203,
+    "question": "Which type of muscle tissue contains intercalated discs?",
+    "options": [
+      "Smooth muscle",
+      "Skeletal muscle",
+      "Cardiac muscle",
+      "All muscle types"
+    ],
+    "answer": "Cardiac muscle"
+  },
+  {
+    "id": 204,
+    "question": "Which type of muscle tissue is spindle-shaped and non-striated?",
+    "options": [
+      "Cardiac muscle",
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Fast-twitch muscle"
+    ],
+    "answer": "Smooth muscle"
+  },
+  {
+    "id": 205,
+    "question": "Which characteristic is shared by all muscle tissues?",
+    "options": [
+      "Voluntary control",
+      "Contractility",
+      "Striations",
+      "Multiple nuclei"
+    ],
+    "answer": "Contractility"
+  },
+  {
+    "id": 206,
+    "question": "What is extensibility?",
+    "options": [
+      "The ability to contract",
+      "The ability to stretch",
+      "The ability to generate ATP",
+      "The ability to respond to stimuli"
+    ],
+    "answer": "The ability to stretch"
+  },
+  {
+    "id": 207,
+    "question": "What is elasticity?",
+    "options": [
+      "The ability to contract repeatedly",
+      "The ability to return to original length after stretching",
+      "The ability to generate force",
+      "The ability to conduct action potentials"
+    ],
+    "answer": "The ability to return to original length after stretching"
+  },
+  {
+    "id": 208,
+    "question": "What is excitability in muscle tissue?",
+    "options": [
+      "The ability to stretch",
+      "The ability to shorten",
+      "The ability to respond to stimuli",
+      "The ability to store oxygen"
+    ],
+    "answer": "The ability to respond to stimuli"
+  },
+  {
+    "id": 209,
+    "question": "What is contractility?",
+    "options": [
+      "The ability to generate force through shortening",
+      "The ability to return to resting length",
+      "The ability to conduct impulses",
+      "The ability to store glycogen"
+    ],
+    "answer": "The ability to generate force through shortening"
+  },
+  {
+    "id": 210,
+    "question": "What is a muscle fiber?",
+    "options": [
+      "A connective tissue strand",
+      "A muscle cell",
+      "A myosin filament",
+      "A tendon"
+    ],
+    "answer": "A muscle cell"
+  },
+  {
+    "id": 211,
+    "question": "What structures are found inside muscle fibers and are responsible for contraction?",
+    "options": [
+      "Ligaments",
+      "Myofibrils",
+      "Tendons",
+      "Cartilage"
+    ],
+    "answer": "Myofibrils"
+  },
+  {
+    "id": 212,
+    "question": "What is a sarcomere?",
+    "options": [
+      "The functional contractile unit of a myofibril",
+      "A type of muscle fiber",
+      "A tendon attachment",
+      "A calcium storage organelle"
+    ],
+    "answer": "The functional contractile unit of a myofibril"
+  },
+  {
+    "id": 213,
+    "question": "Why do skeletal muscles appear striated under a microscope?",
+    "options": [
+      "Because of blood vessels",
+      "Because of repeating sarcomeres",
+      "Because of nuclei distribution",
+      "Because of calcium deposits"
+    ],
+    "answer": "Because of repeating sarcomeres"
+  },
+  {
+    "id": 214,
+    "question": "What is the origin of a muscle?",
+    "options": [
+      "The movable attachment point",
+      "The fixed attachment point",
+      "The center of the muscle",
+      "The tendon"
+    ],
+    "answer": "The fixed attachment point"
+  },
+  {
+    "id": 215,
+    "question": "What is the insertion of a muscle?",
+    "options": [
+      "The fixed attachment point",
+      "The movable attachment point",
+      "The thick filament region",
+      "The neuromuscular junction"
+    ],
+    "answer": "The movable attachment point"
+  },
+  {
+    "id": 216,
+    "question": "What is an agonist muscle?",
+    "options": [
+      "The muscle primarily responsible for a movement",
+      "A muscle that prevents movement",
+      "A muscle attached to bone by a ligament",
+      "A relaxed muscle"
+    ],
+    "answer": "The muscle primarily responsible for a movement"
+  },
+  {
+    "id": 217,
+    "question": "What is an antagonist muscle?",
+    "options": [
+      "A muscle that opposes the action of the agonist",
+      "A damaged muscle",
+      "A muscle that always contracts",
+      "A muscle attached to cartilage"
+    ],
+    "answer": "A muscle that opposes the action of the agonist"
+  },
+  {
+    "id": 218,
+    "question": "Why do skeletal muscles operate in antagonistic pairs?",
+    "options": [
+      "Muscles can only pull, not push",
+      "Muscles can only push, not pull",
+      "Bones generate movement",
+      "Ligaments cause movement"
+    ],
+    "answer": "Muscles can only pull, not push"
+  },
+  {
+    "id": 219,
+    "question": "Which pair represents an antagonistic muscle pair?",
+    "options": [
+      "Deltoid and trapezius",
+      "Biceps and triceps",
+      "Quadriceps and gluteals",
+      "Pectorals and deltoids"
+    ],
+    "answer": "Biceps and triceps"
+  },
+  {
+    "id": 220,
+    "question": "During elbow flexion, which muscle contracts?",
+    "options": [
+      "Triceps",
+      "Biceps",
+      "Deltoid",
+      "Latissimus dorsi"
+    ],
+    "answer": "Biceps"
+  },
+
+  {
+    "id": 221,
+    "question": "During elbow extension, which muscle contracts?",
+    "options": [
+      "Biceps",
+      "Deltoid",
+      "Triceps",
+      "Pectoralis major"
+    ],
+    "answer": "Triceps"
+  },
+  {
+    "id": 222,
+    "question": "What is a tendon?",
+    "options": [
+      "Elastic tissue connecting bone to bone",
+      "Non-elastic tissue connecting muscle to bone",
+      "A contractile protein",
+      "A calcium storage structure"
+    ],
+    "answer": "Non-elastic tissue connecting muscle to bone"
+  },
+  {
+    "id": 223,
+    "question": "What is a ligament?",
+    "options": [
+      "Contractile tissue",
+      "Non-elastic tissue connecting muscle to bone",
+      "Elastic tissue connecting bone to bone",
+      "A connective tissue found in tendons only"
+    ],
+    "answer": "Elastic tissue connecting bone to bone"
+  },
+  {
+    "id": 224,
+    "question": "What is a joint?",
+    "options": [
+      "The site where two bones meet",
+      "The attachment point of a tendon",
+      "A thick myosin filament",
+      "The end of a muscle fiber"
+    ],
+    "answer": "The site where two bones meet"
+  },
+  {
+    "id": 225,
+    "question": "What are thin filaments primarily composed of?",
+    "options": [
+      "Myosin",
+      "Actin and tropomyosin",
+      "Actin and myosin",
+      "Troponin and myosin"
+    ],
+    "answer": "Actin and tropomyosin"
+  },
+  {
+    "id": 226,
+    "question": "What are thick filaments primarily composed of?",
+    "options": [
+      "Actin",
+      "Tropomyosin",
+      "Myosin",
+      "Troponin"
+    ],
+    "answer": "Myosin"
+  },
+  {
+    "id": 227,
+    "question": "What is the role of actin in muscle contraction?",
+    "options": [
+      "Provides binding sites for myosin heads",
+      "Pumps calcium ions",
+      "Stores ATP",
+      "Hydrolyzes glycogen"
+    ],
+    "answer": "Provides binding sites for myosin heads"
+  },
+  {
+    "id": 228,
+    "question": "What is the role of myosin in muscle contraction?",
+    "options": [
+      "Forms thin filaments",
+      "Provides calcium storage",
+      "Forms cross-bridges and generates force",
+      "Produces acetylcholine"
+    ],
+    "answer": "Forms cross-bridges and generates force"
+  },
+  {
+    "id": 229,
+    "question": "What is tropomyosin?",
+    "options": [
+      "A contractile protein that pulls actin",
+      "A regulatory protein that blocks myosin-binding sites on actin",
+      "A calcium storage protein",
+      "A component of tendons"
+    ],
+    "answer": "A regulatory protein that blocks myosin-binding sites on actin"
+  },
+  {
+    "id": 230,
+    "question": "What are myosin heads capable of doing?",
+    "options": [
+      "Pumping calcium ions",
+      "Binding to actin and generating force",
+      "Producing ATP",
+      "Transporting oxygen"
+    ],
+    "answer": "Binding to actin and generating force"
+  },
+  {
+    "id": 231,
+    "question": "What are Z lines?",
+    "options": [
+      "Regions where thick filaments attach",
+      "Boundaries of a sarcomere where thin filaments attach",
+      "Calcium storage sites",
+      "Points where tendons attach"
+    ],
+    "answer": "Boundaries of a sarcomere where thin filaments attach"
+  },
+  {
+    "id": 232,
+    "question": "What is the M line?",
+    "options": [
+      "The center of the sarcomere where thick filaments are anchored",
+      "The outer boundary of a myofibril",
+      "The region where calcium is stored",
+      "A tendon attachment point"
+    ],
+    "answer": "The center of the sarcomere where thick filaments are anchored"
+  },
+  {
+    "id": 233,
+    "question": "Which statement describes the sliding filament model?",
+    "options": [
+      "Filaments shorten during contraction",
+      "Actin slides over myosin, shortening the sarcomere",
+      "Myosin slides over actin but sarcomeres remain unchanged",
+      "Muscle contraction requires filament destruction"
+    ],
+    "answer": "Actin slides over myosin, shortening the sarcomere"
+  },
+  {
+    "id": 234,
+    "question": "During muscle contraction, what happens to the length of actin and myosin filaments?",
+    "options": [
+      "Both shorten",
+      "Both lengthen",
+      "Myosin shortens only",
+      "Neither filament changes length"
+    ],
+    "answer": "Neither filament changes length"
+  },
+  {
+    "id": 235,
+    "question": "What happens to a sarcomere during contraction?",
+    "options": [
+      "It lengthens",
+      "It remains unchanged",
+      "It shortens",
+      "It breaks apart"
+    ],
+    "answer": "It shortens"
+  },
+  {
+    "id": 236,
+    "question": "What is a cross-bridge?",
+    "options": [
+      "A connection between adjacent muscle fibers",
+      "The attachment of a myosin head to actin",
+      "A tendon attachment",
+      "A calcium transporter"
+    ],
+    "answer": "The attachment of a myosin head to actin"
+  },
+  {
+    "id": 237,
+    "question": "What molecule is initially bound to a myosin head before contraction?",
+    "options": [
+      "Glucose",
+      "ATP",
+      "Calcium",
+      "Acetylcholine"
+    ],
+    "answer": "ATP"
+  },
+  {
+    "id": 238,
+    "question": "What happens to ATP before a myosin head forms a cross-bridge?",
+    "options": [
+      "It is converted to glucose",
+      "It is hydrolyzed to ADP and Pi",
+      "It is released unchanged",
+      "It binds to actin"
+    ],
+    "answer": "It is hydrolyzed to ADP and Pi"
+  },
+  {
+    "id": 239,
+    "question": "What is the power stroke?",
+    "options": [
+      "The release of calcium from storage",
+      "The bending movement of a myosin head that pulls actin",
+      "The hydrolysis of ATP",
+      "The opening of sodium channels"
+    ],
+    "answer": "The bending movement of a myosin head that pulls actin"
+  },
+  {
+    "id": 240,
+    "question": "What directly causes the power stroke to occur?",
+    "options": [
+      "Binding of ATP to myosin",
+      "Release of ADP and Pi from the myosin head",
+      "Binding of calcium to actin",
+      "Opening of sodium channels"
+    ],
+    "answer": "Release of ADP and Pi from the myosin head"
+  },
+
+  {
+    "id": 241,
+    "question": "What causes a myosin head to detach from actin during the cross-bridge cycle?",
+    "options": [
+      "Release of calcium ions",
+      "Binding of a new ATP molecule",
+      "Hydrolysis of glycogen",
+      "Removal of sodium ions"
+    ],
+    "answer": "Binding of a new ATP molecule"
+  },
+  {
+    "id": 242,
+    "question": "Why is ATP essential for muscle relaxation?",
+    "options": [
+      "ATP allows myosin to detach from actin",
+      "ATP breaks down actin filaments",
+      "ATP removes myosin filaments",
+      "ATP produces calcium ions"
+    ],
+    "answer": "ATP allows myosin to detach from actin"
+  },
+  {
+    "id": 243,
+    "question": "What is rigor mortis?",
+    "options": [
+      "Continuous ATP production",
+      "Muscle stiffening due to lack of ATP",
+      "Excessive calcium release",
+      "Loss of myosin filaments"
+    ],
+    "answer": "Muscle stiffening due to lack of ATP"
+  },
+  {
+    "id": 244,
+    "question": "Why do muscles become stiff during rigor mortis?",
+    "options": [
+      "Actin filaments disappear",
+      "Myosin heads cannot detach from actin without ATP",
+      "Calcium cannot enter muscle fibers",
+      "Neuromuscular junctions stop functioning"
+    ],
+    "answer": "Myosin heads cannot detach from actin without ATP"
+  },
+  {
+    "id": 245,
+    "question": "Which ion initiates skeletal muscle contraction?",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Chloride",
+      "Calcium"
+    ],
+    "answer": "Calcium"
+  },
+  {
+    "id": 246,
+    "question": "What is the role of calcium ions in muscle contraction?",
+    "options": [
+      "Hydrolyze ATP",
+      "Expose myosin-binding sites on actin",
+      "Generate action potentials",
+      "Break down glycogen"
+    ],
+    "answer": "Expose myosin-binding sites on actin"
+  },
+  {
+    "id": 247,
+    "question": "What does tropomyosin do in a relaxed muscle?",
+    "options": [
+      "Hydrolyzes ATP",
+      "Blocks myosin-binding sites on actin",
+      "Binds directly to myosin heads",
+      "Stores calcium ions"
+    ],
+    "answer": "Blocks myosin-binding sites on actin"
+  },
+  {
+    "id": 248,
+    "question": "What happens to tropomyosin when calcium levels rise?",
+    "options": [
+      "It moves away from actin binding sites",
+      "It forms new actin filaments",
+      "It breaks down ATP",
+      "It detaches from the muscle fiber"
+    ],
+    "answer": "It moves away from actin binding sites"
+  },
+  {
+    "id": 249,
+    "question": "Why can myosin bind to actin only after calcium is released?",
+    "options": [
+      "Calcium activates ATP",
+      "Calcium exposes the binding sites on actin",
+      "Calcium hydrolyzes myosin",
+      "Calcium creates new actin filaments"
+    ],
+    "answer": "Calcium exposes the binding sites on actin"
+  },
+  {
+    "id": 250,
+    "question": "Without calcium ions, what would happen?",
+    "options": [
+      "Cross-bridges could still form normally",
+      "ATP production would stop entirely",
+      "Myosin could not bind to actin",
+      "Actin would shorten"
+    ],
+    "answer": "Myosin could not bind to actin"
+  },
+  {
+    "id": 251,
+    "question": "Which statement best describes the role of ATP in muscle contraction?",
+    "options": [
+      "ATP is required only for calcium transport",
+      "ATP powers cross-bridge cycling and calcium transport",
+      "ATP forms actin filaments",
+      "ATP replaces calcium ions"
+    ],
+    "answer": "ATP powers cross-bridge cycling and calcium transport"
+  },
+  {
+    "id": 252,
+    "question": "Why do skeletal muscles require large amounts of ATP?",
+    "options": [
+      "To create actin filaments",
+      "To power cross-bridge cycling and calcium pumping",
+      "To build tendons",
+      "To maintain ligaments"
+    ],
+    "answer": "To power cross-bridge cycling and calcium pumping"
+  },
+  {
+    "id": 253,
+    "question": "After contraction, calcium ions are:",
+    "options": [
+      "Destroyed",
+      "Converted into ATP",
+      "Actively pumped back into storage",
+      "Diffused out of the body"
+    ],
+    "answer": "Actively pumped back into storage"
+  },
+  {
+    "id": 254,
+    "question": "What energy source drives the pumping of calcium ions back into storage?",
+    "options": [
+      "Glucose only",
+      "ATP",
+      "Myoglobin",
+      "Phosphocreatine only"
+    ],
+    "answer": "ATP"
+  },
+  {
+    "id": 255,
+    "question": "What is phosphocreatine?",
+    "options": [
+      "A contractile protein",
+      "A neurotransmitter",
+      "A high-energy phosphate storage compound",
+      "A calcium-binding protein"
+    ],
+    "answer": "A high-energy phosphate storage compound"
+  },
+  {
+    "id": 256,
+    "question": "How does phosphocreatine help maintain muscle contraction?",
+    "options": [
+      "It directly powers the power stroke",
+      "It donates phosphate groups to regenerate ATP",
+      "It binds to actin",
+      "It stores calcium ions"
+    ],
+    "answer": "It donates phosphate groups to regenerate ATP"
+  },
+  {
+    "id": 257,
+    "question": "Why is phosphocreatine particularly useful during intense exercise?",
+    "options": [
+      "It provides oxygen directly",
+      "It rapidly regenerates ATP",
+      "It creates new muscle fibers",
+      "It removes lactate"
+    ],
+    "answer": "It rapidly regenerates ATP"
+  },
+  {
+    "id": 258,
+    "question": "What is myoglobin?",
+    "options": [
+      "A contractile protein",
+      "An oxygen-binding protein in muscle",
+      "A neurotransmitter receptor",
+      "A structural component of tendons"
+    ],
+    "answer": "An oxygen-binding protein in muscle"
+  },
+  {
+    "id": 259,
+    "question": "What is the primary function of myoglobin?",
+    "options": [
+      "Store oxygen for aerobic respiration",
+      "Attach muscle to bone",
+      "Break down ATP",
+      "Transport calcium ions"
+    ],
+    "answer": "Store oxygen for aerobic respiration"
+  },
+  {
+    "id": 260,
+    "question": "Most ATP used during prolonged muscle activity is produced by:",
+    "options": [
+      "Diffusion",
+      "Aerobic respiration",
+      "Acetylcholine hydrolysis",
+      "Tropomyosin activity"
+    ],
+    "answer": "Aerobic respiration"
+  },
+
+  {
+    "id": 261,
+    "question": "Which type of muscle fiber is best adapted for marathon running?",
+    "options": [
+      "Fast-twitch fibers",
+      "Smooth muscle fibers",
+      "Slow-twitch fibers",
+      "Cardiac fibers"
+    ],
+    "answer": "Slow-twitch fibers"
+  },
+  {
+    "id": 262,
+    "question": "Which type of muscle fiber is best adapted for sprinting?",
+    "options": [
+      "Slow-twitch fibers",
+      "Fast-twitch fibers",
+      "Smooth muscle fibers",
+      "Cardiac fibers"
+    ],
+    "answer": "Fast-twitch fibers"
+  },
+  {
+    "id": 263,
+    "question": "Which muscle fibers are specialized for prolonged aerobic activity?",
+    "options": [
+      "Fast-twitch fibers",
+      "Slow-twitch fibers",
+      "Smooth muscle fibers",
+      "Intermediate neurons"
+    ],
+    "answer": "Slow-twitch fibers"
+  },
+  {
+    "id": 264,
+    "question": "Which muscle fibers fatigue more slowly?",
+    "options": [
+      "Fast-twitch fibers",
+      "Slow-twitch fibers",
+      "Both fatigue equally",
+      "Neither fatigues"
+    ],
+    "answer": "Slow-twitch fibers"
+  },
+  {
+    "id": 265,
+    "question": "Why are slow-twitch fibers resistant to fatigue?",
+    "options": [
+      "They contain large glycogen stores only",
+      "They rely entirely on anaerobic respiration",
+      "They have abundant mitochondria, myoglobin, and blood supply",
+      "They lack myosin filaments"
+    ],
+    "answer": "They have abundant mitochondria, myoglobin, and blood supply"
+  },
+  {
+    "id": 266,
+    "question": "Which adaptation is characteristic of slow-twitch fibers?",
+    "options": [
+      "High phosphocreatine stores only",
+      "Large myoglobin content",
+      "Few mitochondria",
+      "Low oxygen supply"
+    ],
+    "answer": "Large myoglobin content"
+  },
+  {
+    "id": 267,
+    "question": "Which adaptation helps slow-twitch fibers sustain aerobic respiration?",
+    "options": [
+      "Numerous mitochondria",
+      "Reduced blood supply",
+      "Absence of myoglobin",
+      "Low oxygen availability"
+    ],
+    "answer": "Numerous mitochondria"
+  },
+  {
+    "id": 268,
+    "question": "Which muscle fibers contain more myoglobin?",
+    "options": [
+      "Fast-twitch fibers",
+      "Slow-twitch fibers",
+      "Both equally",
+      "Neither"
+    ],
+    "answer": "Slow-twitch fibers"
+  },
+  {
+    "id": 269,
+    "question": "Which muscle fibers typically contain a richer capillary supply?",
+    "options": [
+      "Fast-twitch fibers",
+      "Slow-twitch fibers",
+      "Smooth muscle fibers",
+      "Cardiac fibers only"
+    ],
+    "answer": "Slow-twitch fibers"
+  },
+  {
+    "id": 270,
+    "question": "Which type of muscle fiber generates rapid, powerful contractions?",
+    "options": [
+      "Slow-twitch fibers",
+      "Fast-twitch fibers",
+      "Smooth muscle fibers",
+      "Cardiac fibers"
+    ],
+    "answer": "Fast-twitch fibers"
+  },
+  {
+    "id": 271,
+    "question": "Why are fast-twitch fibers well adapted for sprinting?",
+    "options": [
+      "They produce slower contractions",
+      "They generate powerful contractions rapidly",
+      "They rely mainly on oxygen storage",
+      "They contain fewer myosin filaments"
+    ],
+    "answer": "They generate powerful contractions rapidly"
+  },
+  {
+    "id": 272,
+    "question": "Which type of muscle fiber fatigues more rapidly?",
+    "options": [
+      "Slow-twitch fibers",
+      "Fast-twitch fibers",
+      "Both equally",
+      "Neither"
+    ],
+    "answer": "Fast-twitch fibers"
+  },
+  {
+    "id": 273,
+    "question": "Which muscle fibers contain a higher concentration of glycogen?",
+    "options": [
+      "Slow-twitch fibers",
+      "Fast-twitch fibers",
+      "Both equally",
+      "Cardiac fibers"
+    ],
+    "answer": "Fast-twitch fibers"
+  },
+  {
+    "id": 274,
+    "question": "Why do fast-twitch fibers contain large glycogen stores?",
+    "options": [
+      "To support rapid ATP generation",
+      "To bind oxygen",
+      "To store calcium",
+      "To build myofibrils"
+    ],
+    "answer": "To support rapid ATP generation"
+  },
+  {
+    "id": 275,
+    "question": "Which type of muscle fiber contains higher concentrations of enzymes for anaerobic respiration?",
+    "options": [
+      "Slow-twitch fibers",
+      "Fast-twitch fibers",
+      "Both equally",
+      "Smooth muscle fibers"
+    ],
+    "answer": "Fast-twitch fibers"
+  },
+  {
+    "id": 276,
+    "question": "Why are phosphocreatine stores especially important in fast-twitch fibers?",
+    "options": [
+      "They provide oxygen",
+      "They rapidly regenerate ATP",
+      "They remove calcium ions",
+      "They form actin filaments"
+    ],
+    "answer": "They rapidly regenerate ATP"
+  },
+  {
+    "id": 277,
+    "question": "Which structural adaptation contributes to the power of fast-twitch fibers?",
+    "options": [
+      "Fewer myosin filaments",
+      "Thicker and more numerous myosin filaments",
+      "Fewer mitochondria only",
+      "Absence of actin"
+    ],
+    "answer": "Thicker and more numerous myosin filaments"
+  },
+  {
+    "id": 278,
+    "question": "A marathon runner would be expected to have a high proportion of:",
+    "options": [
+      "Fast-twitch fibers",
+      "Slow-twitch fibers",
+      "Smooth muscle fibers",
+      "Cardiac fibers"
+    ],
+    "answer": "Slow-twitch fibers"
+  },
+  {
+    "id": 279,
+    "question": "A 100-meter sprinter would be expected to have a high proportion of:",
+    "options": [
+      "Slow-twitch fibers",
+      "Fast-twitch fibers",
+      "Smooth muscle fibers",
+      "Cardiac fibers"
+    ],
+    "answer": "Fast-twitch fibers"
+  },
+  {
+    "id": 280,
+    "question": "Which statement best compares slow- and fast-twitch fibers?",
+    "options": [
+      "Slow-twitch fibers are adapted for endurance; fast-twitch fibers are adapted for explosive power",
+      "Slow-twitch fibers rely mainly on anaerobic respiration",
+      "Fast-twitch fibers contain more myoglobin than slow-twitch fibers",
+      "Slow-twitch fibers fatigue more quickly than fast-twitch fibers"
+    ],
+    "answer": "Slow-twitch fibers are adapted for endurance; fast-twitch fibers are adapted for explosive power"
+  },
+  {
+    "id": 281,
+    "question": "Which event occurs first during skeletal muscle contraction?",
+    "options": [
+      "Power stroke",
+      "Calcium exposes actin binding sites",
+      "ATP binds to myosin",
+      "Myosin detaches from actin"
+    ],
+    "answer": "Calcium exposes actin binding sites"
+  },
+  {
+    "id": 282,
+    "question": "What would happen if calcium ions were not released into a muscle fiber?",
+    "options": [
+      "Cross-bridges would form normally",
+      "Myosin could not bind to actin",
+      "ATP production would increase",
+      "Sarcomeres would shorten automatically"
+    ],
+    "answer": "Myosin could not bind to actin"
+  },
+  {
+    "id": 283,
+    "question": "What would happen if tropomyosin remained permanently over the binding sites on actin?",
+    "options": [
+      "Power strokes would increase",
+      "Cross-bridges could not form",
+      "ATP would not be required",
+      "Myosin would shorten"
+    ],
+    "answer": "Cross-bridges could not form"
+  },
+  {
+    "id": 284,
+    "question": "What would happen if ATP could no longer bind to myosin heads?",
+    "options": [
+      "Cross-bridges would detach normally",
+      "Calcium levels would rise",
+      "Myosin would remain attached to actin",
+      "Actin would disappear"
+    ],
+    "answer": "Myosin would remain attached to actin"
+  },
+  {
+    "id": 285,
+    "question": "Which step of the cross-bridge cycle directly requires ATP hydrolysis?",
+    "options": [
+      "Energizing the myosin head",
+      "Binding of calcium to regulatory proteins",
+      "Exposure of actin binding sites",
+      "Formation of the sarcomere"
+    ],
+    "answer": "Energizing the myosin head"
+  },
+  {
+    "id": 286,
+    "question": "Which step requires ATP binding but not hydrolysis?",
+    "options": [
+      "Detachment of myosin from actin",
+      "Power stroke",
+      "Exposure of actin binding sites",
+      "Calcium release"
+    ],
+    "answer": "Detachment of myosin from actin"
+  },
+  {
+    "id": 287,
+    "question": "During contraction, which structure moves toward the center of the sarcomere?",
+    "options": [
+      "Thin filaments",
+      "Z lines only",
+      "M line",
+      "Ligaments"
+    ],
+    "answer": "Thin filaments"
+  },
+  {
+    "id": 288,
+    "question": "Which feature distinguishes skeletal muscle from smooth muscle?",
+    "options": [
+      "Excitability",
+      "Contractility",
+      "Striations",
+      "Elasticity"
+    ],
+    "answer": "Striations"
+  },
+  {
+    "id": 289,
+    "question": "Which feature distinguishes skeletal muscle from cardiac muscle?",
+    "options": [
+      "Contains actin and myosin",
+      "Is striated",
+      "Is voluntary",
+      "Can generate action potentials"
+    ],
+    "answer": "Is voluntary"
+  },
+  {
+    "id": 290,
+    "question": "Which statement best summarizes the sliding filament theory?",
+    "options": [
+      "Actin and myosin shorten during contraction",
+      "Myosin dissolves as muscles shorten",
+      "Actin filaments slide past myosin filaments, shortening the sarcomere",
+      "Sarcomeres lengthen during contraction"
+    ],
+    "answer": "Actin filaments slide past myosin filaments, shortening the sarcomere"
+  }
+
+]

@@ -70,9 +70,24 @@
 	},
 	{
 		"id": "systems-mcqs-1",
-		"title": "Systems 2 :: Practice MCQs",
+		"title": "Systems 1 :: Practice MCQs",
 		"url": "topics/systems_1/mcqs_systems_1.html",
 		"img": "assets/systems-mcqs1.jpg",
+		"description": "Timed multiple-choice practice."
+	},
+
+	{
+		"id": "systems-flashcards-2",
+		"title": "Systems 2 :: Flashcards",
+		"url": "topics/systems_2/sg_systems_2.html",
+		"img": "assets/systems-flashcards2.jpg",
+		"description": "Flashcards"
+	},
+	{
+		"id": "systems-mcqs-2",
+		"title": "Systems 2 :: Practice MCQs",
+		"url": "topics/systems_2/mcqs_systems_2.html",
+		"img": "assets/systems-mcqs2.jpg",
 		"description": "Timed multiple-choice practice."
 	}
 
