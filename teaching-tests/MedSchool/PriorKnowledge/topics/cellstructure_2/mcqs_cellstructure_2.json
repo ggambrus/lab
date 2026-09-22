@@ -1,0 +1,2198 @@
+[
+  {
+    "id": 1,
+    "question": "During which stage of the cell cycle does DNA replication occur?",
+    "options": ["Interphase", "Prophase", "Anaphase", "Telophase"],
+    "answer": "Interphase"
+  },
+  {
+    "id": 2,
+    "question": "What is mitosis?",
+    "options": [
+      "Production of gametes",
+      "Division of the nucleus producing identical daughter cells",
+      "Fusion of gametes",
+      "DNA replication"
+    ],
+    "answer": "Division of the nucleus producing identical daughter cells"
+  },
+  {
+    "id": 3,
+    "question": "What is the primary function of mitosis?",
+    "options": [
+      "Generating genetic variation",
+      "Reducing chromosome number",
+      "Growth, repair and replacement of cells",
+      "Producing gametes"
+    ],
+    "answer": "Growth, repair and replacement of cells"
+  },
+  {
+    "id": 4,
+    "question": "Which structure contains the cell's DNA?",
+    "options": ["Nucleus", "Ribosome", "Golgi apparatus", "Lysosome"],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 5,
+    "question": "Human body cells normally contain how many chromosomes?",
+    "options": ["23", "46", "92", "44"],
+    "answer": "46"
+  },
+  {
+    "id": 6,
+    "question": "Chromosomes are composed of:",
+    "options": [
+      "DNA and proteins",
+      "RNA and proteins",
+      "DNA and phospholipids",
+      "RNA and phospholipids"
+    ],
+    "answer": "DNA and proteins"
+  },
+  {
+    "id": 7,
+    "question": "What are sister chromatids?",
+    "options": [
+      "Homologous chromosomes from different parents",
+      "Two identical copies of a chromosome",
+      "Chromosomes undergoing crossing over",
+      "Haploid chromosomes"
+    ],
+    "answer": "Two identical copies of a chromosome"
+  },
+  {
+    "id": 8,
+    "question": "Where are sister chromatids joined together?",
+    "options": ["Centromere", "Spindle", "Telomere", "Nucleolus"],
+    "answer": "Centromere"
+  },
+  {
+    "id": 9,
+    "question": "What happens during prophase?",
+    "options": [
+      "Chromosomes line up at the equator",
+      "Sister chromatids separate",
+      "Chromosomes condense and become visible",
+      "Cell divides into two"
+    ],
+    "answer": "Chromosomes condense and become visible"
+  },
+  {
+    "id": 10,
+    "question": "What happens to the nuclear envelope during prophase?",
+    "options": [
+      "It duplicates",
+      "It begins to break down",
+      "It thickens",
+      "It forms around chromosomes"
+    ],
+    "answer": "It begins to break down"
+  },
+  {
+    "id": 11,
+    "question": "During which phase do chromosomes align at the equator?",
+    "options": ["Metaphase", "Anaphase", "Prophase", "Telophase"],
+    "answer": "Metaphase"
+  },
+  {
+    "id": 12,
+    "question": "Spindle fibers attach to chromosomes via the:",
+    "options": ["Centromere", "Nucleus", "Chromatid", "Membrane"],
+    "answer": "Centromere"
+  },
+  {
+    "id": 13,
+    "question": "What occurs during anaphase?",
+    "options": [
+      "DNA replication",
+      "Chromosome condensation",
+      "Sister chromatids separate",
+      "Nuclear envelopes reform"
+    ],
+    "answer": "Sister chromatids separate"
+  },
+  {
+    "id": 14,
+    "question": "During telophase, chromosomes:",
+    "options": [
+      "Replicate",
+      "Pair with homologous chromosomes",
+      "Arrive at opposite poles",
+      "Cross over"
+    ],
+    "answer": "Arrive at opposite poles"
+  },
+  {
+    "id": 15,
+    "question": "What forms around chromosomes during telophase?",
+    "options": [
+      "New nuclear envelopes",
+      "Cell walls",
+      "Centromeres",
+      "Spindle fibers"
+    ],
+    "answer": "New nuclear envelopes"
+  },
+  {
+    "id": 16,
+    "question": "What process physically divides the cytoplasm?",
+    "options": ["Cytokinesis", "Replication", "Meiosis", "Condensation"],
+    "answer": "Cytokinesis"
+  },
+  {
+    "id": 17,
+    "question": "The result of mitosis and cytokinesis is:",
+    "options": [
+      "Four haploid cells",
+      "Two genetically identical cells",
+      "Two genetically unique cells",
+      "One diploid cell"
+    ],
+    "answer": "Two genetically identical cells"
+  },
+  {
+    "id": 18,
+    "question": "Which mnemonic is commonly used for mitosis phases?",
+    "options": ["PMAT", "DNA", "ATP", "CAP"],
+    "answer": "PMAT"
+  },
+  {
+    "id": 19,
+    "question": "What is counted as a chromosome after chromatid separation?",
+    "options": [
+      "Each individual chromatid",
+      "Each centromere pair",
+      "Only homologous pairs",
+      "Only replicated chromosomes"
+    ],
+    "answer": "Each individual chromatid"
+  },
+  {
+    "id": 20,
+    "question": "After DNA replication, a human cell contains how many chromatids?",
+    "options": ["92", "46", "23", "184"],
+    "answer": "92"
+  },
+  {
+    "id": 21,
+    "question": "After DNA replication, a human cell still contains how many chromosomes?",
+    "options": ["46", "92", "23", "48"],
+    "answer": "46"
+  },
+  {
+    "id": 22,
+    "question": "Which cells typically undergo mitosis?",
+    "options": [
+      "Body cells",
+      "Gametes",
+      "Viruses",
+      "Mature red blood cells"
+    ],
+    "answer": "Body cells"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is NOT a function of mitosis?",
+    "options": [
+      "Growth",
+      "Tissue repair",
+      "Gamete production",
+      "Cell replacement"
+    ],
+    "answer": "Gamete production"
+  },
+  {
+    "id": 24,
+    "question": "Uncontrolled mitosis may result in:",
+    "options": ["Cancer", "Fertilization", "Osmosis", "Differentiation"],
+    "answer": "Cancer"
+  },
+  {
+    "id": 25,
+    "question": "What normally prevents uncontrolled cell division?",
+    "options": [
+      "Cell-cycle checkpoints",
+      "Ribosomes",
+      "Lysosomes",
+      "Crossing over"
+    ],
+    "answer": "Cell-cycle checkpoints"
+  },
+  {
+    "id": 26,
+    "question": "Why do some differentiated cells not divide?",
+    "options": [
+      "They lose the ability to undergo the cell cycle",
+      "They contain no DNA",
+      "They contain too many chromosomes",
+      "They become haploid"
+    ],
+    "answer": "They lose the ability to undergo the cell cycle"
+  },
+  {
+    "id": 27,
+    "question": "Which cell type is specifically mentioned as no longer dividing after differentiation?",
+    "options": ["Neurons", "Hepatocytes", "Skin cells", "Muscle stem cells"],
+    "answer": "Neurons"
+  },
+  {
+    "id": 28,
+    "question": "The cell cycle differs from mitosis because it includes:",
+    "options": [
+      "Growth and DNA replication phases",
+      "Only nuclear division",
+      "Only chromosome separation",
+      "Only cytokinesis"
+    ],
+    "answer": "Growth and DNA replication phases"
+  },
+  {
+    "id": 29,
+    "question": "Which process is used by prokaryotes for reproduction?",
+    "options": ["Binary fission", "Mitosis", "Meiosis", "Budding"],
+    "answer": "Binary fission"
+  },
+  {
+    "id": 30,
+    "question": "Binary fission involves replication of:",
+    "options": [
+      "Circular DNA and plasmids",
+      "Linear chromosomes only",
+      "RNA molecules only",
+      "Mitochondria only"
+    ],
+    "answer": "Circular DNA and plasmids"
+  },
+  {
+    "id": 31,
+    "question": "What is a plasmid?",
+    "options": [
+      "Small circular DNA molecule",
+      "Protein complex",
+      "Chromosome pair",
+      "Cell membrane structure"
+    ],
+    "answer": "Small circular DNA molecule"
+  },
+  {
+    "id": 32,
+    "question": "Viruses do not undergo cell division because they are:",
+    "options": ["Non-living", "Too small", "Diploid", "Prokaryotic"],
+    "answer": "Non-living"
+  },
+  {
+    "id": 33,
+    "question": "How do viruses replicate?",
+    "options": [
+      "Using host cell machinery",
+      "Through mitosis",
+      "Through meiosis",
+      "Through binary fission"
+    ],
+    "answer": "Using host cell machinery"
+  },
+  {
+    "id": 34,
+    "question": "What is meiosis?",
+    "options": [
+      "Division producing genetically varied gametes",
+      "Division producing identical body cells",
+      "DNA replication",
+      "Cell growth"
+    ],
+    "answer": "Division producing genetically varied gametes"
+  },
+  {
+    "id": 35,
+    "question": "How many divisions occur during meiosis?",
+    "options": ["Two", "One", "Three", "Four"],
+    "answer": "Two"
+  },
+  {
+    "id": 36,
+    "question": "How many cells are produced by meiosis?",
+    "options": ["Four", "Two", "One", "Eight"],
+    "answer": "Four"
+  },
+  {
+    "id": 37,
+    "question": "Gametes contain how many chromosomes in humans?",
+    "options": ["23", "46", "92", "22"],
+    "answer": "23"
+  },
+  {
+    "id": 38,
+    "question": "What term describes a cell with one set of chromosomes?",
+    "options": ["Haploid", "Diploid", "Triploid", "Tetraploid"],
+    "answer": "Haploid"
+  },
+  {
+    "id": 39,
+    "question": "What restores chromosome number to 46 after meiosis?",
+    "options": ["Fertilization", "Mitosis", "Cytokinesis", "Mutation"],
+    "answer": "Fertilization"
+  },
+  {
+    "id": 40,
+    "question": "What occurs during Prophase I that does not occur in mitosis?",
+    "options": [
+      "Crossing over",
+      "Chromosome condensation",
+      "Spindle formation",
+      "Nuclear envelope breakdown"
+    ],
+    "answer": "Crossing over"
+  },
+  {
+    "id": 41,
+    "question": "Crossing over occurs between:",
+    "options": [
+      "Non-sister chromatids",
+      "Sister chromatids",
+      "Centromeres",
+      "Plasmids"
+    ],
+    "answer": "Non-sister chromatids"
+  },
+  {
+    "id": 42,
+    "question": "What are homologous chromosomes?",
+    "options": [
+      "Matching chromosomes from each parent",
+      "Identical sister chromatids",
+      "Chromosomes in gametes",
+      "Mutated chromosomes"
+    ],
+    "answer": "Matching chromosomes from each parent"
+  },
+  {
+    "id": 43,
+    "question": "During Metaphase I, chromosomes line up as:",
+    "options": [
+      "Homologous pairs",
+      "Single chromatids",
+      "Independent chromosomes",
+      "RNA molecules"
+    ],
+    "answer": "Homologous pairs"
+  },
+  {
+    "id": 44,
+    "question": "During Anaphase I, what separates?",
+    "options": [
+      "Homologous chromosomes",
+      "Sister chromatids",
+      "Nuclei",
+      "Centromeres"
+    ],
+    "answer": "Homologous chromosomes"
+  },
+  {
+    "id": 45,
+    "question": "How many chromosomes are present in each cell after Meiosis I?",
+    "options": ["23", "46", "92", "12"],
+    "answer": "23"
+  },
+  {
+    "id": 46,
+    "question": "What separates during Anaphase II?",
+    "options": [
+      "Sister chromatids",
+      "Homologous chromosomes",
+      "Cell membranes",
+      "Nuclei"
+    ],
+    "answer": "Sister chromatids"
+  },
+  {
+    "id": 47,
+    "question": "What is independent assortment?",
+    "options": [
+      "Random orientation of homologous pairs",
+      "DNA replication",
+      "Chromosome mutation",
+      "Cytokinesis"
+    ],
+    "answer": "Random orientation of homologous pairs"
+  },
+  {
+    "id": 48,
+    "question": "Independent assortment occurs during:",
+    "options": [
+      "Metaphase I",
+      "Anaphase II",
+      "Telophase",
+      "Interphase"
+    ],
+    "answer": "Metaphase I"
+  },
+  {
+    "id": 49,
+    "question": "One source of genetic diversity in meiosis is:",
+    "options": [
+      "Crossing over",
+      "DNA proofreading",
+      "Mitosis",
+      "Cytokinesis"
+    ],
+    "answer": "Crossing over"
+  },
+  {
+    "id": 50,
+    "question": "A second source of genetic diversity in meiosis is:",
+    "options": [
+      "Independent assortment",
+      "Protein synthesis",
+      "Binary fission",
+      "Osmosis"
+    ],
+    "answer": "Independent assortment"
+  },
+  {
+    "id": 51,
+    "question": "What is nondisjunction?",
+    "options": [
+      "Failure of chromosomes to separate correctly",
+      "DNA replication error",
+      "Cell membrane breakdown",
+      "Crossing over"
+    ],
+    "answer": "Failure of chromosomes to separate correctly"
+  },
+  {
+    "id": 52,
+    "question": "Nondisjunction can lead to:",
+    "options": [
+      "Down syndrome",
+      "Osmosis",
+      "Mitosis",
+      "Binary fission"
+    ],
+    "answer": "Down syndrome"
+  },
+  {
+    "id": 53,
+    "question": "Which process reduces chromosome number from 46 to 23?",
+    "options": [
+      "Meiosis",
+      "Mitosis",
+      "Cytokinesis",
+      "DNA replication"
+    ],
+    "answer": "Meiosis"
+  },
+  {
+    "id": 54,
+    "question": "A zygote is:",
+    "options": [
+      "A fertilized egg cell",
+      "A mature sperm",
+      "A haploid gamete",
+      "A phagocyte"
+    ],
+    "answer": "A fertilized egg cell"
+  },
+  {
+    "id": 55,
+    "question": "Which type of cell division produces genetically identical daughter cells?",
+    "options": ["Mitosis", "Meiosis", "Binary fission", "Fertilization"],
+    "answer": "Mitosis"
+  },
+  {
+    "id": 56,
+    "question": "Which type of cell division produces genetically different daughter cells?",
+    "options": ["Meiosis", "Mitosis", "Cytokinesis", "DNA replication"],
+    "answer": "Meiosis"
+  },
+  {
+    "id": 57,
+    "question": "Each male meiosis produces:",
+    "options": ["Four sperm cells", "Two sperm cells", "One sperm cell", "Four zygotes"],
+    "answer": "Four sperm cells"
+  },
+  {
+    "id": 58,
+    "question": "Crossing over directly involves exchange of:",
+    "options": ["DNA segments", "Proteins", "ATP", "Lipids"],
+    "answer": "DNA segments"
+  },
+  {
+    "id": 59,
+    "question": "The correct sequence of mitosis phases is:",
+    "options": [
+      "Prophase, Metaphase, Anaphase, Telophase",
+      "Metaphase, Prophase, Anaphase, Telophase",
+      "Anaphase, Telophase, Prophase, Metaphase",
+      "Prophase, Anaphase, Metaphase, Telophase"
+    ],
+    "answer": "Prophase, Metaphase, Anaphase, Telophase"
+  },
+  {
+    "id": 60,
+    "question": "Which process directly follows mitosis to separate daughter cells?",
+    "options": [
+      "Cytokinesis",
+      "Interphase",
+      "Crossing over",
+      "Replication"
+    ],
+    "answer": "Cytokinesis"
+  },
+
+    {
+    "id": 61,
+    "question": "Which model best describes the structure of biological membranes?",
+    "options": [
+      "Lock-and-key model",
+      "Fluid mosaic model",
+      "Unit membrane model",
+      "Sliding filament model"
+    ],
+    "answer": "Fluid mosaic model"
+  },
+  {
+    "id": 62,
+    "question": "Why is the membrane described as 'fluid'?",
+    "options": [
+      "Water flows through it constantly",
+      "The membrane contains liquid cytoplasm",
+      "Proteins dissolve in the membrane",
+      "Phospholipids can move within the bilayer"
+    ],
+    "answer": "Phospholipids can move within the bilayer"
+  },
+  {
+    "id": 63,
+    "question": "Why is the membrane described as a 'mosaic'?",
+    "options": [
+      "It has repeating phospholipid units",
+      "Different proteins are embedded throughout the membrane",
+      "It contains coloured pigments",
+      "It is made of different organelles"
+    ],
+    "answer": "Different proteins are embedded throughout the membrane"
+  },
+  {
+    "id": 64,
+    "question": "The basic structure of all cell membranes consists primarily of:",
+    "options": [
+      "Cellulose fibers",
+      "A protein bilayer",
+      "Peptidoglycan layers",
+      "A phospholipid bilayer"
+    ],
+    "answer": "A phospholipid bilayer"
+  },
+  {
+    "id": 65,
+    "question": "What are the hydrophilic regions of phospholipids?",
+    "options": [
+      "Fatty acid tails",
+      "Proteins",
+      "Cholesterol molecules",
+      "Phosphate heads"
+    ],
+    "answer": "Phosphate heads"
+  },
+  {
+    "id": 66,
+    "question": "What are the hydrophobic regions of phospholipids?",
+    "options": [
+      "Cholesterol molecules",
+      "Glycoproteins",
+      "Fatty acid tails",
+      "Phosphate heads"
+    ],
+    "answer": "Fatty acid tails"
+  },
+  {
+    "id": 67,
+    "question": "What is the primary function of cholesterol in cell membranes?",
+    "options": [
+      "Bind hormones",
+      "Transport glucose",
+      "Replicate DNA",
+      "Restrict phospholipid movement"
+    ],
+    "answer": "Restrict phospholipid movement"
+  },
+  {
+    "id": 68,
+    "question": "How does cholesterol affect membrane fluidity?",
+    "options": [
+      "It greatly increases fluidity",
+      "It reduces fluidity",
+      "It eliminates fluidity",
+      "It has no effect"
+    ],
+    "answer": "It reduces fluidity"
+  },
+  {
+    "id": 69,
+    "question": "What is a glycolipid?",
+    "options": [
+      "A membrane pore",
+      "A phospholipid with ATP attached",
+      "A lipid with a carbohydrate attached",
+      "A protein attached to DNA"
+    ],
+    "answer": "A lipid with a carbohydrate attached"
+  },
+  {
+    "id": 70,
+    "question": "What is one function of glycolipids?",
+    "options": [
+      "DNA replication",
+      "Cell recognition",
+      "ATP hydrolysis",
+      "Protein synthesis"
+    ],
+    "answer": "Cell recognition"
+  },
+  {
+    "id": 71,
+    "question": "What is a glycoprotein?",
+    "options": [
+      "An enzyme that hydrolyses ATP",
+      "A protein with a carbohydrate chain attached",
+      "A protein that carries oxygen",
+      "A lipid containing phosphate"
+    ],
+    "answer": "A protein with a carbohydrate chain attached"
+  },
+  {
+    "id": 72,
+    "question": "Extrinsic proteins are located:",
+    "options": [
+      "Inside lysosomes",
+      "Between phospholipid tails only",
+      "On the membrane surface",
+      "Within the nucleus"
+    ],
+    "answer": "On the membrane surface"
+  },
+  {
+    "id": 73,
+    "question": "Intrinsic proteins are:",
+    "options": [
+      "Attached loosely to phospholipid heads",
+      "Embedded within the membrane",
+      "Found only in the nucleus",
+      "Found only in the cytoplasm"
+    ],
+    "answer": "Embedded within the membrane"
+  },
+  {
+    "id": 74,
+    "question": "Which membrane proteins often act as receptor molecules?",
+    "options": [
+      "Extrinsic proteins",
+      "Histones",
+      "Ribosomal proteins",
+      "Centromere proteins"
+    ],
+    "answer": "Extrinsic proteins"
+  },
+  {
+    "id": 75,
+    "question": "Which membrane proteins may function as channel proteins?",
+    "options": [
+      "Actin filaments",
+      "Histones",
+      "Intrinsic proteins",
+      "Extrinsic proteins"
+    ],
+    "answer": "Intrinsic proteins"
+  },
+  {
+    "id": 76,
+    "question": "What is the role of channel proteins?",
+    "options": [
+      "Provide hydrophilic pathways through membranes",
+      "Digest pathogens",
+      "Store genetic information",
+      "Replicate chromosomes"
+    ],
+    "answer": "Provide hydrophilic pathways through membranes"
+  },
+  {
+    "id": 77,
+    "question": "Carrier proteins differ from channel proteins because carrier proteins:",
+    "options": [
+      "Bind substances and change shape",
+      "Form permanent pores",
+      "Contain DNA",
+      "Produce ATP"
+    ],
+    "answer": "Bind substances and change shape"
+  },
+  {
+    "id": 78,
+    "question": "What is selective permeability?",
+    "options": [
+      "Allowing all substances through",
+      "Preventing all transport",
+      "Allowing some substances through but not others",
+      "Allowing water only through"
+    ],
+    "answer": "Allowing some substances through but not others"
+  },
+  {
+    "id": 79,
+    "question": "What is the primary role of the cell-surface membrane?",
+    "options": [
+      "Synthesize proteins",
+      "Produce ATP",
+      "Store chromosomes",
+      "Separate the cell from its environment"
+    ],
+    "answer": "Separate the cell from its environment"
+  },
+  {
+    "id": 80,
+    "question": "Which factor can increase membrane permeability by denaturing proteins?",
+    "options": [
+      "High temperature",
+      "Increased glucose concentration",
+      "Low ATP levels",
+      "Low oxygen concentration"
+    ],
+    "answer": "High temperature"
+  },
+  {
+    "id": 81,
+    "question": "Extreme pH may increase membrane permeability because it alters:",
+    "options": [
+      "DNA sequence",
+      "Cell size",
+      "Protein tertiary structure",
+      "Chromosome number"
+    ],
+    "answer": "Protein tertiary structure"
+  },
+  {
+    "id": 82,
+    "question": "Organic solvents may increase membrane permeability by:",
+    "options": [
+      "Increasing ATP production",
+      "Dissolving membrane components",
+      "Increasing mitosis",
+      "Creating chromosomes"
+    ],
+    "answer": "Dissolving membrane components"
+  },
+  {
+    "id": 83,
+    "question": "Simple diffusion is the net movement of molecules:",
+    "options": [
+      "Down a concentration gradient",
+      "Using ATP",
+      "Against a concentration gradient",
+      "Using carrier proteins only"
+    ],
+    "answer": "Down a concentration gradient"
+  },
+  {
+    "id": 84,
+    "question": "Simple diffusion is classified as:",
+    "options": [
+      "Endocytosis",
+      "Active transport",
+      "Passive transport",
+      "Co-transport"
+    ],
+    "answer": "Passive transport"
+  },
+  {
+    "id": 85,
+    "question": "Simple diffusion requires:",
+    "options": [
+      "Carrier proteins",
+      "ATP hydrolysis",
+      "No ATP",
+      "Vesicles"
+    ],
+    "answer": "No ATP"
+  },
+  {
+    "id": 86,
+    "question": "Which molecules readily cross membranes by simple diffusion?",
+    "options": [
+      "Small lipid-soluble molecules",
+      "Large proteins",
+      "Sodium ions",
+      "Glucose molecules"
+    ],
+    "answer": "Small lipid-soluble molecules"
+  },
+  {
+    "id": 87,
+    "question": "Facilitated diffusion differs from simple diffusion because it:",
+    "options": [
+      "Requires ATP",
+      "Requires vesicles",
+      "Uses membrane proteins",
+      "Moves substances against gradients"
+    ],
+    "answer": "Uses membrane proteins"
+  },
+  {
+    "id": 88,
+    "question": "Facilitated diffusion remains a:",
+    "options": [
+      "Form of endocytosis",
+      "Passive process",
+      "Active process",
+      "ATP-dependent process"
+    ],
+    "answer": "Passive process"
+  },
+  {
+    "id": 89,
+    "question": "Which molecules commonly require facilitated diffusion?",
+    "options": [
+      "Steroid hormones",
+      "Carbon dioxide",
+      "Large or polar molecules",
+      "Oxygen"
+    ],
+    "answer": "Large or polar molecules"
+  },
+  {
+    "id": 90,
+    "question": "Channel proteins primarily transport:",
+    "options": [
+      "Ions and small polar molecules",
+      "Proteins",
+      "DNA",
+      "Chromosomes"
+    ],
+    "answer": "Ions and small polar molecules"
+  },
+  {
+    "id": 91,
+    "question": "Carrier proteins transport substances by:",
+    "options": [
+      "Creating permanent pores",
+      "Changing conformation after binding",
+      "Performing mitosis",
+      "Hydrolysing DNA"
+    ],
+    "answer": "Changing conformation after binding"
+  },
+  {
+    "id": 92,
+    "question": "What is osmosis?",
+    "options": [
+      "Movement of solutes across membranes",
+      "Active transport of water",
+      "Diffusion of water across a partially permeable membrane",
+      "Transport through protein channels only"
+    ],
+    "answer": "Diffusion of water across a partially permeable membrane"
+  },
+  {
+    "id": 93,
+    "question": "Water moves during osmosis from:",
+    "options": [
+      "High solute concentration to low solute concentration",
+      "Low ATP concentration to high ATP concentration",
+      "Higher water potential to lower water potential",
+      "Lower water potential to higher water potential"
+    ],
+    "answer": "Higher water potential to lower water potential"
+  },
+  {
+    "id": 94,
+    "question": "The water potential of pure water is:",
+    "options": [
+      "-100 kPa",
+      "100 kPa",
+      "0 kPa",
+      "1 kPa"
+    ],
+    "answer": "0 kPa"
+  },
+  {
+    "id": 95,
+    "question": "Adding solute to water causes water potential to become:",
+    "options": [
+      "Unchanged",
+      "Zero",
+      "More negative",
+      "More positive"
+    ],
+    "answer": "More negative"
+  },
+  {
+    "id": 96,
+    "question": "A plant cell in a hypotonic solution becomes:",
+    "options": [
+      "Crenated",
+      "Flaccid",
+      "Lysed",
+      "Turgid"
+    ],
+    "answer": "Turgid"
+  },
+  {
+    "id": 97,
+    "question": "An animal cell in a hypotonic solution may undergo:",
+    "options": [
+      "Plasmolysis",
+      "Crenation",
+      "Flaccidity",
+      "Lysis"
+    ],
+    "answer": "Lysis"
+  },
+  {
+    "id": 98,
+    "question": "A plant cell losing water becomes:",
+    "options": [
+      "Turgid",
+      "Diploid",
+      "Flaccid",
+      "Lysed"
+    ],
+    "answer": "Flaccid"
+  },
+  {
+    "id": 99,
+    "question": "An animal cell that loses water undergoes:",
+    "options": [
+      "Lysis",
+      "Crenation",
+      "Mitosis",
+      "Replication"
+    ],
+    "answer": "Crenation"
+  },
+  {
+    "id": 100,
+    "question": "Active transport moves substances:",
+    "options": [
+      "Against their concentration gradient",
+      "By osmosis",
+      "Through diffusion only",
+      "Down their concentration gradient"
+    ],
+    "answer": "Against their concentration gradient"
+  },
+  {
+    "id": 101,
+    "question": "Active transport requires energy from:",
+    "options": [
+      "Photosynthesis only",
+      "DNA replication",
+      "Water potential",
+      "ATP hydrolysis"
+    ],
+    "answer": "ATP hydrolysis"
+  },
+  {
+    "id": 102,
+    "question": "Which proteins are essential for active transport?",
+    "options": [
+      "Glycolipids",
+      "Histones",
+      "Ribosomes",
+      "Carrier proteins"
+    ],
+    "answer": "Carrier proteins"
+  },
+  {
+    "id": 103,
+    "question": "What happens when ATP is hydrolysed during active transport?",
+    "options": [
+      "Lipids are synthesized",
+      "Water enters the cell",
+      "The carrier protein changes shape",
+      "Chromosomes replicate"
+    ],
+    "answer": "The carrier protein changes shape"
+  },
+  {
+    "id": 104,
+    "question": "Which process may use either carrier proteins or channel proteins?",
+    "options": [
+      "Facilitated diffusion",
+      "Osmosis",
+      "Endocytosis",
+      "Active transport only"
+    ],
+    "answer": "Facilitated diffusion"
+  },
+  {
+    "id": 105,
+    "question": "What is co-transport?",
+    "options": [
+      "Coupling movement of one substance to another",
+      "Water movement only",
+      "Transport through channels only",
+      "ATP production"
+    ],
+    "answer": "Coupling movement of one substance to another"
+  },
+  {
+    "id": 106,
+    "question": "In a symport system, substances move:",
+    "options": [
+      "In opposite directions",
+      "In the same direction",
+      "Randomly",
+      "Only out of the cell"
+    ],
+    "answer": "In the same direction"
+  },
+  {
+    "id": 107,
+    "question": "In an antiport system, substances move:",
+    "options": [
+      "Only into the cell",
+      "In opposite directions",
+      "Toward the nucleus",
+      "In the same direction"
+    ],
+    "answer": "In opposite directions"
+  },
+  {
+    "id": 108,
+    "question": "Which transport mechanism is exemplified by the sodium-potassium pump?",
+    "options": [
+      "Osmosis",
+      "Antiport",
+      "Symport",
+      "Simple diffusion"
+    ],
+    "answer": "Antiport"
+  },
+  {
+    "id": 109,
+    "question": "In the ileum, sodium is actively transported:",
+    "options": [
+      "Into epithelial cells",
+      "Into the lumen",
+      "Into red blood cells",
+      "Out of epithelial cells"
+    ],
+    "answer": "Out of epithelial cells"
+  },
+  {
+    "id": 110,
+    "question": "The sodium gradient in intestinal cells allows uptake of:",
+    "options": [
+      "Proteins only",
+      "Glucose and amino acids",
+      "DNA and RNA",
+      "Lipids only"
+    ],
+    "answer": "Glucose and amino acids"
+  },
+  {
+    "id": 111,
+    "question": "Which factor increases diffusion rate by increasing molecular kinetic energy?",
+    "options": [
+      "Diffusion distance",
+      "Molecule size",
+      "Water potential",
+      "Temperature"
+    ],
+    "answer": "Temperature"
+  },
+  {
+    "id": 112,
+    "question": "Increasing diffusion distance causes diffusion rate to:",
+    "options": [
+      "Increase",
+      "Remain unchanged",
+      "Decrease",
+      "Double automatically"
+    ],
+    "answer": "Decrease"
+  },
+  {
+    "id": 113,
+    "question": "Increasing membrane surface area causes diffusion rate to:",
+    "options": [
+      "Increase",
+      "Stop",
+      "Reverse direction",
+      "Decrease"
+    ],
+    "answer": "Increase"
+  },
+  {
+    "id": 114,
+    "question": "Smaller molecules generally diffuse:",
+    "options": [
+      "Only actively",
+      "More rapidly",
+      "At the same rate",
+      "More slowly"
+    ],
+    "answer": "More rapidly"
+  },
+  {
+    "id": 115,
+    "question": "A steeper concentration gradient causes diffusion rate to:",
+    "options": [
+      "Become zero",
+      "Remain constant",
+      "Increase",
+      "Decrease"
+    ],
+    "answer": "Increase"
+  },
+  {
+    "id": 116,
+    "question": "According to Fick's law, diffusion rate is directly proportional to:",
+    "options": [
+      "Membrane thickness only",
+      "Surface area",
+      "Diffusion distance",
+      "Molecule size"
+    ],
+    "answer": "Surface area"
+  },
+  {
+    "id": 117,
+    "question": "According to Fick's law, diffusion rate is inversely proportional to:",
+    "options": [
+      "Concentration difference",
+      "Surface area",
+      "Temperature",
+      "Diffusion distance"
+    ],
+    "answer": "Diffusion distance"
+  },
+  {
+    "id": 118,
+    "question": "Why do microvilli increase transport rates?",
+    "options": [
+      "They increase water potential",
+      "They store ATP",
+      "They increase surface area",
+      "They increase chromosome number"
+    ],
+    "answer": "They increase surface area"
+  },
+  {
+    "id": 119,
+    "question": "Why would a membrane with many carrier proteins transport substances faster?",
+    "options": [
+      "The membrane becomes impermeable",
+      "Water potential increases",
+      "ATP is no longer needed",
+      "More molecules can be transported simultaneously"
+    ],
+    "answer": "More molecules can be transported simultaneously"
+  },
+  {
+    "id": 120,
+    "question": "Why does the rate of facilitated diffusion eventually plateau?",
+    "options": [
+      "The membrane dissolves",
+      "Transport proteins become saturated",
+      "ATP runs out",
+      "Water leaves the cell"
+    ],
+    "answer": "Transport proteins become saturated"
+  },
+
+  {
+    "id": 121,
+    "question": "What is an antigen?",
+    "options": [
+      "A molecule that produces ATP",
+      "A cell-surface molecule that stimulates an immune response",
+      "A digestive enzyme",
+      "A type of antibody"
+    ],
+    "answer": "A cell-surface molecule that stimulates an immune response"
+  },
+  {
+    "id": 122,
+    "question": "Which type of molecule most commonly acts as an antigen?",
+    "options": [
+      "Triglyceride",
+      "Phospholipid",
+      "Glycoprotein",
+      "mRNA"
+    ],
+    "answer": "Glycoprotein"
+  },
+  {
+    "id": 123,
+    "question": "The immune system uses antigens primarily to distinguish:",
+    "options": [
+      "DNA from RNA",
+      "Self from non-self",
+      "Proteins from lipids",
+      "Aerobic from anaerobic cells"
+    ],
+    "answer": "Self from non-self"
+  },
+  {
+    "id": 124,
+    "question": "Which of the following can be identified by the immune system using cell-surface antigens?",
+    "options": [
+      "Only pathogens",
+      "Only toxins",
+      "Only abnormal body cells",
+      "Pathogens, toxins and abnormal cells"
+    ],
+    "answer": "Pathogens, toxins and abnormal cells"
+  },
+  {
+    "id": 125,
+    "question": "What is the first step of phagocytosis?",
+    "options": [
+      "Fusion with a lysosome",
+      "Digestion of the pathogen",
+      "Movement of the phagocyte toward the pathogen",
+      "Presentation of antigen"
+    ],
+    "answer": "Movement of the phagocyte toward the pathogen"
+  },
+  {
+    "id": 126,
+    "question": "Movement of a phagocyte toward a pathogen is called:",
+    "options": [
+      "Chemotaxis",
+      "Exocytosis",
+      "Agglutination",
+      "Dialysis"
+    ],
+    "answer": "Chemotaxis"
+  },
+  {
+    "id": 127,
+    "question": "A pathogen becomes enclosed within a:",
+    "options": [
+      "Vacuole",
+      "Phagosome",
+      "Nucleus",
+      "Golgi vesicle"
+    ],
+    "answer": "Phagosome"
+  },
+  {
+    "id": 128,
+    "question": "What forms when a phagosome fuses with a lysosome?",
+    "options": [
+      "Phagolysosome",
+      "Antibody",
+      "Memory cell",
+      "Capsid"
+    ],
+    "answer": "Phagolysosome"
+  },
+  {
+    "id": 129,
+    "question": "Which enzymes digest pathogens inside phagolysosomes?",
+    "options": [
+      "Polymerases",
+      "Lysozymes",
+      "Ligases",
+      "ATP synthase"
+    ],
+    "answer": "Lysozymes"
+  },
+  {
+    "id": 130,
+    "question": "Which cell commonly acts as an antigen-presenting cell (APC)?",
+    "options": [
+      "Red blood cell",
+      "Plasma cell",
+      "Macrophage",
+      "Platelet"
+    ],
+    "answer": "Macrophage"
+  },
+  {
+    "id": 131,
+    "question": "What is the role of an antigen-presenting cell?",
+    "options": [
+      "Produce antibodies",
+      "Display pathogen antigens to lymphocytes",
+      "Hydrolyse ATP",
+      "Produce histamine"
+    ],
+    "answer": "Display pathogen antigens to lymphocytes"
+  },
+  {
+    "id": 132,
+    "question": "Which type of lymphocyte recognizes antigens displayed by APCs?",
+    "options": [
+      "B lymphocyte",
+      "Natural killer cell",
+      "T helper cell",
+      "Memory plasma cell"
+    ],
+    "answer": "T helper cell"
+  },
+  {
+    "id": 133,
+    "question": "Which of the following is a non-specific immune response?",
+    "options": [
+      "Antibody production",
+      "Formation of memory cells",
+      "Clonal expansion",
+      "Phagocytosis"
+    ],
+    "answer": "Phagocytosis"
+  },
+  {
+    "id": 134,
+    "question": "Specific immune responses are carried out primarily by:",
+    "options": [
+      "B and T lymphocytes",
+      "Platelets",
+      "Red blood cells",
+      "Fibroblasts"
+    ],
+    "answer": "B and T lymphocytes"
+  },
+  {
+    "id": 135,
+    "question": "A major difference between specific and non-specific immunity is that specific immunity:",
+    "options": [
+      "Acts immediately",
+      "Requires oxygen",
+      "Targets particular antigens",
+      "Occurs only in blood"
+    ],
+    "answer": "Targets particular antigens"
+  },
+  {
+    "id": 136,
+    "question": "The two forms of specific immune response are:",
+    "options": [
+      "Cell-mediated and humoral",
+      "Passive and active",
+      "Innate and adaptive",
+      "Natural and artificial"
+    ],
+    "answer": "Cell-mediated and humoral"
+  },
+  {
+    "id": 137,
+    "question": "Cell-mediated immunity primarily involves:",
+    "options": [
+      "Antibodies",
+      "T lymphocytes",
+      "Phagocytes only",
+      "Red blood cells"
+    ],
+    "answer": "T lymphocytes"
+  },
+  {
+    "id": 138,
+    "question": "Humoral immunity primarily involves:",
+    "options": [
+      "B lymphocytes and antibodies",
+      "Platelets",
+      "Macrophages only",
+      "Neurons"
+    ],
+    "answer": "B lymphocytes and antibodies"
+  },
+  {
+    "id": 139,
+    "question": "What chemical signals are released by activated T helper cells?",
+    "options": [
+      "Insulin",
+      "Cytokines",
+      "Antibodies",
+      "Histones"
+    ],
+    "answer": "Cytokines"
+  },
+  {
+    "id": 140,
+    "question": "What is clonal expansion?",
+    "options": [
+      "Rapid mitotic division of lymphocytes",
+      "Fusion of lymphocytes",
+      "Production of red blood cells",
+      "Antigen mutation"
+    ],
+    "answer": "Rapid mitotic division of lymphocytes"
+  },
+  {
+    "id": 141,
+    "question": "Which cells destroy infected body cells?",
+    "options": [
+      "Cytotoxic T cells",
+      "Plasma cells",
+      "Neutrophils",
+      "Erythrocytes"
+    ],
+    "answer": "Cytotoxic T cells"
+  },
+  {
+    "id": 142,
+    "question": "Cytotoxic T cells destroy infected cells by releasing:",
+    "options": [
+      "Perforin",
+      "Insulin",
+      "Pepsin",
+      "Collagen"
+    ],
+    "answer": "Perforin"
+  },
+  {
+    "id": 143,
+    "question": "What is the function of perforin?",
+    "options": [
+      "Produces ATP",
+      "Creates pores in target cells",
+      "Binds oxygen",
+      "Stimulates mitosis"
+    ],
+    "answer": "Creates pores in target cells"
+  },
+  {
+    "id": 144,
+    "question": "During the humoral response, activated B cells differentiate into:",
+    "options": [
+      "Macrophages",
+      "Platelets",
+      "Plasma cells",
+      "Neutrophils"
+    ],
+    "answer": "Plasma cells"
+  },
+  {
+    "id": 145,
+    "question": "What is the primary function of plasma cells?",
+    "options": [
+      "Engulf pathogens",
+      "Secrete antibodies",
+      "Present antigens",
+      "Destroy body cells"
+    ],
+    "answer": "Secrete antibodies"
+  },
+  {
+    "id": 146,
+    "question": "Antibodies are:",
+    "options": [
+      "Proteins secreted by plasma cells",
+      "Lipids in cell membranes",
+      "Types of pathogens",
+      "Transport proteins"
+    ],
+    "answer": "Proteins secreted by plasma cells"
+  },
+  {
+    "id": 147,
+    "question": "How many heavy chains are present in a typical antibody?",
+    "options": [
+      "Four",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "answer": "Two"
+  },
+  {
+    "id": 148,
+    "question": "The antigen-binding site is located in the:",
+    "options": [
+      "Variable region",
+      "Constant region",
+      "Disulfide bridge",
+      "Heavy-chain hinge"
+    ],
+    "answer": "Variable region"
+  },
+  {
+    "id": 149,
+    "question": "Why are antibodies highly specific?",
+    "options": [
+      "They possess complementary variable regions",
+      "They contain DNA",
+      "They are made in the thymus",
+      "They contain enzymes"
+    ],
+    "answer": "They possess complementary variable regions"
+  },
+  {
+    "id": 150,
+    "question": "When antibodies bind pathogens, they commonly cause:",
+    "options": [
+      "Agglutination",
+      "Replication",
+      "Differentiation",
+      "Osmosis"
+    ],
+    "answer": "Agglutination"
+  },
+
+ {
+    "id": 151,
+    "question": "What are memory cells?",
+    "options": [
+      "Specialized B and T lymphocytes formed after activation",
+      "Cells that engulf pathogens",
+      "Cells that produce ATP",
+      "Cells that form blood clots"
+    ],
+    "answer": "Specialized B and T lymphocytes formed after activation"
+  },
+  {
+    "id": 152,
+    "question": "What is the primary function of memory cells?",
+    "options": [
+      "Destroy pathogens directly",
+      "Produce red blood cells",
+      "Enable a faster response upon reinfection",
+      "Present antigens"
+    ],
+    "answer": "Enable a faster response upon reinfection"
+  },
+  {
+    "id": 153,
+    "question": "The immune response following first exposure to a pathogen is called:",
+    "options": [
+      "Secondary response",
+      "Primary response",
+      "Innate response",
+      "Passive response"
+    ],
+    "answer": "Primary response"
+  },
+  {
+    "id": 154,
+    "question": "Compared with the primary response, the secondary immune response is:",
+    "options": [
+      "Slower",
+      "Unable to produce antibodies",
+      "Faster",
+      "Weaker"
+    ],
+    "answer": "Faster"
+  },
+  {
+    "id": 155,
+    "question": "During a secondary immune response, antibody concentration is generally:",
+    "options": [
+      "Unchanged",
+      "Lower",
+      "Zero",
+      "Higher"
+    ],
+    "answer": "Higher"
+  },
+  {
+    "id": 156,
+    "question": "Why is the time lag shorter during a secondary response?",
+    "options": [
+      "Antibodies mutate",
+      "Memory cells already exist",
+      "Macrophages are absent",
+      "Pathogens replicate more slowly"
+    ],
+    "answer": "Memory cells already exist"
+  },
+  {
+    "id": 157,
+    "question": "Why are symptoms often absent during a secondary infection?",
+    "options": [
+      "T cells stop functioning",
+      "The pathogen becomes harmless",
+      "No antibodies are produced",
+      "The pathogen is destroyed rapidly"
+    ],
+    "answer": "The pathogen is destroyed rapidly"
+  },
+  {
+    "id": 158,
+    "question": "What is antigen variability?",
+    "options": [
+      "The replication of antibodies",
+      "The inability of antigens to bind antibodies",
+      "The destruction of antigens",
+      "Changes in antigen structure over time"
+    ],
+    "answer": "Changes in antigen structure over time"
+  },
+  {
+    "id": 159,
+    "question": "What is the ultimate cause of antigen variability?",
+    "options": [
+      "Phagocytosis",
+      "Meiosis",
+      "Genetic mutation",
+      "ATP hydrolysis"
+    ],
+    "answer": "Genetic mutation"
+  },
+  {
+    "id": 160,
+    "question": "Antigen variability can make vaccination more difficult because:",
+    "options": [
+      "Plasma cells disappear",
+      "Memory cells stop dividing",
+      "Pathogens may have many different antigen forms",
+      "Vaccines destroy lymphocytes"
+    ],
+    "answer": "Pathogens may have many different antigen forms"
+  },
+  {
+    "id": 161,
+    "question": "What is passive immunity?",
+    "options": [
+      "Immunity generated by vaccination",
+      "Immunity following infection",
+      "Immunity produced by memory cells",
+      "Immunity gained from externally produced antibodies"
+    ],
+    "answer": "Immunity gained from externally produced antibodies"
+  },
+  {
+    "id": 162,
+    "question": "What is active immunity?",
+    "options": [
+      "Immunity gained from breast milk",
+      "Immunity caused by antibiotics",
+      "Immunity resulting from the body's own immune response",
+      "Immunity transferred across the placenta"
+    ],
+    "answer": "Immunity resulting from the body's own immune response"
+  },
+  {
+    "id": 163,
+    "question": "Which is a natural form of passive immunity?",
+    "options": [
+      "Vaccination",
+      "Recovery from infection",
+      "Antibodies in breast milk",
+      "Monoclonal antibody therapy"
+    ],
+    "answer": "Antibodies in breast milk"
+  },
+  {
+    "id": 164,
+    "question": "Which is an artificial form of passive immunity?",
+    "options": [
+      "Placental antibody transfer",
+      "Antivenom injection",
+      "Vaccination",
+      "Exposure to a pathogen"
+    ],
+    "answer": "Antivenom injection"
+  },
+  {
+    "id": 165,
+    "question": "Which is an example of natural active immunity?",
+    "options": [
+      "Antivenom treatment",
+      "Antibodies in breast milk",
+      "Monoclonal antibody injection",
+      "Recovery following infection"
+    ],
+    "answer": "Recovery following infection"
+  },
+  {
+    "id": 166,
+    "question": "Which is an example of artificial active immunity?",
+    "options": [
+      "Placental transfer",
+      "Breastfeeding",
+      "Vaccination",
+      "Antiserum injection"
+    ],
+    "answer": "Vaccination"
+  },
+  {
+    "id": 167,
+    "question": "Why is passive immunity usually short-lived?",
+    "options": [
+      "Pathogens are not recognized",
+      "APCs are absent",
+      "Antibodies mutate rapidly",
+      "No memory cells are produced"
+    ],
+    "answer": "No memory cells are produced"
+  },
+  {
+    "id": 168,
+    "question": "Which type of immunity provides immediate protection?",
+    "options": [
+      "Passive immunity",
+      "Cell-mediated immunity",
+      "Humoral immunity",
+      "Active immunity"
+    ],
+    "answer": "Passive immunity"
+  },
+  {
+    "id": 169,
+    "question": "Why can active immunity provide long-term protection?",
+    "options": [
+      "Macrophages become permanent",
+      "Pathogens disappear permanently",
+      "Memory cells are formed",
+      "Antibodies never degrade"
+    ],
+    "answer": "Memory cells are formed"
+  },
+  {
+    "id": 170,
+    "question": "What is a vaccine?",
+    "options": [
+      "A type of T cell",
+      "A mature antibody",
+      "A viral enzyme",
+      "A preparation containing pathogen antigens"
+    ],
+    "answer": "A preparation containing pathogen antigens"
+  },
+  {
+    "id": 171,
+    "question": "Vaccines typically contain:",
+    "options": [
+      "Only antibodies",
+      "Only ATP",
+      "Dead or inactive pathogens, or their antigens",
+      "Living human cells"
+    ],
+    "answer": "Dead or inactive pathogens, or their antigens"
+  },
+  {
+    "id": 172,
+    "question": "Vaccination works primarily by stimulating:",
+    "options": [
+      "Protein denaturation",
+      "DNA replication",
+      "Cell lysis",
+      "A primary immune response"
+    ],
+    "answer": "A primary immune response"
+  },
+  {
+    "id": 173,
+    "question": "What is herd immunity?",
+    "options": [
+      "Protection of a population through widespread vaccination",
+      "A form of passive immunity",
+      "A disease caused by viruses",
+      "Immunity transferred between individuals"
+    ],
+    "answer": "Protection of a population through widespread vaccination"
+  },
+  {
+    "id": 174,
+    "question": "Who benefits most from herd immunity?",
+    "options": [
+      "Only vaccinated individuals",
+      "Only healthcare workers",
+      "Only children",
+      "Individuals who cannot be vaccinated"
+    ],
+    "answer": "Individuals who cannot be vaccinated"
+  },
+  {
+    "id": 175,
+    "question": "Monoclonal antibodies are antibodies produced from:",
+    "options": [
+      "Multiple macrophages",
+      "Several unrelated plasma cells",
+      "A single clone of B cells",
+      "T helper cells"
+    ],
+    "answer": "A single clone of B cells"
+  },
+  {
+    "id": 176,
+    "question": "Why are monoclonal antibodies useful medically?",
+    "options": [
+      "They replicate pathogens",
+      "They cause nonspecific responses",
+      "They bind one specific antigen",
+      "They increase mutation rate"
+    ],
+    "answer": "They bind one specific antigen"
+  },
+  {
+    "id": 177,
+    "question": "Pregnancy tests often detect which hormone using monoclonal antibodies?",
+    "options": [
+      "hCG",
+      "Insulin",
+      "Adrenaline",
+      "Testosterone"
+    ],
+    "answer": "hCG"
+  },
+  {
+    "id": 178,
+    "question": "What does ELISA stand for conceptually?",
+    "options": [
+      "A vaccine production method",
+      "A form of microscopy",
+      "A DNA sequencing method",
+      "An immune assay using enzymes and antibodies"
+    ],
+    "answer": "An immune assay using enzymes and antibodies"
+  },
+  {
+    "id": 179,
+    "question": "A direct ELISA test is used primarily to detect:",
+    "options": [
+      "A ribosome",
+      "An antigen",
+      "A chromosome",
+      "A phospholipid"
+    ],
+    "answer": "An antigen"
+  },
+  {
+    "id": 180,
+    "question": "An indirect ELISA test is used primarily to detect:",
+    "options": [
+      "An antibody",
+      "RNA",
+      "Glucose",
+      "ATP"
+    ],
+    "answer": "An antibody"
+  },
+  
+
+  {
+    "id": 181,
+    "question": "In a direct ELISA test, what is attached to the bottom of the test plate first?",
+    "options": [
+      "Antigens",
+      "Monoclonal antibodies",
+      "Secondary antibodies",
+      "Reporter enzymes"
+    ],
+    "answer": "Monoclonal antibodies"
+  },
+  {
+    "id": 182,
+    "question": "In a direct ELISA test, what binds to the immobilized antibodies?",
+    "options": [
+      "Antigens from the sample",
+      "ATP molecules",
+      "DNA fragments",
+      "Red blood cells"
+    ],
+    "answer": "Antigens from the sample"
+  },
+  {
+    "id": 183,
+    "question": "What is attached to the mobile antibody in a direct ELISA?",
+    "options": [
+      "A chromosome",
+      "A reporter enzyme",
+      "A plasmid",
+      "A phospholipid"
+    ],
+    "answer": "A reporter enzyme"
+  },
+  {
+    "id": 184,
+    "question": "A positive ELISA result is indicated by:",
+    "options": [
+      "Cell lysis",
+      "Production of ATP",
+      "Chromosome replication",
+      "A color change"
+    ],
+    "answer": "A color change"
+  },
+  {
+    "id": 185,
+    "question": "In an indirect ELISA test, what is fixed to the bottom of the plate?",
+    "options": [
+      "Antigens",
+      "Antibodies",
+      "Enzymes",
+      "Ribosomes"
+    ],
+    "answer": "Antigens"
+  },
+  {
+    "id": 186,
+    "question": "An indirect ELISA is primarily used to detect:",
+    "options": [
+      "ATP",
+      "Antibodies in a sample",
+      "Glucose",
+      "Lipids"
+    ],
+    "answer": "Antibodies in a sample"
+  },
+  {
+    "id": 187,
+    "question": "In indirect ELISA, what binds to the antigen-coated plate?",
+    "options": [
+      "Antibodies from the sample",
+      "DNA polymerase",
+      "Platelets",
+      "Messenger RNA"
+    ],
+    "answer": "Antibodies from the sample"
+  },
+  {
+    "id": 188,
+    "question": "The secondary antibody in an indirect ELISA carries:",
+    "options": [
+      "A chromosome",
+      "A phospholipid",
+      "A reporter enzyme",
+      "ATP synthase"
+    ],
+    "answer": "A reporter enzyme"
+  },
+  {
+    "id": 189,
+    "question": "What type of pathogen is HIV?",
+    "options": [
+      "Bacterium",
+      "Protoctist",
+      "Fungus",
+      "Virus"
+    ],
+    "answer": "Virus"
+  },
+  {
+    "id": 190,
+    "question": "What is the genetic material of HIV?",
+    "options": [
+      "Single DNA molecule",
+      "Two RNA molecules",
+      "Circular DNA",
+      "Double-stranded DNA only"
+    ],
+    "answer": "Two RNA molecules"
+  },
+  {
+    "id": 191,
+    "question": "Which enzyme is found inside HIV particles?",
+    "options": [
+      "Catalase",
+      "Amylase",
+      "Reverse transcriptase",
+      "Pepsin"
+    ],
+    "answer": "Reverse transcriptase"
+  },
+  {
+    "id": 192,
+    "question": "What is the capsid of a virus?",
+    "options": [
+      "The protein coat surrounding genetic material",
+      "The outer cell membrane",
+      "A carbohydrate layer",
+      "A transport vesicle"
+    ],
+    "answer": "The protein coat surrounding genetic material"
+  },
+  {
+    "id": 193,
+    "question": "The HIV envelope is derived from:",
+    "options": [
+      "The host cell membrane",
+      "Bacterial cell walls",
+      "The capsid",
+      "The nucleus"
+    ],
+    "answer": "The host cell membrane"
+  },
+  {
+    "id": 194,
+    "question": "Which surface proteins enable HIV attachment to host cells?",
+    "options": [
+      "Histones",
+      "GP120 proteins",
+      "Actin filaments",
+      "Immunoglobulins"
+    ],
+    "answer": "GP120 proteins"
+  },
+  {
+    "id": 195,
+    "question": "GP120 proteins bind to which receptor?",
+    "options": [
+      "CD4 receptor",
+      "Insulin receptor",
+      "Acetylcholine receptor",
+      "LDL receptor"
+    ],
+    "answer": "CD4 receptor"
+  },
+  {
+    "id": 196,
+    "question": "Which cells are primarily infected by HIV?",
+    "options": [
+      "Red blood cells",
+      "B lymphocytes",
+      "T helper cells",
+      "Platelets"
+    ],
+    "answer": "T helper cells"
+  },
+  {
+    "id": 197,
+    "question": "How does HIV weaken the immune system?",
+    "options": [
+      "It destroys T helper cells",
+      "It destroys antibodies directly",
+      "It prevents osmosis",
+      "It digests macrophages externally"
+    ],
+    "answer": "It destroys T helper cells"
+  },
+  {
+    "id": 198,
+    "question": "AIDS develops when:",
+    "options": [
+      "There are too few functional T helper cells",
+      "Memory cells increase dramatically",
+      "All antibodies become identical",
+      "Pathogens stop mutating"
+    ],
+    "answer": "There are too few functional T helper cells"
+  },
+  {
+    "id": 199,
+    "question": "Why do AIDS patients often suffer secondary infections?",
+    "options": [
+      "The immune system can no longer function effectively",
+      "Antigens disappear",
+      "Viruses become bacteria",
+      "Red blood cells are absent"
+    ],
+    "answer": "The immune system can no longer function effectively"
+  },
+  {
+    "id": 200,
+    "question": "Why are antibiotics generally ineffective against viruses?",
+    "options": [
+      "Viruses have no cell walls",
+      "Viruses lack DNA",
+      "Viruses contain ATP",
+      "Viruses are multicellular"
+    ],
+    "answer": "Viruses have no cell walls"
+  },
+  {
+    "id": 201,
+    "question": "Which bacterial structure is commonly targeted by antibiotics?",
+    "options": [
+      "Capsid",
+      "Murein cell wall",
+      "Chromosome",
+      "Ribosomal RNA"
+    ],
+    "answer": "Murein cell wall"
+  },
+  {
+    "id": 202,
+    "question": "Why is it difficult to destroy viruses without harming body cells?",
+    "options": [
+      "Viruses replicate inside host cells",
+      "Viruses have thick cell walls",
+      "Viruses produce antibodies",
+      "Viruses contain chloroplasts"
+    ],
+    "answer": "Viruses replicate inside host cells"
+  },
+  {
+    "id": 203,
+    "question": "Which is a medical use of monoclonal antibodies?",
+    "options": [
+      "Targeted cancer therapy",
+      "DNA replication",
+      "Blood clotting",
+      "Osmoregulation"
+    ],
+    "answer": "Targeted cancer therapy"
+  },
+  {
+    "id": 204,
+    "question": "Why are monoclonal antibodies useful in targeted drug delivery?",
+    "options": [
+      "They bind specifically to target antigens",
+      "They hydrolyse ATP",
+      "They replicate rapidly",
+      "They destroy all cells equally"
+    ],
+    "answer": "They bind specifically to target antigens"
+  },
+  {
+    "id": 205,
+    "question": "Which diagnostic test commonly relies on monoclonal antibodies?",
+    "options": [
+      "Pregnancy test",
+      "Karyotyping",
+      "PCR amplification",
+      "Gram staining"
+    ],
+    "answer": "Pregnancy test"
+  },
+  {
+    "id": 206,
+    "question": "An ethical concern related to vaccine production is:",
+    "options": [
+      "Use of animals in development",
+      "Vaccines increasing chromosome number",
+      "Vaccines preventing memory cell formation",
+      "Vaccines causing osmosis"
+    ],
+    "answer": "Use of animals in development"
+  },
+  {
+    "id": 207,
+    "question": "A possible ethical concern regarding clinical vaccine trials is:",
+    "options": [
+      "Potential side effects in participants",
+      "Increased water potential",
+      "Protein denaturation in all cells",
+      "Immediate immunity in every case"
+    ],
+    "answer": "Potential side effects in participants"
+  },
+  {
+    "id": 208,
+    "question": "One ethical debate concerning vaccination programs involves:",
+    "options": [
+      "Compulsory versus voluntary vaccination",
+      "The existence of DNA",
+      "Mitosis in neurons",
+      "ATP production rates"
+    ],
+    "answer": "Compulsory versus voluntary vaccination"
+  },
+  {
+    "id": 209,
+    "question": "An ethical concern surrounding monoclonal antibodies is that:",
+    "options": [
+      "Production may involve animal use",
+      "They always cause immunity",
+      "They contain pathogens",
+      "They replace all antibodies"
+    ],
+    "answer": "Production may involve animal use"
+  },
+  {
+    "id": 210,
+    "question": "Early monoclonal antibody drug trials highlighted concerns because some participants experienced:",
+    "options": [
+      "Multiple organ failure",
+      "Improved vision",
+      "Permanent immunity",
+      "Enhanced cell division"
+    ],
+    "answer": "Multiple organ failure"
+  }
+
+]

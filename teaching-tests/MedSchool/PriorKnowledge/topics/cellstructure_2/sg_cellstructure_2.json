@@ -1,0 +1,872 @@
+[
+  {
+    "topic": "Cellular Replication",
+    "flashcards": [
+      {
+        "question": "What is the cell cycle?",
+        "answer": "The series of events through which a dividing cell passes, including growth, DNA replication, mitosis, and cytokinesis."
+      },
+      {
+        "question": "During which stage of the cell cycle does DNA replication occur?",
+        "answer": "Interphase."
+      },
+      {
+        "question": "What is mitosis?",
+        "answer": "The process of nuclear division in eukaryotic cells that produces two genetically identical daughter cells."
+      },
+      {
+        "question": "What is cytokinesis?",
+        "answer": "The division of the cytoplasm that produces two separate daughter cells after mitosis."
+      },
+      {
+        "question": "What is the role of spindle fibres during mitosis?",
+        "answer": "They attach to centromeres and separate chromatids to opposite poles of the cell."
+      },
+      {
+        "question": "What are the stages of mitosis?",
+        "answer": "Prophase, Metaphase, Anaphase, and Telophase."
+      },
+      {
+        "question": "What happens during prophase?",
+        "answer": "Chromosomes condense and become visible, and the nuclear envelope begins to break down."
+      },
+      {
+        "question": "What happens during metaphase?",
+        "answer": "Chromosomes line up at the cell equator and attach to spindle fibres via their centromeres."
+      },
+      {
+        "question": "What happens during anaphase?",
+        "answer": "Sister chromatids separate at the centromere and move toward opposite poles."
+      },
+      {
+        "question": "What happens during telophase?",
+        "answer": "Chromosomes reach opposite poles and new nuclear envelopes form around them."
+      },
+      {
+        "question": "What are chromosomes composed of?",
+        "answer": "DNA and proteins."
+      },
+      {
+        "question": "How many chromosomes do most human body cells contain?",
+        "answer": "46 chromosomes arranged in 23 pairs."
+      },
+      {
+        "question": "What are sister chromatids?",
+        "answer": "Two identical copies of a chromosome joined at the centromere."
+      },
+      {
+        "question": "What is the centromere?",
+        "answer": "The region where sister chromatids are attached and where spindle fibres bind."
+      },
+      {
+        "question": "How many chromosomes are present after DNA replication in a human cell?",
+        "answer": "46 chromosomes, each consisting of two sister chromatids."
+      },
+      {
+        "question": "How many chromatids are present after DNA replication in a human cell?",
+        "answer": "92 chromatids."
+      },
+      {
+        "question": "What is the result of mitosis and cytokinesis?",
+        "answer": "Two genetically identical daughter cells."
+      },
+      {
+        "question": "Why is mitosis important?",
+        "answer": "It allows growth, tissue repair, and replacement of damaged or worn-out cells."
+      },
+      {
+        "question": "What can result from uncontrolled mitosis?",
+        "answer": "Tumors and cancer."
+      },
+      {
+        "question": "What normally prevents uncontrolled cell division?",
+        "answer": "Cell-cycle checkpoints."
+      },
+      {
+        "question": "Why do some cells not undergo the cell cycle?",
+        "answer": "After differentiation, some cells such as neurons lose the ability to divide."
+      },
+      {
+        "question": "What is the difference between the cell cycle and mitosis?",
+        "answer": "The cell cycle includes growth and DNA replication, while mitosis refers only to nuclear division."
+      },
+      {
+        "question": "What is binary fission?",
+        "answer": "The method of cell division used by prokaryotes."
+      },
+      {
+        "question": "What happens during binary fission?",
+        "answer": "Circular DNA and plasmids replicate, followed by cytoplasmic division to form two daughter cells."
+      },
+      {
+        "question": "Do viruses undergo cell division?",
+        "answer": "No. Viruses are non-living and rely on host cells to replicate."
+      },
+      {
+        "question": "What is meiosis?",
+        "answer": "A type of cell division that produces haploid gametes for sexual reproduction."
+      },
+      {
+        "question": "What is the main function of meiosis?",
+        "answer": "Production of genetically diverse gametes."
+      },
+      {
+        "question": "How many divisions occur during meiosis?",
+        "answer": "Two divisions: Meiosis I and Meiosis II."
+      },
+      {
+        "question": "How many daughter cells are produced by meiosis?",
+        "answer": "Four haploid gametes."
+      },
+      {
+        "question": "How many chromosomes do human gametes contain?",
+        "answer": "23 chromosomes."
+      },
+      {
+        "question": "What is a haploid cell?",
+        "answer": "A cell containing one set of chromosomes."
+      },
+      {
+        "question": "What restores the diploid chromosome number after meiosis?",
+        "answer": "Fertilization."
+      },
+      {
+        "question": "What happens during Prophase I of meiosis?",
+        "answer": "Homologous chromosomes pair and crossing over occurs."
+      },
+      {
+        "question": "What are homologous chromosomes?",
+        "answer": "Matching chromosome pairs, one inherited from each parent."
+      },
+      {
+        "question": "What is crossing over?",
+        "answer": "The exchange of DNA between non-sister chromatids of homologous chromosomes."
+      },
+      {
+        "question": "What happens during Metaphase I?",
+        "answer": "Homologous chromosome pairs align at the equator."
+      },
+      {
+        "question": "What happens during Anaphase I?",
+        "answer": "Homologous chromosomes separate to opposite poles."
+      },
+      {
+        "question": "What happens during Meiosis II?",
+        "answer": "Sister chromatids separate, producing four haploid gametes."
+      },
+      {
+        "question": "What is independent assortment?",
+        "answer": "The random orientation of homologous chromosome pairs during Metaphase I."
+      },
+      {
+        "question": "What are the two major sources of genetic variation in meiosis?",
+        "answer": "Crossing over and independent assortment."
+      },
+      {
+        "question": "What is nondisjunction?",
+        "answer": "Failure of chromosomes to separate correctly during meiosis."
+      },
+      {
+        "question": "What can nondisjunction cause?",
+        "answer": "Genetic disorders such as Down syndrome."
+      },
+      {
+        "question": "What is the key difference between mitosis and meiosis?",
+        "answer": "Mitosis produces two genetically identical diploid cells, whereas meiosis produces four genetically different haploid gametes."
+      }
+    ]
+  },
+  
+  {
+    "topic": "Transport Across Membranes",
+    "flashcards": [
+      {
+        "question": "What is the fluid mosaic model of membrane structure?",
+        "answer": "A model describing membranes as a flexible phospholipid bilayer with various proteins embedded within it."
+      },
+      {
+        "question": "Why is the membrane described as 'fluid'?",
+        "answer": "Because phospholipid molecules can move within the bilayer, allowing flexibility."
+      },
+      {
+        "question": "Why is the membrane described as a 'mosaic'?",
+        "answer": "Because different proteins are embedded throughout the phospholipid bilayer."
+      },
+      {
+        "question": "What is the basic structure of all biological membranes?",
+        "answer": "A phospholipid bilayer containing proteins and often cholesterol, glycolipids, and glycoproteins."
+      },
+      {
+        "question": "What is a phospholipid bilayer?",
+        "answer": "A double layer of phospholipids with hydrophilic heads facing outward and hydrophobic tails facing inward."
+      },
+      {
+        "question": "What is the function of cholesterol in cell membranes?",
+        "answer": "It restricts phospholipid movement, reducing membrane fluidity and increasing stability."
+      },
+      {
+        "question": "How does cholesterol affect membrane stability?",
+        "answer": "It helps hold phospholipids together and prevents excessive movement."
+      },
+      {
+        "question": "What are glycolipids?",
+        "answer": "Lipids with carbohydrate chains attached that function in cell signaling and recognition."
+      },
+      {
+        "question": "What is the role of glycolipids in membranes?",
+        "answer": "Cell signaling and cell recognition."
+      },
+      {
+        "question": "What are glycoproteins?",
+        "answer": "Proteins with carbohydrate chains attached that are involved in cell recognition and signaling."
+      },
+      {
+        "question": "What are extrinsic proteins?",
+        "answer": "Proteins attached to the surface of the membrane."
+      },
+      {
+        "question": "What are intrinsic proteins?",
+        "answer": "Proteins embedded within or spanning the membrane."
+      },
+      {
+        "question": "What is one function of extrinsic proteins?",
+        "answer": "They act as receptors for hormones and other signaling molecules."
+      },
+      {
+        "question": "How do extrinsic proteins contribute to cell recognition?",
+        "answer": "Many function as glycoprotein antigens on cell surfaces."
+      },
+      {
+        "question": "How can extrinsic proteins help bind cells together?",
+        "answer": "They act as adhesion molecules between neighboring cells."
+      },
+      {
+        "question": "What role do intrinsic proteins play in respiration and photosynthesis?",
+        "answer": "They can function as electron carriers."
+      },
+      {
+        "question": "What are channel proteins?",
+        "answer": "Intrinsic proteins that form hydrophilic pores allowing specific ions or molecules to cross membranes."
+      },
+      {
+        "question": "What are carrier proteins?",
+        "answer": "Proteins that bind specific substances and transport them across membranes."
+      },
+      {
+        "question": "Which transport processes use carrier proteins?",
+        "answer": "Facilitated diffusion, active transport, and co-transport."
+      },
+      {
+        "question": "What are two general functions of membranes within cells?",
+        "answer": "Providing reaction surfaces and isolating organelles for specialized metabolic reactions."
+      },
+      {
+        "question": "Why are membranes selectively permeable?",
+        "answer": "They control which substances can enter or leave cells and organelles."
+      },
+      {
+        "question": "What is the main function of the cell-surface membrane?",
+        "answer": "To separate the cell interior from the external environment while regulating transport."
+      },
+      {
+        "question": "How is the cell-surface membrane involved in communication?",
+        "answer": "It contains receptors and recognition molecules involved in signaling."
+      },
+      {
+        "question": "What is membrane permeability?",
+        "answer": "The ease with which substances pass through a membrane."
+      },
+      {
+        "question": "How does temperature affect membrane permeability?",
+        "answer": "Higher temperatures increase phospholipid movement and may denature membrane proteins."
+      },
+      {
+        "question": "How does pH affect membrane permeability?",
+        "answer": "Extreme pH values can alter the tertiary structure of membrane proteins."
+      },
+      {
+        "question": "How can solvents affect membrane permeability?",
+        "answer": "They may dissolve membrane components and disrupt membrane structure."
+      },
+      {
+        "question": "What is simple diffusion?",
+        "answer": "The net movement of small, lipid-soluble molecules from a region of high concentration to a region of low concentration through the phospholipid bilayer."
+      },
+      {
+        "question": "Is simple diffusion active or passive?",
+        "answer": "Passive."
+      },
+      {
+        "question": "Does simple diffusion require ATP?",
+        "answer": "No."
+      },
+      {
+        "question": "What types of molecules move by simple diffusion?",
+        "answer": "Small, nonpolar, lipid-soluble molecules."
+      },
+      {
+        "question": "What is a concentration gradient?",
+        "answer": "A difference in concentration between two regions."
+      },
+      {
+        "question": "In which direction does simple diffusion occur?",
+        "answer": "Down a concentration gradient."
+      },
+      {
+        "question": "What is facilitated diffusion?",
+        "answer": "The passive movement of substances down a concentration gradient using channel or carrier proteins."
+      },
+      {
+        "question": "Does facilitated diffusion require ATP?",
+        "answer": "No."
+      },
+      {
+        "question": "Why do some molecules require facilitated diffusion?",
+        "answer": "Because they are large, charged, or polar and cannot pass through the hydrophobic bilayer directly."
+      },
+      {
+        "question": "How do channel proteins function in facilitated diffusion?",
+        "answer": "They provide hydrophilic pathways through the membrane for specific ions or molecules."
+      },
+      {
+        "question": "How do carrier proteins function in facilitated diffusion?",
+        "answer": "They bind specific molecules and undergo a conformational change to transport them across the membrane."
+      },
+      {
+        "question": "What happens to carrier proteins when a substrate binds?",
+        "answer": "They change shape and move the substrate across the membrane."
+      },
+      {
+        "question": "What is osmosis?",
+        "answer": "The diffusion of water across a partially permeable membrane from higher water potential to lower water potential."
+      },
+      {
+        "question": "What is water potential?",
+        "answer": "The pressure created by water molecules, measured in kPa."
+      },
+      {
+        "question": "What is the water potential of pure water?",
+        "answer": "0 kPa."
+      },
+      {
+        "question": "How does increasing solute concentration affect water potential?",
+        "answer": "It makes water potential more negative."
+      },
+      {
+        "question": "What is a partially permeable membrane?",
+        "answer": "A membrane that allows some substances to pass but not others."
+      },
+      {
+        "question": "What happens to a plant cell in a hypotonic solution?",
+        "answer": "Water enters by osmosis and the cell becomes turgid."
+      },
+      {
+        "question": "What happens to an animal cell in a hypotonic solution?",
+        "answer": "It may burst by lysis."
+      },
+      {
+        "question": "What happens to a plant cell in a hypertonic solution?",
+        "answer": "Water leaves the cell and it becomes flaccid."
+      },
+      {
+        "question": "What happens to an animal cell in a hypertonic solution?",
+        "answer": "It undergoes crenation."
+      },
+      {
+        "question": "What is active transport?",
+        "answer": "The movement of substances against their concentration gradient using carrier proteins and energy from ATP."
+      },
+      {
+        "question": "Does active transport require energy?",
+        "answer": "Yes, from ATP hydrolysis."
+      },
+      {
+        "question": "In which direction does active transport move substances?",
+        "answer": "Against the concentration gradient."
+      },
+      {
+        "question": "How does ATP drive active transport?",
+        "answer": "ATP hydrolysis releases a phosphate group that changes the shape of a carrier protein."
+      },
+      {
+        "question": "How do active transport and facilitated diffusion differ?",
+        "answer": "Active transport requires ATP and moves substances against a gradient, whereas facilitated diffusion is passive and moves substances down a gradient."
+      },
+      {
+        "question": "What is co-transport?",
+        "answer": "The movement of one substance against its gradient coupled to the movement of another substance down its gradient."
+      },
+      {
+        "question": "What is a symport protein?",
+        "answer": "A co-transport protein that moves two substances in the same direction."
+      },
+      {
+        "question": "What is an antiport protein?",
+        "answer": "A co-transport protein that moves two substances in opposite directions."
+      },
+      {
+        "question": "What is an example of antiport transport?",
+        "answer": "The sodium-potassium pump."
+      },
+      {
+        "question": "How is co-transport used for glucose absorption in the ileum?",
+        "answer": "Sodium ions moving down their gradient provide the energy to transport glucose into epithelial cells."
+      },
+      {
+        "question": "Why is sodium actively transported out of intestinal epithelial cells?",
+        "answer": "To maintain a low intracellular sodium concentration."
+      },
+      {
+        "question": "Why does glucose uptake depend on a sodium gradient?",
+        "answer": "Because glucose transport is coupled to sodium entry through co-transport proteins."
+      },
+      {
+        "question": "Which five factors affect the rate of diffusion?",
+        "answer": "Temperature, diffusion distance, surface area, molecule size, and concentration difference."
+      },
+      {
+        "question": "How does temperature affect diffusion rate?",
+        "answer": "Increasing temperature increases kinetic energy and diffusion rate."
+      },
+      {
+        "question": "How does diffusion distance affect diffusion rate?",
+        "answer": "Shorter diffusion distances increase diffusion rate."
+      },
+      {
+        "question": "How does surface area affect diffusion rate?",
+        "answer": "Larger surface areas increase diffusion rate."
+      },
+      {
+        "question": "How does concentration gradient affect diffusion rate?",
+        "answer": "Steeper concentration gradients increase diffusion rate."
+      },
+      {
+        "question": "How does molecule size affect diffusion rate?",
+        "answer": "Smaller molecules diffuse more rapidly."
+      },
+      {
+        "question": "What is Fick's law?",
+        "answer": "Rate of diffusion is proportional to surface area and concentration difference, and inversely proportional to diffusion distance."
+      },
+      {
+        "question": "State the equation for Fick's law.",
+        "answer": "Rate of diffusion = (surface area × concentration difference) ÷ diffusion distance."
+      },
+      {
+        "question": "How can cells increase transport across their membranes?",
+        "answer": "By increasing membrane surface area or increasing the number of channel and carrier proteins."
+      },
+      {
+        "question": "Why do folded membranes increase transport efficiency?",
+        "answer": "They provide a larger surface area for exchange."
+      },
+      {
+        "question": "Why do more channel proteins increase transport rate?",
+        "answer": "More transport pathways become available."
+      },
+      {
+        "question": "Why do more carrier proteins increase transport rate?",
+        "answer": "More molecules can be transported simultaneously."
+      },
+      {
+        "question": "What is the shape of a simple diffusion graph when concentration is plotted against diffusion rate?",
+        "answer": "A straight line showing a proportional increase."
+      },
+      {
+        "question": "Why does facilitated diffusion eventually plateau?",
+        "answer": "Because all available channel or carrier proteins become saturated."
+      },
+      {
+        "question": "What does saturation mean in facilitated diffusion?",
+        "answer": "All transport proteins are occupied and working at maximum capacity."
+      }
+    ]
+  },
+  
+  {
+    "topic": "Cell Recognition and the Immune System",
+    "flashcards": [
+      {
+        "question": "What is cell recognition?",
+        "answer": "The ability of cells to identify and distinguish themselves from other cells using molecules on their surface."
+      },
+      {
+        "question": "Why is cell recognition important?",
+        "answer": "It allows the immune system to distinguish self from non-self and identify pathogens, toxins, and abnormal body cells."
+      },
+      {
+        "question": "What is an antigen?",
+        "answer": "A cell-surface molecule that stimulates an immune response."
+      },
+      {
+        "question": "What types of molecules commonly act as antigens?",
+        "answer": "Usually glycoproteins, but sometimes glycolipids or polysaccharides."
+      },
+      {
+        "question": "What is meant by 'self' recognition?",
+        "answer": "Recognition of the body's own cells by the immune system."
+      },
+      {
+        "question": "What is meant by 'non-self' recognition?",
+        "answer": "Recognition of foreign cells or molecules by the immune system."
+      },
+      {
+        "question": "What types of targets can be identified by antigens?",
+        "answer": "Pathogens, toxins, abnormal body cells, and cells from other organisms."
+      },
+      {
+        "question": "What is a pathogen?",
+        "answer": "A disease-causing microorganism."
+      },
+      {
+        "question": "What is phagocytosis?",
+        "answer": "A process in which phagocytes engulf and destroy pathogens."
+      },
+      {
+        "question": "What are phagocytes?",
+        "answer": "White blood cells that ingest and destroy pathogens."
+      },
+      {
+        "question": "What is chemotaxis?",
+        "answer": "Movement of a phagocyte toward chemicals released by pathogens or damaged tissues."
+      },
+      {
+        "question": "What is the first step of phagocytosis?",
+        "answer": "The phagocyte moves toward the pathogen by chemotaxis."
+      },
+      {
+        "question": "How does a phagocyte engulf a pathogen?",
+        "answer": "By endocytosis."
+      },
+      {
+        "question": "What is a phagosome?",
+        "answer": "A vesicle containing an engulfed pathogen."
+      },
+      {
+        "question": "What happens when a phagosome fuses with a lysosome?",
+        "answer": "A phagolysosome is formed."
+      },
+      {
+        "question": "What is the function of lysozymes?",
+        "answer": "They digest pathogens inside phagolysosomes."
+      },
+      {
+        "question": "What happens to the products of pathogen digestion?",
+        "answer": "They are absorbed by the phagocyte."
+      },
+      {
+        "question": "What is an antigen-presenting cell (APC)?",
+        "answer": "A cell that displays pathogen antigens on its surface to activate lymphocytes."
+      },
+      {
+        "question": "What type of cell commonly acts as an APC?",
+        "answer": "A macrophage."
+      },
+      {
+        "question": "Why are APCs important?",
+        "answer": "They enhance recognition of pathogens by T helper cells."
+      },
+      {
+        "question": "Why can't T helper cells directly recognize pathogens in body fluids?",
+        "answer": "They require antigens to be displayed on APCs."
+      },
+      {
+        "question": "What are the two major categories of immune response?",
+        "answer": "Nonspecific and specific immune responses."
+      },
+      {
+        "question": "What is a nonspecific immune response?",
+        "answer": "A general defense mechanism that acts against all pathogens."
+      },
+      {
+        "question": "Give two examples of nonspecific immunity.",
+        "answer": "Inflammation and phagocytosis."
+      },
+      {
+        "question": "What is a specific immune response?",
+        "answer": "An immune response directed against a particular antigen."
+      },
+      {
+        "question": "Which cells are responsible for specific immunity?",
+        "answer": "B lymphocytes and T lymphocytes."
+      },
+      {
+        "question": "How does the speed of nonspecific immunity compare with specific immunity?",
+        "answer": "Nonspecific immunity is immediate, whereas specific immunity has a time lag."
+      },
+      {
+        "question": "What are the two types of specific immune response?",
+        "answer": "Cell-mediated immunity and humoral immunity."
+      },
+      {
+        "question": "What is cell-mediated immunity?",
+        "answer": "An immune response involving T lymphocytes."
+      },
+      {
+        "question": "What is humoral immunity?",
+        "answer": "An immune response involving antibodies produced by B lymphocytes."
+      },
+      {
+        "question": "What activates the cell-mediated response?",
+        "answer": "Binding of complementary T helper cells to antigens presented on APCs."
+      },
+      {
+        "question": "What are cytokines?",
+        "answer": "Chemical messengers released by immune cells that stimulate other immune cells."
+      },
+      {
+        "question": "What is clonal expansion?",
+        "answer": "Rapid mitotic division of activated lymphocytes."
+      },
+      {
+        "question": "What do T helper cells produce after activation?",
+        "answer": "Memory T helper cells and cytokines."
+      },
+      {
+        "question": "What do cytokines stimulate during cell-mediated immunity?",
+        "answer": "Clonal expansion of T helper and cytotoxic T cells."
+      },
+      {
+        "question": "What are cytotoxic T cells?",
+        "answer": "T cells that destroy infected body cells."
+      },
+      {
+        "question": "What substance is released by cytotoxic T cells?",
+        "answer": "Perforin."
+      },
+      {
+        "question": "What is the function of perforin?",
+        "answer": "It creates pores in infected cells, leading to their destruction."
+      },
+      {
+        "question": "What triggers the humoral response?",
+        "answer": "Activation of T helper cells by antigen-presenting cells."
+      },
+      {
+        "question": "What happens to B lymphocytes during the humoral response?",
+        "answer": "They undergo clonal expansion and differentiate into plasma cells."
+      },
+      {
+        "question": "What are plasma cells?",
+        "answer": "Specialized B cells that secrete antibodies."
+      },
+      {
+        "question": "What are antibodies?",
+        "answer": "Proteins secreted by plasma cells that specifically bind antigens."
+      },
+      {
+        "question": "What is the basic structure of an antibody?",
+        "answer": "Two light chains and two heavy chains joined by disulfide bridges."
+      },
+      {
+        "question": "What is the variable region of an antibody?",
+        "answer": "The antigen-binding region with a specific tertiary structure."
+      },
+      {
+        "question": "What is the constant region of an antibody?",
+        "answer": "The remainder of the antibody molecule outside the antigen-binding region."
+      },
+      {
+        "question": "Why are antibodies specific?",
+        "answer": "Because their variable regions have shapes complementary to particular antigens."
+      },
+      {
+        "question": "What is an antigen-antibody complex?",
+        "answer": "A structure formed when an antibody binds to its complementary antigen."
+      },
+      {
+        "question": "How do antibodies assist pathogen destruction?",
+        "answer": "They cause agglutination and enhance phagocytosis."
+      },
+      {
+        "question": "What is agglutination?",
+        "answer": "The clumping together of pathogens by antibodies."
+      },
+      {
+        "question": "What are memory cells?",
+        "answer": "Long-lived B or T lymphocytes formed during the primary immune response."
+      },
+      {
+        "question": "Why are memory cells important?",
+        "answer": "They enable faster and stronger responses upon re-exposure to the same pathogen."
+      },
+      {
+        "question": "What is the primary immune response?",
+        "answer": "The immune response that occurs after first exposure to an antigen."
+      },
+      {
+        "question": "What is the secondary immune response?",
+        "answer": "The immune response that occurs upon subsequent exposure to the same antigen."
+      },
+      {
+        "question": "Why is the secondary immune response faster?",
+        "answer": "Because memory cells are already present."
+      },
+      {
+        "question": "How does antibody production differ in the secondary response?",
+        "answer": "Antibodies are produced more rapidly and in greater quantities."
+      },
+      {
+        "question": "Why are symptoms often absent during a secondary response?",
+        "answer": "The pathogen is usually destroyed before symptoms develop."
+      },
+      {
+        "question": "What is antigen variability?",
+        "answer": "Changes in antigen structure caused by genetic mutation."
+      },
+      {
+        "question": "How do mutations create antigen variability?",
+        "answer": "They alter amino acid sequences, changing antigen shape."
+      },
+      {
+        "question": "Why can antigen variability increase disease incidence?",
+        "answer": "Existing memory cells may no longer recognize new antigen variants."
+      },
+      {
+        "question": "Why does antigen variability make vaccine development difficult?",
+        "answer": "Many antigen variants may need to be targeted."
+      },
+      {
+        "question": "What is immunity?",
+        "answer": "Protection against disease provided by antibodies and immune cells."
+      },
+      {
+        "question": "What is passive immunity?",
+        "answer": "Immunity gained from antibodies produced by another organism."
+      },
+      {
+        "question": "What is active immunity?",
+        "answer": "Immunity resulting from an individual's own immune response."
+      },
+      {
+        "question": "What is a natural example of passive immunity?",
+        "answer": "Transfer of antibodies through breast milk or the placenta."
+      },
+      {
+        "question": "What is an artificial example of passive immunity?",
+        "answer": "Administration of antivenom."
+      },
+      {
+        "question": "What is a natural example of active immunity?",
+        "answer": "Recovery from an infection."
+      },
+      {
+        "question": "What is an artificial example of active immunity?",
+        "answer": "Vaccination."
+      },
+      {
+        "question": "Why is passive immunity short-lived?",
+        "answer": "No memory cells are produced."
+      },
+      {
+        "question": "Why is active immunity long-lasting?",
+        "answer": "Memory cells are produced."
+      },
+      {
+        "question": "Which type of immunity provides immediate protection?",
+        "answer": "Passive immunity."
+      },
+      {
+        "question": "Why does active immunity take longer to develop?",
+        "answer": "Time is needed for lymphocyte activation and antibody production."
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A preparation containing antigens from a pathogen that stimulates immunity."
+      },
+      {
+        "question": "How do vaccines work?",
+        "answer": "They trigger a primary immune response without causing disease."
+      },
+      {
+        "question": "Why do vaccines provide protection against future infections?",
+        "answer": "They generate memory cells."
+      },
+      {
+        "question": "What is herd immunity?",
+        "answer": "Population-level protection achieved when a large proportion of people are immune."
+      },
+      {
+        "question": "How does herd immunity protect vulnerable individuals?",
+        "answer": "It reduces opportunities for transmission."
+      },
+      {
+        "question": "What are monoclonal antibodies?",
+        "answer": "Antibodies produced by a single clone of B cells."
+      },
+      {
+        "question": "Why are monoclonal antibodies highly specific?",
+        "answer": "Because they all bind the same antigen."
+      },
+      {
+        "question": "How are monoclonal antibodies used in pregnancy tests?",
+        "answer": "They detect human chorionic gonadotropin (hCG) in urine."
+      },
+      {
+        "question": "How can monoclonal antibodies be used to treat cancer?",
+        "answer": "They can deliver drugs specifically to cancer cells carrying target antigens."
+      },
+      {
+        "question": "What is ELISA?",
+        "answer": "An assay that uses antibodies and enzymes to detect antigens or antibodies."
+      },
+      {
+        "question": "What does a direct ELISA test detect?",
+        "answer": "A specific antigen."
+      },
+      {
+        "question": "What indicates a positive ELISA result?",
+        "answer": "A color change after substrate addition."
+      },
+      {
+        "question": "What does an indirect ELISA test detect?",
+        "answer": "Antibodies against a specific antigen."
+      },
+      {
+        "question": "What is HIV?",
+        "answer": "A virus that infects T helper cells and can cause AIDS."
+      },
+      {
+        "question": "What genetic material does HIV contain?",
+        "answer": "Two RNA molecules."
+      },
+      {
+        "question": "What enzymes are found in HIV particles?",
+        "answer": "Reverse transcriptase and integrase."
+      },
+      {
+        "question": "What is the HIV capsid?",
+        "answer": "The protein coat surrounding the viral genetic material."
+      },
+      {
+        "question": "What is the HIV envelope?",
+        "answer": "A membrane surrounding the virus derived from the host cell."
+      },
+      {
+        "question": "What are GP120 proteins?",
+        "answer": "Attachment proteins found on the surface of HIV."
+      },
+      {
+        "question": "Which receptor does HIV bind to?",
+        "answer": "The CD4 receptor on T helper cells."
+      },
+      {
+        "question": "How does HIV weaken the immune system?",
+        "answer": "By infecting and destroying T helper cells."
+      },
+      {
+        "question": "What is AIDS?",
+        "answer": "A condition in which HIV has severely reduced T helper cell numbers, impairing immune function."
+      },
+      {
+        "question": "Why are people with AIDS vulnerable to secondary infections?",
+        "answer": "Their immune system can no longer effectively coordinate immune responses."
+      },
+      {
+        "question": "Why are antibiotics ineffective against viruses?",
+        "answer": "Viruses lack cell walls and replicate inside host cells."
+      }
+    ]
+  }
+
+]

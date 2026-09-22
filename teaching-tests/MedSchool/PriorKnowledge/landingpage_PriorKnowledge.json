@@ -44,8 +44,22 @@
 		"url": "topics/cellstructure_1/mcqs_cellstructure_1.html",
 		"img": "assets/cellstructure-mcqs1.jpg",
 		"description": "Timed multiple-choice practice."
-	}
+	},
 
+	{
+		"id": "cellstructure-flashcards-2",
+		"title": "Cell Structure 2 :: Flashcards",
+		"url": "topics/cellstructure_2/sg_cellstructure_2.html",
+		"img": "assets/cellstructure-flashcards2.jpg",
+		"description": "Flashcards"
+	},
+	{
+		"id": "cellstructure-mcqs-2",
+		"title": "Cell Structure 2 :: Practice MCQs",
+		"url": "topics/cellstructure_2/mcqs_cellstructure_2.html",
+		"img": "assets/cellstructure-mcqs2.jpg",
+		"description": "Timed multiple-choice practice."
+	}
 
 ]
 }
