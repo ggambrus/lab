@@ -1,0 +1,1246 @@
+[
+  {
+    "topic": "Gas exchange",
+    "flashcards": [
+      {
+        "question": "How does an organism's size relate to its surface area to volume ratio?",
+        "answer": "The larger the organism, the lower its surface area to volume ratio."
+      },
+      {
+        "question": "How does surface area to volume ratio relate to metabolic rate?",
+        "answer": "A lower surface area to volume ratio is associated with a lower metabolic rate."
+      },
+      {
+        "question": "How can large organisms compensate for a low surface area to volume ratio?",
+        "answer": "By increasing surface area through folding, enlarging body parts, elongating body shape, or developing specialized gas exchange surfaces."
+      },
+      {
+        "question": "Why do multicellular organisms require specialized gas exchange surfaces?",
+        "answer": "Because their lower surface area to volume ratio and greater diffusion distances make simple diffusion insufficient."
+      },
+      {
+        "question": "What are the three features of an efficient gas exchange surface?",
+        "answer": "Large surface area, short diffusion distance, and a steep concentration gradient."
+      },
+      {
+        "question": "Why can't insects use the body surface directly for gas exchange?",
+        "answer": "They have a waterproof chitin exoskeleton and a low surface area to volume ratio."
+      },
+      {
+        "question": "What are spiracles?",
+        "answer": "Openings on an insect's body surface that can open or close to regulate gas exchange and water loss."
+      },
+      {
+        "question": "What are tracheae?",
+        "answer": "Large tubes in insects that transport air through the body and are supported by rings to prevent collapse."
+      },
+      {
+        "question": "What are tracheoles?",
+        "answer": "Fine branches of the tracheae that deliver gases directly to tissues."
+      },
+      {
+        "question": "Why can't fish use their body surface for gas exchange?",
+        "answer": "Because they have a waterproof, impermeable outer covering and a low surface area to volume ratio."
+      },
+      {
+        "question": "What are gills?",
+        "answer": "Gas exchange organs in fish containing numerous filaments that provide a large surface area."
+      },
+      {
+        "question": "What are lamellae?",
+        "answer": "Thin structures on gill filaments that increase surface area and enable countercurrent exchange."
+      },
+      {
+        "question": "What is countercurrent exchange?",
+        "answer": "A system in which blood and water flow in opposite directions, maintaining a diffusion gradient along the entire gill surface."
+      },
+      {
+        "question": "How does gas exchange occur in fish?",
+        "answer": "Water flows over the lamellae, oxygen diffuses into the blood, and carbon dioxide diffuses out into the water."
+      },
+      {
+        "question": "What is the pathway of air through the mammalian gas exchange system?",
+        "answer": "Nasal cavity → trachea → bronchi → bronchioles → alveoli."
+      },
+      {
+        "question": "What is the function of the nasal cavity?",
+        "answer": "To warm, moisten, and filter incoming air using a rich blood supply, mucus, and cilia."
+      },
+      {
+        "question": "What is the function of goblet cells in the nasal cavity?",
+        "answer": "They produce mucus that traps dust and microorganisms."
+      },
+      {
+        "question": "What is the function of the trachea?",
+        "answer": "To transport air to the bronchi while remaining open due to C-shaped cartilage rings."
+      },
+      {
+        "question": "Why does the trachea contain C-shaped cartilage rings?",
+        "answer": "To prevent collapse during pressure changes while allowing flexibility."
+      },
+      {
+        "question": "What is the role of ciliated epithelial cells in the trachea?",
+        "answer": "They move mucus toward the throat, helping remove pathogens and particles."
+      },
+      {
+        "question": "What are the bronchi?",
+        "answer": "Two airways branching from the trachea, one leading to each lung."
+      },
+      {
+        "question": "What is the function of the bronchi?",
+        "answer": "To conduct air from the trachea into the lungs."
+      },
+      {
+        "question": "What are bronchioles?",
+        "answer": "Small airways branching from the bronchi that lead to the alveoli."
+      },
+      {
+        "question": "Why do bronchioles not contain cartilage?",
+        "answer": "They are supported by smooth muscle and elastic fibers that allow contraction and relaxation."
+      },
+      {
+        "question": "What are alveoli?",
+        "answer": "Microscopic air sacs in the lungs where gas exchange occurs."
+      },
+      {
+        "question": "Why are alveoli effective gas exchange surfaces?",
+        "answer": "They have a large surface area, thin walls, and a dense capillary network."
+      },
+      {
+        "question": "How thick are alveolar walls?",
+        "answer": "One cell thick."
+      },
+      {
+        "question": "Approximately how many alveoli are found in each lung?",
+        "answer": "About 300 million."
+      },
+      {
+        "question": "What happens during inspiration?",
+        "answer": "The diaphragm contracts and flattens, external intercostals contract, thoracic volume increases, pressure decreases, and air enters the lungs."
+      },
+      {
+        "question": "Which intercostal muscles contract during inspiration?",
+        "answer": "The external intercostal muscles."
+      },
+      {
+        "question": "What happens to the diaphragm during inspiration?",
+        "answer": "It contracts and flattens."
+      },
+      {
+        "question": "Why does air move into the lungs during inspiration?",
+        "answer": "Thoracic pressure falls below atmospheric pressure."
+      },
+      {
+        "question": "What happens during expiration?",
+        "answer": "The diaphragm relaxes, the ribs move down and inward, thoracic volume decreases, pressure increases, and air leaves the lungs."
+      },
+      {
+        "question": "Which intercostal muscles contract during expiration?",
+        "answer": "The internal intercostal muscles."
+      },
+      {
+        "question": "What happens to the diaphragm during expiration?",
+        "answer": "It relaxes and domes upward."
+      },
+      {
+        "question": "Why does air leave the lungs during expiration?",
+        "answer": "Pressure inside the lungs becomes greater than atmospheric pressure."
+      },
+      {
+        "question": "What is tidal volume?",
+        "answer": "The volume of air inhaled or exhaled in a normal resting breath."
+      },
+      {
+        "question": "What is breathing rate?",
+        "answer": "The number of breaths taken per minute."
+      },
+      {
+        "question": "How is pulmonary ventilation rate calculated?",
+        "answer": "Pulmonary ventilation rate = tidal volume × breathing rate."
+      },
+      {
+        "question": "What is a spirometer?",
+        "answer": "A device used to measure and record changes in lung volume."
+      },
+      {
+        "question": "What is the primary function of the respiratory system?",
+        "answer": "To bring oxygen into the body and remove carbon dioxide."
+      },
+      {
+        "question": "What is the difference between respiration and gas exchange?",
+        "answer": "Gas exchange occurs in the lungs, while respiration is the cellular process that releases energy."
+      },
+      {
+        "question": "What is the role of chemoreceptors in breathing regulation?",
+        "answer": "They detect elevated carbon dioxide levels and stimulate increased breathing rate and depth."
+      },
+      {
+        "question": "Why does increased carbon dioxide lower blood pH?",
+        "answer": "Carbon dioxide forms carbonic acid, making blood more acidic."
+      },
+      {
+        "question": "What is the normal blood pH maintained by respiratory regulation?",
+        "answer": "Approximately 7.4."
+      },
+      {
+        "question": "What is surfactant?",
+        "answer": "A mixture of phospholipids and proteins that reduces surface tension within the alveoli."
+      },
+      {
+        "question": "Which cells produce surfactant?",
+        "answer": "Type II alveolar cells."
+      },
+      {
+        "question": "Why is surfactant important?",
+        "answer": "It prevents alveolar collapse by reducing surface tension."
+      },
+      {
+        "question": "What is Respiratory Distress Syndrome (RDS)?",
+        "answer": "A condition in which insufficient surfactant causes alveolar collapse, commonly in premature infants."
+      },
+      {
+        "question": "How is Respiratory Distress Syndrome treated?",
+        "answer": "By administering exogenous surfactant."
+      },
+      {
+        "question": "How do humans carry out gas exchange?",
+        "answer": "Using lungs containing alveoli."
+      },
+      {
+        "question": "How do fish carry out gas exchange?",
+        "answer": "Using gills."
+      },
+      {
+        "question": "How do insects carry out gas exchange?",
+        "answer": "Using spiracles, tracheae, and tracheoles."
+      },
+      {
+        "question": "How do earthworms carry out gas exchange?",
+        "answer": "By diffusion across their moist skin."
+      }
+    ]
+  },
+
+  
+  {
+    "topic": "Digestion and absorption",
+    "flashcards": [
+      {
+        "question": "What is digestion?",
+        "answer": "The hydrolysis of large, insoluble molecules into smaller molecules that can be absorbed across cell membranes."
+      },
+      {
+        "question": "Why is digestion necessary?",
+        "answer": "Most food molecules are too large and insoluble to cross cell membranes and must be broken down into smaller absorbable molecules."
+      },
+      {
+        "question": "What are the four major functions of the digestive system?",
+        "answer": "Ingestion, digestion, absorption, and elimination."
+      },
+      {
+        "question": "What is ingestion?",
+        "answer": "The taking in of food through the mouth."
+      },
+      {
+        "question": "What is absorption?",
+        "answer": "The uptake of digested nutrients across the gut lining into the blood or lymph."
+      },
+      {
+        "question": "What is elimination?",
+        "answer": "The removal of undigested waste and bacteria from the body as feces."
+      },
+      {
+        "question": "Which biological molecules are digested in the digestive system?",
+        "answer": "Carbohydrates, proteins, lipids, and nucleic acids."
+      },
+      {
+        "question": "What is mechanical digestion?",
+        "answer": "The physical breakdown of food into smaller pieces without changing its chemical composition."
+      },
+      {
+        "question": "What is chemical digestion?",
+        "answer": "The breakdown of food molecules by enzymes through hydrolysis."
+      },
+      {
+        "question": "Which enzymes are involved in carbohydrate digestion?",
+        "answer": "Amylase, maltase, sucrase, and lactase."
+      },
+      {
+        "question": "Where is amylase found?",
+        "answer": "In saliva in the mouth."
+      },
+      {
+        "question": "Where are maltase, sucrase, and lactase found?",
+        "answer": "Bound to the membrane of the small intestine."
+      },
+      {
+        "question": "What does amylase digest?",
+        "answer": "Amylase breaks starch into smaller polysaccharides."
+      },
+      {
+        "question": "What does maltase digest?",
+        "answer": "Maltase breaks maltose into two glucose molecules."
+      },
+      {
+        "question": "What does sucrase digest?",
+        "answer": "Sucrase breaks sucrose into glucose and fructose."
+      },
+      {
+        "question": "What does lactase digest?",
+        "answer": "Lactase breaks lactose into glucose and galactose."
+      },
+      {
+        "question": "Where are lipids digested?",
+        "answer": "Primarily in the small intestine."
+      },
+      {
+        "question": "What must happen before lipids can be digested?",
+        "answer": "They must be emulsified by bile salts."
+      },
+      {
+        "question": "What is emulsification?",
+        "answer": "The breakdown of large fat droplets into smaller droplets, increasing surface area for lipase action."
+      },
+      {
+        "question": "What produces bile salts?",
+        "answer": "The liver."
+      },
+      {
+        "question": "What is bile?",
+        "answer": "A digestive fluid produced by the liver that helps emulsify lipids."
+      },
+      {
+        "question": "What are micelles?",
+        "answer": "Small droplets formed when bile salts emulsify lipids."
+      },
+      {
+        "question": "Why does emulsification increase the rate of lipid digestion?",
+        "answer": "It increases the surface area available for lipase enzymes to act upon."
+      },
+      {
+        "question": "Which enzyme digests lipids?",
+        "answer": "Lipase."
+      },
+      {
+        "question": "How does lipase digest lipids?",
+        "answer": "It hydrolyzes ester bonds in triglycerides."
+      },
+      {
+        "question": "What are the products of lipid digestion?",
+        "answer": "Fatty acids and monoglycerides."
+      },
+      {
+        "question": "Which enzymes are involved in protein digestion?",
+        "answer": "Endopeptidases, exopeptidases, and dipeptidases."
+      },
+      {
+        "question": "What do endopeptidases do?",
+        "answer": "They break peptide bonds within the middle of a polypeptide chain."
+      },
+      {
+        "question": "What do exopeptidases do?",
+        "answer": "They remove amino acids from the ends of polypeptide chains."
+      },
+      {
+        "question": "What do dipeptidases do?",
+        "answer": "They hydrolyze dipeptides into individual amino acids."
+      },
+      {
+        "question": "What is co-transport?",
+        "answer": "A process in which one substance is transported across a membrane together with another substance."
+      },
+      {
+        "question": "Which nutrients require co-transport in the ileum?",
+        "answer": "Amino acids and monosaccharides."
+      },
+      {
+        "question": "Why is co-transport needed for some nutrients?",
+        "answer": "Because they may need to be absorbed against their concentration gradient."
+      },
+      {
+        "question": "How are sodium ions involved in co-transport?",
+        "answer": "Sodium ions create a gradient that drives the uptake of amino acids and monosaccharides into epithelial cells."
+      },
+      {
+        "question": "Why can fatty acids and monoglycerides be absorbed without co-transport?",
+        "answer": "They are nonpolar and can diffuse directly through membrane lipids."
+      },
+      {
+        "question": "What is the role of the mouth in digestion?",
+        "answer": "It performs ingestion, mechanical digestion, and begins carbohydrate digestion."
+      },
+      {
+        "question": "How do teeth contribute to digestion?",
+        "answer": "They mechanically break food into smaller pieces."
+      },
+      {
+        "question": "What is the digestive role of saliva?",
+        "answer": "It lubricates food and contains amylase for carbohydrate digestion."
+      },
+      {
+        "question": "What is a bolus?",
+        "answer": "A ball of chewed food formed by the tongue before swallowing."
+      },
+      {
+        "question": "What is the esophagus?",
+        "answer": "A muscular tube that transports food from the mouth to the stomach."
+      },
+      {
+        "question": "What is peristalsis?",
+        "answer": "Wave-like contractions of smooth muscle that propel food along the digestive tract."
+      },
+      {
+        "question": "What is the function of the epiglottis during swallowing?",
+        "answer": "It prevents food from entering the trachea."
+      },
+      {
+        "question": "What is the main function of the stomach?",
+        "answer": "Storage and digestion of food, particularly proteins."
+      },
+      {
+        "question": "Approximately how much food can the stomach hold?",
+        "answer": "About 2 liters."
+      },
+      {
+        "question": "How does the stomach perform mechanical digestion?",
+        "answer": "Through muscular churning movements."
+      },
+      {
+        "question": "What is the role of hydrochloric acid in the stomach?",
+        "answer": "It creates an acidic environment and helps protein digestion."
+      },
+      {
+        "question": "What is pepsin?",
+        "answer": "A protein-digesting enzyme found in the stomach."
+      },
+      {
+        "question": "What is chyme?",
+        "answer": "The semi-liquid mixture of partially digested food leaving the stomach."
+      },
+      {
+        "question": "What is a sphincter?",
+        "answer": "A circular muscle that controls the movement of substances between digestive organs."
+      },
+      {
+        "question": "How is the stomach protected from self-digestion?",
+        "answer": "By mucus-producing cells that protect the lining."
+      },
+      {
+        "question": "What are the three regions of the small intestine?",
+        "answer": "Duodenum, jejunum, and ileum."
+      },
+      {
+        "question": "What is the primary site of digestion and absorption?",
+        "answer": "The small intestine."
+      },
+      {
+        "question": "Where are most nutrients absorbed?",
+        "answer": "In the small intestine."
+      },
+      {
+        "question": "What are villi?",
+        "answer": "Finger-like projections lining the small intestine that increase surface area for absorption."
+      },
+      {
+        "question": "What are microvilli?",
+        "answer": "Microscopic projections on epithelial cells that further increase absorptive surface area."
+      },
+      {
+        "question": "Why are villi and microvilli important?",
+        "answer": "They greatly increase the surface area available for nutrient absorption."
+      },
+      {
+        "question": "What is the role of capillaries within villi?",
+        "answer": "They transport absorbed nutrients into the bloodstream."
+      },
+      {
+        "question": "What is the primary function of the large intestine?",
+        "answer": "Reabsorption of water."
+      },
+      {
+        "question": "Why is water reabsorbed in the large intestine?",
+        "answer": "To conserve water and form feces."
+      },
+      {
+        "question": "What is the role of bacteria in the large intestine?",
+        "answer": "Some produce vitamins and aid digestion."
+      },
+      {
+        "question": "What is the function of the rectum?",
+        "answer": "Storage of feces before elimination."
+      },
+      {
+        "question": "What is the function of the anus?",
+        "answer": "Expulsion of feces from the body."
+      },
+      {
+        "question": "What is the role of the liver in digestion?",
+        "answer": "It produces bile and metabolizes nutrients."
+      },
+      {
+        "question": "What is the function of the gallbladder?",
+        "answer": "Storage and release of bile."
+      },
+      {
+        "question": "What is the function of the pancreas in digestion?",
+        "answer": "It secretes digestive enzymes and substances that help neutralize stomach acid."
+      },
+      {
+        "question": "What are accessory digestive organs?",
+        "answer": "Organs that aid digestion by releasing digestive secretions but are not part of the alimentary canal."
+      },
+      {
+        "question": "Which organs are considered accessory digestive organs?",
+        "answer": "The liver, gallbladder, and pancreas."
+      },
+      {
+        "question": "What is celiac disease?",
+        "answer": "A disorder in which gluten triggers damage to the small intestine."
+      },
+      {
+        "question": "What is diverticulitis?",
+        "answer": "An inflammatory condition affecting the large intestine."
+      },
+      {
+        "question": "What is GERD?",
+        "answer": "Gastroesophageal reflux disease, where stomach contents move back into the esophagus."
+      },
+      {
+        "question": "What causes heartburn in GERD?",
+        "answer": "Acidic stomach contents refluxing into the esophagus."
+      },
+      {
+        "question": "Why is digestion not limited to the stomach?",
+        "answer": "Digestive enzymes act throughout the digestive tract, especially in the small intestine."
+      }
+    ]
+  },
+
+  
+  {
+    "topic": "Haemoglobin",
+    "flashcards": [
+      {
+        "question": "What is haemoglobin?",
+        "answer": "A globular, water-soluble protein found in red blood cells that transports oxygen."
+      },
+      {
+        "question": "What type of protein is haemoglobin?",
+        "answer": "A globular protein with a quaternary structure."
+      },
+      {
+        "question": "What is meant by the quaternary structure of haemoglobin?",
+        "answer": "Haemoglobin consists of four polypeptide chains joined together to form one functional protein."
+      },
+      {
+        "question": "How many polypeptide chains does a haemoglobin molecule contain?",
+        "answer": "Four polypeptide chains."
+      },
+      {
+        "question": "What is a haem group?",
+        "answer": "An iron-containing prosthetic group that binds oxygen."
+      },
+      {
+        "question": "How many haem groups are present in one haemoglobin molecule?",
+        "answer": "Four haem groups, one on each polypeptide chain."
+      },
+      {
+        "question": "Where is haemoglobin found?",
+        "answer": "Inside red blood cells."
+      },
+      {
+        "question": "What is the primary role of haemoglobin?",
+        "answer": "To transport oxygen from the lungs to respiring tissues."
+      },
+      {
+        "question": "Why are red blood cells important for oxygen transport?",
+        "answer": "They contain haemoglobin, which binds and carries oxygen."
+      },
+      {
+        "question": "What is oxyhaemoglobin?",
+        "answer": "The compound formed when oxygen binds to haemoglobin."
+      },
+      {
+        "question": "What is meant by oxygen loading?",
+        "answer": "The binding of oxygen to haemoglobin."
+      },
+      {
+        "question": "Where does oxygen loading occur?",
+        "answer": "In the lungs."
+      },
+      {
+        "question": "What is meant by oxygen unloading?",
+        "answer": "The release of oxygen from haemoglobin."
+      },
+      {
+        "question": "Where does oxygen unloading occur?",
+        "answer": "In respiring tissues."
+      },
+      {
+        "question": "What is oxygen affinity?",
+        "answer": "The tendency of haemoglobin to bind oxygen."
+      },
+      {
+        "question": "What are the three main factors affecting oxygen-haemoglobin binding?",
+        "answer": "Partial pressure of oxygen, partial pressure of carbon dioxide, and saturation of haemoglobin with oxygen."
+      },
+      {
+        "question": "What is partial pressure?",
+        "answer": "The pressure exerted by a particular gas within a mixture of gases."
+      },
+      {
+        "question": "How does increasing oxygen partial pressure affect haemoglobin?",
+        "answer": "It increases haemoglobin's affinity for oxygen, promoting oxygen binding."
+      },
+      {
+        "question": "What happens to oxygen binding when oxygen partial pressure decreases?",
+        "answer": "Haemoglobin releases oxygen more readily."
+      },
+      {
+        "question": "Why does oxygen bind readily in the lungs?",
+        "answer": "Because the lungs have a high partial pressure of oxygen."
+      },
+      {
+        "question": "Why is oxygen released in respiring tissues?",
+        "answer": "Because the partial pressure of oxygen is lower in tissues."
+      },
+      {
+        "question": "How does carbon dioxide affect haemoglobin's affinity for oxygen?",
+        "answer": "Increasing carbon dioxide reduces haemoglobin's affinity for oxygen."
+      },
+      {
+        "question": "Why does high carbon dioxide concentration reduce oxygen affinity?",
+        "answer": "It lowers pH and causes haemoglobin to change shape."
+      },
+      {
+        "question": "What is the Bohr effect?",
+        "answer": "The reduction in haemoglobin's affinity for oxygen caused by increased carbon dioxide concentration and reduced pH."
+      },
+      {
+        "question": "Why is the Bohr effect useful in active tissues?",
+        "answer": "It promotes oxygen release where respiration is occurring most rapidly."
+      },
+      {
+        "question": "What happens to haemoglobin in acidic conditions?",
+        "answer": "Its shape changes and its affinity for oxygen decreases."
+      },
+      {
+        "question": "What is positive cooperativity in haemoglobin?",
+        "answer": "The binding of one oxygen molecule increases the ease with which additional oxygen molecules bind."
+      },
+      {
+        "question": "Why is it difficult for the first oxygen molecule to bind to haemoglobin?",
+        "answer": "Because haemoglobin initially has a lower affinity for oxygen."
+      },
+      {
+        "question": "What happens after the first oxygen molecule binds to haemoglobin?",
+        "answer": "The haemoglobin changes shape, making it easier for additional oxygen molecules to bind."
+      },
+      {
+        "question": "Why is the fourth oxygen molecule slightly harder to bind?",
+        "answer": "Because there are fewer unoccupied binding sites remaining."
+      },
+      {
+        "question": "What is cooperative binding?",
+        "answer": "A process in which the binding of one oxygen molecule increases the likelihood of further oxygen binding."
+      },
+      {
+        "question": "Why is haemoglobin efficient for oxygen transport?",
+        "answer": "Its cooperative binding allows easy loading in the lungs and unloading in tissues."
+      },
+      {
+        "question": "Why does oxygen bind to haemoglobin in the lungs?",
+        "answer": "The lungs have high oxygen partial pressure, low carbon dioxide concentration, and cooperative binding enhances uptake."
+      },
+      {
+        "question": "How does low carbon dioxide concentration in the lungs affect oxygen binding?",
+        "answer": "It increases haemoglobin's affinity for oxygen."
+      },
+      {
+        "question": "Why does oxygen dissociate from haemoglobin in tissues?",
+        "answer": "Tissues have lower oxygen concentration and higher carbon dioxide concentration."
+      },
+      {
+        "question": "How does respiration in tissues promote oxygen unloading?",
+        "answer": "Respiration consumes oxygen and produces carbon dioxide, encouraging oxygen release."
+      },
+      {
+        "question": "What is an oxyhaemoglobin dissociation curve?",
+        "answer": "A graph showing the relationship between oxygen partial pressure and haemoglobin saturation."
+      },
+      {
+        "question": "What is plotted on an oxyhaemoglobin dissociation curve?",
+        "answer": "Percentage haemoglobin saturation against partial pressure of oxygen."
+      },
+      {
+        "question": "What does haemoglobin saturation mean?",
+        "answer": "The percentage of oxygen-binding sites occupied by oxygen."
+      },
+      {
+        "question": "Why is the oxyhaemoglobin dissociation curve S-shaped?",
+        "answer": "Because of cooperative binding between oxygen molecules and haemoglobin."
+      },
+      {
+        "question": "What does a curve shifted to the left indicate?",
+        "answer": "Higher affinity of haemoglobin for oxygen."
+      },
+      {
+        "question": "What does a curve shifted to the right indicate?",
+        "answer": "Lower affinity of haemoglobin for oxygen."
+      },
+      {
+        "question": "What effect does increasing carbon dioxide concentration have on the dissociation curve?",
+        "answer": "It shifts the curve to the right."
+      },
+      {
+        "question": "Why does the dissociation curve shift to the right with high carbon dioxide levels?",
+        "answer": "Because haemoglobin's affinity for oxygen decreases."
+      },
+      {
+        "question": "How does a rightward shift aid oxygen delivery?",
+        "answer": "It promotes oxygen unloading to actively respiring tissues."
+      },
+      {
+        "question": "What does the steep middle section of the oxyhaemoglobin dissociation curve represent?",
+        "answer": "A large increase in oxygen binding over a small increase in oxygen partial pressure."
+      },
+      {
+        "question": "What does the plateau at the top of the dissociation curve represent?",
+        "answer": "Haemoglobin approaching full saturation with oxygen."
+      },
+      {
+        "question": "Why is the plateau region physiologically important?",
+        "answer": "Haemoglobin remains highly saturated even if oxygen partial pressure falls slightly."
+      },
+      {
+        "question": "What is the relationship between haemoglobin saturation and oxygen transport capacity?",
+        "answer": "Higher saturation means more oxygen is being carried in the blood."
+      },
+      {
+        "question": "Why is iron important in haemoglobin?",
+        "answer": "Iron within the haem group is the site where oxygen binds."
+      },
+      {
+        "question": "Which blood cells contain haemoglobin?",
+        "answer": "Red blood cells (erythrocytes)."
+      },
+      {
+        "question": "How many oxygen molecules can one haemoglobin molecule carry?",
+        "answer": "Up to four oxygen molecules."
+      },
+      {
+        "question": "How does haemoglobin contribute to aerobic respiration?",
+        "answer": "It delivers oxygen required for ATP production in respiring cells."
+      },
+      {
+        "question": "Why is oxygen transport necessary in multicellular organisms?",
+        "answer": "Many cells are too far from the external environment for diffusion alone to supply sufficient oxygen."
+      }
+    ]
+  },
+
+  
+  {
+    "topic": "Heart and Circulation",
+    "flashcards": [
+      {
+        "question": "What are the three essential features of a circulatory system?",
+        "answer": "A transport medium, a means of moving the medium, and a mechanism to maintain unidirectional flow."
+      },
+      {
+        "question": "What is the transport medium in the circulatory system?",
+        "answer": "Blood, a water-based fluid that carries dissolved substances around the body."
+      },
+      {
+        "question": "Why must the transport medium be water-based?",
+        "answer": "Because many substances such as glucose, ions, hormones, and gases can dissolve in it."
+      },
+      {
+        "question": "What organ provides the force needed to move blood around the body?",
+        "answer": "The heart."
+      },
+      {
+        "question": "What structures ensure unidirectional blood flow?",
+        "answer": "Valves."
+      },
+      {
+        "question": "What is the role of the circulatory system?",
+        "answer": "To transport oxygen, nutrients, hormones, wastes, and other substances throughout the body."
+      },
+      {
+        "question": "What substances are transported by blood?",
+        "answer": "Oxygen, carbon dioxide, glucose, nutrients, hormones, and waste products."
+      },
+      {
+        "question": "What homeostatic functions does blood help maintain?",
+        "answer": "pH, temperature, and osmotic pressure."
+      },
+      {
+        "question": "What are the major components of blood?",
+        "answer": "Plasma, red blood cells, white blood cells, and platelets."
+      },
+      {
+        "question": "What is plasma?",
+        "answer": "The liquid component of blood containing water, proteins, salts, and dissolved substances."
+      },
+      {
+        "question": "What is the function of red blood cells?",
+        "answer": "To transport oxygen using haemoglobin."
+      },
+      {
+        "question": "What is the function of white blood cells?",
+        "answer": "To defend the body against infection."
+      },
+      {
+        "question": "What is the function of platelets?",
+        "answer": "To help blood clot."
+      },
+      {
+        "question": "How many sides does the mammalian heart have?",
+        "answer": "Two sides: a right side carrying deoxygenated blood and a left side carrying oxygenated blood."
+      },
+      {
+        "question": "Why is the heart described as a double circulatory system?",
+        "answer": "Because blood passes through the heart twice during one complete circulation."
+      },
+      {
+        "question": "What are the four chambers of the heart?",
+        "answer": "Right atrium, right ventricle, left atrium, and left ventricle."
+      },
+      {
+        "question": "What is the function of the atria?",
+        "answer": "To receive blood returning to the heart."
+      },
+      {
+        "question": "What is the function of the ventricles?",
+        "answer": "To pump blood away from the heart."
+      },
+      {
+        "question": "Why are the atria thin-walled?",
+        "answer": "They only need to push blood into the ventricles over a short distance."
+      },
+      {
+        "question": "Why are the ventricles muscular?",
+        "answer": "They generate the high pressures needed to pump blood out of the heart."
+      },
+      {
+        "question": "Why is the left ventricle thicker than the right ventricle?",
+        "answer": "Because it pumps blood to the entire body and must generate higher pressure."
+      },
+      {
+        "question": "Why is the right ventricle thinner than the left ventricle?",
+        "answer": "Because it only pumps blood to the lungs."
+      },
+      {
+        "question": "What is the function of heart valves?",
+        "answer": "To prevent backflow of blood."
+      },
+      {
+        "question": "What is the tricuspid valve?",
+        "answer": "The valve between the right atrium and right ventricle."
+      },
+      {
+        "question": "What is the mitral (bicuspid) valve?",
+        "answer": "The valve between the left atrium and left ventricle."
+      },
+      {
+        "question": "What is the pulmonary valve?",
+        "answer": "The semilunar valve between the right ventricle and pulmonary artery."
+      },
+      {
+        "question": "What is the aortic valve?",
+        "answer": "The semilunar valve between the left ventricle and aorta."
+      },
+      {
+        "question": "What is the vena cava?",
+        "answer": "The large vein returning deoxygenated blood from the body to the right atrium."
+      },
+      {
+        "question": "What is the pulmonary artery?",
+        "answer": "The artery that carries deoxygenated blood from the heart to the lungs."
+      },
+      {
+        "question": "What is the pulmonary vein?",
+        "answer": "The vein that carries oxygenated blood from the lungs to the heart."
+      },
+      {
+        "question": "What is the aorta?",
+        "answer": "The main artery carrying oxygenated blood from the left ventricle to the body."
+      },
+      {
+        "question": "What is the pathway of blood through the heart?",
+        "answer": "Vena cava → right atrium → tricuspid valve → right ventricle → pulmonary valve → pulmonary artery → lungs → pulmonary vein → left atrium → mitral valve → left ventricle → aortic valve → aorta."
+      },
+      {
+        "question": "What is the function of the coronary arteries?",
+        "answer": "To supply oxygen and nutrients to the heart muscle."
+      },
+      {
+        "question": "Where do the coronary arteries originate?",
+        "answer": "From the aorta."
+      },
+      {
+        "question": "Why does the heart need its own blood supply?",
+        "answer": "Because cardiac muscle requires a constant supply of oxygen and glucose."
+      },
+      {
+        "question": "What are coronary veins?",
+        "answer": "Veins that return deoxygenated blood from the heart muscle."
+      },
+      {
+        "question": "Why are two separate pumps needed in the heart?",
+        "answer": "To maintain pressure in both the pulmonary and systemic circulations."
+      },
+      {
+        "question": "What happens to blood pressure when blood passes through lung capillaries?",
+        "answer": "The pressure falls substantially."
+      },
+      {
+        "question": "What is cardiac diastole?",
+        "answer": "The relaxation phase when the heart chambers fill with blood."
+      },
+      {
+        "question": "What happens during cardiac diastole?",
+        "answer": "Blood enters the atria and flows into the ventricles through open atrioventricular valves."
+      },
+      {
+        "question": "What happens to the semilunar valves during diastole?",
+        "answer": "They remain closed."
+      },
+      {
+        "question": "What is atrial systole?",
+        "answer": "The contraction of the atria."
+      },
+      {
+        "question": "What happens during atrial systole?",
+        "answer": "The atria contract and force remaining blood into the ventricles."
+      },
+      {
+        "question": "What is ventricular systole?",
+        "answer": "The contraction of the ventricles."
+      },
+      {
+        "question": "What happens during ventricular systole?",
+        "answer": "The ventricles contract, atrioventricular valves close, semilunar valves open, and blood is pumped into arteries."
+      },
+      {
+        "question": "Why do atrioventricular valves close during ventricular systole?",
+        "answer": "To prevent blood flowing backward into the atria."
+      },
+      {
+        "question": "Why do semilunar valves open during ventricular systole?",
+        "answer": "Because ventricular pressure exceeds arterial pressure."
+      },
+      {
+        "question": "What does unidirectional blood flow mean?",
+        "answer": "Blood moves in only one direction through the heart and vessels."
+      },
+      {
+        "question": "What are arteries?",
+        "answer": "Blood vessels that carry blood away from the heart."
+      },
+      {
+        "question": "Why do arteries have thick walls?",
+        "answer": "To withstand high blood pressures."
+      },
+      {
+        "question": "Why do arteries contain elastic tissue?",
+        "answer": "To stretch and recoil as blood is pumped through them."
+      },
+      {
+        "question": "Why do arteries contain smooth muscle?",
+        "answer": "To control vessel diameter and blood flow."
+      },
+      {
+        "question": "What are veins?",
+        "answer": "Blood vessels that carry blood toward the heart."
+      },
+      {
+        "question": "Why do veins have thinner walls than arteries?",
+        "answer": "Because they carry blood at lower pressure."
+      },
+      {
+        "question": "Why do veins contain valves?",
+        "answer": "To prevent blood from flowing backward."
+      },
+      {
+        "question": "Why do veins have less muscle and elastic tissue than arteries?",
+        "answer": "Because they do not need to withstand or maintain high pressures."
+      },
+      {
+        "question": "What are arterioles?",
+        "answer": "Small branches of arteries that regulate blood flow into capillary beds."
+      },
+      {
+        "question": "What are capillaries?",
+        "answer": "Microscopic blood vessels where exchange occurs between blood and tissues."
+      },
+      {
+        "question": "Why are capillary walls one cell thick?",
+        "answer": "To provide a short diffusion pathway."
+      },
+      {
+        "question": "Why are capillaries extremely narrow?",
+        "answer": "To allow red blood cells to pass close to tissues and maximize exchange efficiency."
+      },
+      {
+        "question": "Why are capillaries highly branched?",
+        "answer": "To provide a large surface area for exchange."
+      },
+      {
+        "question": "What is a capillary bed?",
+        "answer": "A network of capillaries supplying a tissue."
+      },
+      {
+        "question": "Why are capillary beds important?",
+        "answer": "They provide extensive surfaces for exchange of substances."
+      },
+      {
+        "question": "What is tissue fluid?",
+        "answer": "A fluid surrounding body cells that transports nutrients and wastes between blood and tissues."
+      },
+      {
+        "question": "What substances are found in tissue fluid?",
+        "answer": "Water, oxygen, glucose, amino acids, ions, and other dissolved nutrients."
+      },
+      {
+        "question": "What is the function of tissue fluid?",
+        "answer": "To bathe cells and facilitate exchange with the blood."
+      },
+      {
+        "question": "How is tissue fluid formed?",
+        "answer": "Hydrostatic pressure forces fluid out of capillaries into surrounding tissues."
+      },
+      {
+        "question": "What is hydrostatic pressure?",
+        "answer": "The pressure exerted by blood against capillary walls."
+      },
+      {
+        "question": "How does tissue fluid return to the circulation?",
+        "answer": "It moves back into capillaries when hydrostatic pressure falls."
+      },
+ 
+      {
+        "question": "What does myogenic mean?",
+        "answer": "The heart initiates its own contractions from within the cardiac muscle rather than relying on external nerve impulses."
+      },
+      {
+        "question": "Why is the heart described as myogenic?",
+        "answer": "Because the electrical impulses that trigger contraction originate within the heart itself."
+      },
+      {
+        "question": "What is the sinoatrial node (SAN)?",
+        "answer": "A specialized group of cells in the wall of the right atrium that acts as the heart's natural pacemaker."
+      },
+      {
+        "question": "Where is the sinoatrial node located?",
+        "answer": "In the wall of the right atrium."
+      },
+      {
+        "question": "What is the role of the sinoatrial node?",
+        "answer": "To initiate the electrical impulse that starts each heartbeat."
+      },
+      {
+        "question": "Why is the SAN known as the pacemaker?",
+        "answer": "Because it sets the rhythm and rate of heart contractions."
+      },
+      {
+        "question": "What is the atrioventricular node (AVN)?",
+        "answer": "A group of specialized cells located between the atria that receives and delays the electrical impulse."
+      },
+      {
+        "question": "Where is the AVN located?",
+        "answer": "Between the two atria."
+      },
+      {
+        "question": "What is the function of the AVN?",
+        "answer": "To delay and then transmit the electrical impulse to the ventricles."
+      },
+      {
+        "question": "Why is the electrical impulse delayed at the AVN?",
+        "answer": "To allow the ventricles time to fill completely before contracting."
+      },
+      {
+        "question": "What would happen if the AVN did not delay the impulse?",
+        "answer": "The ventricles would begin contracting before they had filled with blood."
+      },
+      {
+        "question": "What is the bundle of His?",
+        "answer": "Specialized conducting tissue that carries impulses from the AVN to the ventricles."
+      },
+      {
+        "question": "What are Purkinje fibers?",
+        "answer": "Specialized conducting fibers that spread electrical impulses throughout the ventricles."
+      },
+      {
+        "question": "What is the function of Purkinje fibers?",
+        "answer": "To rapidly distribute the electrical impulse through the ventricular walls."
+      },
+      {
+        "question": "Why do the ventricles contract from the bottom upward?",
+        "answer": "Because the impulse travels through Purkinje fibers to the apex before spreading upward."
+      },
+      {
+        "question": "What is the sequence of electrical conduction through the heart?",
+        "answer": "SAN → AVN → Bundle of His → Purkinje fibers."
+      },
+      {
+        "question": "What happens after the SAN generates an impulse?",
+        "answer": "The impulse spreads across both atria causing atrial contraction."
+      },
+      {
+        "question": "What happens after the AVN transmits the impulse?",
+        "answer": "The ventricles contract."
+      },
+      {
+        "question": "Why is coordinated electrical conduction important?",
+        "answer": "It ensures efficient pumping and prevents blood flow disruption."
+      },
+      {
+        "question": "What is the intrinsic heart rate of the SAN?",
+        "answer": "Approximately 100 beats per minute in the absence of external influences."
+      },
+      {
+        "question": "Which part of the brain regulates heart rate?",
+        "answer": "The medulla oblongata."
+      },
+      {
+        "question": "What is the role of the medulla oblongata in heart rate control?",
+        "answer": "It adjusts heart rate according to the body's needs."
+      },
+      {
+        "question": "Which division of the autonomic nervous system increases heart rate?",
+        "answer": "The sympathetic nervous system."
+      },
+      {
+        "question": "Which division of the autonomic nervous system decreases heart rate?",
+        "answer": "The parasympathetic nervous system."
+      },
+      {
+        "question": "Why is the sympathetic nervous system sometimes called the accelerator pathway?",
+        "answer": "Because it increases heart rate and cardiac activity."
+      },
+      {
+        "question": "Why is the parasympathetic nervous system called the decelerator pathway?",
+        "answer": "Because it slows heart rate during rest."
+      },
+      {
+        "question": "Which neurotransmitter is released by the parasympathetic nervous system to slow heart rate?",
+        "answer": "Acetylcholine."
+      },
+      {
+        "question": "Which hormones increase heart rate during stress and exercise?",
+        "answer": "Adrenaline and noradrenaline."
+      },
+      {
+        "question": "Where are adrenaline and noradrenaline produced?",
+        "answer": "By the adrenal glands."
+      },
+      {
+        "question": "What effect does adrenaline have on the heart?",
+        "answer": "It increases heart rate and cardiac output."
+      },
+      {
+        "question": "What are baroreceptors?",
+        "answer": "Pressure receptors that detect changes in blood pressure."
+      },
+      {
+        "question": "How do baroreceptors respond to high blood pressure?",
+        "answer": "They trigger a reduction in heart rate."
+      },
+      {
+        "question": "How do baroreceptors respond to low blood pressure?",
+        "answer": "They trigger an increase in heart rate."
+      },
+      {
+        "question": "What are chemoreceptors?",
+        "answer": "Receptors that detect changes in blood chemistry, including carbon dioxide and pH."
+      },
+      {
+        "question": "What happens when chemoreceptors detect increased carbon dioxide?",
+        "answer": "Signals are sent to increase heart rate and circulation."
+      },
+      {
+        "question": "Why does exercise increase heart rate?",
+        "answer": "Working tissues require more oxygen and produce more carbon dioxide."
+      },
+      {
+        "question": "Why does increasing carbon dioxide stimulate a faster heart rate?",
+        "answer": "To transport carbon dioxide to the lungs for removal more rapidly."
+      },
+      {
+        "question": "What is heart rate?",
+        "answer": "The number of times the heart beats per minute."
+      },
+      {
+        "question": "What is stroke volume?",
+        "answer": "The volume of blood pumped by a ventricle in one contraction."
+      },
+      {
+        "question": "What is cardiac output?",
+        "answer": "The volume of blood pumped by the heart each minute."
+      },
+      {
+        "question": "How is cardiac output calculated?",
+        "answer": "Heart rate × stroke volume."
+      },
+      {
+        "question": "Why is cardiac output important?",
+        "answer": "It determines how effectively blood and oxygen are delivered to tissues."
+      },
+      {
+        "question": "What is blood pressure?",
+        "answer": "The force exerted by circulating blood against vessel walls."
+      },
+      {
+        "question": "Why is blood pressure highest in arteries?",
+        "answer": "Because blood is pumped directly into them from the ventricles."
+      },
+      {
+        "question": "Why does blood pressure decrease through the circulatory system?",
+        "answer": "Energy is lost as blood moves through vessels and capillary networks."
+      },
+      {
+        "question": "Why is oxygenated and deoxygenated blood normally kept separate?",
+        "answer": "To maximize oxygen delivery to tissues."
+      },
+      {
+        "question": "What is an atrial septal defect?",
+        "answer": "A hole between the atria that allows mixing of oxygenated and deoxygenated blood."
+      },
+      {
+        "question": "Why can mixing of blood be problematic?",
+        "answer": "It reduces the efficiency of oxygen delivery to tissues."
+      },
+      {
+        "question": "What are risk factors for cardiovascular disease?",
+        "answer": "Factors that increase the likelihood of disorders affecting the heart and blood vessels."
+      },
+      {
+        "question": "Why are coronary arteries particularly important clinically?",
+        "answer": "Blockage can deprive cardiac muscle of oxygen and lead to heart damage."
+      },
+      {
+        "question": "What is the main purpose of the pulmonary circulation?",
+        "answer": "To transport blood between the heart and lungs for gas exchange."
+      },
+      {
+        "question": "What is the main purpose of the systemic circulation?",
+        "answer": "To transport oxygenated blood from the heart to body tissues and return deoxygenated blood."
+      },
+      {
+        "question": "Why is the mammalian circulatory system described as closed?",
+        "answer": "Because blood remains within vessels at all times."
+      },
+      {
+        "question": "What advantage does a closed circulatory system provide?",
+        "answer": "It allows rapid, high-pressure transport of substances around the body."
+      },
+      {
+        "question": "How many times does the average human heart beat per day?",
+        "answer": "More than 100,000 times per day."
+      }
+    ]
+  }
+
+]

@@ -59,6 +59,21 @@
 		"url": "topics/cellstructure_2/mcqs_cellstructure_2.html",
 		"img": "assets/cellstructure-mcqs2.jpg",
 		"description": "Timed multiple-choice practice."
+	},
+
+	{
+		"id": "systems-flashcards-1",
+		"title": "Systems 1 :: Flashcards",
+		"url": "topics/systems_1/sg_systems_1.html",
+		"img": "assets/systems-flashcards1.jpg",
+		"description": "Flashcards"
+	},
+	{
+		"id": "systems-mcqs-1",
+		"title": "Systems 2 :: Practice MCQs",
+		"url": "topics/systems_1/mcqs_systems_1.html",
+		"img": "assets/systems-mcqs1.jpg",
+		"description": "Timed multiple-choice practice."
 	}
 
 ]

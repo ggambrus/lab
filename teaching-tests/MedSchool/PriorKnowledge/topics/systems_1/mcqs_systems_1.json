@@ -1,0 +1,3675 @@
+[
+  {
+    "id": 1,
+    "question": "How does increasing organism size affect surface area to volume ratio?",
+    "options": [
+      "It increases exponentially",
+      "It remains constant",
+      "It decreases",
+      "It doubles"
+    ],
+    "answer": "It decreases"
+  },
+  {
+    "id": 2,
+    "question": "Why do multicellular organisms require specialized gas exchange surfaces?",
+    "options": [
+      "They have greater diffusion distances",
+      "They lack cell membranes",
+      "They have too much oxygen",
+      "They do not respire"
+    ],
+    "answer": "They have greater diffusion distances"
+  },
+  {
+    "id": 3,
+    "question": "Which feature does NOT improve the efficiency of a gas exchange surface?",
+    "options": [
+      "Large surface area",
+      "Thick diffusion barrier",
+      "Steep concentration gradient",
+      "Short diffusion distance"
+    ],
+    "answer": "Thick diffusion barrier"
+  },
+  {
+    "id": 4,
+    "question": "Which structure allows gas exchange in insects?",
+    "options": [
+      "Alveoli",
+      "Bronchioles",
+      "Spiracles and tracheae",
+      "Lamellae"
+    ],
+    "answer": "Spiracles and tracheae"
+  },
+  {
+    "id": 5,
+    "question": "What is the function of spiracles?",
+    "options": [
+      "Pump blood",
+      "Produce oxygen",
+      "Digest food",
+      "Allow gas entry and exit"
+    ],
+    "answer": "Allow gas entry and exit"
+  },
+  {
+    "id": 6,
+    "question": "What prevents collapse of insect tracheae?",
+    "options": [
+      "Cartilage rings",
+      "Protein filaments",
+      "Chitin rings",
+      "Cilia"
+    ],
+    "answer": "Chitin rings"
+  },
+  {
+    "id": 7,
+    "question": "Which gas exchange structure provides the largest surface area in fish?",
+    "options": [
+      "Spiracles",
+      "Lamellae",
+      "Gills arches",
+      "Scales"
+    ],
+    "answer": "Lamellae"
+  },
+  {
+    "id": 8,
+    "question": "What is countercurrent flow?",
+    "options": [
+      "Blood and water moving in opposite directions",
+      "Blood and water moving together",
+      "Blood remaining stationary",
+      "Air moving across blood"
+    ],
+    "answer": "Blood and water moving in opposite directions"
+  },
+  {
+    "id": 9,
+    "question": "In fish, oxygen diffuses from:",
+    "options": [
+      "Blood into water",
+      "Gill arches into scales",
+      "Water into blood",
+      "Muscle into blood"
+    ],
+    "answer": "Water into blood"
+  },
+  {
+    "id": 10,
+    "question": "Which is the correct sequence of air flow in mammals?",
+    "options": [
+      "Trachea → lungs → alveoli → bronchi",
+      "Bronchi → alveoli → trachea",
+      "Nasal cavity → trachea → bronchi → bronchioles → alveoli",
+      "Nasal cavity → bronchioles → bronchi → alveoli"
+    ],
+    "answer": "Nasal cavity → trachea → bronchi → bronchioles → alveoli"
+  },
+  {
+    "id": 11,
+    "question": "What is a major function of the nasal cavity?",
+    "options": [
+      "Gas exchange",
+      "Filtering and warming air",
+      "Blood transport",
+      "Oxygen production"
+    ],
+    "answer": "Filtering and warming air"
+  },
+  {
+    "id": 12,
+    "question": "Goblet cells produce:",
+    "options": [
+      "Oxygen",
+      "Surfactant",
+      "Mucus",
+      "Carbon dioxide"
+    ],
+    "answer": "Mucus"
+  },
+  {
+    "id": 13,
+    "question": "What keeps the trachea open?",
+    "options": [
+      "Smooth muscle",
+      "Elastic tissue only",
+      "Cilia",
+      "C-shaped cartilage rings"
+    ],
+    "answer": "C-shaped cartilage rings"
+  },
+  {
+    "id": 14,
+    "question": "The role of cilia in the trachea is to:",
+    "options": [
+      "Move mucus toward the throat",
+      "Produce mucus",
+      "Absorb oxygen",
+      "Create pressure"
+    ],
+    "answer": "Move mucus toward the throat"
+  },
+  {
+    "id": 15,
+    "question": "How many bronchi enter the lungs?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 16,
+    "question": "Bronchioles differ from bronchi because they:",
+    "options": [
+      "Contain cartilage rings",
+      "Lead to the stomach",
+      "Lack cartilage support",
+      "Contain lamellae"
+    ],
+    "answer": "Lack cartilage support"
+  },
+  {
+    "id": 17,
+    "question": "Where does gas exchange occur in mammals?",
+    "options": [
+      "Trachea",
+      "Bronchi",
+      "Alveoli",
+      "Larynx"
+    ],
+    "answer": "Alveoli"
+  },
+  {
+    "id": 18,
+    "question": "Why are alveolar walls thin?",
+    "options": [
+      "To enable rapid diffusion",
+      "To strengthen the lungs",
+      "To produce mucus",
+      "To store oxygen"
+    ],
+    "answer": "To enable rapid diffusion"
+  },
+  {
+    "id": 19,
+    "question": "Approximately how many alveoli are present in each lung?",
+    "options": [
+      "30 million",
+      "300 million",
+      "3 million",
+      "3 billion"
+    ],
+    "answer": "300 million"
+  },
+  {
+    "id": 20,
+    "question": "During inspiration, the diaphragm:",
+    "options": [
+      "Contracts and flattens",
+      "Relaxes and domes upward",
+      "Stops moving",
+      "Contracts and domes upward"
+    ],
+    "answer": "Contracts and flattens"
+  },
+  {
+    "id": 21,
+    "question": "Which muscles contract during inspiration?",
+    "options": [
+      "Internal intercostals",
+      "External intercostals",
+      "Abdominal muscles only",
+      "None"
+    ],
+    "answer": "External intercostals"
+  },
+  {
+    "id": 22,
+    "question": "Thoracic volume during inspiration:",
+    "options": [
+      "Decreases",
+      "Remains constant",
+      "Increases",
+      "Doubles exactly"
+    ],
+    "answer": "Increases"
+  },
+  {
+    "id": 23,
+    "question": "Why does air enter the lungs during inspiration?",
+    "options": [
+      "Lung pressure becomes lower than atmospheric pressure",
+      "Lung pressure becomes higher than atmospheric pressure",
+      "Gravity pulls air in",
+      "Blood pressure forces air in"
+    ],
+    "answer": "Lung pressure becomes lower than atmospheric pressure"
+  },
+  {
+    "id": 24,
+    "question": "During expiration the ribs move:",
+    "options": [
+      "Up and out",
+      "Down and in",
+      "Forward only",
+      "Do not move"
+    ],
+    "answer": "Down and in"
+  },
+  {
+    "id": 25,
+    "question": "Which muscles contract during expiration?",
+    "options": [
+      "External intercostals",
+      "Internal intercostals",
+      "Diaphragm only",
+      "None of them"
+    ],
+    "answer": "Internal intercostals"
+  },
+  {
+    "id": 26,
+    "question": "During expiration the diaphragm:",
+    "options": [
+      "Contracts strongly",
+      "Flattens",
+      "Relaxes and domes upward",
+      "Moves sideways"
+    ],
+    "answer": "Relaxes and domes upward"
+  },
+  {
+    "id": 27,
+    "question": "What happens to thoracic volume during expiration?",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains unchanged",
+      "Triples"
+    ],
+    "answer": "Decreases"
+  },
+  {
+    "id": 28,
+    "question": "Tidal volume refers to:",
+    "options": [
+      "Maximum air exhaled after deep inspiration",
+      "Air entering and leaving the lungs during a normal breath",
+      "Air remaining after expiration",
+      "Total lung capacity"
+    ],
+    "answer": "Air entering and leaving the lungs during a normal breath"
+  },
+  {
+    "id": 29,
+    "question": "Breathing rate is measured as:",
+    "options": [
+      "Breaths per minute",
+      "Liters per second",
+      "Beats per minute",
+      "Milliliters per breath"
+    ],
+    "answer": "Breaths per minute"
+  },
+  {
+    "id": 30,
+    "question": "Pulmonary ventilation rate equals:",
+    "options": [
+      "Breathing rate ÷ tidal volume",
+      "Tidal volume × breathing rate",
+      "Oxygen uptake × time",
+      "CO₂ output × time"
+    ],
+    "answer": "Tidal volume × breathing rate"
+  },
+  {
+    "id": 31,
+    "question": "Which instrument measures lung volume changes?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Spirometer",
+      "Oximeter"
+    ],
+    "answer": "Spirometer"
+  },
+  {
+    "id": 32,
+    "question": "The respiratory system works closely with the:",
+    "options": [
+      "Digestive system",
+      "Circulatory system",
+      "Reproductive system",
+      "Skeletal system"
+    ],
+    "answer": "Circulatory system"
+  },
+  {
+    "id": 33,
+    "question": "What diffuses from alveoli into blood?",
+    "options": [
+      "Nitrogen",
+      "Carbon dioxide",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "id": 34,
+    "question": "What diffuses from blood into alveoli?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Protein",
+      "Glucose"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 35,
+    "question": "Which structure prevents food entering the trachea?",
+    "options": [
+      "Larynx",
+      "Epiglottis",
+      "Bronchus",
+      "Alveolus"
+    ],
+    "answer": "Epiglottis"
+  },
+  {
+    "id": 36,
+    "question": "The larynx is also known as the:",
+    "options": [
+      "Voice box",
+      "Windpipe",
+      "Food pipe",
+      "Air sac"
+    ],
+    "answer": "Voice box"
+  },
+  {
+    "id": 37,
+    "question": "The pharynx serves as a:",
+    "options": [
+      "Gas exchange organ",
+      "Shared passage for food and air",
+      "Blood vessel",
+      "Muscle"
+    ],
+    "answer": "Shared passage for food and air"
+  },
+  {
+    "id": 38,
+    "question": "What are alveolar sacs?",
+    "options": [
+      "Clusters containing alveoli",
+      "Blood vessels in lungs",
+      "Sections of bronchi",
+      "Pleural membranes"
+    ],
+    "answer": "Clusters containing alveoli"
+  },
+  {
+    "id": 39,
+    "question": "The right lung contains:",
+    "options": [
+      "2 lobes",
+      "3 lobes",
+      "4 lobes",
+      "1 lobe"
+    ],
+    "answer": "3 lobes"
+  },
+  {
+    "id": 40,
+    "question": "The left lung contains:",
+    "options": [
+      "2 lobes",
+      "4 lobes",
+      "1 lobe",
+      "3 lobes"
+    ],
+    "answer": "2 lobes"
+  },
+
+  {
+    "id": 41,
+    "question": "What primarily regulates breathing rate under normal conditions?",
+    "options": [
+      "Blood glucose concentration",
+      "Body temperature",
+      "Carbon dioxide concentration in the blood",
+      "Oxygen concentration in muscles"
+    ],
+    "answer": "Carbon dioxide concentration in the blood"
+  },
+  {
+    "id": 42,
+    "question": "Which structures detect changes in carbon dioxide levels in the blood?",
+    "options": [
+      "Baroreceptors",
+      "Photoreceptors",
+      "Chemoreceptors",
+      "Thermoreceptors"
+    ],
+    "answer": "Chemoreceptors"
+  },
+  {
+    "id": 43,
+    "question": "An increase in carbon dioxide concentration causes blood pH to:",
+    "options": [
+      "Decrease",
+      "Increase",
+      "Remain constant",
+      "Double"
+    ],
+    "answer": "Decrease"
+  },
+  {
+    "id": 44,
+    "question": "The normal blood pH maintained by respiratory regulation is approximately:",
+    "options": [
+      "6.5",
+      "8.5",
+      "7.4",
+      "7.0"
+    ],
+    "answer": "7.4"
+  },
+  {
+    "id": 45,
+    "question": "What is surfactant?",
+    "options": [
+      "A blood protein that transports oxygen",
+      "A mixture of phospholipids and proteins that reduces surface tension in alveoli",
+      "A mucus layer lining the trachea",
+      "A digestive enzyme"
+    ],
+    "answer": "A mixture of phospholipids and proteins that reduces surface tension in alveoli"
+  },
+  {
+    "id": 46,
+    "question": "Which cells produce surfactant in the lungs?",
+    "options": [
+      "Goblet cells",
+      "Type II alveolar cells",
+      "Red blood cells",
+      "Ciliated epithelial cells"
+    ],
+    "answer": "Type II alveolar cells"
+  },
+  {
+    "id": 47,
+    "question": "What is the primary function of surfactant?",
+    "options": [
+      "Increase mucus production",
+      "Raise oxygen concentration",
+      "Reduce surface tension and prevent alveolar collapse",
+      "Destroy pathogens"
+    ],
+    "answer": "Reduce surface tension and prevent alveolar collapse"
+  },
+  {
+    "id": 48,
+    "question": "Respiratory Distress Syndrome (RDS) is most commonly associated with:",
+    "options": [
+      "A lack of surfactant",
+      "A lack of haemoglobin",
+      "Excess mucus production",
+      "High blood pressure"
+    ],
+    "answer": "A lack of surfactant"
+  },
+  {
+    "id": 49,
+    "question": "Why are premature infants at risk of Respiratory Distress Syndrome?",
+    "options": [
+      "They have too much surfactant",
+      "Their alveoli may not produce enough surfactant",
+      "They lack bronchioles",
+      "They cannot inhale oxygen"
+    ],
+    "answer": "Their alveoli may not produce enough surfactant"
+  },
+  {
+    "id": 50,
+    "question": "What is a common treatment for Respiratory Distress Syndrome?",
+    "options": [
+      "Blood transfusion",
+      "Antibiotics",
+      "Exogenous surfactant therapy",
+      "Insulin injection"
+    ],
+    "answer": "Exogenous surfactant therapy"
+  },
+  {
+    "id": 51,
+    "question": "Which organism primarily uses skin diffusion for gas exchange?",
+    "options": [
+      "Fish",
+      "Earthworm",
+      "Human",
+      "Insect"
+    ],
+    "answer": "Earthworm"
+  },
+  {
+    "id": 52,
+    "question": "Which organism uses lungs as its primary gas exchange organ?",
+    "options": [
+      "Human",
+      "Fish",
+      "Earthworm",
+      "Grasshopper"
+    ],
+    "answer": "Human"
+  },
+  {
+    "id": 53,
+    "question": "Which organism uses gills for gas exchange?",
+    "options": [
+      "Earthworm",
+      "Human",
+      "Insect",
+      "Fish"
+    ],
+    "answer": "Fish"
+  },
+  {
+    "id": 54,
+    "question": "Which organism relies on spiracles and tracheal tubes for gas exchange?",
+    "options": [
+      "Fish",
+      "Earthworm",
+      "Insect",
+      "Human"
+    ],
+    "answer": "Insect"
+  },
+  {
+    "id": 55,
+    "question": "What happens to breathing rate when carbon dioxide levels rise?",
+    "options": [
+      "It decreases",
+      "It increases",
+      "It stops completely",
+      "It remains unchanged"
+    ],
+    "answer": "It increases"
+  },
+  {
+    "id": 56,
+    "question": "Which combination best explains the efficiency of alveoli?",
+    "options": [
+      "Thick walls, low blood supply",
+      "Small surface area, long diffusion distance",
+      "Large surface area, thin walls, rich blood supply",
+      "Cartilage support and muscle contraction"
+    ],
+    "answer": "Large surface area, thin walls, rich blood supply"
+  },
+  {
+    "id": 57,
+    "question": "What maintains a steep oxygen diffusion gradient at the alveoli?",
+    "options": [
+      "Ventilation and blood flow",
+      "Cartilage rings",
+      "Mucus secretion",
+      "Peristalsis"
+    ],
+    "answer": "Ventilation and blood flow"
+  },
+  {
+    "id": 58,
+    "question": "Why is a large surface area important in gas exchange?",
+    "options": [
+      "It decreases ventilation",
+      "It increases diffusion rate",
+      "It prevents respiration",
+      "It reduces blood flow"
+    ],
+    "answer": "It increases diffusion rate"
+  },
+  {
+    "id": 59,
+    "question": "Why is a short diffusion pathway important for gas exchange?",
+    "options": [
+      "It reduces the time needed for diffusion",
+      "It decreases oxygen availability",
+      "It increases carbon dioxide production",
+      "It prevents concentration gradients forming"
+    ],
+    "answer": "It reduces the time needed for diffusion"
+  },
+  {
+    "id": 60,
+    "question": "What is the primary purpose of the respiratory system?",
+    "options": [
+      "Transport hormones around the body",
+      "Break down food molecules",
+      "Bring oxygen into the body and remove carbon dioxide",
+      "Produce ATP directly"
+    ],
+    "answer": "Bring oxygen into the body and remove carbon dioxide"
+  },
+
+  
+  {
+    "id": 61,
+    "question": "What is digestion?",
+    "options": [
+      "The absorption of nutrients into the bloodstream",
+      "The hydrolysis of large insoluble molecules into smaller absorbable molecules",
+      "The elimination of waste products",
+      "The production of digestive enzymes"
+    ],
+    "answer": "The hydrolysis of large insoluble molecules into smaller absorbable molecules"
+  },
+  {
+    "id": 62,
+    "question": "Which of the following is NOT one of the four major functions of the digestive system?",
+    "options": [
+      "Absorption",
+      "Ingestion",
+      "Circulation",
+      "Elimination"
+    ],
+    "answer": "Circulation"
+  },
+  {
+    "id": 63,
+    "question": "What is ingestion?",
+    "options": [
+      "The breakdown of food molecules",
+      "The uptake of nutrients into blood",
+      "The removal of feces",
+      "The taking in of food"
+    ],
+    "answer": "The taking in of food"
+  },
+  {
+    "id": 64,
+    "question": "What is absorption?",
+    "options": [
+      "The uptake of digested nutrients across the gut wall",
+      "The breakdown of starch",
+      "The ingestion of food",
+      "The movement of food by peristalsis"
+    ],
+    "answer": "The uptake of digested nutrients across the gut wall"
+  },
+  {
+    "id": 65,
+    "question": "What is elimination?",
+    "options": [
+      "The breakdown of proteins",
+      "The expulsion of undigested waste from the body",
+      "The absorption of nutrients",
+      "The secretion of bile"
+    ],
+    "answer": "The expulsion of undigested waste from the body"
+  },
+  {
+    "id": 66,
+    "question": "Which biological molecule is digested by amylase?",
+    "options": [
+      "Protein",
+      "Lipid",
+      "Carbohydrate",
+      "DNA"
+    ],
+    "answer": "Carbohydrate"
+  },
+  {
+    "id": 67,
+    "question": "Where is salivary amylase produced?",
+    "options": [
+      "Stomach",
+      "Liver",
+      "Mouth",
+      "Pancreas"
+    ],
+    "answer": "Mouth"
+  },
+  {
+    "id": 68,
+    "question": "Amylase breaks down starch into:",
+    "options": [
+      "Amino acids",
+      "Smaller polysaccharides",
+      "Fatty acids",
+      "Monoglycerides"
+    ],
+    "answer": "Smaller polysaccharides"
+  },
+  {
+    "id": 69,
+    "question": "Which enzyme hydrolyses maltose into glucose?",
+    "options": [
+      "Sucrase",
+      "Lactase",
+      "Maltase",
+      "Lipase"
+    ],
+    "answer": "Maltase"
+  },
+  {
+    "id": 70,
+    "question": "What are the products of maltose digestion?",
+    "options": [
+      "Glucose and fructose",
+      "Two glucose molecules",
+      "Glucose and galactose",
+      "Amino acids"
+    ],
+    "answer": "Two glucose molecules"
+  },
+  {
+    "id": 71,
+    "question": "Which enzyme digests sucrose?",
+    "options": [
+      "Maltase",
+      "Amylase",
+      "Lipase",
+      "Sucrase"
+    ],
+    "answer": "Sucrase"
+  },
+  {
+    "id": 72,
+    "question": "Sucrose is digested into:",
+    "options": [
+      "Glucose and fructose",
+      "Glucose and galactose",
+      "Two glucose molecules",
+      "Fatty acids"
+    ],
+    "answer": "Glucose and fructose"
+  },
+  {
+    "id": 73,
+    "question": "Which enzyme digests lactose?",
+    "options": [
+      "Lactase",
+      "Lipase",
+      "Protease",
+      "Maltase"
+    ],
+    "answer": "Lactase"
+  },
+  {
+    "id": 74,
+    "question": "Lactose is broken down into:",
+    "options": [
+      "Glucose and fructose",
+      "Glucose and galactose",
+      "Two glucose molecules",
+      "Amino acids"
+    ],
+    "answer": "Glucose and galactose"
+  },
+  {
+    "id": 75,
+    "question": "Where does most lipid digestion occur?",
+    "options": [
+      "Mouth",
+      "Stomach",
+      "Small intestine",
+      "Esophagus"
+    ],
+    "answer": "Small intestine"
+  },
+  {
+    "id": 76,
+    "question": "Before lipids can be digested they must be:",
+    "options": [
+      "Denatured",
+      "Oxidized",
+      "Emulsified",
+      "Filtered"
+    ],
+    "answer": "Emulsified"
+  },
+  {
+    "id": 77,
+    "question": "Which substance emulsifies lipids?",
+    "options": [
+      "Pepsin",
+      "Amylase",
+      "Bile salts",
+      "Mucus"
+    ],
+    "answer": "Bile salts"
+  },
+  {
+    "id": 78,
+    "question": "Bile is produced by the:",
+    "options": [
+      "Pancreas",
+      "Gallbladder",
+      "Liver",
+      "Stomach"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "id": 79,
+    "question": "What is the purpose of emulsification?",
+    "options": [
+      "Decrease lipid surface area",
+      "Increase lipid surface area",
+      "Reduce enzyme activity",
+      "Produce amino acids"
+    ],
+    "answer": "Increase lipid surface area"
+  },
+  {
+    "id": 80,
+    "question": "What are micelles?",
+    "options": [
+      "Clusters of amino acids",
+      "Small droplets formed during lipid emulsification",
+      "Digestive enzymes",
+      "Structures in villi"
+    ],
+    "answer": "Small droplets formed during lipid emulsification"
+  },
+  {
+    "id": 81,
+    "question": "Which enzyme digests lipids?",
+    "options": [
+      "Amylase",
+      "Maltase",
+      "Lipase",
+      "Lactase"
+    ],
+    "answer": "Lipase"
+  },
+  {
+    "id": 82,
+    "question": "Lipase hydrolyses which bonds?",
+    "options": [
+      "Hydrogen bonds",
+      "Peptide bonds",
+      "Glycosidic bonds",
+      "Ester bonds"
+    ],
+    "answer": "Ester bonds"
+  },
+  {
+    "id": 83,
+    "question": "The products of lipid digestion are:",
+    "options": [
+      "Amino acids and glucose",
+      "Fatty acids and monoglycerides",
+      "Glucose and fructose",
+      "Peptides"
+    ],
+    "answer": "Fatty acids and monoglycerides"
+  },
+  {
+    "id": 84,
+    "question": "Which enzyme group breaks peptide bonds within a polypeptide chain?",
+    "options": [
+      "Exopeptidases",
+      "Dipeptidases",
+      "Endopeptidases",
+      "Amylases"
+    ],
+    "answer": "Endopeptidases"
+  },
+  {
+    "id": 85,
+    "question": "Exopeptidases remove amino acids from:",
+    "options": [
+      "The ends of polypeptides",
+      "The middle of lipids",
+      "Starch molecules",
+      "Monosaccharides"
+    ],
+    "answer": "The ends of polypeptides"
+  },
+  {
+    "id": 86,
+    "question": "Dipeptidases break down:",
+    "options": [
+      "Polysaccharides",
+      "Lipids",
+      "Dipeptides",
+      "Triglycerides"
+    ],
+    "answer": "Dipeptides"
+  },
+  {
+    "id": 87,
+    "question": "What are the final products of protein digestion?",
+    "options": [
+      "Peptides",
+      "Disaccharides",
+      "Amino acids",
+      "Monoglycerides"
+    ],
+    "answer": "Amino acids"
+  },
+  {
+    "id": 88,
+    "question": "Which molecules require co-transport in the ileum?",
+    "options": [
+      "Fatty acids and glycerol",
+      "Amino acids and monosaccharides",
+      "Water and minerals",
+      "Lipids and proteins"
+    ],
+    "answer": "Amino acids and monosaccharides"
+  },
+  {
+    "id": 89,
+    "question": "Co-transport depends directly on the movement of:",
+    "options": [
+      "Potassium ions",
+      "Calcium ions",
+      "Sodium ions",
+      "Iron ions"
+    ],
+    "answer": "Sodium ions"
+  },
+  {
+    "id": 90,
+    "question": "Why is co-transport required?",
+    "options": [
+      "To move some nutrients against their concentration gradient",
+      "To digest proteins",
+      "To produce bile",
+      "To absorb water"
+    ],
+    "answer": "To move some nutrients against their concentration gradient"
+  },
+  {
+    "id": 91,
+    "question": "Why do fatty acids not require co-transport?",
+    "options": [
+      "They are proteins",
+      "They are charged",
+      "They are nonpolar and diffuse through membranes",
+      "They are absorbed by active transport only"
+    ],
+    "answer": "They are nonpolar and diffuse through membranes"
+  },
+  {
+    "id": 92,
+    "question": "What type of digestion occurs when food is chewed?",
+    "options": [
+      "Chemical digestion",
+      "Mechanical digestion",
+      "Intracellular digestion",
+      "Hydrolysis"
+    ],
+    "answer": "Mechanical digestion"
+  },
+  {
+    "id": 93,
+    "question": "What structure forms a bolus?",
+    "options": [
+      "Esophagus",
+      "Tongue",
+      "Gallbladder",
+      "Pancreas"
+    ],
+    "answer": "Tongue"
+  },
+  {
+    "id": 94,
+    "question": "What is a bolus?",
+    "options": [
+      "A ball of chewed food",
+      "A digestive enzyme",
+      "A bile droplet",
+      "A villus"
+    ],
+    "answer": "A ball of chewed food"
+  },
+  {
+    "id": 95,
+    "question": "Food moves through the esophagus by:",
+    "options": [
+      "Diffusion",
+      "Osmosis",
+      "Peristalsis",
+      "Filtration"
+    ],
+    "answer": "Peristalsis"
+  },
+  {
+    "id": 96,
+    "question": "Peristalsis consists of:",
+    "options": [
+      "Wave-like muscle contractions",
+      "Enzyme secretion",
+      "Bile production",
+      "Diffusion gradients"
+    ],
+    "answer": "Wave-like muscle contractions"
+  },
+  {
+    "id": 97,
+    "question": "Which structure prevents food entering the trachea during swallowing?",
+    "options": [
+      "Larynx",
+      "Epiglottis",
+      "Villus",
+      "Sphincter"
+    ],
+    "answer": "Epiglottis"
+  },
+  {
+    "id": 98,
+    "question": "What is the main protein-digesting enzyme in the stomach?",
+    "options": [
+      "Lipase",
+      "Amylase",
+      "Pepsin",
+      "Lactase"
+    ],
+    "answer": "Pepsin"
+  },
+  {
+    "id": 99,
+    "question": "What acid is present in the stomach?",
+    "options": [
+      "Sulfuric acid",
+      "Carbonic acid",
+      "Hydrochloric acid",
+      "Nitric acid"
+    ],
+    "answer": "Hydrochloric acid"
+  },
+  {
+    "id": 100,
+    "question": "What is chyme?",
+    "options": [
+      "A digestive enzyme",
+      "Partially digested semi-liquid food",
+      "A bile salt",
+      "A blood vessel"
+    ],
+    "answer": "Partially digested semi-liquid food"
+  },
+  {
+    "id": 101,
+    "question": "Which part of the digestive system is the main site of nutrient absorption?",
+    "options": [
+      "Mouth",
+      "Stomach",
+      "Small intestine",
+      "Rectum"
+    ],
+    "answer": "Small intestine"
+  },
+  {
+    "id": 102,
+    "question": "The three sections of the small intestine are:",
+    "options": [
+      "Duodenum, jejunum, ileum",
+      "Colon, rectum, anus",
+      "Mouth, stomach, ileum",
+      "Trachea, stomach, colon"
+    ],
+    "answer": "Duodenum, jejunum, ileum"
+  },
+  {
+    "id": 103,
+    "question": "What is the function of villi?",
+    "options": [
+      "Produce bile",
+      "Increase surface area for absorption",
+      "Store nutrients",
+      "Digest proteins"
+    ],
+    "answer": "Increase surface area for absorption"
+  },
+  {
+    "id": 104,
+    "question": "What are microvilli?",
+    "options": [
+      "Microscopic projections on epithelial cells",
+      "Blood vessels in villi",
+      "Digestive enzymes",
+      "Bacteria in the colon"
+    ],
+    "answer": "Microscopic projections on epithelial cells"
+  },
+  {
+    "id": 105,
+    "question": "Why are microvilli important?",
+    "options": [
+      "They neutralize stomach acid",
+      "They form bile",
+      "They further increase absorptive surface area",
+      "They move food by peristalsis"
+    ],
+    "answer": "They further increase absorptive surface area"
+  },
+  {
+    "id": 106,
+    "question": "What is the major function of the large intestine?",
+    "options": [
+      "Protein digestion",
+      "Water reabsorption",
+      "Lipid digestion",
+      "Bile production"
+    ],
+    "answer": "Water reabsorption"
+  },
+  {
+    "id": 107,
+    "question": "The large intestine contains bacteria that:",
+    "options": [
+      "Produce some vitamins",
+      "Produce oxygen",
+      "Digest bone",
+      "Destroy villi"
+    ],
+    "answer": "Produce some vitamins"
+  },
+  {
+    "id": 108,
+    "question": "Where are feces stored before elimination?",
+    "options": [
+      "Duodenum",
+      "Colon",
+      "Rectum",
+      "Ileum"
+    ],
+    "answer": "Rectum"
+  },
+  {
+    "id": 109,
+    "question": "Which organ stores bile?",
+    "options": [
+      "Pancreas",
+      "Gallbladder",
+      "Stomach",
+      "Kidney"
+    ],
+    "answer": "Gallbladder"
+  },
+  {
+    "id": 110,
+    "question": "Which organ produces bile?",
+    "options": [
+      "Gallbladder",
+      "Pancreas",
+      "Liver",
+      "Stomach"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "id": 111,
+    "question": "Which organ secretes digestive enzymes and alkaline secretions into the small intestine?",
+    "options": [
+      "Pancreas",
+      "Liver",
+      "Gallbladder",
+      "Esophagus"
+    ],
+    "answer": "Pancreas"
+  },
+  {
+    "id": 112,
+    "question": "Which of the following is an accessory digestive organ?",
+    "options": [
+      "Esophagus",
+      "Liver",
+      "Rectum",
+      "Ileum"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "id": 113,
+    "question": "What is celiac disease?",
+    "options": [
+      "An intestinal disorder triggered by gluten",
+      "Inflammation of the stomach lining",
+      "Failure of bile production",
+      "A heart disorder"
+    ],
+    "answer": "An intestinal disorder triggered by gluten"
+  },
+  {
+    "id": 114,
+    "question": "Which digestive organ is affected in celiac disease?",
+    "options": [
+      "Small intestine",
+      "Liver",
+      "Esophagus",
+      "Pancreas"
+    ],
+    "answer": "Small intestine"
+  },
+  {
+    "id": 115,
+    "question": "Diverticulitis primarily affects the:",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Pancreas"
+    ],
+    "answer": "Large intestine"
+  },
+  {
+    "id": 116,
+    "question": "GERD stands for:",
+    "options": [
+      "General Enzyme Regulation Disorder",
+      "Gastroesophageal Reflux Disease",
+      "Gastric Enzyme Response Deficiency",
+      "Glandular Esophageal Reaction Disease"
+    ],
+    "answer": "Gastroesophageal Reflux Disease"
+  },
+  {
+    "id": 117,
+    "question": "GERD occurs when:",
+    "options": [
+      "Food enters the trachea",
+      "Stomach contents reflux into the esophagus",
+      "The pancreas stops producing enzymes",
+      "Bile enters the lungs"
+    ],
+    "answer": "Stomach contents reflux into the esophagus"
+  },
+  {
+    "id": 118,
+    "question": "Heartburn is commonly associated with:",
+    "options": [
+      "GERD",
+      "Celiac disease",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "answer": "GERD"
+  },
+  {
+    "id": 119,
+    "question": "Why is digestion not limited to the stomach?",
+    "options": [
+      "Digestive processes occur throughout the alimentary canal",
+      "The stomach lacks enzymes",
+      "The stomach does not receive food",
+      "Only the liver digests food"
+    ],
+    "answer": "Digestive processes occur throughout the alimentary canal"
+  },
+  {
+    "id": 120,
+    "question": "Which statement best summarizes the role of the small intestine?",
+    "options": [
+      "It stores feces",
+      "It is the primary site of digestion and absorption",
+      "It produces red blood cells",
+      "It pumps digestive juices through the body"
+    ],
+    "answer": "It is the primary site of digestion and absorption"
+  },
+
+  
+  {
+    "id": 121,
+    "question": "What is haemoglobin?",
+    "options": [
+      "A globular protein that transports oxygen",
+      "A digestive enzyme",
+      "A lipid found in plasma",
+      "A hormone produced by the lungs"
+    ],
+    "answer": "A globular protein that transports oxygen"
+  },
+  {
+    "id": 122,
+    "question": "In which cells is haemoglobin found?",
+    "options": [
+      "Platelets",
+      "White blood cells",
+      "Red blood cells",
+      "Neurons"
+    ],
+    "answer": "Red blood cells"
+  },
+  {
+    "id": 123,
+    "question": "Haemoglobin is classified as a:",
+    "options": [
+      "Structural polysaccharide",
+      "Globular protein",
+      "Phospholipid",
+      "Simple sugar"
+    ],
+    "answer": "Globular protein"
+  },
+  {
+    "id": 124,
+    "question": "What level of protein structure does haemoglobin possess?",
+    "options": [
+      "Primary only",
+      "Secondary only",
+      "Tertiary only",
+      "Quaternary"
+    ],
+    "answer": "Quaternary"
+  },
+  {
+    "id": 125,
+    "question": "How many polypeptide chains are present in a haemoglobin molecule?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 126,
+    "question": "Each polypeptide chain in haemoglobin contains a:",
+    "options": [
+      "Mitochondrion",
+      "Peptide bond",
+      "Haem group",
+      "Ribosome"
+    ],
+    "answer": "Haem group"
+  },
+  {
+    "id": 127,
+    "question": "What is the function of the haem group?",
+    "options": [
+      "Stores glucose",
+      "Binds oxygen",
+      "Produces ATP",
+      "Digests proteins"
+    ],
+    "answer": "Binds oxygen"
+  },
+  {
+    "id": 128,
+    "question": "How many oxygen molecules can one haemoglobin molecule carry?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "8"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 129,
+    "question": "What is oxyhaemoglobin?",
+    "options": [
+      "Haemoglobin bound to oxygen",
+      "Carbon dioxide bound to haemoglobin",
+      "Iron-free haemoglobin",
+      "A degraded form of haemoglobin"
+    ],
+    "answer": "Haemoglobin bound to oxygen"
+  },
+  {
+    "id": 130,
+    "question": "The main role of haemoglobin is to transport:",
+    "options": [
+      "Glucose",
+      "Amino acids",
+      "Oxygen",
+      "Hormones"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "id": 131,
+    "question": "Oxygen loading refers to:",
+    "options": [
+      "The release of oxygen from tissues",
+      "The binding of oxygen to haemoglobin",
+      "The production of oxygen",
+      "The destruction of red blood cells"
+    ],
+    "answer": "The binding of oxygen to haemoglobin"
+  },
+  {
+    "id": 132,
+    "question": "Where does oxygen loading primarily occur?",
+    "options": [
+      "Liver",
+      "Kidneys",
+      "Lungs",
+      "Muscles"
+    ],
+    "answer": "Lungs"
+  },
+  {
+    "id": 133,
+    "question": "Oxygen unloading refers to:",
+    "options": [
+      "Binding oxygen in the lungs",
+      "Releasing oxygen from haemoglobin",
+      "Producing oxygen in tissues",
+      "Removing oxygen from the atmosphere"
+    ],
+    "answer": "Releasing oxygen from haemoglobin"
+  },
+  {
+    "id": 134,
+    "question": "Where does oxygen unloading mainly occur?",
+    "options": [
+      "Respiring tissues",
+      "Bronchi",
+      "Alveoli",
+      "Heart valves"
+    ],
+    "answer": "Respiring tissues"
+  },
+  {
+    "id": 135,
+    "question": "What is meant by oxygen affinity?",
+    "options": [
+      "The ability of haemoglobin to bind oxygen",
+      "The rate of oxygen production",
+      "The amount of iron in blood",
+      "The concentration of oxygen in air"
+    ],
+    "answer": "The ability of haemoglobin to bind oxygen"
+  },
+  {
+    "id": 136,
+    "question": "Which factor increases haemoglobin's affinity for oxygen?",
+    "options": [
+      "High carbon dioxide concentration",
+      "Low pH",
+      "High oxygen partial pressure",
+      "High temperature only"
+    ],
+    "answer": "High oxygen partial pressure"
+  },
+  {
+    "id": 137,
+    "question": "As oxygen partial pressure increases, haemoglobin:",
+    "options": [
+      "Binds oxygen more readily",
+      "Releases oxygen more readily",
+      "Denatures",
+      "Stops functioning"
+    ],
+    "answer": "Binds oxygen more readily"
+  },
+  {
+    "id": 138,
+    "question": "Low oxygen partial pressure promotes:",
+    "options": [
+      "Oxygen loading",
+      "Oxygen release",
+      "Protein synthesis",
+      "Blood clotting"
+    ],
+    "answer": "Oxygen release"
+  },
+  {
+    "id": 139,
+    "question": "Which molecule is largely responsible for the Bohr effect?",
+    "options": [
+      "Glucose",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Cholesterol"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 140,
+    "question": "An increase in carbon dioxide concentration causes haemoglobin to:",
+    "options": [
+      "Increase oxygen affinity",
+      "Decrease oxygen affinity",
+      "Produce oxygen",
+      "Bind glucose"
+    ],
+    "answer": "Decrease oxygen affinity"
+  },
+  {
+    "id": 141,
+    "question": "Why does increased carbon dioxide reduce oxygen affinity?",
+    "options": [
+      "It raises blood pH",
+      "It changes haemoglobin shape",
+      "It destroys haem groups",
+      "It decreases blood volume"
+    ],
+    "answer": "It changes haemoglobin shape"
+  },
+  {
+    "id": 142,
+    "question": "The Bohr effect describes:",
+    "options": [
+      "Cooperative oxygen binding",
+      "The effect of carbon dioxide on oxygen dissociation",
+      "Oxygen production in the lungs",
+      "The formation of red blood cells"
+    ],
+    "answer": "The effect of carbon dioxide on oxygen dissociation"
+  },
+  {
+    "id": 143,
+    "question": "The Bohr effect helps deliver oxygen to:",
+    "options": [
+      "Actively respiring tissues",
+      "Inactive tissues only",
+      "The atmosphere",
+      "The digestive tract"
+    ],
+    "answer": "Actively respiring tissues"
+  },
+  {
+    "id": 144,
+    "question": "High carbon dioxide concentration is typically found in:",
+    "options": [
+      "The atmosphere",
+      "Respiring tissues",
+      "Inspired air",
+      "The nasal cavity"
+    ],
+    "answer": "Respiring tissues"
+  },
+  {
+    "id": 145,
+    "question": "What is positive cooperativity?",
+    "options": [
+      "One oxygen molecule binding makes further oxygen binding easier",
+      "All oxygen molecules bind simultaneously",
+      "Oxygen binding becomes progressively harder",
+      "Carbon dioxide binding increases"
+    ],
+    "answer": "One oxygen molecule binding makes further oxygen binding easier"
+  },
+  {
+    "id": 146,
+    "question": "Why is the first oxygen molecule relatively difficult to bind?",
+    "options": [
+      "Haemoglobin initially has lower affinity",
+      "There are no haem groups available",
+      "Iron is absent",
+      "Oxygen cannot diffuse into blood"
+    ],
+    "answer": "Haemoglobin initially has lower affinity"
+  },
+  {
+    "id": 147,
+    "question": "After the first oxygen molecule binds, haemoglobin:",
+    "options": [
+      "Changes shape",
+      "Breaks apart",
+      "Releases iron",
+      "Stops functioning"
+    ],
+    "answer": "Changes shape"
+  },
+  {
+    "id": 148,
+    "question": "Positive cooperativity makes binding of subsequent oxygen molecules:",
+    "options": [
+      "More difficult",
+      "Impossible",
+      "Easier",
+      "Unnecessary"
+    ],
+    "answer": "Easier"
+  },
+  {
+    "id": 149,
+    "question": "Why is the fourth oxygen molecule slightly harder to bind?",
+    "options": [
+      "Haemoglobin becomes unstable",
+      "Fewer empty binding sites remain",
+      "Iron concentration falls",
+      "Carbon dioxide blocks all sites"
+    ],
+    "answer": "Fewer empty binding sites remain"
+  },
+  {
+    "id": 150,
+    "question": "Cooperative binding contributes to the shape of the:",
+    "options": [
+      "Cardiac cycle graph",
+      "Dissociation curve",
+      "Spirometer trace",
+      "ECG trace"
+    ],
+    "answer": "Dissociation curve"
+  },
+  {
+    "id": 151,
+    "question": "Why does oxygen bind efficiently in the lungs?",
+    "options": [
+      "High oxygen and low carbon dioxide concentrations",
+      "Low oxygen concentration",
+      "High carbon dioxide concentration",
+      "Absence of haemoglobin"
+    ],
+    "answer": "High oxygen and low carbon dioxide concentrations"
+  },
+  {
+    "id": 152,
+    "question": "Why is oxygen released efficiently in tissues?",
+    "options": [
+      "High oxygen concentrations",
+      "High carbon dioxide and low oxygen concentrations",
+      "Low carbon dioxide concentrations",
+      "Lack of blood supply"
+    ],
+    "answer": "High carbon dioxide and low oxygen concentrations"
+  },
+  {
+    "id": 153,
+    "question": "An oxyhaemoglobin dissociation curve plots haemoglobin saturation against:",
+    "options": [
+      "Heart rate",
+      "Blood pressure",
+      "Oxygen partial pressure",
+      "Blood glucose"
+    ],
+    "answer": "Oxygen partial pressure"
+  },
+  {
+    "id": 154,
+    "question": "The vertical axis of an oxyhaemoglobin dissociation curve shows:",
+    "options": [
+      "Hemoglobin saturation percentage",
+      "Carbon dioxide concentration",
+      "Blood pH",
+      "Heart rate"
+    ],
+    "answer": "Hemoglobin saturation percentage"
+  },
+  {
+    "id": 155,
+    "question": "The horizontal axis of an oxyhaemoglobin dissociation curve shows:",
+    "options": [
+      "Oxygen partial pressure",
+      "Blood volume",
+      "Respiratory rate",
+      "Temperature"
+    ],
+    "answer": "Oxygen partial pressure"
+  },
+  {
+    "id": 156,
+    "question": "Why is the oxyhaemoglobin dissociation curve S-shaped?",
+    "options": [
+      "Because of cooperative binding",
+      "Because oxygen never dissociates",
+      "Because blood pressure changes",
+      "Because carbon dioxide is absent"
+    ],
+    "answer": "Because of cooperative binding"
+  },
+  {
+    "id": 157,
+    "question": "A curve shifted to the left indicates:",
+    "options": [
+      "Lower oxygen affinity",
+      "Higher oxygen affinity",
+      "Lower haemoglobin concentration",
+      "No oxygen transport"
+    ],
+    "answer": "Higher oxygen affinity"
+  },
+  {
+    "id": 158,
+    "question": "A curve shifted to the right indicates:",
+    "options": [
+      "Higher oxygen affinity",
+      "No effect on affinity",
+      "Lower oxygen affinity",
+      "Increased blood volume"
+    ],
+    "answer": "Lower oxygen affinity"
+  },
+  {
+    "id": 159,
+    "question": "Increasing carbon dioxide concentration causes the dissociation curve to shift:",
+    "options": [
+      "Right",
+      "Left",
+      "Upward only",
+      "Downward only"
+    ],
+    "answer": "Right"
+  },
+  {
+    "id": 160,
+    "question": "Why does a rightward shift benefit active tissues?",
+    "options": [
+      "It promotes oxygen release",
+      "It increases oxygen storage",
+      "It prevents oxygen transport",
+      "It decreases blood flow"
+    ],
+    "answer": "It promotes oxygen release"
+  },
+  {
+    "id": 161,
+    "question": "What does haemoglobin saturation mean?",
+    "options": [
+      "Percentage of oxygen-binding sites occupied",
+      "Number of red blood cells",
+      "Amount of plasma present",
+      "Blood pressure level"
+    ],
+    "answer": "Percentage of oxygen-binding sites occupied"
+  },
+  {
+    "id": 162,
+    "question": "The plateau region of the dissociation curve indicates:",
+    "options": [
+      "Haemoglobin is approaching full saturation",
+      "Oxygen cannot bind",
+      "Carbon dioxide is increasing",
+      "Blood pressure is decreasing"
+    ],
+    "answer": "Haemoglobin is approaching full saturation"
+  },
+  {
+    "id": 163,
+    "question": "What is the significance of the plateau region?",
+    "options": [
+      "Small decreases in oxygen partial pressure have little effect on saturation",
+      "Oxygen is rapidly unloaded",
+      "Blood stops flowing",
+      "Haemoglobin denatures"
+    ],
+    "answer": "Small decreases in oxygen partial pressure have little effect on saturation"
+  },
+  {
+    "id": 164,
+    "question": "The steep middle section of the curve represents:",
+    "options": [
+      "Rapid changes in saturation with small changes in oxygen pressure",
+      "No oxygen binding",
+      "Complete saturation",
+      "Carbon dioxide absorption"
+    ],
+    "answer": "Rapid changes in saturation with small changes in oxygen pressure"
+  },
+  {
+    "id": 165,
+    "question": "Iron is important in haemoglobin because:",
+    "options": [
+      "It binds oxygen",
+      "It carries glucose",
+      "It forms plasma",
+      "It produces carbon dioxide"
+    ],
+    "answer": "It binds oxygen"
+  },
+  {
+    "id": 166,
+    "question": "The haem group contains:",
+    "options": [
+      "Calcium",
+      "Sodium",
+      "Iron",
+      "Potassium"
+    ],
+    "answer": "Iron"
+  },
+  {
+    "id": 167,
+    "question": "Which factor does NOT directly affect oxygen-haemoglobin binding according to the specification?",
+    "options": [
+      "Oxygen partial pressure",
+      "Carbon dioxide concentration",
+      "Haemoglobin saturation",
+      "Blood cholesterol concentration"
+    ],
+    "answer": "Blood cholesterol concentration"
+  },
+  {
+    "id": 168,
+    "question": "Low carbon dioxide concentration in the lungs causes haemoglobin affinity to:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Disappear",
+      "Remain zero"
+    ],
+    "answer": "Increase"
+  },
+  {
+    "id": 169,
+    "question": "Respiration in tissues tends to:",
+    "options": [
+      "Increase carbon dioxide concentration",
+      "Decrease oxygen demand",
+      "Prevent oxygen release",
+      "Stop blood flow"
+    ],
+    "answer": "Increase carbon dioxide concentration"
+  },
+  {
+    "id": 170,
+    "question": "Why is haemoglobin essential in multicellular organisms?",
+    "options": [
+      "Diffusion alone is insufficient for oxygen supply",
+      "Cells produce oxygen",
+      "Carbon dioxide cannot dissolve in blood",
+      "It digests nutrients"
+    ],
+    "answer": "Diffusion alone is insufficient for oxygen supply"
+  },
+  {
+    "id": 171,
+    "question": "What type of molecule is oxygen transported by in blood?",
+    "options": [
+      "Haemoglobin",
+      "Platelets",
+      "Albumin only",
+      "Insulin"
+    ],
+    "answer": "Haemoglobin"
+  },
+  {
+    "id": 172,
+    "question": "The first oxygen molecule binding to haemoglobin triggers:",
+    "options": [
+      "A conformational change",
+      "Cell division",
+      "Protein degradation",
+      "Plasma formation"
+    ],
+    "answer": "A conformational change"
+  },
+  {
+    "id": 173,
+    "question": "A lower blood pH generally causes haemoglobin to:",
+    "options": [
+      "Hold oxygen more tightly",
+      "Release oxygen more readily",
+      "Increase haem group number",
+      "Become insoluble"
+    ],
+    "answer": "Release oxygen more readily"
+  },
+  {
+    "id": 174,
+    "question": "The Bohr effect is advantageous because it:",
+    "options": [
+      "Improves oxygen delivery where it is most needed",
+      "Prevents oxygen transport",
+      "Stops respiration",
+      "Reduces blood flow to tissues"
+    ],
+    "answer": "Improves oxygen delivery where it is most needed"
+  },
+  {
+    "id": 175,
+    "question": "Hemoglobin with a higher oxygen affinity would have a curve shifted:",
+    "options": [
+      "Left",
+      "Right",
+      "Down",
+      "Vertical"
+    ],
+    "answer": "Left"
+  },
+  {
+    "id": 176,
+    "question": "The lungs are characterized by:",
+    "options": [
+      "High oxygen and low carbon dioxide levels",
+      "Low oxygen and high carbon dioxide levels",
+      "No oxygen",
+      "No carbon dioxide"
+    ],
+    "answer": "High oxygen and low carbon dioxide levels"
+  },
+  {
+    "id": 177,
+    "question": "Respiring tissues are characterized by:",
+    "options": [
+      "High oxygen and low carbon dioxide",
+      "Low oxygen and high carbon dioxide",
+      "No oxygen use",
+      "No carbon dioxide production"
+    ],
+    "answer": "Low oxygen and high carbon dioxide"
+  },
+  {
+    "id": 178,
+    "question": "What percentage of oxygen-binding sites are occupied when haemoglobin is fully saturated?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "answer": "100%"
+  },
+  {
+    "id": 179,
+    "question": "What best explains the efficiency of haemoglobin as an oxygen carrier?",
+    "options": [
+      "Cooperative binding and reversible oxygen association",
+      "Permanent oxygen binding",
+      "Its role as a digestive enzyme",
+      "High lipid content"
+    ],
+    "answer": "Cooperative binding and reversible oxygen association"
+  },
+  {
+    "id": 180,
+    "question": "Which statement best summarizes haemoglobin function?",
+    "options": [
+      "It transports oxygen efficiently between lungs and tissues",
+      "It produces oxygen in red blood cells",
+      "It digests nutrients in plasma",
+      "It generates ATP directly"
+    ],
+    "answer": "It transports oxygen efficiently between lungs and tissues"
+  },
+
+  
+  {
+    "id": 181,
+    "question": "What is the primary function of oxygen transport in mammals?",
+    "options": ["Removal of glucose", "Delivery of oxygen to respiring cells", "Transport of hormones", "Removal of water"],
+    "answer": "Delivery of oxygen to respiring cells"
+  },
+  {
+    "id": 182,
+    "question": "Which blood component is primarily responsible for oxygen transport?",
+    "options": ["Platelets", "Plasma", "White blood cells", "Red blood cells"],
+    "answer": "Red blood cells"
+  },
+  {
+    "id": 183,
+    "question": "What molecule directly binds oxygen in red blood cells?",
+    "options": ["Albumin", "Haemoglobin", "Insulin", "Fibrin"],
+    "answer": "Haemoglobin"
+  },
+  {
+    "id": 184,
+    "question": "Where is oxygen loaded onto haemoglobin?",
+    "options": ["Liver", "Lungs", "Kidneys", "Muscles"],
+    "answer": "Lungs"
+  },
+  {
+    "id": 185,
+    "question": "Where is most oxygen unloaded from haemoglobin?",
+    "options": ["Respiring tissues", "Bronchi", "Trachea", "Nasal cavity"],
+    "answer": "Respiring tissues"
+  },
+  {
+    "id": 186,
+    "question": "What is the term for haemoglobin combined with oxygen?",
+    "options": ["Carbaminohaemoglobin", "Reduced haemoglobin", "Oxyhaemoglobin", "Myoglobin"],
+    "answer": "Oxyhaemoglobin"
+  },
+  {
+    "id": 187,
+    "question": "Which condition favors oxygen loading?",
+    "options": ["High oxygen partial pressure", "High carbon dioxide only", "Low pH", "Low oxygen partial pressure"],
+    "answer": "High oxygen partial pressure"
+  },
+  {
+    "id": 188,
+    "question": "Which condition favors oxygen unloading?",
+    "options": ["Low carbon dioxide", "High oxygen partial pressure", "Low oxygen partial pressure", "Low temperature only"],
+    "answer": "Low oxygen partial pressure"
+  },
+  {
+    "id": 189,
+    "question": "Which gas reduces haemoglobin's affinity for oxygen?",
+    "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Hydrogen"],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 190,
+    "question": "What happens to haemoglobin affinity as carbon dioxide concentration rises?",
+    "options": ["It increases", "It decreases", "It doubles", "It remains fixed"],
+    "answer": "It decreases"
+  },
+  {
+    "id": 191,
+    "question": "The Bohr effect promotes:",
+    "options": ["Oxygen release in active tissues", "Oxygen loading in tissue cells", "Glucose transport", "Blood clotting"],
+    "answer": "Oxygen release in active tissues"
+  },
+  {
+    "id": 192,
+    "question": "Why does increasing carbon dioxide lower blood pH?",
+    "options": ["It forms acidic products", "It removes hydrogen ions", "It destroys proteins", "It produces oxygen"],
+    "answer": "It forms acidic products"
+  },
+  {
+    "id": 193,
+    "question": "What change occurs when the first oxygen molecule binds haemoglobin?",
+    "options": ["Protein degradation", "Shape change", "Cell division", "Iron loss"],
+    "answer": "Shape change"
+  },
+  {
+    "id": 194,
+    "question": "Positive cooperativity means:",
+    "options": ["Oxygen binding becomes easier after the first molecule binds", "All oxygen binds at once", "Oxygen binding becomes impossible", "Carbon dioxide binding increases"],
+    "answer": "Oxygen binding becomes easier after the first molecule binds"
+  },
+  {
+    "id": 195,
+    "question": "Why is oxygen transport by haemoglobin advantageous?",
+    "options": ["Oxygen is insoluble in water", "Oxygen dissolves extremely well in plasma", "Blood contains no plasma", "Tissues produce oxygen"],
+    "answer": "Oxygen is insoluble in water"
+  },
+  {
+    "id": 196,
+    "question": "What percentage saturation represents fully loaded haemoglobin?",
+    "options": ["50%", "75%", "100%", "25%"],
+    "answer": "100%"
+  },
+  {
+    "id": 197,
+    "question": "A left-shifted dissociation curve indicates:",
+    "options": ["Lower affinity", "Higher affinity", "No oxygen transport", "Higher blood pressure"],
+    "answer": "Higher affinity"
+  },
+  {
+    "id": 198,
+    "question": "A right-shifted dissociation curve indicates:",
+    "options": ["Lower affinity", "Higher affinity", "No oxygen unloading", "Protein destruction"],
+    "answer": "Lower affinity"
+  },
+  {
+    "id": 199,
+    "question": "What happens to the dissociation curve during the Bohr effect?",
+    "options": ["Shifts right", "Shifts left", "Disappears", "Becomes linear"],
+    "answer": "Shifts right"
+  },
+  {
+    "id": 200,
+    "question": "Which tissue condition promotes oxygen release?",
+    "options": ["Low metabolic activity", "High carbon dioxide concentration", "Low carbon dioxide concentration", "High oxygen concentration"],
+    "answer": "High carbon dioxide concentration"
+  },
+  {
+    "id": 201,
+    "question": "What is the source of oxygen loaded onto haemoglobin?",
+    "options": ["Plasma proteins", "Atmospheric air in alveoli", "Liver cells", "Muscle glycogen"],
+    "answer": "Atmospheric air in alveoli"
+  },
+  {
+    "id": 202,
+    "question": "Which structure brings oxygen close to red blood cells?",
+    "options": ["Bronchi", "Alveoli", "Trachea", "Larynx"],
+    "answer": "Alveoli"
+  },
+  {
+    "id": 203,
+    "question": "What drives oxygen diffusion into blood at the lungs?",
+    "options": ["Pressure gradient", "Oxygen concentration gradient", "Peristalsis", "Hormones"],
+    "answer": "Oxygen concentration gradient"
+  },
+  {
+    "id": 204,
+    "question": "As tissues consume oxygen, local oxygen partial pressure:",
+    "options": ["Increases", "Decreases", "Remains constant", "Doubles"],
+    "answer": "Decreases"
+  },
+  {
+    "id": 205,
+    "question": "Which factor directly encourages oxygen unloading?",
+    "options": ["Low oxygen partial pressure", "Low carbon dioxide", "High pH only", "Low temperature"],
+    "answer": "Low oxygen partial pressure"
+  },
+  {
+    "id": 206,
+    "question": "The steep portion of the dissociation curve indicates:",
+    "options": ["Rapid changes in saturation", "No oxygen binding", "Full saturation only", "Low haemoglobin concentration"],
+    "answer": "Rapid changes in saturation"
+  },
+  {
+    "id": 207,
+    "question": "Why is the plateau region useful physiologically?",
+    "options": ["Haemoglobin remains highly saturated despite modest drops in oxygen pressure", "Oxygen transport stops", "Carbon dioxide cannot bind", "Iron is removed"],
+    "answer": "Haemoglobin remains highly saturated despite modest drops in oxygen pressure"
+  },
+  {
+    "id": 208,
+    "question": "Which organ system works most closely with oxygen transport?",
+    "options": ["Digestive", "Respiratory", "Reproductive", "Endocrine"],
+    "answer": "Respiratory"
+  },
+  {
+    "id": 209,
+    "question": "Which blood vessel returns oxygenated blood from the lungs?",
+    "options": ["Pulmonary vein", "Pulmonary artery", "Vena cava", "Aorta"],
+    "answer": "Pulmonary vein"
+  },
+  {
+    "id": 210,
+    "question": "Which vessel carries deoxygenated blood to the lungs?",
+    "options": ["Aorta", "Pulmonary artery", "Pulmonary vein", "Coronary artery"],
+    "answer": "Pulmonary artery"
+  },
+  {
+    "id": 211,
+    "question": "What is haemoglobin saturation?",
+    "options": ["Percentage of oxygen-binding sites occupied", "Number of red blood cells", "Volume of plasma", "Blood pressure"],
+    "answer": "Percentage of oxygen-binding sites occupied"
+  },
+  {
+    "id": 212,
+    "question": "Which element enables oxygen binding in haemoglobin?",
+    "options": ["Sodium", "Calcium", "Iron", "Potassium"],
+    "answer": "Iron"
+  },
+  {
+    "id": 213,
+    "question": "One haemoglobin molecule contains how many haem groups?",
+    "options": ["1", "2", "4", "8"],
+    "answer": "4"
+  },
+  {
+    "id": 214,
+    "question": "High oxygen affinity means haemoglobin will:",
+    "options": ["Bind oxygen readily", "Never bind oxygen", "Release oxygen instantly", "Destroy oxygen"],
+    "answer": "Bind oxygen readily"
+  },
+  {
+    "id": 215,
+    "question": "Exercising muscles typically have:",
+    "options": ["Low carbon dioxide", "High oxygen", "High carbon dioxide", "No respiration"],
+    "answer": "High carbon dioxide"
+  },
+  {
+    "id": 216,
+    "question": "What effect does exercise have on oxygen demand?",
+    "options": ["Decreases it", "Eliminates it", "Increases it", "No effect"],
+    "answer": "Increases it"
+  },
+  {
+    "id": 217,
+    "question": "Why is oxygen unloading important?",
+    "options": ["Cells require oxygen for aerobic respiration", "Cells require oxygen to make bile", "Cells require oxygen to digest proteins", "Cells store oxygen permanently"],
+    "answer": "Cells require oxygen for aerobic respiration"
+  },
+  {
+    "id": 218,
+    "question": "ATP production is most directly dependent upon:",
+    "options": ["Oxygen delivery to tissues", "Bile secretion", "Mucus production", "Co-transport"],
+    "answer": "Oxygen delivery to tissues"
+  },
+  {
+    "id": 219,
+    "question": "Where is haemoglobin synthesized?",
+    "options": ["Developing red blood cells", "Alveoli", "Kidney tubules", "Villi"],
+    "answer": "Developing red blood cells"
+  },
+  {
+    "id": 220,
+    "question": "Which blood cells lack haemoglobin?",
+    "options": ["White blood cells", "Red blood cells", "Erythrocytes", "Reticulocytes"],
+    "answer": "White blood cells"
+  },
+  {
+    "id": 221,
+    "question": "Oxygen transport becomes more difficult if haemoglobin levels fall because:",
+    "options": ["Less oxygen can be carried", "More oxygen is produced", "Carbon dioxide disappears", "Plasma volume doubles"],
+    "answer": "Less oxygen can be carried"
+  },
+  {
+    "id": 222,
+    "question": "Which condition would shift the dissociation curve to the right?",
+    "options": ["Higher carbon dioxide concentration", "Lower carbon dioxide concentration", "Higher oxygen affinity", "Lower temperature only"],
+    "answer": "Higher carbon dioxide concentration"
+  },
+  {
+    "id": 223,
+    "question": "Which condition would shift the dissociation curve to the left?",
+    "options": ["Lower carbon dioxide concentration", "Higher carbon dioxide concentration", "Lower oxygen affinity", "Increased tissue respiration"],
+    "answer": "Lower carbon dioxide concentration"
+  },
+  {
+    "id": 224,
+    "question": "What happens to haemoglobin affinity in acidic conditions?",
+    "options": ["It decreases", "It increases greatly", "It becomes zero", "It is unchanged"],
+    "answer": "It decreases"
+  },
+  {
+    "id": 225,
+    "question": "Respiring tissues generate carbon dioxide through:",
+    "options": ["Aerobic respiration", "Filtration", "Diffusion", "Coagulation"],
+    "answer": "Aerobic respiration"
+  },
+  {
+    "id": 226,
+    "question": "Which process loads oxygen onto haemoglobin?",
+    "options": ["Diffusion from alveoli into blood", "Peristalsis", "Ultrafiltration", "Active transport"],
+    "answer": "Diffusion from alveoli into blood"
+  },
+  {
+    "id": 227,
+    "question": "Which process unloads oxygen from haemoglobin?",
+    "options": ["Diffusion into respiring cells", "Digestion", "Ventilation", "Filtration"],
+    "answer": "Diffusion into respiring cells"
+  },
+  {
+    "id": 228,
+    "question": "What is the main determinant of oxygen loading in the lungs?",
+    "options": ["High oxygen partial pressure", "High blood glucose", "High cholesterol", "High sodium concentration"],
+    "answer": "High oxygen partial pressure"
+  },
+  {
+    "id": 229,
+    "question": "Carbon dioxide concentration is usually lowest in the:",
+    "options": ["Lungs", "Exercise muscles", "Active tissues", "Mitochondria"],
+    "answer": "Lungs"
+  },
+  {
+    "id": 230,
+    "question": "Which statement best describes reversible oxygen binding?",
+    "options": ["Haemoglobin can both load and unload oxygen", "Haemoglobin binds oxygen permanently", "Oxygen transport stops in tissues", "Oxygen cannot leave blood"],
+    "answer": "Haemoglobin can both load and unload oxygen"
+  },
+  {
+    "id": 231,
+    "question": "Why is cooperative binding beneficial?",
+    "options": ["It improves oxygen uptake and release", "It prevents oxygen transport", "It decreases affinity everywhere", "It removes iron"],
+    "answer": "It improves oxygen uptake and release"
+  },
+  {
+    "id": 232,
+    "question": "Which tissue is most likely to receive large amounts of oxygen?",
+    "options": ["Actively respiring muscle", "Dead tissue", "Hair", "Nails"],
+    "answer": "Actively respiring muscle"
+  },
+  {
+    "id": 233,
+    "question": "The oxygen carried by haemoglobin is ultimately used for:",
+    "options": ["ATP synthesis", "Bile production", "Protein digestion", "Mucus secretion"],
+    "answer": "ATP synthesis"
+  },
+  {
+    "id": 234,
+    "question": "What effect does high metabolic activity have on oxygen unloading?",
+    "options": ["Increases oxygen unloading", "Stops oxygen unloading", "Has no effect", "Increases oxygen loading"],
+    "answer": "Increases oxygen unloading"
+  },
+  {
+    "id": 235,
+    "question": "Which feature of haemoglobin makes transport efficient?",
+    "options": ["Four oxygen-binding sites", "Absence of iron", "Lack of protein structure", "Permanent oxygen binding"],
+    "answer": "Four oxygen-binding sites"
+  },
+  {
+    "id": 236,
+    "question": "What is the ultimate destination of oxygen after leaving haemoglobin?",
+    "options": ["Body cells", "The stomach", "The liver only", "The bloodstream"],
+    "answer": "Body cells"
+  },
+  {
+    "id": 237,
+    "question": "The term oxygen dissociation refers to:",
+    "options": ["Oxygen separating from haemoglobin", "Oxygen entering haemoglobin", "Carbon dioxide binding", "Iron release"],
+    "answer": "Oxygen separating from haemoglobin"
+  },
+  {
+    "id": 238,
+    "question": "Haemoglobin contributes to homeostasis by:",
+    "options": ["Ensuring adequate oxygen delivery", "Digesting food", "Producing hormones", "Filtering blood"],
+    "answer": "Ensuring adequate oxygen delivery"
+  },
+  {
+    "id": 239,
+    "question": "Why are mammals dependent on oxygen transport systems?",
+    "options": ["Diffusion alone is insufficient over long distances", "Their cells produce excess oxygen", "Blood cannot carry gases", "Oxygen is toxic to tissues"],
+    "answer": "Diffusion alone is insufficient over long distances"
+  },
+  {
+    "id": 240,
+    "question": "Which statement best summarizes oxygen transport?",
+    "options": ["Haemoglobin loads oxygen in the lungs and unloads it in respiring tissues", "Oxygen is transported exclusively in plasma", "Carbon dioxide loads in the lungs", "Oxygen transport occurs only in arteries"],
+    "answer": "Haemoglobin loads oxygen in the lungs and unloads it in respiring tissues"
+  },
+
+
+  {
+    "id": 241,
+    "question": "What is the primary function of the circulatory system?",
+    "options": [
+      "To transport substances around the body",
+      "To digest food",
+      "To produce oxygen",
+      "To regulate gene expression"
+    ],
+    "answer": "To transport substances around the body"
+  },
+  {
+    "id": 242,
+    "question": "Which substance is transported by the circulatory system?",
+    "options": [
+      "Oxygen",
+      "Hormones",
+      "Glucose",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 243,
+    "question": "Which component makes up most of blood volume?",
+    "options": [
+      "Platelets",
+      "White blood cells",
+      "Plasma",
+      "Red blood cells"
+    ],
+    "answer": "Plasma"
+  },
+  {
+    "id": 244,
+    "question": "Which blood cells transport oxygen?",
+    "options": [
+      "Platelets",
+      "Red blood cells",
+      "White blood cells",
+      "Lymphocytes"
+    ],
+    "answer": "Red blood cells"
+  },
+  {
+    "id": 245,
+    "question": "What is the primary function of platelets?",
+    "options": [
+      "Transport oxygen",
+      "Fight infection",
+      "Blood clotting",
+      "Transport hormones"
+    ],
+    "answer": "Blood clotting"
+  },
+  {
+    "id": 246,
+    "question": "Which blood cells are primarily involved in fighting infection?",
+    "options": [
+      "Red blood cells",
+      "Platelets",
+      "White blood cells",
+      "Plasma cells"
+    ],
+    "answer": "White blood cells"
+  },
+  {
+    "id": 247,
+    "question": "The heart is best described as:",
+    "options": [
+      "A single pump",
+      "A double pump",
+      "A filtration organ",
+      "A gas exchange organ"
+    ],
+    "answer": "A double pump"
+  },
+  {
+    "id": 248,
+    "question": "How many chambers does the human heart contain?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Four"
+  },
+  {
+    "id": 249,
+    "question": "Which chamber receives oxygenated blood from the lungs?",
+    "options": [
+      "Right ventricle",
+      "Left atrium",
+      "Right atrium",
+      "Left ventricle"
+    ],
+    "answer": "Left atrium"
+  },
+  {
+    "id": 250,
+    "question": "Which chamber pumps oxygenated blood around the body?",
+    "options": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "answer": "Left ventricle"
+  },
+  {
+    "id": 251,
+    "question": "Why is the wall of the left ventricle thicker than that of the right ventricle?",
+    "options": [
+      "It receives more blood",
+      "It pumps blood to the entire body",
+      "It contains more valves",
+      "It pumps blood to the lungs"
+    ],
+    "answer": "It pumps blood to the entire body"
+  },
+  {
+    "id": 252,
+    "question": "Which chamber pumps blood to the lungs?",
+    "options": [
+      "Left ventricle",
+      "Left atrium",
+      "Right ventricle",
+      "Right atrium"
+    ],
+    "answer": "Right ventricle"
+  },
+  {
+    "id": 253,
+    "question": "The function of heart valves is to:",
+    "options": [
+      "Increase blood pressure",
+      "Prevent backflow of blood",
+      "Produce electrical impulses",
+      "Filter blood"
+    ],
+    "answer": "Prevent backflow of blood"
+  },
+  {
+    "id": 254,
+    "question": "Which valve is located between the right atrium and right ventricle?",
+    "options": [
+      "Bicuspid valve",
+      "Aortic valve",
+      "Pulmonary valve",
+      "Tricuspid valve"
+    ],
+    "answer": "Tricuspid valve"
+  },
+  {
+    "id": 255,
+    "question": "Which valve is located between the left atrium and left ventricle?",
+    "options": [
+      "Tricuspid valve",
+      "Pulmonary valve",
+      "Bicuspid (mitral) valve",
+      "Aortic valve"
+    ],
+    "answer": "Bicuspid (mitral) valve"
+  },
+  {
+    "id": 256,
+    "question": "The pulmonary artery carries:",
+    "options": [
+      "Oxygenated blood to the lungs",
+      "Deoxygenated blood to the lungs",
+      "Oxygenated blood to the body",
+      "Deoxygenated blood to the body"
+    ],
+    "answer": "Deoxygenated blood to the lungs"
+  },
+  {
+    "id": 257,
+    "question": "The pulmonary vein carries:",
+    "options": [
+      "Deoxygenated blood to the lungs",
+      "Oxygenated blood from the lungs",
+      "Deoxygenated blood from the body",
+      "Blood to the coronary circulation"
+    ],
+    "answer": "Oxygenated blood from the lungs"
+  },
+  {
+    "id": 258,
+    "question": "Which vessel carries oxygenated blood from the left ventricle?",
+    "options": [
+      "Pulmonary artery",
+      "Vena cava",
+      "Aorta",
+      "Pulmonary vein"
+    ],
+    "answer": "Aorta"
+  },
+  {
+    "id": 259,
+    "question": "Which vessel returns deoxygenated blood from the body to the heart?",
+    "options": [
+      "Pulmonary vein",
+      "Aorta",
+      "Vena cava",
+      "Coronary artery"
+    ],
+    "answer": "Vena cava"
+  },
+  {
+    "id": 260,
+    "question": "Which sequence correctly describes blood flow?",
+    "options": [
+      "Right atrium → right ventricle → lungs → left atrium → left ventricle",
+      "Left ventricle → lungs → right atrium",
+      "Right ventricle → left ventricle → lungs",
+      "Left atrium → vena cava → body"
+    ],
+    "answer": "Right atrium → right ventricle → lungs → left atrium → left ventricle"
+  },
+  {
+    "id": 261,
+    "question": "What is cardiac diastole?",
+    "options": [
+      "Relaxation phase of the heart",
+      "Contraction of ventricles",
+      "Contraction of atria",
+      "Electrical stimulation of the SAN"
+    ],
+    "answer": "Relaxation phase of the heart"
+  },
+  {
+    "id": 262,
+    "question": "What occurs during atrial systole?",
+    "options": [
+      "Ventricles relax",
+      "Atria contract",
+      "Semilunar valves close",
+      "Blood leaves the aorta"
+    ],
+    "answer": "Atria contract"
+  },
+  {
+    "id": 263,
+    "question": "What occurs during ventricular systole?",
+    "options": [
+      "Atria fill with blood",
+      "Heart relaxes",
+      "Ventricles contract",
+      "Pulmonary veins empty"
+    ],
+    "answer": "Ventricles contract"
+  },
+  {
+    "id": 264,
+    "question": "Why do atrioventricular valves close during ventricular systole?",
+    "options": [
+      "To prevent blood entering arteries",
+      "To prevent backflow into atria",
+      "To lower blood pressure",
+      "To increase heart rate"
+    ],
+    "answer": "To prevent backflow into atria"
+  },
+  {
+    "id": 265,
+    "question": "Semilunar valves open when:",
+    "options": [
+      "Atrial pressure exceeds ventricular pressure",
+      "Ventricular pressure exceeds arterial pressure",
+      "Blood enters the atria",
+      "The heart relaxes"
+    ],
+    "answer": "Ventricular pressure exceeds arterial pressure"
+  },
+  {
+    "id": 266,
+    "question": "Arteries carry blood:",
+    "options": [
+      "Toward the heart",
+      "Away from the heart",
+      "Only oxygenated blood",
+      "Only deoxygenated blood"
+    ],
+    "answer": "Away from the heart"
+  },
+  {
+    "id": 267,
+    "question": "Why do arteries have thick muscular walls?",
+    "options": [
+      "To withstand high pressure",
+      "To absorb nutrients",
+      "To allow diffusion",
+      "To contain valves"
+    ],
+    "answer": "To withstand high pressure"
+  },
+  {
+    "id": 268,
+    "question": "Which blood vessels contain valves?",
+    "options": [
+      "Capillaries",
+      "Arteries",
+      "Veins",
+      "Arterioles"
+    ],
+    "answer": "Veins"
+  },
+  {
+    "id": 269,
+    "question": "Why do veins contain valves?",
+    "options": [
+      "To maintain high pressure",
+      "To aid gas exchange",
+      "To prevent backflow",
+      "To increase diffusion"
+    ],
+    "answer": "To prevent backflow"
+  },
+  {
+    "id": 270,
+    "question": "Capillary walls are:",
+    "options": [
+      "Several cells thick",
+      "One cell thick",
+      "Muscular",
+      "Elastic"
+    ],
+    "answer": "One cell thick"
+  },
+  {
+    "id": 271,
+    "question": "Why are capillary walls one cell thick?",
+    "options": [
+      "To increase blood pressure",
+      "To allow rapid diffusion",
+      "To contain valves",
+      "To prevent exchange"
+    ],
+    "answer": "To allow rapid diffusion"
+  },
+  {
+    "id": 272,
+    "question": "A capillary bed is:",
+    "options": [
+      "A heart chamber",
+      "A network of capillaries",
+      "A valve system",
+      "A layer of cardiac muscle"
+    ],
+    "answer": "A network of capillaries"
+  },
+  {
+    "id": 273,
+    "question": "What is tissue fluid?",
+    "options": [
+      "Fluid inside red blood cells",
+      "Fluid surrounding body cells",
+      "Fluid inside bones",
+      "Fluid within alveoli"
+    ],
+    "answer": "Fluid surrounding body cells"
+  },
+  {
+    "id": 274,
+    "question": "Tissue fluid forms due to:",
+    "options": [
+      "Osmosis only",
+      "Hydrostatic pressure",
+      "Peristalsis",
+      "Coagulation"
+    ],
+    "answer": "Hydrostatic pressure"
+  },
+  {
+    "id": 275,
+    "question": "What forces tissue fluid out of capillaries?",
+    "options": [
+      "Low blood pressure",
+      "Hydrostatic pressure",
+      "Diffusion",
+      "Valve action"
+    ],
+    "answer": "Hydrostatic pressure"
+  },
+  {
+    "id": 276,
+    "question": "Which substance is found in tissue fluid?",
+    "options": [
+      "Oxygen",
+      "Glucose",
+      "Amino acids",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 277,
+    "question": "The heart is described as myogenic because:",
+    "options": [
+      "It contracts due to hormones only",
+      "It initiates its own contractions",
+      "It requires brain impulses for every beat",
+      "It contains smooth muscle"
+    ],
+    "answer": "It initiates its own contractions"
+  },
+  {
+    "id": 278,
+    "question": "What is the natural pacemaker of the heart?",
+    "options": [
+      "AVN",
+      "Bundle of His",
+      "SAN",
+      "Purkinje fibers"
+    ],
+    "answer": "SAN"
+  },
+  {
+    "id": 279,
+    "question": "Where is the sinoatrial node located?",
+    "options": [
+      "Left ventricle",
+      "Right atrium",
+      "Aorta",
+      "Pulmonary artery"
+    ],
+    "answer": "Right atrium"
+  },
+  {
+    "id": 280,
+    "question": "The SAN generates:",
+    "options": [
+      "Valves",
+      "Tissue fluid",
+      "Electrical impulses",
+      "Red blood cells"
+    ],
+    "answer": "Electrical impulses"
+  },
+  {
+    "id": 281,
+    "question": "What is the role of the AVN?",
+    "options": [
+      "Initiates heartbeat",
+      "Delays electrical impulses",
+      "Produces hormones",
+      "Pumps blood"
+    ],
+    "answer": "Delays electrical impulses"
+  },
+  {
+    "id": 282,
+    "question": "Why is there a delay at the AVN?",
+    "options": [
+      "To allow ventricles to fill completely",
+      "To reduce oxygen uptake",
+      "To decrease blood pressure",
+      "To close coronary arteries"
+    ],
+    "answer": "To allow ventricles to fill completely"
+  },
+  {
+    "id": 283,
+    "question": "After the AVN, impulses travel down the:",
+    "options": [
+      "Vena cava",
+      "Bundle of His",
+      "Pulmonary vein",
+      "Aortic arch"
+    ],
+    "answer": "Bundle of His"
+  },
+  {
+    "id": 284,
+    "question": "Purkinje fibers are responsible for:",
+    "options": [
+      "Carrying impulses through ventricles",
+      "Producing tissue fluid",
+      "Transporting oxygen",
+      "Opening valves"
+    ],
+    "answer": "Carrying impulses through ventricles"
+  },
+  {
+    "id": 285,
+    "question": "Ventricular contraction begins at the:",
+    "options": [
+      "Top of the ventricles",
+      "Atria",
+      "Apex of the heart",
+      "Vena cava"
+    ],
+    "answer": "Apex of the heart"
+  },
+  {
+    "id": 286,
+    "question": "What part of the brain regulates heart rate?",
+    "options": [
+      "Cerebellum",
+      "Medulla oblongata",
+      "Hypothalamus",
+      "Occipital lobe"
+    ],
+    "answer": "Medulla oblongata"
+  },
+  {
+    "id": 287,
+    "question": "Which nervous system division increases heart rate?",
+    "options": [
+      "Parasympathetic",
+      "Somatic",
+      "Sympathetic",
+      "Peripheral"
+    ],
+    "answer": "Sympathetic"
+  },
+  {
+    "id": 288,
+    "question": "Which nervous system division decreases heart rate?",
+    "options": [
+      "Sympathetic",
+      "Parasympathetic",
+      "Somatic",
+      "Sensory"
+    ],
+    "answer": "Parasympathetic"
+  },
+  {
+    "id": 289,
+    "question": "Which hormone increases heart rate during stress?",
+    "options": [
+      "Insulin",
+      "Thyroxine",
+      "Adrenaline",
+      "Glucagon"
+    ],
+    "answer": "Adrenaline"
+  },
+  {
+    "id": 290,
+    "question": "Baroreceptors detect changes in:",
+    "options": [
+      "Blood pressure",
+      "Blood glucose",
+      "Temperature",
+      "Oxygen saturation"
+    ],
+    "answer": "Blood pressure"
+  },
+  {
+    "id": 291,
+    "question": "Chemoreceptors detect changes in:",
+    "options": [
+      "Carbon dioxide concentration and pH",
+      "Blood volume only",
+      "Heart muscle size",
+      "Valve movement"
+    ],
+    "answer": "Carbon dioxide concentration and pH"
+  },
+  {
+    "id": 292,
+    "question": "An increase in carbon dioxide usually causes heart rate to:",
+    "options": [
+      "Decrease",
+      "Increase",
+      "Stop",
+      "Remain unchanged"
+    ],
+    "answer": "Increase"
+  },
+  {
+    "id": 293,
+    "question": "Cardiac output is calculated as:",
+    "options": [
+      "Heart rate × stroke volume",
+      "Stroke volume ÷ heart rate",
+      "Blood pressure × heart rate",
+      "Heart rate + blood pressure"
+    ],
+    "answer": "Heart rate × stroke volume"
+  },
+  {
+    "id": 294,
+    "question": "Stroke volume refers to:",
+    "options": [
+      "Blood pumped per beat",
+      "Blood pressure in arteries",
+      "Number of heartbeats",
+      "Volume of plasma only"
+    ],
+    "answer": "Blood pumped per beat"
+  },
+  {
+    "id": 295,
+    "question": "The coronary arteries supply blood to the:",
+    "options": [
+      "Lungs",
+      "Kidneys",
+      "Heart muscle",
+      "Brain"
+    ],
+    "answer": "Heart muscle"
+  },
+  {
+    "id": 296,
+    "question": "Why does the heart require coronary arteries?",
+    "options": [
+      "Cardiac muscle requires oxygen and glucose",
+      "To drain tissue fluid",
+      "To produce hormones",
+      "To regulate digestion"
+    ],
+    "answer": "Cardiac muscle requires oxygen and glucose"
+  },
+  {
+    "id": 297,
+    "question": "Which circulation carries blood between heart and lungs?",
+    "options": [
+      "Systemic circulation",
+      "Coronary circulation",
+      "Pulmonary circulation",
+      "Portal circulation"
+    ],
+    "answer": "Pulmonary circulation"
+  },
+  {
+    "id": 298,
+    "question": "Which circulation delivers oxygenated blood to body tissues?",
+    "options": [
+      "Pulmonary circulation",
+      "Systemic circulation",
+      "Coronary circulation only",
+      "Lymphatic circulation"
+    ],
+    "answer": "Systemic circulation"
+  },
+  {
+    "id": 299,
+    "question": "The human circulatory system is described as closed because:",
+    "options": [
+      "Blood remains within vessels",
+      "Blood never moves",
+      "Valves are sealed",
+      "The heart has four chambers"
+    ],
+    "answer": "Blood remains within vessels"
+  },
+  {
+    "id": 300,
+    "question": "Which statement best summarizes the mammalian circulatory system?",
+    "options": [
+      "A double, closed circulatory system that transports substances efficiently throughout the body",
+      "An open system where blood bathes tissues directly",
+      "A system that only transports oxygen",
+      "A system that functions independently of the heart"
+    ],
+    "answer": "A double, closed circulatory system that transports substances efficiently throughout the body"
+  },
+
+  
+  {
+    "id": 301,
+    "question": "What is the main function of the atria?",
+    "options": [
+      "Pump blood out of the heart",
+      "Receive blood returning to the heart",
+      "Generate oxygen",
+      "Maintain blood pressure"
+    ],
+    "answer": "Receive blood returning to the heart"
+  },
+  {
+    "id": 302,
+    "question": "Why are atrial walls thinner than ventricular walls?",
+    "options": [
+      "They receive blood rather than pumping it long distances",
+      "They contain fewer cells",
+      "They have no blood supply",
+      "They are under higher pressure"
+    ],
+    "answer": "They receive blood rather than pumping it long distances"
+  },
+  {
+    "id": 303,
+    "question": "Which structure separates the left and right sides of the heart?",
+    "options": [
+      "Aorta",
+      "Septum",
+      "Vena cava",
+      "Bundle of His"
+    ],
+    "answer": "Septum"
+  },
+  {
+    "id": 304,
+    "question": "The right side of the heart contains mainly:",
+    "options": [
+      "Oxygenated blood",
+      "Mixed blood",
+      "Deoxygenated blood",
+      "Lymph"
+    ],
+    "answer": "Deoxygenated blood"
+  },
+  {
+    "id": 305,
+    "question": "The left side of the heart contains mainly:",
+    "options": [
+      "Deoxygenated blood",
+      "Lymph",
+      "Mixed blood",
+      "Oxygenated blood"
+    ],
+    "answer": "Oxygenated blood"
+  },
+  {
+    "id": 306,
+    "question": "Why is unidirectional blood flow important?",
+    "options": [
+      "Prevents oxygen transport",
+      "Maintains efficient circulation",
+      "Reduces heart muscle activity",
+      "Stops diffusion"
+    ],
+    "answer": "Maintains efficient circulation"
+  },
+  {
+    "id": 307,
+    "question": "What would happen if heart valves failed completely?",
+    "options": [
+      "Blood could flow backward",
+      "Blood would stop clotting",
+      "The SAN would stop working",
+      "Tissue fluid would not form"
+    ],
+    "answer": "Blood could flow backward"
+  },
+  {
+    "id": 308,
+    "question": "Which valve prevents backflow from the aorta into the heart?",
+    "options": [
+      "Tricuspid valve",
+      "Bicuspid valve",
+      "Pulmonary valve",
+      "Aortic valve"
+    ],
+    "answer": "Aortic valve"
+  },
+  {
+    "id": 309,
+    "question": "Which valve prevents backflow from the pulmonary artery?",
+    "options": [
+      "Pulmonary valve",
+      "Tricuspid valve",
+      "Mitral valve",
+      "Aortic valve"
+    ],
+    "answer": "Pulmonary valve"
+  },
+  {
+    "id": 310,
+    "question": "Which chamber receives blood directly from the vena cava?",
+    "options": [
+      "Left atrium",
+      "Right ventricle",
+      "Right atrium",
+      "Left ventricle"
+    ],
+    "answer": "Right atrium"
+  },
+  {
+    "id": 311,
+    "question": "Which chamber receives blood directly from the pulmonary veins?",
+    "options": [
+      "Left atrium",
+      "Right atrium",
+      "Left ventricle",
+      "Right ventricle"
+    ],
+    "answer": "Left atrium"
+  },
+  {
+    "id": 312,
+    "question": "Which blood vessel leaves the right ventricle?",
+    "options": [
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Aorta",
+      "Vena cava"
+    ],
+    "answer": "Pulmonary artery"
+  },
+  {
+    "id": 313,
+    "question": "Which blood vessel leaves the left ventricle?",
+    "options": [
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Aorta",
+      "Coronary vein"
+    ],
+    "answer": "Aorta"
+  },
+  {
+    "id": 314,
+    "question": "The pressure generated by the left ventricle must be:",
+    "options": [
+      "Lower than the right ventricle",
+      "Approximately equal to the right ventricle",
+      "Higher than the right ventricle",
+      "Zero during systole"
+    ],
+    "answer": "Higher than the right ventricle"
+  },
+  {
+    "id": 315,
+    "question": "Why would a single circulatory pump be less efficient in mammals?",
+    "options": [
+      "Pressure would fall after passing through lung capillaries",
+      "Blood would contain too much oxygen",
+      "Capillaries would disappear",
+      "The heart would stop beating"
+    ],
+    "answer": "Pressure would fall after passing through lung capillaries"
+  },
+  {
+    "id": 316,
+    "question": "Which stage immediately follows atrial systole?",
+    "options": [
+      "Cardiac arrest",
+      "Ventricular systole",
+      "Pulmonary circulation",
+      "Cardiac diastole"
+    ],
+    "answer": "Ventricular systole"
+  },
+  {
+    "id": 317,
+    "question": "During ventricular systole, blood enters:",
+    "options": [
+      "The atria",
+      "The pulmonary artery and aorta",
+      "The vena cava",
+      "The pulmonary veins"
+    ],
+    "answer": "The pulmonary artery and aorta"
+  },
+  {
+    "id": 318,
+    "question": "During cardiac diastole, the atrioventricular valves are generally:",
+    "options": [
+      "Open",
+      "Closed",
+      "Absent",
+      "Contracting"
+    ],
+    "answer": "Open"
+  },
+  {
+    "id": 319,
+    "question": "During ventricular systole, the atrioventricular valves are:",
+    "options": [
+      "Open",
+      "Partially open",
+      "Closed",
+      "Destroyed"
+    ],
+    "answer": "Closed"
+  },
+  {
+    "id": 320,
+    "question": "Why are arteries elastic?",
+    "options": [
+      "To absorb nutrients",
+      "To stretch and recoil with pressure changes",
+      "To allow white blood cells to pass through",
+      "To prevent oxygen transport"
+    ],
+    "answer": "To stretch and recoil with pressure changes"
+  },
+  {
+    "id": 321,
+    "question": "The smooth muscle in arteries helps:",
+    "options": [
+      "Control vessel diameter",
+      "Carry oxygen",
+      "Produce tissue fluid",
+      "Generate electrical impulses"
+    ],
+    "answer": "Control vessel diameter"
+  },
+  {
+    "id": 322,
+    "question": "Arterioles are important because they:",
+    "options": [
+      "Regulate blood flow into capillary beds",
+      "Carry blood directly to the heart",
+      "Replace arteries",
+      "Contain valves"
+    ],
+    "answer": "Regulate blood flow into capillary beds"
+  },
+  {
+    "id": 323,
+    "question": "Blood pressure is generally highest in:",
+    "options": [
+      "Veins",
+      "Capillaries",
+      "Arteries leaving the heart",
+      "Venules"
+    ],
+    "answer": "Arteries leaving the heart"
+  },
+  {
+    "id": 324,
+    "question": "Why is blood pressure lower in veins?",
+    "options": [
+      "Blood has passed through capillary networks",
+      "Veins contain less blood",
+      "Veins produce oxygen",
+      "Valves lower pressure"
+    ],
+    "answer": "Blood has passed through capillary networks"
+  },
+  {
+    "id": 325,
+    "question": "How do skeletal muscles aid venous return?",
+    "options": [
+      "They compress veins and help move blood toward the heart",
+      "They generate oxygen",
+      "They close valves permanently",
+      "They decrease blood volume"
+    ],
+    "answer": "They compress veins and help move blood toward the heart"
+  },
+  {
+    "id": 326,
+    "question": "Why are capillaries highly branched?",
+    "options": [
+      "To increase surface area for exchange",
+      "To increase blood pressure",
+      "To reduce oxygen delivery",
+      "To prevent tissue fluid formation"
+    ],
+    "answer": "To increase surface area for exchange"
+  },
+  {
+    "id": 327,
+    "question": "Which factor most directly promotes tissue fluid formation?",
+    "options": [
+      "Hydrostatic pressure",
+      "Low blood volume",
+      "Muscle contraction",
+      "Valve action"
+    ],
+    "answer": "Hydrostatic pressure"
+  },
+  {
+    "id": 328,
+    "question": "Tissue fluid supplies cells with:",
+    "options": [
+      "Oxygen and nutrients",
+      "Only carbon dioxide",
+      "Only proteins",
+      "Only platelets"
+    ],
+    "answer": "Oxygen and nutrients"
+  },
+  {
+    "id": 329,
+    "question": "Which waste product is removed from cells via tissue fluid?",
+    "options": [
+      "Oxygen",
+      "Glucose",
+      "Carbon dioxide",
+      "Hemoglobin"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 330,
+    "question": "The SAN sets the heart rate because it:",
+    "options": [
+      "Generates rhythmic electrical impulses",
+      "Produces adrenaline",
+      "Controls blood pressure directly",
+      "Contains valves"
+    ],
+    "answer": "Generates rhythmic electrical impulses"
+  },
+  {
+    "id": 331,
+    "question": "If the AVN did not delay the impulse, the ventricles would:",
+    "options": [
+      "Fill less effectively",
+      "Fill more effectively",
+      "Stop contracting permanently",
+      "Become oxygenated"
+    ],
+    "answer": "Fill less effectively"
+  },
+  {
+    "id": 332,
+    "question": "Why do Purkinje fibers conduct rapidly?",
+    "options": [
+      "To ensure coordinated ventricular contraction",
+      "To reduce cardiac output",
+      "To slow heart rate",
+      "To close valves"
+    ],
+    "answer": "To ensure coordinated ventricular contraction"
+  },
+  {
+    "id": 333,
+    "question": "Which part of the conduction system initiates atrial contraction?",
+    "options": [
+      "AVN",
+      "Bundle of His",
+      "SAN",
+      "Purkinje fibers"
+    ],
+    "answer": "SAN"
+  },
+  {
+    "id": 334,
+    "question": "The Bundle of His connects the:",
+    "options": [
+      "SAN and AVN",
+      "AVN and Purkinje fibers",
+      "Aorta and ventricle",
+      "Atria and veins"
+    ],
+    "answer": "AVN and Purkinje fibers"
+  },
+  {
+    "id": 335,
+    "question": "Which nervous system pathway is associated with the 'fight or flight' response?",
+    "options": [
+      "Parasympathetic",
+      "Sympathetic",
+      "Somatic",
+      "Sensory"
+    ],
+    "answer": "Sympathetic"
+  },
+  {
+    "id": 336,
+    "question": "Which neurotransmitter slows heart rate?",
+    "options": [
+      "Acetylcholine",
+      "Adrenaline",
+      "Noradrenaline",
+      "Dopamine"
+    ],
+    "answer": "Acetylcholine"
+  },
+  {
+    "id": 337,
+    "question": "Noradrenaline generally causes heart rate to:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Stop",
+      "Remain constant"
+    ],
+    "answer": "Increase"
+  },
+  {
+    "id": 338,
+    "question": "What do baroreceptors monitor?",
+    "options": [
+      "Blood pressure",
+      "Glucose concentration",
+      "Oxygen saturation only",
+      "Body temperature"
+    ],
+    "answer": "Blood pressure"
+  },
+  {
+    "id": 339,
+    "question": "High blood pressure detected by baroreceptors usually results in:",
+    "options": [
+      "A reduction in heart rate",
+      "An increase in heart rate",
+      "Closure of arteries",
+      "Increased respiration only"
+    ],
+    "answer": "A reduction in heart rate"
+  },
+  {
+    "id": 340,
+    "question": "Low blood pressure detected by baroreceptors usually results in:",
+    "options": [
+      "An increase in heart rate",
+      "A decrease in heart rate",
+      "No response",
+      "Immediate clotting"
+    ],
+    "answer": "An increase in heart rate"
+  },
+  {
+    "id": 341,
+    "question": "Chemoreceptors are especially sensitive to changes in:",
+    "options": [
+      "Carbon dioxide concentration",
+      "Hair growth",
+      "Bone density",
+      "Platelet count"
+    ],
+    "answer": "Carbon dioxide concentration"
+  },
+  {
+    "id": 342,
+    "question": "During vigorous exercise, carbon dioxide levels typically:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Remain unchanged",
+      "Reach zero"
+    ],
+    "answer": "Increase"
+  },
+  {
+    "id": 343,
+    "question": "Why does heart rate increase during exercise?",
+    "options": [
+      "To deliver more oxygen and remove more carbon dioxide",
+      "To decrease blood flow",
+      "To reduce respiration",
+      "To lower metabolism"
+    ],
+    "answer": "To deliver more oxygen and remove more carbon dioxide"
+  },
+  {
+    "id": 344,
+    "question": "What is cardiac output if heart rate increases and stroke volume remains constant?",
+    "options": [
+      "It increases",
+      "It decreases",
+      "It becomes zero",
+      "It stays exactly the same"
+    ],
+    "answer": "It increases"
+  },
+  {
+    "id": 345,
+    "question": "Coronary arteries branch directly from the:",
+    "options": [
+      "Aorta",
+      "Pulmonary vein",
+      "Vena cava",
+      "Pulmonary artery"
+    ],
+    "answer": "Aorta"
+  },
+  {
+    "id": 346,
+    "question": "The main purpose of coronary circulation is to:",
+    "options": [
+      "Supply the heart muscle",
+      "Supply the lungs",
+      "Supply the kidneys",
+      "Supply the skin only"
+    ],
+    "answer": "Supply the heart muscle"
+  },
+  {
+    "id": 347,
+    "question": "A blockage in a coronary artery primarily threatens:",
+    "options": [
+      "Cardiac muscle function",
+      "Gas exchange directly",
+      "Digestion",
+      "Liver function"
+    ],
+    "answer": "Cardiac muscle function"
+  },
+  {
+    "id": 348,
+    "question": "Which circulation returns blood from the lungs to the heart?",
+    "options": [
+      "Pulmonary circulation",
+      "Systemic circulation",
+      "Portal circulation",
+      "Coronary circulation"
+    ],
+    "answer": "Pulmonary circulation"
+  },
+  {
+    "id": 349,
+    "question": "The systemic circulation carries blood between:",
+    "options": [
+      "Heart and body tissues",
+      "Heart and lungs only",
+      "Lungs and kidneys",
+      "Heart and liver only"
+    ],
+    "answer": "Heart and body tissues"
+  },
+  {
+    "id": 350,
+    "question": "What best characterizes the mammalian circulatory system?",
+    "options": [
+      "Closed, double circulation",
+      "Open, single circulation",
+      "Open, double circulation",
+      "Closed, single circulation"
+    ],
+    "answer": "Closed, double circulation"
+  },
+  {
+    "id": 351,
+    "question": "Which statement about capillaries is correct?",
+    "options": [
+      "They are the main exchange surfaces of the circulation",
+      "They contain valves",
+      "They generate electrical impulses",
+      "They have thick muscular walls"
+    ],
+    "answer": "They are the main exchange surfaces of the circulation"
+  },
+  {
+    "id": 352,
+    "question": "Which structure prevents oxygenated and deoxygenated blood from mixing in a healthy heart?",
+    "options": [
+      "Septum",
+      "Aorta",
+      "Pulmonary valve",
+      "Coronary artery"
+    ],
+    "answer": "Septum"
+  },
+  {
+    "id": 353,
+    "question": "An atrial septal defect would primarily allow:",
+    "options": [
+      "Mixing of blood between atria",
+      "Mixing of blood between ventricles only",
+      "Loss of valves",
+      "Loss of capillaries"
+    ],
+    "answer": "Mixing of blood between atria"
+  },
+  {
+    "id": 354,
+    "question": "Why is mixing oxygenated and deoxygenated blood undesirable?",
+    "options": [
+      "It reduces oxygen delivery efficiency",
+      "It increases digestion",
+      "It improves gas exchange",
+      "It increases ATP production"
+    ],
+    "answer": "It reduces oxygen delivery efficiency"
+  },
+  {
+    "id": 355,
+    "question": "The primary pacemaker region of the heart beats intrinsically at approximately:",
+    "options": [
+      "100 beats per minute",
+      "20 beats per minute",
+      "250 beats per minute",
+      "10 beats per minute"
+    ],
+    "answer": "100 beats per minute"
+  },
+  {
+    "id": 356,
+    "question": "Which hormone is released during 'fight-or-flight' situations?",
+    "options": [
+      "Adrenaline",
+      "Insulin",
+      "Glucagon",
+      "Melatonin"
+    ],
+    "answer": "Adrenaline"
+  },
+  {
+    "id": 357,
+    "question": "Heart rate is ultimately adjusted to meet the body's:",
+    "options": [
+      "Metabolic demands",
+      "Hair growth needs",
+      "Pigment requirements",
+      "Bone density changes"
+    ],
+    "answer": "Metabolic demands"
+  },
+  {
+    "id": 358,
+    "question": "Which event occurs first in the conduction pathway?",
+    "options": [
+      "SAN fires",
+      "AVN delay",
+      "Purkinje activation",
+      "Ventricular contraction"
+    ],
+    "answer": "SAN fires"
+  },
+  {
+    "id": 359,
+    "question": "Why are ventricles activated from the apex upward?",
+    "options": [
+      "To efficiently eject blood into arteries",
+      "To reduce blood flow",
+      "To close atrioventricular valves",
+      "To lower pressure"
+    ],
+    "answer": "To efficiently eject blood into arteries"
+  },
+  {
+    "id": 360,
+    "question": "Which statement best summarizes cardiac function?",
+    "options": [
+      "The heart generates pressure that drives blood through a closed double circulatory system",
+      "The heart functions only as a storage organ",
+      "The heart directly performs gas exchange",
+      "The heart is responsible only for hormone transport"
+    ],
+    "answer": "The heart generates pressure that drives blood through a closed double circulatory system"
+  }
+
+
+]
