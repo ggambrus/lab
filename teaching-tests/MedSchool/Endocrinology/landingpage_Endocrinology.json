@@ -1,0 +1,34 @@
+{
+"title": "Endocrinology — Study Hub",
+"intro": "Choose a resource to begin.",
+"resources": [
+	{
+		"id": "endocrinology-overview-flashcards-1",
+		"title": "Endocrinology Overview :: Flashcards",
+		"url": "topics/00_endocrionology_overview/sg_00_endocrionology_overview.html",
+		"img": "assets/00_endocrionology_overview-flashcards.jpg",
+		"description": "Flashcards"
+	},
+	{
+		"id": "endocrinology-intro-flashcards-1",
+		"title": "Endocrinology - Introduction :: Flashcards",
+		"url": "topics/01_endocrinology_intro/sg_01_endocrinology_intro.html",
+		"img": "assets/01_endocrionology_introduction-flashcards.jpg",
+		"description": "Flashcards"
+	},
+	{
+		"id": "endocrinology-intro-mcqs-1",
+		"title": "Endocrinology - Introduction :: MCQs",
+		"url": "topics/01_endocrinology_intro/mcqs_01_endocrinology_intro.html",
+		"img": "assets/01_endocrionology_introduction-mcqs.jpg",
+		"description": "Multiple Choice Questions"
+	},
+	{
+		"id": "endocrinology-intro-acts-1",
+		"title": "Endocrinology - Introduction :: Activities",
+		"url": "topics/01_endocrinology_intro/act_01_endocrinology_intro.html",
+		"img": "assets/01_endocrionology_introduction-activities.jpg",
+		"description": "Activities"
+	}
+]
+}

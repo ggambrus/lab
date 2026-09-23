@@ -1,0 +1,79 @@
+/* Prompt */
+.bucket-prompt {
+  margin-bottom: 0.75rem;
+  font-weight: 500;
+}
+
+/* Bucket layout */
+.bucket-area {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+/* Individual bucket */
+.bucket {
+  border: 2px solid #3b82f6;
+  border-radius: 10px;
+  width: 180px;
+  min-height: 120px;
+  display: flex;
+  flex-direction: column;
+  background: #f8fafc;
+}
+
+/* Bucket title */
+.bucket-title {
+  background: #3b82f6;
+  color: white;
+  padding: 0.35rem 0.5rem;
+  border-radius: 8px 8px 0 0;
+  text-align: center;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+/* Drop area */
+.bucket-dropzone {
+  flex: 1;
+  padding: 0.4rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  align-content: flex-start;
+}
+
+/* Pool */
+.bucket-pool {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+/* Item */
+.bucket-item {
+  background: white;
+  border: 1px solid rgba(0,0,0,0.2);
+  border-radius: 7px;
+  padding: 0.35rem 0.6rem;
+  font-size: 0.9rem;
+  cursor: grab;
+  user-select: none;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.06);
+}
+
+.bucket-item.dragging {
+  opacity: 0.5;
+}
+
+.bucket-item.selected {
+  outline: 2px solid #3b82f6;
+}
+
+/* Button */
+.bucket-check {
+  padding: 0.45rem 0.9rem;
+}

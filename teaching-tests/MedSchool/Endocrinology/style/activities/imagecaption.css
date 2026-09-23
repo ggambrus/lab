@@ -1,0 +1,85 @@
+.imagecaption-prompt {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.imagecaption-stage {
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.imagecaption-image {
+  width: 100%;
+  display: block;
+  border-radius: 8px;
+}
+
+.imagecaption-overlay {
+  position: absolute;
+  inset: 0;
+}
+
+.imagecaption-slot {
+  position: absolute;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  min-height: 28px;
+  border: 1.5px dashed #3b82f6;
+  border-radius: 6px;
+  padding: 2px 6px;
+  background: rgba(255,255,255,0.85);
+  font-size: 0.85rem;
+}
+
+.imagecaption-slot.align-left { transform: translate(0, -50%); }
+.imagecaption-slot.align-right { transform: translate(-100%, -50%); }
+.imagecaption-slot.align-center { transform: translate(-50%, -50%); }
+
+.imagecaption-dot {
+  width: 10px;
+  height: 10px;
+  background: #2563eb;
+  border-radius: 50%;
+  margin-right: 4px;
+}
+
+.imagecaption-pool {
+  margin-top: 0.75rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  justify-content: center;
+}
+
+.imagecaption-label {
+  padding: 4px 8px;
+  background: #f8fafc;
+  border: 1px solid #94a3b8;
+  border-radius: 6px;
+  cursor: grab;
+  user-select: none;
+  font-size: 0.85rem;
+}
+
+.imagecaption-label.selected {
+  outline: 2px solid #2563eb;
+}
+
+.imagecaption-slot .imagecaption-label {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.imagecaption-feedback {
+  margin-top: 0.5rem;
+  min-height: 1.2em;
+}
+
+.imagecaption-check {
+  margin-top: 0.5rem;
+}

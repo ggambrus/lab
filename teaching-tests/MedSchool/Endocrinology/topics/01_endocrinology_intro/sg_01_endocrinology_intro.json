@@ -1,0 +1,1994 @@
+[
+  {
+    "topic": "Homeostasis and Endocrine System Fundamentals",
+    "flashcards": [
+      {
+        "question": "What is homeostasis?",
+        "answer": "The maintenance of balance and stable internal conditions within the body."
+      },
+      {
+        "question": "Why is homeostasis important?",
+        "answer": "Because stable internal conditions are necessary for survival and normal physiological function."
+      },
+      {
+        "question": "What does the body need to maintain in order to stay alive?",
+        "answer": "Homeostasis."
+      },
+      {
+        "question": "What two major systems enable communication between different parts of the body?",
+        "answer": "The endocrine system and the nervous system."
+      },
+      {
+        "question": "What is the primary role of the endocrine system?",
+        "answer": "To regulate body functions through hormones."
+      },
+      {
+        "question": "What is the primary role of the nervous system?",
+        "answer": "To regulate body functions through electrical and chemical signaling."
+      },
+      {
+        "question": "How do hormones contribute to homeostasis?",
+        "answer": "They allow cells to communicate and coordinate physiological responses that maintain balance."
+      },
+      {
+        "question": "What are hormones?",
+        "answer": "Chemical messengers produced by cells that influence the activity of target cells."
+      },
+      {
+        "question": "What is a target cell?",
+        "answer": "A cell that possesses receptors capable of responding to a particular hormone."
+      },
+      {
+        "question": "What is meant by cell-to-cell communication in endocrinology?",
+        "answer": "The transmission of information from one cell to another using hormones."
+      },
+      {
+        "question": "What type of feedback loop most commonly maintains homeostasis?",
+        "answer": "Negative feedback."
+      },
+      {
+        "question": "What is a negative feedback loop?",
+        "answer": "A regulatory mechanism in which a response opposes the original stimulus."
+      },
+      {
+        "question": "What is the purpose of negative feedback?",
+        "answer": "To maintain physiological variables around a set point."
+      },
+      {
+        "question": "What household device is commonly used as an analogy for negative feedback?",
+        "answer": "A thermostat."
+      },
+      {
+        "question": "In a negative feedback loop, what happens when a stimulus increases?",
+        "answer": "A response is generated that acts to reduce the stimulus."
+      },
+      {
+        "question": "What is a stimulus in physiological regulation?",
+        "answer": "A change in internal or external conditions that triggers a response."
+      },
+      {
+        "question": "What is a physiological response?",
+        "answer": "A change produced by the body to counteract or adapt to a stimulus."
+      },
+      {
+        "question": "Why is communication between body systems necessary?",
+        "answer": "To coordinate responses that maintain homeostasis."
+      },
+      {
+        "question": "Do hormones typically act randomly throughout the body?",
+        "answer": "No, they act selectively on cells with appropriate receptors."
+      },
+      {
+        "question": "What is endocrine communication?",
+        "answer": "Hormonal signaling over long distances via the bloodstream."
+      },
+      {
+        "question": "What is paracrine communication?",
+        "answer": "Hormonal signaling to neighboring cells."
+      },
+      {
+        "question": "What is autocrine communication?",
+        "answer": "Hormonal signaling in which a cell acts on itself."
+      },
+      {
+        "question": "Which type of signaling involves distant target cells?",
+        "answer": "Endocrine signaling."
+      },
+      {
+        "question": "Which type of signaling involves nearby cells?",
+        "answer": "Paracrine signaling."
+      },
+      {
+        "question": "Which type of signaling targets the same cell that secreted the hormone?",
+        "answer": "Autocrine signaling."
+      },
+      {
+        "question": "What relationship exists between hormones and homeostasis?",
+        "answer": "Hormones help maintain homeostasis by regulating physiological processes."
+      }
+    ]
+  },
+  {
+    "topic": "Negative Feedback and Blood Glucose Regulation",
+    "flashcards": [
+      {
+        "question": "Which hormone regulates blood glucose in a classic feedback loop?",
+        "answer": "Insulin."
+      },
+      {
+        "question": "What stimulates insulin release?",
+        "answer": "An increase in plasma glucose concentration."
+      },
+      {
+        "question": "What commonly causes plasma glucose to increase after eating?",
+        "answer": "Consumption of carbohydrate-containing foods such as a chocolate bar."
+      },
+      {
+        "question": "What effect does increased plasma glucose have on insulin secretion?",
+        "answer": "It stimulates insulin release."
+      },
+      {
+        "question": "What effect does insulin have on plasma glucose?",
+        "answer": "It lowers plasma glucose levels."
+      },
+      {
+        "question": "Why is insulin regulation considered a negative feedback loop?",
+        "answer": "Because increased glucose stimulates insulin, which then reduces glucose."
+      },
+      {
+        "question": "What happens to insulin secretion when plasma glucose falls?",
+        "answer": "Insulin secretion decreases."
+      },
+      {
+        "question": "What endocrine organ secretes insulin?",
+        "answer": "The endocrine pancreas."
+      },
+      {
+        "question": "Which hormone is released when blood glucose levels are high?",
+        "answer": "Insulin."
+      },
+      {
+        "question": "Which hormone is released when blood glucose levels are low?",
+        "answer": "Glucagon."
+      },
+      {
+        "question": "What is the role of glucagon?",
+        "answer": "To increase blood glucose concentration."
+      },
+      {
+        "question": "Which stimulus triggers glucagon release?",
+        "answer": "Low blood glucose."
+      },
+      {
+        "question": "What is the physiological purpose of glucose regulation?",
+        "answer": "To maintain a stable energy supply for cells."
+      },
+      {
+        "question": "How do insulin and glucagon work together?",
+        "answer": "They act antagonistically to maintain blood glucose homeostasis."
+      }
+    ]
+  },
+  {
+    "topic": "Hormones and Types of Hormonal Signalling",
+    "flashcards": [
+      {
+        "question": "What are hormones?",
+        "answer": "Chemical messengers produced by cells that influence target cells."
+      },
+      {
+        "question": "Who produces hormones?",
+        "answer": "Cells within the body."
+      },
+      {
+        "question": "When are hormones often secreted?",
+        "answer": "In response to a physiological stimulus."
+      },
+      {
+        "question": "What do hormones act upon?",
+        "answer": "Target cells."
+      },
+      {
+        "question": "What is an endocrine hormone?",
+        "answer": "A hormone that acts on distant cells through the bloodstream."
+      },
+      {
+        "question": "What is a paracrine hormone?",
+        "answer": "A hormone that acts on neighboring cells."
+      },
+      {
+        "question": "What is an autocrine hormone?",
+        "answer": "A hormone that acts on the same cell that released it."
+      },
+      {
+        "question": "Which signaling mechanism generally acts over the greatest distance?",
+        "answer": "Endocrine signaling."
+      },
+      {
+        "question": "Which signaling mechanism is most localized?",
+        "answer": "Autocrine signaling."
+      },
+      {
+        "question": "What determines whether a hormone can affect a cell?",
+        "answer": "Whether the cell expresses the appropriate receptor."
+      },
+      {
+        "question": "Can a hormone affect cells lacking its receptor?",
+        "answer": "No."
+      },
+      {
+        "question": "Why are hormones considered chemical messengers?",
+        "answer": "Because they carry information between cells through chemical signaling."
+      },
+      {
+        "question": "What is the overall function of hormones in the body?",
+        "answer": "To coordinate and regulate physiological processes."
+      }
+    ]
+  },
+
+  {
+    "topic": "Hormone Receptors and Receptor Signalling",
+    "flashcards": [
+      {
+        "question": "What must a hormone bind to in order to have an effect on a cell?",
+        "answer": "A receptor."
+      },
+      {
+        "question": "What are receptors?",
+        "answer": "Proteins that bind specific hormones and initiate cellular responses."
+      },
+      {
+        "question": "What are the two major categories of hormone receptors?",
+        "answer": "Membrane receptors and nuclear receptors."
+      },
+      {
+        "question": "Why doesn't insulin bind glucagon receptors?",
+        "answer": "Because receptors are specific for particular hormones."
+      },
+      {
+        "question": "What determines whether a cell can respond to a hormone?",
+        "answer": "Whether the cell expresses the appropriate receptor."
+      },
+      {
+        "question": "Can hormones affect cells lacking the appropriate receptor?",
+        "answer": "No."
+      },
+      {
+        "question": "What happens when a hormone binds its receptor?",
+        "answer": "Hormone-receptor binding triggers a biological effect in the target cell."
+      },
+      {
+        "question": "Why is receptor specificity important?",
+        "answer": "It ensures hormones affect only the correct target cells."
+      },
+      {
+        "question": "What type of receptor is found in the plasma membrane?",
+        "answer": "A membrane receptor."
+      },
+      {
+        "question": "What type of receptor is found in the cytoplasm or nucleus?",
+        "answer": "A nuclear receptor."
+      },
+      {
+        "question": "What are many peptide hormones stored in before secretion?",
+        "answer": "Intracellular vesicles."
+      },
+      {
+        "question": "Where are many peptide hormones secreted after release from vesicles?",
+        "answer": "Into the interstitial space and then into the bloodstream."
+      },
+      {
+        "question": "What is the extracellular domain of a membrane receptor responsible for?",
+        "answer": "Binding the hormone."
+      },
+      {
+        "question": "What is the intracellular domain of a membrane receptor responsible for?",
+        "answer": "Initiating intracellular signaling."
+      },
+      {
+        "question": "What is the primary consequence of membrane receptor activation?",
+        "answer": "Generation of second messenger cascades."
+      },
+      {
+        "question": "What can second messenger pathways activate inside cells?",
+        "answer": "Proteins and gene expression pathways."
+      },
+      {
+        "question": "Where are nuclear receptors located?",
+        "answer": "In the cytoplasm or nucleus."
+      },
+      {
+        "question": "What kind of hormones typically bind nuclear receptors?",
+        "answer": "Hormones that can cross biological membranes."
+      },
+      {
+        "question": "What happens when a hormone binds a nuclear receptor?",
+        "answer": "A transcription factor complex is activated."
+      },
+      {
+        "question": "What is the consequence of activating a nuclear receptor?",
+        "answer": "Initiation of gene expression."
+      },
+      {
+        "question": "Why can steroid hormones use nuclear receptors?",
+        "answer": "Because they are lipophilic and membrane permeable."
+      },
+      {
+        "question": "Why do many peptide hormones require membrane receptors?",
+        "answer": "Because they cannot readily cross cell membranes."
+      },
+      {
+        "question": "What is a ligand?",
+        "answer": "Any molecule that binds to a receptor."
+      },
+      {
+        "question": "What is an agonist?",
+        "answer": "A ligand that binds and activates a receptor."
+      },
+      {
+        "question": "Are hormones agonists or antagonists?",
+        "answer": "Agonists."
+      },
+      {
+        "question": "What is an antagonist?",
+        "answer": "A ligand that binds a receptor but does not activate it."
+      },
+      {
+        "question": "How do antagonists affect hormone action?",
+        "answer": "They prevent hormones from activating receptors."
+      },
+      {
+        "question": "Why are many drugs receptor agonists?",
+        "answer": "To mimic the effects of natural hormones."
+      },
+      {
+        "question": "Why are many drugs receptor antagonists?",
+        "answer": "To block hormone action."
+      }
+    ]
+  },
+  {
+    "topic": "Second Messengers and Signal Amplification",
+    "flashcards": [
+      {
+        "question": "What are second messengers?",
+        "answer": "Intracellular signaling molecules generated after hormone-receptor binding."
+      },
+      {
+        "question": "When are second messengers produced?",
+        "answer": "After a hormone binds a membrane receptor."
+      },
+      {
+        "question": "What is the purpose of second messengers?",
+        "answer": "To transmit signals inside the cell and generate a response."
+      },
+      {
+        "question": "Do second messengers operate inside or outside the cell?",
+        "answer": "Inside the cell."
+      },
+      {
+        "question": "How do second messengers help hormone action?",
+        "answer": "They relay receptor activation to intracellular targets."
+      },
+      {
+        "question": "What is a second messenger cascade?",
+        "answer": "A sequence of intracellular signaling events in which one signal activates many downstream molecules."
+      },
+      {
+        "question": "Why are second messenger cascades effective?",
+        "answer": "Because they amplify the original signal."
+      },
+      {
+        "question": "What is signal amplification?",
+        "answer": "The process by which a small initial signal produces a large cellular response."
+      },
+      {
+        "question": "What is cAMP?",
+        "answer": "A common second messenger involved in intracellular signaling."
+      },
+      {
+        "question": "What cellular enzyme can be activated by cAMP?",
+        "answer": "Protein kinase."
+      },
+      {
+        "question": "What do protein kinases do?",
+        "answer": "They phosphorylate proteins."
+      },
+      {
+        "question": "What is phosphorylation?",
+        "answer": "The addition of a phosphate group to a molecule, often altering its activity."
+      },
+      {
+        "question": "What happens to inactive protein kinases when activated by second messengers?",
+        "answer": "They become active kinases that modify target proteins."
+      },
+      {
+        "question": "What molecule commonly provides phosphate groups during phosphorylation?",
+        "answer": "ATP."
+      },
+      {
+        "question": "How can a single activated kinase amplify a signal?",
+        "answer": "By phosphorylating many target proteins."
+      },
+      {
+        "question": "Do membrane receptor pathways only alter protein activity?",
+        "answer": "No, they may also influence gene expression."
+      },
+      {
+        "question": "Which receptor class relies heavily on second messengers?",
+        "answer": "Membrane receptors."
+      },
+      {
+        "question": "Which receptor class primarily acts by directly altering transcription?",
+        "answer": "Nuclear receptors."
+      },
+      {
+        "question": "What is the ultimate purpose of second messenger signaling?",
+        "answer": "To produce an appropriate cellular response."
+      }
+    ]
+  },
+  {
+    "topic": "Regulation of Hormone Action",
+    "flashcards": [
+      {
+        "question": "What are the three major ways hormone action can be regulated?",
+        "answer": "Changing hormone availability, changing receptor number, and preventing receptor binding."
+      },
+      {
+        "question": "What is hormone availability?",
+        "answer": "The amount of free hormone capable of interacting with receptors."
+      },
+      {
+        "question": "How can hormone release influence activity?",
+        "answer": "More release generally increases hormone action."
+      },
+      {
+        "question": "How can hormone breakdown influence activity?",
+        "answer": "Faster breakdown reduces hormone action."
+      },
+      {
+        "question": "What is hormone clearance?",
+        "answer": "Removal of hormones from the circulation."
+      },
+      {
+        "question": "Why does clearance affect hormone activity?",
+        "answer": "Because it determines how long a hormone remains available."
+      },
+      {
+        "question": "How does receptor number affect hormone action?",
+        "answer": "More receptors generally increase responsiveness."
+      },
+      {
+        "question": "Can cells respond to hormones without receptors?",
+        "answer": "No."
+      },
+      {
+        "question": "What is receptor down-regulation?",
+        "answer": "A decrease in receptor number, usually reducing responsiveness."
+      },
+      {
+        "question": "What commonly causes receptor down-regulation?",
+        "answer": "Prolonged exposure to high hormone levels."
+      },
+      {
+        "question": "What is receptor up-regulation?",
+        "answer": "An increase in receptor number, increasing responsiveness."
+      },
+      {
+        "question": "Why is receptor regulation physiologically useful?",
+        "answer": "It allows cells to adjust sensitivity to hormones."
+      },
+      {
+        "question": "How can receptor antagonists regulate hormone action?",
+        "answer": "By preventing hormones from binding receptors."
+      },
+      {
+        "question": "What happens when an antagonist occupies a receptor?",
+        "answer": "The hormone cannot bind and produce its effect."
+      },
+      {
+        "question": "What is free hormone concentration?",
+        "answer": "The concentration of hormone not bound to proteins and available to bind receptors."
+      },
+      {
+        "question": "Which form of a hormone is usually biologically active: bound or free?",
+        "answer": "Free hormone."
+      }
+    ]
+  },
+  {
+    "topic": "Hypothalamic-Pituitary Axis Fundamentals",
+    "flashcards": [
+      {
+        "question": "What is the hypothalamic-pituitary axis?",
+        "answer": "A regulatory system linking the hypothalamus, pituitary gland, and peripheral endocrine glands."
+      },
+      {
+        "question": "What type of connection exists between the hypothalamus and anterior pituitary?",
+        "answer": "A vascular connection called the hypophyseal portal system."
+      },
+      {
+        "question": "What type of connection exists between the hypothalamus and posterior pituitary?",
+        "answer": "A neural connection."
+      },
+      {
+        "question": "What is the role of hypothalamic releasing hormones?",
+        "answer": "To stimulate hormone release from the anterior pituitary."
+      },
+      {
+        "question": "What does TRH stand for?",
+        "answer": "Thyrotropin-releasing hormone."
+      },
+      {
+        "question": "What does CRH stand for?",
+        "answer": "Corticotrophin-releasing hormone."
+      },
+      {
+        "question": "What does GnRH stand for?",
+        "answer": "Gonadotrophin-releasing hormone."
+      },
+      {
+        "question": "What does GHRH stand for?",
+        "answer": "Growth hormone-releasing hormone."
+      },
+      {
+        "question": "What does ACTH stand for?",
+        "answer": "Adrenocorticotropic hormone."
+      },
+      {
+        "question": "What does TSH stand for?",
+        "answer": "Thyroid-stimulating hormone."
+      },
+      {
+        "question": "What does LH stand for?",
+        "answer": "Luteinising hormone."
+      },
+      {
+        "question": "What does FSH stand for?",
+        "answer": "Follicle-stimulating hormone."
+      },
+      {
+        "question": "Which two hormones are associated with the posterior pituitary?",
+        "answer": "ADH and oxytocin."
+      },
+      {
+        "question": "What is ADH?",
+        "answer": "Antidiuretic hormone."
+      },
+      {
+        "question": "What hormone axis regulates cortisol production?",
+        "answer": "The hypothalamic-pituitary-adrenal axis."
+      },
+      {
+        "question": "What hormone axis regulates thyroid hormone production?",
+        "answer": "The hypothalamic-pituitary-thyroid axis."
+      },
+      {
+        "question": "What hormone axis regulates reproductive hormones?",
+        "answer": "The hypothalamic-pituitary-gonadal axis."
+      },
+      {
+        "question": "What hormone produced by the adrenal gland participates in stress responses?",
+        "answer": "Cortisol."
+      },
+      {
+        "question": "Which hormones are produced by the gonads?",
+        "answer": "Testosterone and oestrogen."
+      },
+      {
+        "question": "Which hormones regulate metabolic rate?",
+        "answer": "T3 and T4."
+      },
+      {
+        "question": "What growth-related hormone is produced downstream of growth hormone signaling?",
+        "answer": "IGF."
+      },
+      {
+        "question": "How are hypothalamic-pituitary axes primarily regulated?",
+        "answer": "By negative feedback."
+      },
+      {
+        "question": "What is the purpose of negative feedback within endocrine axes?",
+        "answer": "To maintain hormone levels within an appropriate range."
+      },
+      {
+        "question": "Can negative feedback occur at the hypothalamus, pituitary, or both?",
+        "answer": "Yes."
+      }
+    ]
+  },
+  
+  {
+    "topic": "Adrenal Gland and Adrenal Hormones",
+    "flashcards": [
+      {
+        "question": "Where is the adrenal gland located?",
+        "answer": "It is attached to the kidney."
+      },
+      {
+        "question": "What are the two major regions of the adrenal gland?",
+        "answer": "The adrenal cortex and adrenal medulla."
+      },
+      {
+        "question": "What hormones are produced by the adrenal cortex?",
+        "answer": "Corticosteroids and mineralocorticoids."
+      },
+      {
+        "question": "What hormones are produced by the adrenal medulla?",
+        "answer": "Adrenaline and noradrenaline."
+      },
+      {
+        "question": "What stimulates adrenaline release?",
+        "answer": "Neural stimulation from the sympathetic nervous system."
+      },
+      {
+        "question": "What is another name for adrenaline?",
+        "answer": "Epinephrine."
+      },
+      {
+        "question": "What stimulates cortisol release?",
+        "answer": "Hormonal stimulation by ACTH through the hypothalamic-pituitary-adrenal axis."
+      },
+      {
+        "question": "What stimulates aldosterone release?",
+        "answer": "Angiotensin II."
+      },
+      {
+        "question": "What type of hormone is cortisol?",
+        "answer": "A corticosteroid."
+      },
+      {
+        "question": "What type of hormone is aldosterone?",
+        "answer": "A mineralocorticoid."
+      },
+      {
+        "question": "What is the primary role of cortisol according to the lecture?",
+        "answer": "Stress responses and metabolism."
+      },
+      {
+        "question": "What is the primary role of adrenaline?",
+        "answer": "Fight-or-flight responses."
+      },
+      {
+        "question": "What is the primary role of aldosterone?",
+        "answer": "Increasing blood sodium levels."
+      },
+      {
+        "question": "Which branch of the nervous system stimulates adrenaline release?",
+        "answer": "The sympathetic nervous system."
+      },
+      {
+        "question": "Does cortisol release depend primarily on neural or hormonal stimulation?",
+        "answer": "Hormonal stimulation."
+      },
+      {
+        "question": "Does adrenaline release depend primarily on neural or hormonal stimulation?",
+        "answer": "Neural stimulation."
+      },
+      {
+        "question": "What endocrine axis controls cortisol secretion?",
+        "answer": "The hypothalamic-pituitary-adrenal (HPA) axis."
+      }
+    ]
+  },
+  {
+    "topic": "Hormone Half-Life and Hormone Binding Proteins",
+    "flashcards": [
+      {
+        "question": "What is hormone half-life?",
+        "answer": "The time required for hormone levels in the blood to fall by half."
+      },
+      {
+        "question": "Why is hormone half-life important?",
+        "answer": "It influences how long a hormone remains biologically active."
+      },
+      {
+        "question": "What is the approximate half-life of T4?",
+        "answer": "About 6.5 days."
+      },
+      {
+        "question": "What is the approximate half-life of T3?",
+        "answer": "About 1.3 days."
+      },
+      {
+        "question": "What is the approximate half-life of TSH?",
+        "answer": "About 60 minutes."
+      },
+      {
+        "question": "How does a longer half-life generally affect hormone activity?",
+        "answer": "It increases the duration of hormone activity."
+      },
+      {
+        "question": "What happens if a hormone remains in circulation longer?",
+        "answer": "It can produce prolonged biological effects."
+      },
+      {
+        "question": "Why can liver failure alter hormone activity?",
+        "answer": "Because hormones may not be broken down efficiently."
+      },
+      {
+        "question": "What endocrine consequence can result from impaired aldosterone breakdown in liver failure?",
+        "answer": "Hyperaldosteronism."
+      },
+      {
+        "question": "What are hormone binding proteins?",
+        "answer": "Proteins that bind hormones while they circulate in the bloodstream."
+      },
+      {
+        "question": "What is a common non-specific binding protein for hormones?",
+        "answer": "Albumin."
+      },
+      {
+        "question": "Do hormones remain permanently bound to binding proteins?",
+        "answer": "No, binding is dynamic and reversible."
+      },
+      {
+        "question": "What does dynamic equilibrium mean for hormone binding?",
+        "answer": "Hormones continuously switch between bound and free states."
+      },
+      {
+        "question": "Which form of a hormone interacts with receptors most readily?",
+        "answer": "The free (unbound) form."
+      },
+      {
+        "question": "How do binding proteins affect hormone half-life?",
+        "answer": "They usually increase it."
+      },
+      {
+        "question": "Why do binding proteins increase hormone half-life?",
+        "answer": "Because bound hormones are protected from rapid breakdown and clearance."
+      },
+      {
+        "question": "How do binding proteins affect hormone activity?",
+        "answer": "They generally decrease immediate hormone activity."
+      },
+      {
+        "question": "Why do binding proteins reduce hormone activity?",
+        "answer": "Because only free hormone can bind receptors."
+      },
+      {
+        "question": "Which class of hormones commonly circulates bound to proteins?",
+        "answer": "Steroid hormones."
+      },
+      {
+        "question": "Why do steroid hormones often require binding proteins?",
+        "answer": "Because they are lipophilic and poorly soluble in blood."
+      },
+      {
+        "question": "What would increasing binding protein concentration generally do to hormone half-life?",
+        "answer": "Increase it."
+      },
+      {
+        "question": "What would increasing binding protein concentration generally do to immediate hormone activity?",
+        "answer": "Decrease it."
+      }
+    ]
+  },
+  {
+    "topic": "Receptor Regulation and Receptor Antagonists",
+    "flashcards": [
+      {
+        "question": "How can receptor number influence hormone responses?",
+        "answer": "Greater receptor numbers generally produce larger responses."
+      },
+      {
+        "question": "Which two factors determine the magnitude of hormone action?",
+        "answer": "Hormone concentration and receptor number."
+      },
+      {
+        "question": "What is receptor up-regulation?",
+        "answer": "An increase in receptor number on or within cells."
+      },
+      {
+        "question": "What is receptor down-regulation?",
+        "answer": "A decrease in receptor number on or within cells."
+      },
+      {
+        "question": "How does receptor up-regulation affect hormone sensitivity?",
+        "answer": "It increases sensitivity."
+      },
+      {
+        "question": "How does receptor down-regulation affect hormone sensitivity?",
+        "answer": "It decreases sensitivity."
+      },
+      {
+        "question": "What often causes receptor down-regulation?",
+        "answer": "High levels of the agonist hormone."
+      },
+      {
+        "question": "What is an antagonist?",
+        "answer": "A compound that binds a receptor but does not activate it."
+      },
+      {
+        "question": "Can an antagonist produce the normal effect of a hormone?",
+        "answer": "No."
+      },
+      {
+        "question": "How does an antagonist block hormone action?",
+        "answer": "By occupying the receptor and preventing hormone binding."
+      },
+      {
+        "question": "What happens when a receptor is occupied by an antagonist?",
+        "answer": "The hormone cannot activate the receptor."
+      },
+      {
+        "question": "What is a partial agonist?",
+        "answer": "A ligand that activates a receptor but produces a weaker effect than a full agonist."
+      },
+      {
+        "question": "What is tamoxifen?",
+        "answer": "A partial agonist of the oestrogen receptor used in breast cancer treatment."
+      },
+      {
+        "question": "What receptor does tamoxifen target?",
+        "answer": "The oestrogen receptor."
+      },
+      {
+        "question": "What is RU486?",
+        "answer": "An antagonist of the progesterone receptor."
+      },
+      {
+        "question": "What clinical use of RU486 is mentioned in the lecture?",
+        "answer": "Inducing abortion."
+      },
+      {
+        "question": "What receptor does RU486 block?",
+        "answer": "The progesterone receptor."
+      },
+      {
+        "question": "Why are receptor antagonists important in medicine?",
+        "answer": "They can selectively block unwanted hormone effects."
+      }
+    ]
+  },
+  {
+    "topic": "Endocrine Glands and Major Endocrine Organs",
+    "flashcards": [
+      {
+        "question": "Which endocrine gland produces catecholamines, corticosteroids and mineralocorticoids?",
+        "answer": "The adrenal gland."
+      },
+      {
+        "question": "Which endocrine gland is associated with many hormonal axes?",
+        "answer": "The pituitary gland."
+      },
+      {
+        "question": "Which gland produces thyroid hormones?",
+        "answer": "The thyroid gland."
+      },
+      {
+        "question": "What is the principal effect of thyroid hormones?",
+        "answer": "Increasing metabolic rate."
+      },
+      {
+        "question": "Which gland produces parathyroid hormone?",
+        "answer": "The parathyroid gland."
+      },
+      {
+        "question": "What does parathyroid hormone regulate?",
+        "answer": "Vitamin D and plasma calcium."
+      },
+      {
+        "question": "Which gland produces insulin and glucagon?",
+        "answer": "The pancreas."
+      },
+      {
+        "question": "What is the role of insulin and glucagon?",
+        "answer": "Regulation of metabolism and plasma nutrients."
+      },
+      {
+        "question": "Which organs produce oestrogen and testosterone?",
+        "answer": "The gonads."
+      },
+      {
+        "question": "Which gland produces melatonin?",
+        "answer": "The pineal gland."
+      },
+      {
+        "question": "What is the role of melatonin?",
+        "answer": "Regulation of biological rhythms."
+      },
+      {
+        "question": "Are endocrine hormones produced only by traditional endocrine glands?",
+        "answer": "No."
+      },
+      {
+        "question": "What hormone is secreted by the heart?",
+        "answer": "Atrial natriuretic peptide (ANP)."
+      },
+      {
+        "question": "What does ANP regulate?",
+        "answer": "Blood volume."
+      },
+      {
+        "question": "What types of hormones are produced by the intestine?",
+        "answer": "Hormones regulating digestion and metabolism."
+      },
+      {
+        "question": "What hormonal system related to blood pressure is produced by the kidney?",
+        "answer": "The renin-angiotensin system."
+      },
+      {
+        "question": "What does erythropoietin regulate?",
+        "answer": "Red blood cell production."
+      },
+      {
+        "question": "What kidney-derived hormone helps regulate calcium absorption?",
+        "answer": "1,25 vitamin D."
+      },
+      {
+        "question": "What hormone is produced by adipose tissue?",
+        "answer": "Leptin."
+      },
+      {
+        "question": "Can non-endocrine organs function as endocrine organs?",
+        "answer": "Yes."
+      }
+    ]
+  },
+
+  {
+    "topic": "Autocrine and Paracrine Hormone Signalling",
+    "flashcards": [
+      {
+        "question": "Are hormones secreted only by endocrine glands?",
+        "answer": "No. Many individual cells also secrete hormones."
+      },
+      {
+        "question": "What is paracrine signalling?",
+        "answer": "Hormonal communication that acts on nearby neighboring cells."
+      },
+      {
+        "question": "What is autocrine signalling?",
+        "answer": "Hormonal communication in which a cell acts on itself."
+      },
+      {
+        "question": "What is an example of paracrine signalling from the lecture?",
+        "answer": "Arterial endothelial cells releasing endothelin to constrict nearby smooth muscle."
+      },
+      {
+        "question": "What is endothelin?",
+        "answer": "A paracrine signaling molecule released by endothelial cells that constricts smooth muscle."
+      },
+      {
+        "question": "Which cells produce endothelin in the lecture example?",
+        "answer": "Arterial endothelial cells."
+      },
+      {
+        "question": "What effect does endothelin have on smooth muscle?",
+        "answer": "It causes constriction."
+      },
+      {
+        "question": "What are cytokines commonly used as examples of?",
+        "answer": "Autocrine signaling molecules."
+      },
+      {
+        "question": "What is a cytokine?",
+        "answer": "A signaling molecule often involved in local cell communication and autocrine signaling."
+      },
+      {
+        "question": "How can autocrine signalling contribute to cancer?",
+        "answer": "Cancer cells may produce their own growth signals and stimulate themselves continuously."
+      },
+      {
+        "question": "What is meant by a cell producing its own 'grow' signal?",
+        "answer": "The cell secretes signaling molecules that stimulate its own proliferation."
+      },
+      {
+        "question": "Do most cells secrete hormones into their local environment?",
+        "answer": "Yes."
+      },
+      {
+        "question": "What is the main difference between endocrine and paracrine signaling?",
+        "answer": "Endocrine signaling acts at a distance, while paracrine signaling acts locally."
+      },
+      {
+        "question": "What is the main difference between paracrine and autocrine signaling?",
+        "answer": "Paracrine signaling affects nearby cells, whereas autocrine signaling affects the same cell."
+      },
+      {
+        "question": "Why are autocrine and paracrine signaling important?",
+        "answer": "They allow local regulation of cell behavior."
+      }
+    ]
+  },
+  {
+    "topic": "Thyroid Hormones - Fundamentals",
+    "flashcards": [
+      {
+        "question": "What is the primary role of thyroid hormones?",
+        "answer": "To regulate metabolism."
+      },
+      {
+        "question": "Why are thyroid hormones described as the body's 'speed dial'?",
+        "answer": "Because they strongly influence metabolic rate."
+      },
+      {
+        "question": "What happens to oxygen consumption in most tissues when thyroid hormone levels increase?",
+        "answer": "Oxygen consumption increases."
+      },
+      {
+        "question": "Why do cells consume oxygen?",
+        "answer": "To support aerobic energy production and ATP generation."
+      },
+      {
+        "question": "What are the two major thyroid hormones?",
+        "answer": "T3 and T4."
+      },
+      {
+        "question": "What does T3 stand for?",
+        "answer": "Triiodothyronine."
+      },
+      {
+        "question": "What does T4 stand for?",
+        "answer": "Thyroxine."
+      },
+      {
+        "question": "Which thyroid hormone is secreted in greater quantity by the thyroid gland?",
+        "answer": "T4."
+      },
+      {
+        "question": "Approximately how much T4 is secreted relative to T3?",
+        "answer": "The thyroid secretes about 20 T4 molecules for every T3 molecule."
+      },
+      {
+        "question": "Which thyroid hormone is the biologically active form?",
+        "answer": "T3."
+      },
+      {
+        "question": "Why is T4 often considered a prohormone?",
+        "answer": "Because it is converted into active T3 in tissues."
+      },
+      {
+        "question": "How is active T3 generated from T4?",
+        "answer": "Cells deiodinate T4 to produce T3."
+      },
+      {
+        "question": "What is deiodination?",
+        "answer": "The removal of an iodine atom from T4 to form T3."
+      },
+      {
+        "question": "What is reverse T3 (rT3)?",
+        "answer": "A biologically inactive form of thyroid hormone."
+      },
+      {
+        "question": "Is reverse T3 biologically active?",
+        "answer": "No."
+      },
+      {
+        "question": "What happens to reverse T3 production during starvation?",
+        "answer": "A greater proportion of reverse T3 is produced."
+      },
+      {
+        "question": "Why might reverse T3 production increase during starvation?",
+        "answer": "To reduce thyroid hormone activity and conserve energy."
+      },
+      {
+        "question": "Do thyroid hormones stimulate or suppress metabolism?",
+        "answer": "They stimulate metabolism."
+      },
+      {
+        "question": "Which receptor type does T3 primarily bind to regulate gene expression?",
+        "answer": "A nuclear receptor."
+      },
+      {
+        "question": "What happens after T3 binds its nuclear receptor?",
+        "answer": "Protein expression is stimulated."
+      },
+      {
+        "question": "Besides nuclear receptors, what other cellular structure does T3 act on?",
+        "answer": "Mitochondrial receptors."
+      },
+      {
+        "question": "What effect does T3 have on mitochondrial function?",
+        "answer": "It increases energy metabolism."
+      },
+      {
+        "question": "What membrane transport enzyme is directly stimulated by T3?",
+        "answer": "Na+/K+ ATPase."
+      },
+      {
+        "question": "What is Na+/K+ ATPase?",
+        "answer": "An ATP-dependent membrane pump that transports sodium and potassium ions."
+      },
+      {
+        "question": "How does stimulation of Na+/K+ ATPase contribute to thyroid hormone effects?",
+        "answer": "It increases cellular energy expenditure."
+      }
+    ]
+  },
+  {
+    "topic": "Thyroid Hormone Axis",
+    "flashcards": [
+      {
+        "question": "What endocrine axis controls thyroid hormone production?",
+        "answer": "The hypothalamic-pituitary-thyroid (HPT) axis."
+      },
+      {
+        "question": "Which hormone is secreted by the hypothalamus to initiate the thyroid axis?",
+        "answer": "TRH."
+      },
+      {
+        "question": "What does TRH stand for?",
+        "answer": "Thyrotropin-releasing hormone."
+      },
+      {
+        "question": "What is the primary target of TRH?",
+        "answer": "The anterior pituitary gland."
+      },
+      {
+        "question": "Which hormone is released from the anterior pituitary in response to TRH?",
+        "answer": "TSH."
+      },
+      {
+        "question": "What does TSH stand for?",
+        "answer": "Thyroid-stimulating hormone."
+      },
+      {
+        "question": "Which gland secretes TSH?",
+        "answer": "The anterior pituitary."
+      },
+      {
+        "question": "What is the primary target of TSH?",
+        "answer": "The thyroid gland."
+      },
+      {
+        "question": "What stimulates thyroid hormone release from the thyroid gland?",
+        "answer": "TSH."
+      },
+      {
+        "question": "Which hormones are released by the thyroid gland?",
+        "answer": "T3 and T4."
+      },
+      {
+        "question": "What is the overall effect of thyroid hormones on the body?",
+        "answer": "An increase in metabolic rate."
+      },
+      {
+        "question": "How are thyroid hormones transported in the bloodstream?",
+        "answer": "Partly bound to plasma binding proteins."
+      },
+      {
+        "question": "Where does much of the body's T3 come from?",
+        "answer": "Peripheral conversion of T4 to T3."
+      },
+      {
+        "question": "What is peripheral conversion?",
+        "answer": "The conversion of T4 into T3 outside the thyroid gland."
+      },
+      {
+        "question": "Which hormone inhibits TSH release?",
+        "answer": "T3."
+      },
+      {
+        "question": "What type of regulation does T3 exert on the thyroid axis?",
+        "answer": "Negative feedback."
+      },
+      {
+        "question": "Why is negative feedback important in the thyroid axis?",
+        "answer": "It helps maintain stable thyroid hormone levels."
+      },
+      {
+        "question": "What happens to TRH and TSH when thyroid hormone levels become sufficiently high?",
+        "answer": "Their secretion is reduced."
+      },
+      {
+        "question": "Which gland sits between the hypothalamus and thyroid gland in the axis?",
+        "answer": "The anterior pituitary."
+      },
+      {
+        "question": "What sequence of hormones occurs in the thyroid axis?",
+        "answer": "TRH → TSH → T3/T4."
+      }
+    ]
+  },
+  {
+    "topic": "Thyroid Axis Clinical Interpretation and Endocrine Diagnosis",
+    "flashcards": [
+      {
+        "question": "What generally happens to TSH when thyroid hormone levels fall due to thyroid gland failure?",
+        "answer": "TSH levels increase because negative feedback is reduced."
+      },
+      {
+        "question": "What generally happens to TRH when thyroid hormone levels fall due to thyroid gland failure?",
+        "answer": "TRH levels increase because negative feedback is reduced."
+      },
+      {
+        "question": "Which pattern suggests a thyroid gland problem: high TRH, high TSH, low T3/T4?",
+        "answer": "A thyroid gland disorder."
+      },
+      {
+        "question": "Why does thyroid gland failure produce high TSH?",
+        "answer": "Because the pituitary tries to stimulate the underactive thyroid."
+      },
+      {
+        "question": "Which pattern suggests a pituitary problem: normal TRH, low TSH, low T3/T4 or high TRH, low TSH, low T3/T4?",
+        "answer": "A pituitary disorder."
+      },
+      {
+        "question": "Why does pituitary failure lead to low T3 and T4?",
+        "answer": "Because inadequate TSH fails to stimulate the thyroid."
+      },
+      {
+        "question": "Which pattern suggests a hypothalamic problem: low TRH, low TSH, low T3/T4?",
+        "answer": "A hypothalamic disorder."
+      },
+      {
+        "question": "Why does hypothalamic failure reduce thyroid hormone production?",
+        "answer": "Because insufficient TRH reduces pituitary stimulation."
+      },
+      {
+        "question": "In endocrine diagnosis, why are multiple hormone levels often measured?",
+        "answer": "To identify which level of an endocrine axis is malfunctioning."
+      },
+      {
+        "question": "What does preserved negative feedback help clinicians determine?",
+        "answer": "Whether endocrine organs are responding appropriately."
+      }
+    ]
+  },
+  {
+    "topic": "Integrated Endocrinology Summary and Core Principles",
+    "flashcards": [
+      {
+        "question": "What are hormones fundamentally?",
+        "answer": "Chemical messengers."
+      },
+      {
+        "question": "Should hormones be assumed to have only one function?",
+        "answer": "No, many hormones have multiple functions."
+      },
+      {
+        "question": "What is the principal role of receptors?",
+        "answer": "To bind hormones and mediate cellular effects."
+      },
+      {
+        "question": "How do membrane receptors commonly produce effects?",
+        "answer": "Through second messenger systems."
+      },
+      {
+        "question": "What is the relationship between hormones and receptors?",
+        "answer": "Hormones must bind receptors to produce effects."
+      },
+      {
+        "question": "Why is receptor expression important?",
+        "answer": "Only cells expressing the receptor can respond to a hormone."
+      },
+      {
+        "question": "Why are negative feedback loops common in endocrinology?",
+        "answer": "They stabilize physiological variables and hormone concentrations."
+      },
+      {
+        "question": "What is the purpose of hormone regulation?",
+        "answer": "To maintain homeostasis."
+      },
+      {
+        "question": "Why is endocrine communication advantageous?",
+        "answer": "It allows coordinated regulation across multiple tissues and organs."
+      },
+      {
+        "question": "What is the central theme connecting hormones, receptors and feedback loops?",
+        "answer": "Maintaining stable physiological function through regulated cellular communication."
+      }
+    ]
+  },
+
+  {
+    "topic": "Physiological Stimuli and Hormonal Responses",
+    "flashcards": [
+      {
+        "question": "What is a physiological stimulus?",
+        "answer": "A change in the internal or external environment that triggers a biological response."
+      },
+      {
+        "question": "What is the relationship between stimuli and hormones?",
+        "answer": "Many hormones are released in response to specific physiological stimuli."
+      },
+      {
+        "question": "What hormonal response occurs when blood glucose levels are high?",
+        "answer": "Insulin release."
+      },
+      {
+        "question": "Which organ mediates the response to high blood glucose?",
+        "answer": "The endocrine pancreas."
+      },
+      {
+        "question": "What hormonal response occurs when blood glucose levels are low?",
+        "answer": "Glucagon release."
+      },
+      {
+        "question": "Which organ mediates the response to low blood glucose?",
+        "answer": "The endocrine pancreas."
+      },
+      {
+        "question": "What hormonal response occurs when blood pressure is low?",
+        "answer": "Angiotensin II production."
+      },
+      {
+        "question": "Does angiotensin II production involve a simple or multi-step process?",
+        "answer": "A multi-step process."
+      },
+      {
+        "question": "Which hormone responds to increased stomach pH?",
+        "answer": "Gastrin."
+      },
+      {
+        "question": "Which cells release gastrin?",
+        "answer": "G cells in the stomach wall."
+      },
+      {
+        "question": "Which hormone responds to low blood calcium levels?",
+        "answer": "Parathyroid hormone."
+      },
+      {
+        "question": "Which gland releases parathyroid hormone?",
+        "answer": "The parathyroid gland."
+      },
+      {
+        "question": "What hormone is released in response to products of digestion entering the duodenum?",
+        "answer": "Cholecystokinin."
+      },
+      {
+        "question": "Which gastrointestinal region releases cholecystokinin?",
+        "answer": "The duodenum."
+      },
+      {
+        "question": "Why are hormones useful physiological regulators?",
+        "answer": "Because they allow specific responses to particular physiological changes."
+      }
+    ]
+  },
+  {
+    "topic": "Hormone Classes and Biosynthetic Origins",
+    "flashcards": [
+      {
+        "question": "What are the major biochemical classes of hormones discussed in the lecture?",
+        "answer": "Proteins/peptides, tyrosine derivatives, cholesterol derivatives and fatty-acid derivatives."
+      },
+      {
+        "question": "What is a peptide hormone?",
+        "answer": "A hormone composed of amino acids."
+      },
+      {
+        "question": "What is a steroid hormone?",
+        "answer": "A hormone derived from cholesterol."
+      },
+      {
+        "question": "Which biomolecule is the precursor of steroid hormones?",
+        "answer": "Cholesterol."
+      },
+      {
+        "question": "Which biomolecule is the precursor of thyroid hormones?",
+        "answer": "Tyrosine."
+      },
+      {
+        "question": "Which biomolecule serves as the precursor of prostaglandins?",
+        "answer": "Fatty acids."
+      },
+      {
+        "question": "What class of hormone is insulin?",
+        "answer": "A protein hormone."
+      },
+      {
+        "question": "What class of hormone is glucagon?",
+        "answer": "A protein hormone."
+      },
+      {
+        "question": "What class of hormone is growth hormone?",
+        "answer": "A protein hormone."
+      },
+      {
+        "question": "What class of hormone is adrenaline?",
+        "answer": "A tyrosine derivative."
+      },
+      {
+        "question": "What class of hormone is thyroid hormone?",
+        "answer": "A tyrosine derivative."
+      },
+      {
+        "question": "What class of hormone is cortisol?",
+        "answer": "A cholesterol derivative."
+      },
+      {
+        "question": "What class of hormone is testosterone?",
+        "answer": "A cholesterol derivative."
+      },
+      {
+        "question": "What class of hormone is oestrogen?",
+        "answer": "A cholesterol derivative."
+      },
+      {
+        "question": "What class of hormone is progesterone?",
+        "answer": "A cholesterol derivative."
+      },
+      {
+        "question": "What class of hormone is aldosterone?",
+        "answer": "A cholesterol derivative."
+      },
+      {
+        "question": "What class of hormone is angiotensin II?",
+        "answer": "A peptide hormone."
+      },
+      {
+        "question": "What class of hormone is atrial natriuretic peptide?",
+        "answer": "A peptide hormone."
+      },
+      {
+        "question": "What class of hormone is gastrin?",
+        "answer": "A protein hormone."
+      },
+      {
+        "question": "What class of signaling molecules are prostaglandins?",
+        "answer": "Fatty-acid-derived signaling molecules."
+      }
+    ]
+  },
+  {
+    "topic": "Major Hormones and Their Functions",
+    "flashcards": [
+      {
+        "question": "What is the primary role of insulin?",
+        "answer": "To decrease blood glucose levels."
+      },
+      {
+        "question": "What is the primary role of glucagon?",
+        "answer": "To increase blood glucose levels."
+      },
+      {
+        "question": "What is the primary role of growth hormone?",
+        "answer": "To promote linear growth."
+      },
+      {
+        "question": "What is the primary role of adrenaline?",
+        "answer": "To support the fight-or-flight response."
+      },
+      {
+        "question": "What is the primary role of cortisol?",
+        "answer": "To mediate stress responses and influence metabolism."
+      },
+      {
+        "question": "What is the primary role of testosterone?",
+        "answer": "To function as a male sex hormone."
+      },
+      {
+        "question": "What is the primary role of oestrogen?",
+        "answer": "To function as a female sex hormone."
+      },
+      {
+        "question": "What is the primary role of progesterone?",
+        "answer": "To regulate the menstrual cycle and contribute to pregnancy."
+      },
+      {
+        "question": "What is the primary role of thyroid hormones?",
+        "answer": "To regulate metabolic rate."
+      },
+      {
+        "question": "Do most hormones have only one biological function?",
+        "answer": "No. Many hormones have multiple physiological roles."
+      },
+      {
+        "question": "What is the primary role of angiotensin II?",
+        "answer": "Blood pressure regulation."
+      },
+      {
+        "question": "What is the primary role of aldosterone?",
+        "answer": "Increasing blood sodium levels."
+      },
+      {
+        "question": "What is the primary role of atrial natriuretic peptide (ANP)?",
+        "answer": "Decreasing blood volume."
+      },
+      {
+        "question": "What is the primary role of gastrin?",
+        "answer": "Stimulating acid secretion in the stomach."
+      },
+      {
+        "question": "What is the primary role of parathyroid hormone?",
+        "answer": "Regulating vitamin D and plasma calcium."
+      },
+      {
+        "question": "What is the primary role of melatonin?",
+        "answer": "Regulating biological rhythms."
+      },
+      {
+        "question": "What is the primary role of erythropoietin?",
+        "answer": "Stimulating red blood cell production."
+      },
+      {
+        "question": "What is the primary role of leptin?",
+        "answer": "Hormonal signaling from adipose tissue."
+      },
+      {
+        "question": "What is the primary role of 1,25 vitamin D?",
+        "answer": "Promoting calcium absorption."
+      },
+      {
+        "question": "What is the primary role of cholecystokinin?",
+        "answer": "Helping regulate digestion."
+      }
+    ]
+  },
+  {
+    "topic": "Hormones by Organ of Origin",
+    "flashcards": [
+      {
+        "question": "Which organ produces insulin?",
+        "answer": "The pancreas."
+      },
+      {
+        "question": "Which organ produces glucagon?",
+        "answer": "The pancreas."
+      },
+      {
+        "question": "Which organ produces growth hormone?",
+        "answer": "The pituitary gland."
+      },
+      {
+        "question": "Which organ produces adrenaline?",
+        "answer": "The adrenal medulla."
+      },
+      {
+        "question": "Which organ produces cortisol?",
+        "answer": "The adrenal cortex."
+      },
+      {
+        "question": "Which organ produces aldosterone?",
+        "answer": "The adrenal gland."
+      },
+      {
+        "question": "Which organ produces testosterone?",
+        "answer": "The testes."
+      },
+      {
+        "question": "Which organ produces oestrogen?",
+        "answer": "The ovaries and placenta."
+      },
+      {
+        "question": "Which organ produces progesterone?",
+        "answer": "The ovaries and placenta."
+      },
+      {
+        "question": "Which organ produces thyroid hormones?",
+        "answer": "The thyroid gland."
+      },
+      {
+        "question": "Which cells produce gastrin?",
+        "answer": "G cells of the stomach."
+      },
+      {
+        "question": "Which organ produces atrial natriuretic peptide?",
+        "answer": "The heart atria."
+      },
+      {
+        "question": "Which organ contributes to angiotensin II production?",
+        "answer": "The lungs and other tissues."
+      },
+      {
+        "question": "Which gland produces parathyroid hormone?",
+        "answer": "The parathyroid gland."
+      },
+      {
+        "question": "Which gland produces melatonin?",
+        "answer": "The pineal gland."
+      },
+      {
+        "question": "Which organ produces leptin?",
+        "answer": "Adipose tissue."
+      },
+      {
+        "question": "Which organ produces erythropoietin?",
+        "answer": "The kidney."
+      },
+      {
+        "question": "Which organ produces 1,25 vitamin D?",
+        "answer": "The kidney."
+      },
+      {
+        "question": "Which part of the gastrointestinal tract releases cholecystokinin?",
+        "answer": "The duodenum."
+      },
+      {
+        "question": "Which endocrine organ releases T3 and T4?",
+        "answer": "The thyroid gland."
+      }
+    ]
+  },
+  {
+    "topic": "Integrated Review and Foundational Exam Questions",
+    "flashcards": [
+      {
+        "question": "What are the four central concepts introduced in this lecture?",
+        "answer": "Homeostasis, hormones, receptors and regulation of hormone action."
+      },
+      {
+        "question": "What is required before any hormone can exert an effect?",
+        "answer": "Binding to an appropriate receptor."
+      },
+      {
+        "question": "Which receptor type typically activates second messenger pathways?",
+        "answer": "Membrane receptors."
+      },
+      {
+        "question": "Which receptor type typically alters gene transcription directly?",
+        "answer": "Nuclear receptors."
+      },
+      {
+        "question": "What is the major regulatory principle underlying endocrine homeostasis?",
+        "answer": "Negative feedback."
+      },
+      {
+        "question": "Why is receptor specificity important in endocrinology?",
+        "answer": "It ensures hormones affect only appropriate target cells."
+      },
+      {
+        "question": "What determines the strength of a hormonal response?",
+        "answer": "Hormone concentration, receptor number and receptor availability."
+      },
+      {
+        "question": "What factors influence hormone availability?",
+        "answer": "Release, binding proteins, breakdown and clearance."
+      },
+      {
+        "question": "How do endocrine systems maintain stable internal conditions?",
+        "answer": "Through regulated hormone secretion and negative feedback loops."
+      },
+      {
+        "question": "What is the unifying purpose of endocrine signaling?",
+        "answer": "Coordinating physiological function to maintain homeostasis."
+      },
+      {
+        "question": "What is the general pathway for endocrine communication?",
+        "answer": "Stimulus → hormone release → receptor activation → cellular response → feedback regulation."
+      },
+      {
+        "question": "Why is blood used in endocrine signaling?",
+        "answer": "To transport hormones to distant target tissues."
+      },
+      {
+        "question": "What is the difference between hormone secretion and hormone action?",
+        "answer": "Secretion releases the hormone, while action occurs after receptor binding."
+      },
+      {
+        "question": "What three signaling modes should students distinguish?",
+        "answer": "Endocrine, paracrine and autocrine signaling."
+      },
+      {
+        "question": "What concept links insulin regulation, thyroid regulation and hypothalamic-pituitary axes?",
+        "answer": "Negative feedback control."
+      }
+    ]
+  },
+
+  {
+    "topic": "Comparing Membrane and Nuclear Receptors",
+    "flashcards": [
+      {
+        "question": "What is a transmembrane protein?",
+        "answer": "A protein that spans the cell membrane."
+      },
+      {
+        "question": "Which class of receptors are transmembrane proteins?",
+        "answer": "Membrane receptors."
+      },
+      {
+        "question": "Where is the hormone-binding region of a membrane receptor located?",
+        "answer": "On the extracellular domain."
+      },
+      {
+        "question": "Where is the signaling region of a membrane receptor located?",
+        "answer": "On the intracellular domain."
+      },
+      {
+        "question": "What is the first intracellular event after membrane receptor activation?",
+        "answer": "Generation of second messengers."
+      },
+      {
+        "question": "What is the primary role of second messengers?",
+        "answer": "To carry and amplify signals inside the cell."
+      },
+      {
+        "question": "Can membrane receptor activation influence gene expression?",
+        "answer": "Yes, it may alter gene expression."
+      },
+      {
+        "question": "Where are nuclear receptors located?",
+        "answer": "In the cytoplasm or nucleus."
+      },
+      {
+        "question": "Which receptor type is activated by membrane-impermeable hormones such as insulin?",
+        "answer": "Membrane receptors."
+      },
+      {
+        "question": "Which receptor type is activated by lipophilic steroid hormones?",
+        "answer": "Nuclear receptors."
+      },
+      {
+        "question": "Why can steroid hormones enter cells easily?",
+        "answer": "Because they are lipophilic and can cross biological membranes."
+      },
+      {
+        "question": "What cellular process is directly activated by nuclear receptor signaling?",
+        "answer": "Gene transcription."
+      },
+      {
+        "question": "What is mRNA?",
+        "answer": "Messenger RNA that carries genetic information for protein synthesis."
+      },
+      {
+        "question": "What is the typical sequence for nuclear receptor action?",
+        "answer": "Hormone binding → transcription activation → mRNA production → protein synthesis."
+      },
+      {
+        "question": "Which receptor type generally produces faster responses?",
+        "answer": "Membrane receptors."
+      },
+      {
+        "question": "Which receptor type commonly produces longer-lasting responses through protein synthesis?",
+        "answer": "Nuclear receptors."
+      },
+      {
+        "question": "Which hormone mentioned in the lecture acts through membrane receptors?",
+        "answer": "Insulin."
+      },
+      {
+        "question": "Which class of hormones primarily use nuclear receptors?",
+        "answer": "Steroid hormones."
+      }
+    ]
+  },
+  {
+    "topic": "Hormone Transport, Blood Circulation and Endocrine Communication",
+    "flashcards": [
+      {
+        "question": "How do endocrine hormones typically travel to distant tissues?",
+        "answer": "Through the bloodstream."
+      },
+      {
+        "question": "What is the interstitial space?",
+        "answer": "The fluid-filled space surrounding cells."
+      },
+      {
+        "question": "Where are many peptide hormones released before entering the bloodstream?",
+        "answer": "Into the interstitial space."
+      },
+      {
+        "question": "What is meant by endocrine communication over long distances?",
+        "answer": "Hormones travel through blood to affect distant target cells."
+      },
+      {
+        "question": "Do all cells exposed to a hormone respond to it?",
+        "answer": "No, only cells expressing the appropriate receptor respond."
+      },
+      {
+        "question": "Why can a hormone circulate throughout the body without affecting every cell?",
+        "answer": "Because receptor expression determines responsiveness."
+      },
+      {
+        "question": "What is a non-target cell?",
+        "answer": "A cell lacking the receptor needed to respond to a hormone."
+      },
+      {
+        "question": "What is a target cell?",
+        "answer": "A cell possessing receptors for a specific hormone."
+      },
+      {
+        "question": "What is the advantage of receptor-specific signaling?",
+        "answer": "It allows precise regulation of selected tissues."
+      },
+      {
+        "question": "Can one hormone influence multiple organs simultaneously?",
+        "answer": "Yes, if those organs express the relevant receptor."
+      },
+      {
+        "question": "What determines the distribution of endocrine messages throughout the body?",
+        "answer": "Blood circulation."
+      },
+      {
+        "question": "What determines where those messages are interpreted?",
+        "answer": "Receptor distribution."
+      },
+      {
+        "question": "Why is blood an effective transport medium for hormones?",
+        "answer": "It reaches nearly all tissues in the body."
+      },
+      {
+        "question": "Can the same hormone produce different effects in different tissues?",
+        "answer": "Yes, depending on receptor type and cellular signaling pathways."
+      },
+      {
+        "question": "Why is endocrine signaling considered a communication system?",
+        "answer": "Because hormones transmit information between cells and organs."
+      }
+    ]
+  },
+  {
+    "topic": "Hypothalamic Releasing Hormones and Pituitary Hormones",
+    "flashcards": [
+      {
+        "question": "What is the role of the hypothalamus in endocrine regulation?",
+        "answer": "It initiates hormonal signaling pathways that regulate pituitary activity."
+      },
+      {
+        "question": "What is the role of the anterior pituitary?",
+        "answer": "It releases hormones that regulate peripheral endocrine glands."
+      },
+      {
+        "question": "What does CRH stimulate the pituitary to release?",
+        "answer": "ACTH."
+      },
+      {
+        "question": "What does TRH stimulate the pituitary to release?",
+        "answer": "TSH."
+      },
+      {
+        "question": "What does GnRH stimulate the pituitary to release?",
+        "answer": "LH and FSH."
+      },
+      {
+        "question": "What does GHRH stimulate the pituitary to release?",
+        "answer": "Growth hormone."
+      },
+      {
+        "question": "What is ACTH?",
+        "answer": "Adrenocorticotropic hormone that stimulates the adrenal cortex."
+      },
+      {
+        "question": "What is TSH?",
+        "answer": "Thyroid-stimulating hormone that stimulates the thyroid gland."
+      },
+      {
+        "question": "What is LH?",
+        "answer": "Luteinising hormone involved in reproductive function."
+      },
+      {
+        "question": "What is FSH?",
+        "answer": "Follicle-stimulating hormone involved in reproductive function."
+      },
+      {
+        "question": "What hormone is closely associated with linear growth in the endocrine axis diagram?",
+        "answer": "IGF."
+      },
+      {
+        "question": "What does IGF stand for conceptually?",
+        "answer": "Insulin-like growth factor involved in linear growth."
+      },
+      {
+        "question": "What gland is stimulated by ACTH?",
+        "answer": "The adrenal gland."
+      },
+      {
+        "question": "What gland is stimulated by TSH?",
+        "answer": "The thyroid gland."
+      },
+      {
+        "question": "Which endocrine axis regulates reproductive hormones?",
+        "answer": "The hypothalamic-pituitary-gonadal axis."
+      },
+      {
+        "question": "Which endocrine axis regulates growth-related hormones?",
+        "answer": "The hypothalamic-pituitary-growth hormone axis."
+      }
+    ]
+  },
+  {
+    "topic": "Feedback Loops and Homeostatic Control",
+    "flashcards": [
+      {
+        "question": "What is the overall purpose of a homeostatic feedback loop?",
+        "answer": "To maintain physiological variables within an appropriate range."
+      },
+      {
+        "question": "What characterizes negative feedback?",
+        "answer": "The response opposes the original change."
+      },
+      {
+        "question": "What happens when the controlled variable rises above its target level?",
+        "answer": "Corrective mechanisms act to reduce it."
+      },
+      {
+        "question": "What happens when the controlled variable falls below its target level?",
+        "answer": "Corrective mechanisms act to increase it."
+      },
+      {
+        "question": "Why are endocrine systems ideally suited for feedback control?",
+        "answer": "Because hormones can adjust physiological processes throughout the body."
+      },
+      {
+        "question": "What is meant by a set point?",
+        "answer": "The desired physiological level around which a variable is maintained."
+      },
+      {
+        "question": "Why is blood glucose a homeostatically regulated variable?",
+        "answer": "Because stable glucose levels are necessary for cellular energy supply."
+      },
+      {
+        "question": "Why are thyroid hormone levels regulated by feedback loops?",
+        "answer": "To maintain an appropriate metabolic rate."
+      },
+      {
+        "question": "In a negative feedback loop, does the response amplify or reduce the original stimulus?",
+        "answer": "Reduce it."
+      },
+      {
+        "question": "Which endocrine axes illustrated in the lecture rely on negative feedback?",
+        "answer": "The hypothalamic-pituitary-adrenal and hypothalamic-pituitary-thyroid axes."
+      },
+      {
+        "question": "Can feedback regulation occur at both the hypothalamus and pituitary?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Why is feedback control important for hormone concentrations?",
+        "answer": "It prevents excessive or inadequate hormone levels."
+      },
+      {
+        "question": "How do endocrine feedback loops contribute to survival?",
+        "answer": "They stabilize internal physiological conditions."
+      },
+      {
+        "question": "What would happen if feedback control failed completely?",
+        "answer": "Hormonal and physiological variables could become unstable."
+      },
+      {
+        "question": "What concept unifies insulin regulation, thyroid regulation and hypothalamic-pituitary regulation?",
+        "answer": "Negative feedback-mediated homeostasis."
+      }
+    ]
+  },
+  {
+    "topic": "Advanced Integrative Flashcards",
+    "flashcards": [
+      {
+        "question": "Why is receptor expression as important as hormone concentration?",
+        "answer": "Because hormones can only act on cells that express the appropriate receptor."
+      },
+      {
+        "question": "Why can two individuals with similar hormone levels show different responses?",
+        "answer": "Differences in receptor number or sensitivity may alter responsiveness."
+      },
+      {
+        "question": "How can hormone action be increased without increasing hormone secretion?",
+        "answer": "By increasing receptor number or reducing hormone breakdown."
+      },
+      {
+        "question": "How can hormone action decrease despite normal hormone secretion?",
+        "answer": "Through receptor down-regulation or receptor blockade."
+      },
+      {
+        "question": "Why are second messenger cascades biologically advantageous?",
+        "answer": "They amplify small signals into large cellular responses."
+      },
+      {
+        "question": "How can hormone-binding proteins simultaneously increase half-life and decrease activity?",
+        "answer": "They protect hormones from degradation while reducing the amount of free hormone available for receptor binding."
+      },
+      {
+        "question": "Why is T4 more abundant than T3 in circulation?",
+        "answer": "The thyroid gland secretes much more T4 than T3."
+      },
+      {
+        "question": "Why is T3 considered the active thyroid hormone?",
+        "answer": "Because it directly mediates most thyroid hormone effects."
+      },
+      {
+        "question": "Why do endocrine systems require both secretion and clearance mechanisms?",
+        "answer": "To precisely regulate hormone concentrations over time."
+      },
+      {
+        "question": "What is the relationship between endocrine signaling and homeostasis?",
+        "answer": "Endocrine signaling provides coordinated regulation that maintains homeostasis."
+      },
+      {
+        "question": "Why should hormones not be thought of as having only one effect?",
+        "answer": "Many hormones act on multiple tissues and influence several physiological processes."
+      },
+      {
+        "question": "What is the complete pathway from stimulus to physiological regulation?",
+        "answer": "Stimulus → hormone release → receptor activation → intracellular signaling → physiological response → negative feedback."
+      }
+    ]
+  }
+
+]

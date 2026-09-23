@@ -1,0 +1,5516 @@
+[
+  {
+    "id": 1,
+    "question": "What is homeostasis?",
+    "options": [
+      "Maintenance of internal balance",
+      "Growth and development",
+      "Cell division",
+      "Energy production"
+    ],
+    "answer": "Maintenance of internal balance"
+  },
+  {
+    "id": 2,
+    "question": "Which two systems were identified as the primary communication systems maintaining homeostasis?",
+    "options": [
+      "Digestive and respiratory",
+      "Endocrine and nervous",
+      "Muscular and skeletal",
+      "Immune and reproductive"
+    ],
+    "answer": "Endocrine and nervous"
+  },
+  {
+    "id": 3,
+    "question": "Hormones allow cells to do what?",
+    "options": [
+      "Store energy",
+      "Divide more rapidly",
+      "Communicate with each other",
+      "Synthesize DNA"
+    ],
+    "answer": "Communicate with each other"
+  },
+  {
+    "id": 4,
+    "question": "What is the main purpose of homeostatic mechanisms?",
+    "options": [
+      "To maintain variables near a set level",
+      "To maximize hormone secretion",
+      "To increase variability",
+      "To eliminate feedback"
+    ],
+    "answer": "To maintain variables near a set level"
+  },
+  {
+    "id": 5,
+    "question": "Homeostasis is most commonly maintained through:",
+    "options": [
+      "Positive feedback loops",
+      "Negative feedback loops",
+      "Feedforward signalling only",
+      "Random fluctuations"
+    ],
+    "answer": "Negative feedback loops"
+  },
+  {
+    "id": 6,
+    "question": "A thermostat is an analogy for which physiological principle?",
+    "options": [
+      "Receptor specificity",
+      "Signal amplification",
+      "Negative feedback",
+      "Hormone synthesis"
+    ],
+    "answer": "Negative feedback"
+  },
+  {
+    "id": 7,
+    "question": "In a negative feedback loop, the response generally:",
+    "options": [
+      "Amplifies the original stimulus",
+      "Opposes the original stimulus",
+      "Creates a new stimulus",
+      "Prevents receptor formation"
+    ],
+    "answer": "Opposes the original stimulus"
+  },
+  {
+    "id": 8,
+    "question": "Which hormone is released in response to high blood glucose?",
+    "options": [
+      "Glucagon",
+      "Insulin",
+      "Gastrin",
+      "Angiotensin II"
+    ],
+    "answer": "Insulin"
+  },
+  {
+    "id": 9,
+    "question": "Which hormone is released in response to low blood glucose?",
+    "options": [
+      "Insulin",
+      "Gastrin",
+      "Glucagon",
+      "Parathyroid hormone"
+    ],
+    "answer": "Glucagon"
+  },
+  {
+    "id": 10,
+    "question": "Blood glucose regulation is a classic example of:",
+    "options": [
+      "Positive feedback",
+      "Hormone antagonism",
+      "Negative feedback",
+      "Signal amplification"
+    ],
+    "answer": "Negative feedback"
+  },
+  {
+    "id": 11,
+    "question": "Which stimulus leads to insulin release?",
+    "options": [
+      "Low blood pressure",
+      "High blood glucose",
+      "Low blood calcium",
+      "Increased stomach pH"
+    ],
+    "answer": "High blood glucose"
+  },
+  {
+    "id": 12,
+    "question": "Which stimulus leads to glucagon release?",
+    "options": [
+      "Products of digestion",
+      "Low blood glucose",
+      "High blood glucose",
+      "Low blood calcium"
+    ],
+    "answer": "Low blood glucose"
+  },
+  {
+    "id": 13,
+    "question": "Which hormone is associated with low blood pressure?",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Angiotensin II",
+      "Gastrin"
+    ],
+    "answer": "Angiotensin II"
+  },
+  {
+    "id": 14,
+    "question": "Low blood calcium stimulates release of:",
+    "options": [
+      "Parathyroid hormone",
+      "Insulin",
+      "TSH",
+      "ACTH"
+    ],
+    "answer": "Parathyroid hormone"
+  },
+  {
+    "id": 15,
+    "question": "Products of digestion stimulate release of:",
+    "options": [
+      "Glucagon",
+      "Parathyroid hormone",
+      "Cholecystokinin",
+      "Adrenaline"
+    ],
+    "answer": "Cholecystokinin"
+  },
+  {
+    "id": 16,
+    "question": "An increase in stomach pH stimulates secretion of:",
+    "options": [
+      "Insulin",
+      "Gastrin",
+      "Glucagon",
+      "ACTH"
+    ],
+    "answer": "Gastrin"
+  },
+  {
+    "id": 17,
+    "question": "Which hormone acts to lower blood glucose concentration?",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Cortisol",
+      "Adrenaline"
+    ],
+    "answer": "Insulin"
+  },
+  {
+    "id": 18,
+    "question": "Which hormone acts to increase blood glucose concentration?",
+    "options": [
+      "TSH",
+      "Insulin",
+      "Glucagon",
+      "Parathyroid hormone"
+    ],
+    "answer": "Glucagon"
+  },
+  {
+    "id": 19,
+    "question": "Which statement best describes a hormone?",
+    "options": [
+      "A structural carbohydrate",
+      "A chemical messenger",
+      "An electrical impulse",
+      "A membrane channel"
+    ],
+    "answer": "A chemical messenger"
+  },
+  {
+    "id": 20,
+    "question": "Why must different regions of the body communicate?",
+    "options": [
+      "To increase mutation rates",
+      "To maintain homeostasis",
+      "To prevent receptor activation",
+      "To stop feedback loops"
+    ],
+    "answer": "To maintain homeostasis"
+  },
+  {
+    "id": 21,
+    "question": "Which system primarily uses hormones for communication?",
+    "options": [
+      "Nervous system",
+      "Endocrine system",
+      "Immune system",
+      "Respiratory system"
+    ],
+    "answer": "Endocrine system"
+  },
+  {
+    "id": 22,
+    "question": "Which best describes the outcome of effective negative feedback?",
+    "options": [
+      "Greater instability",
+      "Progressive amplification",
+      "Return toward a set point",
+      "Permanent hormone release"
+    ],
+    "answer": "Return toward a set point"
+  },
+  {
+    "id": 23,
+    "question": "After eating a chocolate bar, which variable rises first in the lecture example?",
+    "options": [
+      "Blood calcium",
+      "TSH",
+      "Plasma glucose",
+      "Blood pressure"
+    ],
+    "answer": "Plasma glucose"
+  },
+  {
+    "id": 24,
+    "question": "What directly follows increased plasma glucose in the insulin feedback example?",
+    "options": [
+      "Insulin release",
+      "Glucagon release",
+      "TSH release",
+      "ACTH release"
+    ],
+    "answer": "Insulin release"
+  },
+  {
+    "id": 25,
+    "question": "The overall consequence of hormone-mediated communication in this lecture is to:",
+    "options": [
+      "Maintain homeostasis",
+      "Increase mutation frequency",
+      "Suppress receptor expression",
+      "Eliminate nervous system activity"
+    ],
+    "answer": "Maintain homeostasis"
+  },
+  {
+    "id": 26,
+    "question": "Which factor is directly regulated by insulin in the lecture's feedback-loop example?",
+    "options": [
+      "Blood calcium concentration",
+      "Blood pressure",
+      "Plasma glucose concentration",
+      "Thyroid hormone concentration"
+    ],
+    "answer": "Plasma glucose concentration"
+  },
+  {
+    "id": 27,
+    "question": "Why is insulin regulation considered a negative feedback system?",
+    "options": [
+      "Insulin increases blood glucose",
+      "Insulin opposes the change that stimulated its release",
+      "Insulin stimulates further insulin release indefinitely",
+      "Insulin prevents hormone secretion"
+    ],
+    "answer": "Insulin opposes the change that stimulated its release"
+  },
+  {
+    "id": 28,
+    "question": "Which statement best describes the relationship between the endocrine and nervous systems?",
+    "options": [
+      "Both contribute to communication required for homeostasis",
+      "Only the nervous system maintains homeostasis",
+      "Only the endocrine system maintains homeostasis",
+      "They function independently of homeostasis"
+    ],
+    "answer": "Both contribute to communication required for homeostasis"
+  },
+  {
+    "id": 29,
+    "question": "What would be the most likely consequence of a failure in body-wide communication?",
+    "options": [
+      "Improved homeostasis",
+      "Increased receptor specificity",
+      "Difficulty maintaining homeostasis",
+      "Permanent hormone activation"
+    ],
+    "answer": "Difficulty maintaining homeostasis"
+  },
+  {
+    "id": 30,
+    "question": "Which stimulus-response pair was presented in the lecture?",
+    "options": [
+      "Low blood calcium → TSH",
+      "High blood glucose → Insulin",
+      "Products of digestion → ACTH",
+      "Low blood pressure → Glucagon"
+    ],
+    "answer": "High blood glucose → Insulin"
+  },
+  {
+    "id": 31,
+    "question": "Which hormone was associated with products of digestion?",
+    "options": [
+      "Cholecystokinin",
+      "Insulin",
+      "Parathyroid hormone",
+      "Angiotensin II"
+    ],
+    "answer": "Cholecystokinin"
+  },
+  {
+    "id": 32,
+    "question": "Which hormone was associated with increased stomach pH?",
+    "options": [
+      "ACTH",
+      "Gastrin",
+      "Glucagon",
+      "TSH"
+    ],
+    "answer": "Gastrin"
+  },
+  {
+    "id": 33,
+    "question": "Which hormone was associated with regulation of blood calcium levels?",
+    "options": [
+      "Parathyroid hormone",
+      "Adrenaline",
+      "Gastrin",
+      "Insulin"
+    ],
+    "answer": "Parathyroid hormone"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following best characterizes a homeostatic set point?",
+    "options": [
+      "A level around which a variable is regulated",
+      "A maximum physiological value",
+      "A minimum hormone concentration",
+      "A receptor activation threshold"
+    ],
+    "answer": "A level around which a variable is regulated"
+  },
+  {
+    "id": 35,
+    "question": "What is the role of the response component in a negative feedback loop?",
+    "options": [
+      "To maintain deviation from normal",
+      "To amplify the stimulus",
+      "To help restore balance",
+      "To remove receptors"
+    ],
+    "answer": "To help restore balance"
+  },
+  {
+    "id": 36,
+    "question": "Which statement about hormones is most accurate according to the lecture?",
+    "options": [
+      "They are chemical messengers involved in communication",
+      "They only affect blood glucose",
+      "They are produced exclusively by glands",
+      "They act independently of homeostasis"
+    ],
+    "answer": "They are chemical messengers involved in communication"
+  },
+  {
+    "id": 37,
+    "question": "Which physiological variable was used as the main example of feedback regulation?",
+    "options": [
+      "Blood oxygen",
+      "Blood calcium",
+      "Blood glucose",
+      "Body temperature"
+    ],
+    "answer": "Blood glucose"
+  },
+  {
+    "id": 38,
+    "question": "Following a rise in blood glucose, the body responds by:",
+    "options": [
+      "Increasing glucagon release",
+      "Increasing insulin release",
+      "Reducing insulin release",
+      "Increasing gastrin release"
+    ],
+    "answer": "Increasing insulin release"
+  },
+  {
+    "id": 39,
+    "question": "Which hormone directly opposes the action of insulin on blood glucose levels?",
+    "options": [
+      "ACTH",
+      "TSH",
+      "Glucagon",
+      "Gastrin"
+    ],
+    "answer": "Glucagon"
+  },
+  {
+    "id": 40,
+    "question": "Which communication system primarily uses hormones as signalling molecules?",
+    "options": [
+      "Immune system",
+      "Endocrine system",
+      "Muscular system",
+      "Respiratory system"
+    ],
+    "answer": "Endocrine system"
+  },
+  {
+    "id": 41,
+    "question": "Which communication system primarily uses neural signalling?",
+    "options": [
+      "Endocrine system",
+      "Digestive system",
+      "Nervous system",
+      "Cardiovascular system"
+    ],
+    "answer": "Nervous system"
+  },
+  {
+    "id": 42,
+    "question": "Which example best reflects negative feedback?",
+    "options": [
+      "A response that counteracts the initial stimulus",
+      "A response that amplifies the initial stimulus",
+      "Hormone release without regulation",
+      "Permanent activation of receptors"
+    ],
+    "answer": "A response that counteracts the initial stimulus"
+  },
+  {
+    "id": 43,
+    "question": "What is the ultimate benefit of negative feedback systems?",
+    "options": [
+      "Increased variability",
+      "Reduced communication",
+      "Physiological stability",
+      "Elimination of hormones"
+    ],
+    "answer": "Physiological stability"
+  },
+  {
+    "id": 44,
+    "question": "Low blood pressure was linked to release of which hormone?",
+    "options": [
+      "Insulin",
+      "Parathyroid hormone",
+      "Angiotensin II",
+      "Glucagon"
+    ],
+    "answer": "Angiotensin II"
+  },
+  {
+    "id": 45,
+    "question": "Which statement is most consistent with homeostasis?",
+    "options": [
+      "Internal conditions are carefully regulated",
+      "Physiological variables never change",
+      "Hormones only act during illness",
+      "Communication between organs is unnecessary"
+    ],
+    "answer": "Internal conditions are carefully regulated"
+  },
+  {
+    "id": 46,
+    "question": "What triggers insulin release in the lecture example?",
+    "options": [
+      "Low blood glucose",
+      "Elevated blood glucose",
+      "Low blood calcium",
+      "Elevated blood pressure"
+    ],
+    "answer": "Elevated blood glucose"
+  },
+  {
+    "id": 47,
+    "question": "Glucagon is most important when:",
+    "options": [
+      "Blood glucose is too low",
+      "Blood glucose is too high",
+      "Blood pressure is too high",
+      "Calcium is too high"
+    ],
+    "answer": "Blood glucose is too low"
+  },
+  {
+    "id": 48,
+    "question": "Which statement best summarizes the lecture's introduction to hormones?",
+    "options": [
+      "Hormones help coordinate body functions through communication",
+      "Hormones only affect metabolism",
+      "Hormones replace neural communication",
+      "Hormones are only produced by the pancreas"
+    ],
+    "answer": "Hormones help coordinate body functions through communication"
+  },
+  {
+    "id": 49,
+    "question": "Which concept links communication, hormones, and homeostasis together?",
+    "options": [
+      "Body systems coordinate activity to maintain internal balance",
+      "Hormones eliminate the need for regulation",
+      "Homeostasis depends on a single organ",
+      "Negative feedback increases physiological disruption"
+    ],
+    "answer": "Body systems coordinate activity to maintain internal balance"
+  },
+  {
+    "id": 50,
+    "question": "Which statement best captures the central message of the opening section of the lecture?",
+    "options": [
+      "Hormonal and neural communication are important for maintaining homeostasis",
+      "Only hormones regulate physiology",
+      "Only the nervous system regulates physiology",
+      "Homeostasis is unrelated to communication"
+    ],
+    "answer": "Hormonal and neural communication are important for maintaining homeostasis"
+  },
+
+  {
+    "id": 51,
+    "question": "Which statement best describes a hormone?",
+    "options": [
+      "A membrane receptor",
+      "A chemical messenger",
+      "An intracellular organelle",
+      "A structural protein"
+    ],
+    "answer": "A chemical messenger"
+  },
+  {
+    "id": 52,
+    "question": "Hormones are commonly secreted in response to a:",
+    "options": [
+      "Stimulus",
+      "Mutation",
+      "Chromosome",
+      "Ribosome"
+    ],
+    "answer": "Stimulus"
+  },
+  {
+    "id": 53,
+    "question": "Hormones produce their effects on:",
+    "options": [
+      "Target cells",
+      "All cells equally",
+      "Only neurons",
+      "Only blood cells"
+    ],
+    "answer": "Target cells"
+  },
+  {
+    "id": 54,
+    "question": "Endocrine hormones primarily act on:",
+    "options": [
+      "The same cell that released them",
+      "Neighbouring cells",
+      "Distant cells",
+      "Only immune cells"
+    ],
+    "answer": "Distant cells"
+  },
+  {
+    "id": 55,
+    "question": "Paracrine hormones primarily act on:",
+    "options": [
+      "Distant cells",
+      "Neighbouring cells",
+      "The releasing cell only",
+      "Cells in the bloodstream"
+    ],
+    "answer": "Neighbouring cells"
+  },
+  {
+    "id": 56,
+    "question": "Autocrine hormones primarily act on:",
+    "options": [
+      "Distant tissues",
+      "Neighbouring tissues",
+      "The same cell that secreted them",
+      "Endocrine glands only"
+    ],
+    "answer": "The same cell that secreted them"
+  },
+  {
+    "id": 57,
+    "question": "Which signalling mode involves communication between cells located far apart?",
+    "options": [
+      "Paracrine",
+      "Autocrine",
+      "Endocrine",
+      "Intracrine"
+    ],
+    "answer": "Endocrine"
+  },
+  {
+    "id": 58,
+    "question": "Which signalling mode involves local communication between nearby cells?",
+    "options": [
+      "Endocrine",
+      "Paracrine",
+      "Autocrine",
+      "Neural"
+    ],
+    "answer": "Paracrine"
+  },
+  {
+    "id": 59,
+    "question": "Which signalling mode is a form of self-signalling?",
+    "options": [
+      "Neural",
+      "Endocrine",
+      "Paracrine",
+      "Autocrine"
+    ],
+    "answer": "Autocrine"
+  },
+  {
+    "id": 60,
+    "question": "A hormone released into the bloodstream to affect a distant organ is acting in what manner?",
+    "options": [
+      "Autocrine",
+      "Paracrine",
+      "Endocrine",
+      "Synaptic"
+    ],
+    "answer": "Endocrine"
+  },
+  {
+    "id": 61,
+    "question": "Which signalling type would best describe a cell releasing a messenger that acts on itself?",
+    "options": [
+      "Autocrine",
+      "Neural",
+      "Paracrine",
+      "Endocrine"
+    ],
+    "answer": "Autocrine"
+  },
+  {
+    "id": 62,
+    "question": "Paracrine signalling differs from endocrine signalling because it usually acts:",
+    "options": [
+      "Over shorter distances",
+      "Through the bloodstream",
+      "Only on endocrine glands",
+      "Only on neurons"
+    ],
+    "answer": "Over shorter distances"
+  },
+  {
+    "id": 63,
+    "question": "Hormones can only affect cells that possess the appropriate:",
+    "options": [
+      "Chromosome",
+      "Receptor",
+      "Mitochondrion",
+      "Nucleus"
+    ],
+    "answer": "Receptor"
+  },
+  {
+    "id": 64,
+    "question": "Why do some cells fail to respond to a particular hormone?",
+    "options": [
+      "They have no cytoplasm",
+      "They lack the appropriate receptor",
+      "They contain too much DNA",
+      "They are too small"
+    ],
+    "answer": "They lack the appropriate receptor"
+  },
+  {
+    "id": 65,
+    "question": "Which cells are considered target cells for a hormone?",
+    "options": [
+      "Cells exposed to blood",
+      "Cells expressing the appropriate receptor",
+      "Only endocrine cells",
+      "All cells in the body"
+    ],
+    "answer": "Cells expressing the appropriate receptor"
+  },
+  {
+    "id": 66,
+    "question": "What determines whether a cell will respond to a hormone?",
+    "options": [
+      "Cell size",
+      "Location in the body",
+      "Blood supply",
+      "Receptor expression"
+    ],
+    "answer": "Receptor expression"
+  },
+  {
+    "id": 67,
+    "question": "A hormone enters the circulation but only affects one tissue. The most likely explanation is:",
+    "options": [
+      "Only that tissue expresses the relevant receptor",
+      "The hormone never reached other tissues",
+      "The tissue is larger",
+      "Other tissues lack nuclei"
+    ],
+    "answer": "Only that tissue expresses the relevant receptor"
+  },
+  {
+    "id": 68,
+    "question": "Which statement best defines a target cell?",
+    "options": [
+      "A cell that produces hormones",
+      "A cell with the correct receptor",
+      "A cell in the bloodstream",
+      "A cell that lacks signalling pathways"
+    ],
+    "answer": "A cell with the correct receptor"
+  },
+  {
+    "id": 69,
+    "question": "Which statement about hormone action is correct?",
+    "options": [
+      "Hormones affect every cell equally",
+      "Hormones only affect target cells",
+      "Hormones only affect neurons",
+      "Hormones only affect endocrine glands"
+    ],
+    "answer": "Hormones only affect target cells"
+  },
+  {
+    "id": 70,
+    "question": "The concept of target cells illustrates which principle?",
+    "options": [
+      "Hormonal specificity",
+      "Hormone degradation",
+      "Gene duplication",
+      "Homeostatic failure"
+    ],
+    "answer": "Hormonal specificity"
+  },
+  {
+    "id": 71,
+    "question": "Which signalling type is most dependent on transport through the circulation?",
+    "options": [
+      "Autocrine",
+      "Paracrine",
+      "Endocrine",
+      "Local"
+    ],
+    "answer": "Endocrine"
+  },
+  {
+    "id": 72,
+    "question": "A hormone acting on neighbouring cells without entering the bloodstream is an example of:",
+    "options": [
+      "Paracrine signalling",
+      "Autocrine signalling",
+      "Endocrine signalling",
+      "Pituitary signalling"
+    ],
+    "answer": "Paracrine signalling"
+  },
+  {
+    "id": 73,
+    "question": "The endocrine system can influence distant tissues because hormones are:",
+    "options": [
+      "Stored in nuclei",
+      "Able to travel away from the site of release",
+      "Only produced in the brain",
+      "Always membrane-bound"
+    ],
+    "answer": "Able to travel away from the site of release"
+  },
+  {
+    "id": 74,
+    "question": "Which of the following is NOT a major hormone signalling category discussed in the lecture?",
+    "options": [
+      "Endocrine",
+      "Paracrine",
+      "Autocrine",
+      "Genetic"
+    ],
+    "answer": "Genetic"
+  },
+  {
+    "id": 75,
+    "question": "Which signalling mode has the narrowest range of action?",
+    "options": [
+      "Endocrine",
+      "Autocrine",
+      "Systemic",
+      "Circulatory"
+    ],
+    "answer": "Autocrine"
+  },
+  {
+    "id": 76,
+    "question": "Which signalling mode involves one cell influencing a neighbouring cell?",
+    "options": [
+      "Paracrine",
+      "Autocrine",
+      "Endocrine",
+      "Thyroid"
+    ],
+    "answer": "Paracrine"
+  },
+  {
+    "id": 77,
+    "question": "The ability of hormones to coordinate activity across the body depends on:",
+    "options": [
+      "Cellular communication",
+      "DNA replication",
+      "Protein digestion",
+      "Cell division"
+    ],
+    "answer": "Cellular communication"
+  },
+  {
+    "id": 78,
+    "question": "Which phrase best describes endocrine signalling?",
+    "options": [
+      "Long-distance hormonal communication",
+      "Self-regulation only",
+      "Neighbour-only communication",
+      "Electrical conduction"
+    ],
+    "answer": "Long-distance hormonal communication"
+  },
+  {
+    "id": 79,
+    "question": "Which phrase best describes autocrine signalling?",
+    "options": [
+      "Neighbour-regulation",
+      "Self-regulation",
+      "Long-distance regulation",
+      "Pituitary regulation"
+    ],
+    "answer": "Self-regulation"
+  },
+  {
+    "id": 80,
+    "question": "What is the ultimate result of hormone signalling?",
+    "options": [
+      "Effects in target cells",
+      "Cell death",
+      "DNA destruction",
+      "Elimination of receptors"
+    ],
+    "answer": "Effects in target cells"
+  },
+  {
+    "id": 81,
+    "question": "Which signalling category would best describe insulin acting on distant tissues?",
+    "options": [
+      "Autocrine",
+      "Paracrine",
+      "Endocrine",
+      "Local"
+    ],
+    "answer": "Endocrine"
+  },
+  {
+    "id": 82,
+    "question": "Hormones are produced by:",
+    "options": [
+      "Cells in the body",
+      "Only endocrine glands",
+      "Only neurons",
+      "Only blood cells"
+    ],
+    "answer": "Cells in the body"
+  },
+  {
+    "id": 83,
+    "question": "The lecture emphasizes that hormones are often released:",
+    "options": [
+      "In response to stimuli",
+      "Only during sleep",
+      "Randomly",
+      "Only during growth"
+    ],
+    "answer": "In response to stimuli"
+  },
+  {
+    "id": 84,
+    "question": "Which statement best distinguishes endocrine from autocrine signalling?",
+    "options": [
+      "Endocrine acts on distant cells",
+      "Endocrine is faster",
+      "Endocrine requires no receptors",
+      "Endocrine only occurs in glands"
+    ],
+    "answer": "Endocrine acts on distant cells"
+  },
+  {
+    "id": 85,
+    "question": "A target cell lacking receptors for a hormone will:",
+    "options": [
+      "Usually not respond",
+      "Always respond strongly",
+      "Produce more receptors immediately",
+      "Convert into an endocrine cell"
+    ],
+    "answer": "Usually not respond"
+  },
+  {
+    "id": 86,
+    "question": "Which factor is most important for determining hormone responsiveness?",
+    "options": [
+      "Receptor availability",
+      "Cell colour",
+      "Cell shape",
+      "DNA length"
+    ],
+    "answer": "Receptor availability"
+  },
+  {
+    "id": 87,
+    "question": "Paracrine signalling primarily influences:",
+    "options": [
+      "Nearby cells",
+      "All organs simultaneously",
+      "Only endocrine glands",
+      "Only the heart"
+    ],
+    "answer": "Nearby cells"
+  },
+  {
+    "id": 88,
+    "question": "Which signalling type could be described as local signalling?",
+    "options": [
+      "Paracrine",
+      "Endocrine",
+      "Systemic",
+      "Pituitary"
+    ],
+    "answer": "Paracrine"
+  },
+  {
+    "id": 89,
+    "question": "Which statement about target and non-target cells is correct?",
+    "options": [
+      "Only target cells possess the relevant receptor",
+      "Only non-target cells possess receptors",
+      "Both respond equally",
+      "Neither responds to hormones"
+    ],
+    "answer": "Only target cells possess the relevant receptor"
+  },
+  {
+    "id": 90,
+    "question": "Hormonal communication contributes directly to:",
+    "options": [
+      "Homeostasis",
+      "Chromosome formation",
+      "DNA mutation",
+      "Protein degradation only"
+    ],
+    "answer": "Homeostasis"
+  },
+  {
+    "id": 91,
+    "question": "The same hormone can circulate widely but affect only specific tissues because of:",
+    "options": [
+      "Receptor specificity",
+      "Osmosis",
+      "Cell division",
+      "Blood glucose concentration"
+    ],
+    "answer": "Receptor specificity"
+  },
+  {
+    "id": 92,
+    "question": "Which signalling mode most closely resembles a broadcast message sent throughout the body?",
+    "options": [
+      "Endocrine",
+      "Paracrine",
+      "Autocrine",
+      "Intracellular"
+    ],
+    "answer": "Endocrine"
+  },
+  {
+    "id": 93,
+    "question": "What is the primary purpose of endocrine signalling?",
+    "options": [
+      "Coordinate physiology across distant tissues",
+      "Replicate DNA",
+      "Generate mutations",
+      "Destroy receptors"
+    ],
+    "answer": "Coordinate physiology across distant tissues"
+  },
+  {
+    "id": 94,
+    "question": "Which signalling type would be most limited in physical range?",
+    "options": [
+      "Autocrine",
+      "Endocrine",
+      "Systemic",
+      "Circulatory"
+    ],
+    "answer": "Autocrine"
+  },
+  {
+    "id": 95,
+    "question": "Which characteristic is shared by endocrine, paracrine and autocrine signalling?",
+    "options": [
+      "All involve chemical communication",
+      "All act on distant organs",
+      "All require blood transport",
+      "All act only on the secreting cell"
+    ],
+    "answer": "All involve chemical communication"
+  },
+  {
+    "id": 96,
+    "question": "Which statement about hormone action is most accurate?",
+    "options": [
+      "Hormones require suitable target cells",
+      "Hormones bypass receptors",
+      "Hormones act independently of cells",
+      "Hormones affect only glands"
+    ],
+    "answer": "Hormones require suitable target cells"
+  },
+  {
+    "id": 97,
+    "question": "The distinction between endocrine, paracrine and autocrine signalling is mainly based on:",
+    "options": [
+      "The location of the target cell",
+      "Hormone size",
+      "Hormone colour",
+      "DNA sequence"
+    ],
+    "answer": "The location of the target cell"
+  },
+  {
+    "id": 98,
+    "question": "If a hormone acts on the cell that secreted it, the signalling is:",
+    "options": [
+      "Autocrine",
+      "Paracrine",
+      "Endocrine",
+      "Systemic"
+    ],
+    "answer": "Autocrine"
+  },
+  {
+    "id": 99,
+    "question": "The existence of target cells demonstrates that hormonal signalling is:",
+    "options": [
+      "Selective",
+      "Random",
+      "Universal",
+      "Non-specific"
+    ],
+    "answer": "Selective"
+  },
+  {
+    "id": 100,
+    "question": "Which statement best summarizes this subsection of the lecture?",
+    "options": [
+      "Hormones communicate with target cells through endocrine, paracrine and autocrine mechanisms",
+      "All hormones act identically on every cell",
+      "Hormones function without receptors",
+      "Only endocrine signalling exists in physiology"
+    ],
+    "answer": "Hormones communicate with target cells through endocrine, paracrine and autocrine mechanisms"
+  },
+
+  {
+    "id": 101,
+    "question": "Hormones must bind to what in order to produce an effect on a target cell?",
+    "options": [
+      "Receptors",
+      "Chromosomes",
+      "Mitochondria",
+      "Ribosomes"
+    ],
+    "answer": "Receptors"
+  },
+  {
+    "id": 102,
+    "question": "What are hormone receptors?",
+    "options": [
+      "Proteins",
+      "Lipids",
+      "Carbohydrates",
+      "Nucleic acids"
+    ],
+    "answer": "Proteins"
+  },
+  {
+    "id": 103,
+    "question": "Which two major receptor classes were discussed in the lecture?",
+    "options": [
+      "Cytoplasmic and mitochondrial receptors",
+      "Membrane and nuclear receptors",
+      "Ionotropic and metabotropic receptors",
+      "Enzyme and transport receptors"
+    ],
+    "answer": "Membrane and nuclear receptors"
+  },
+  {
+    "id": 104,
+    "question": "Where are membrane receptors located?",
+    "options": [
+      "Plasma membrane",
+      "Golgi apparatus",
+      "Nucleolus",
+      "Mitochondrial matrix"
+    ],
+    "answer": "Plasma membrane"
+  },
+  {
+    "id": 105,
+    "question": "Nuclear receptors are typically located in the:",
+    "options": [
+      "Cell wall",
+      "Extracellular space",
+      "Cytoplasm or nucleus",
+      "Endoplasmic reticulum only"
+    ],
+    "answer": "Cytoplasm or nucleus"
+  },
+  {
+    "id": 106,
+    "question": "Why does insulin not normally activate glucagon receptors?",
+    "options": [
+      "Insulin cannot enter blood",
+      "Receptors are hormone specific",
+      "Insulin destroys receptors",
+      "Glucagon receptors are intracellular"
+    ],
+    "answer": "Receptors are hormone specific"
+  },
+  {
+    "id": 107,
+    "question": "The specificity of receptor binding helps ensure that:",
+    "options": [
+      "Hormones affect appropriate target cells",
+      "All cells respond equally",
+      "Hormones never degrade",
+      "Gene expression always increases"
+    ],
+    "answer": "Hormones affect appropriate target cells"
+  },
+  {
+    "id": 108,
+    "question": "A cell lacking a specific receptor will generally:",
+    "options": [
+      "Not respond to that hormone",
+      "Produce more hormone",
+      "Activate second messengers",
+      "Become endocrine"
+    ],
+    "answer": "Not respond to that hormone"
+  },
+  {
+    "id": 109,
+    "question": "What initiates a hormonal effect in a target cell?",
+    "options": [
+      "Hormone-receptor binding",
+      "Hormone synthesis",
+      "DNA replication",
+      "Protein degradation"
+    ],
+    "answer": "Hormone-receptor binding"
+  },
+  {
+    "id": 110,
+    "question": "Which receptor type is a transmembrane protein?",
+    "options": [
+      "Membrane receptor",
+      "Nuclear receptor",
+      "DNA receptor",
+      "Cytoplasmic vesicle receptor"
+    ],
+    "answer": "Membrane receptor"
+  },
+  {
+    "id": 111,
+    "question": "What is the main function of the extracellular domain of a membrane receptor?",
+    "options": [
+      "Bind hormone",
+      "Generate ATP",
+      "Activate DNA replication",
+      "Store calcium"
+    ],
+    "answer": "Bind hormone"
+  },
+  {
+    "id": 112,
+    "question": "What is the main function of the intracellular domain of a membrane receptor?",
+    "options": [
+      "Initiate intracellular signalling",
+      "Bind circulating hormones",
+      "Transport oxygen",
+      "Synthesize protein"
+    ],
+    "answer": "Initiate intracellular signalling"
+  },
+  {
+    "id": 113,
+    "question": "Membrane receptor activation commonly leads to generation of:",
+    "options": [
+      "Second messengers",
+      "DNA mutations",
+      "Cholesterol",
+      "Ribosomes"
+    ],
+    "answer": "Second messengers"
+  },
+  {
+    "id": 114,
+    "question": "One consequence of second messenger signalling may be:",
+    "options": [
+      "Protein activation",
+      "Chromosome loss",
+      "Cell wall formation",
+      "Hormone degradation"
+    ],
+    "answer": "Protein activation"
+  },
+  {
+    "id": 115,
+    "question": "Membrane receptor signalling can ultimately influence:",
+    "options": [
+      "Gene expression",
+      "Blood type",
+      "DNA sequence",
+      "Chromosome number"
+    ],
+    "answer": "Gene expression"
+  },
+  {
+    "id": 116,
+    "question": "Nuclear receptors generally bind hormones that can:",
+    "options": [
+      "Cross biological membranes",
+      "Remain inside blood vessels",
+      "Bind DNA directly",
+      "Activate neurons only"
+    ],
+    "answer": "Cross biological membranes"
+  },
+  {
+    "id": 117,
+    "question": "Which hormones are most likely to use nuclear receptors?",
+    "options": [
+      "Membrane-permeable hormones",
+      "Large peptide hormones",
+      "Extracellular proteins",
+      "Hormones unable to enter cells"
+    ],
+    "answer": "Membrane-permeable hormones"
+  },
+  {
+    "id": 118,
+    "question": "Activation of nuclear receptors ultimately promotes:",
+    "options": [
+      "Gene expression",
+      "Immediate blood clotting",
+      "Hormone secretion",
+      "Membrane destruction"
+    ],
+    "answer": "Gene expression"
+  },
+  {
+    "id": 119,
+    "question": "Nuclear receptor signalling commonly involves activation of a:",
+    "options": [
+      "Transcription factor complex",
+      "Lysosome",
+      "Ribosome",
+      "Microtubule"
+    ],
+    "answer": "Transcription factor complex"
+  },
+  {
+    "id": 120,
+    "question": "Which receptor type is most directly associated with transcription factor activation?",
+    "options": [
+      "Nuclear receptor",
+      "Membrane receptor",
+      "Calcium receptor",
+      "Transport receptor"
+    ],
+    "answer": "Nuclear receptor"
+  },
+  {
+    "id": 121,
+    "question": "A molecule that binds a receptor is known as a:",
+    "options": [
+      "Ligand",
+      "Enzyme",
+      "Substrate",
+      "Transporter"
+    ],
+    "answer": "Ligand"
+  },
+  {
+    "id": 122,
+    "question": "What is an agonist?",
+    "options": [
+      "A ligand that activates a receptor",
+      "A ligand that destroys a receptor",
+      "A receptor subtype",
+      "A signalling protein"
+    ],
+    "answer": "A ligand that activates a receptor"
+  },
+  {
+    "id": 123,
+    "question": "Hormones themselves are classified as:",
+    "options": [
+      "Agonists",
+      "Antagonists",
+      "Transport proteins",
+      "Second messengers"
+    ],
+    "answer": "Agonists"
+  },
+  {
+    "id": 124,
+    "question": "An antagonist is best described as a ligand that:",
+    "options": [
+      "Binds but does not activate a receptor",
+      "Activates receptors more strongly",
+      "Produces hormones",
+      "Destroys target cells"
+    ],
+    "answer": "Binds but does not activate a receptor"
+  },
+  {
+    "id": 125,
+    "question": "What effect does antagonist binding usually have on hormone action?",
+    "options": [
+      "Reduces or blocks it",
+      "Amplifies it",
+      "Creates new receptors",
+      "Increases hormone synthesis"
+    ],
+    "answer": "Reduces or blocks it"
+  },
+  {
+    "id": 126,
+    "question": "Why can an antagonist reduce hormone action?",
+    "options": [
+      "It occupies the receptor",
+      "It destroys the hormone gene",
+      "It removes hormone from blood",
+      "It blocks endocrine glands"
+    ],
+    "answer": "It occupies the receptor"
+  },
+  {
+    "id": 127,
+    "question": "A drug designed to mimic hormone action would typically function as a:",
+    "options": [
+      "Agonist",
+      "Antagonist",
+      "Binding protein",
+      "Second messenger"
+    ],
+    "answer": "Agonist"
+  },
+  {
+    "id": 128,
+    "question": "Which statement best defines receptor specificity?",
+    "options": [
+      "Certain receptors preferentially bind particular hormones",
+      "All receptors bind equally well",
+      "Hormones bind any available protein",
+      "Only target cells contain proteins"
+    ],
+    "answer": "Certain receptors preferentially bind particular hormones"
+  },
+  {
+    "id": 129,
+    "question": "Which receptor type generally acts through intracellular signalling cascades?",
+    "options": [
+      "Membrane receptor",
+      "Nuclear receptor",
+      "DNA receptor",
+      "Chromosomal receptor"
+    ],
+    "answer": "Membrane receptor"
+  },
+  {
+    "id": 130,
+    "question": "Which receptor type generally has slower but longer-lasting effects through gene expression?",
+    "options": [
+      "Nuclear receptor",
+      "Membrane receptor",
+      "Synaptic receptor",
+      "Calcium receptor"
+    ],
+    "answer": "Nuclear receptor"
+  },
+  {
+    "id": 131,
+    "question": "Membrane receptors are most important for hormones that are:",
+    "options": [
+      "Unable to cross membranes easily",
+      "DNA based",
+      "Nuclear proteins",
+      "Stored in mitochondria"
+    ],
+    "answer": "Unable to cross membranes easily"
+  },
+  {
+    "id": 132,
+    "question": "Which receptor location allows direct effects on transcription?",
+    "options": [
+      "Nucleus",
+      "Cell membrane only",
+      "Extracellular fluid",
+      "Blood plasma"
+    ],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 133,
+    "question": "What determines whether a circulating hormone can trigger a cellular effect?",
+    "options": [
+      "Presence of the correct receptor",
+      "Cell colour",
+      "Cell size",
+      "Blood group"
+    ],
+    "answer": "Presence of the correct receptor"
+  },
+  {
+    "id": 134,
+    "question": "The earliest event in receptor-mediated hormone action is:",
+    "options": [
+      "Hormone binding",
+      "Gene transcription",
+      "Protein synthesis",
+      "Second messenger amplification"
+    ],
+    "answer": "Hormone binding"
+  },
+  {
+    "id": 135,
+    "question": "Which term includes both agonists and antagonists?",
+    "options": [
+      "Ligands",
+      "Hormones",
+      "Enzymes",
+      "Transporters"
+    ],
+    "answer": "Ligands"
+  },
+  {
+    "id": 136,
+    "question": "Which statement about agonists is true?",
+    "options": [
+      "They stimulate receptor-mediated responses",
+      "They always inhibit receptors",
+      "They destroy receptors",
+      "They remove hormones from plasma"
+    ],
+    "answer": "They stimulate receptor-mediated responses"
+  },
+  {
+    "id": 137,
+    "question": "Which statement about antagonists is true?",
+    "options": [
+      "They block receptor activation",
+      "They enhance receptor activation",
+      "They increase hormone release",
+      "They increase receptor number"
+    ],
+    "answer": "They block receptor activation"
+  },
+  {
+    "id": 138,
+    "question": "A hormone that binds and activates a receptor is acting as a:",
+    "options": [
+      "Agonist",
+      "Antagonist",
+      "Binding protein",
+      "Second messenger"
+    ],
+    "answer": "Agonist"
+  },
+  {
+    "id": 139,
+    "question": "Which receptor type most directly initiates second messenger generation?",
+    "options": [
+      "Membrane receptor",
+      "Nuclear receptor",
+      "Transport receptor",
+      "Cytoskeletal receptor"
+    ],
+    "answer": "Membrane receptor"
+  },
+  {
+    "id": 140,
+    "question": "Which receptor type is most closely associated with hormone-driven gene expression?",
+    "options": [
+      "Nuclear receptor",
+      "Membrane receptor",
+      "Extracellular receptor",
+      "Ion transporter"
+    ],
+    "answer": "Nuclear receptor"
+  },
+  {
+    "id": 141,
+    "question": "The selective effects of hormones on tissues are largely explained by:",
+    "options": [
+      "Receptor distribution",
+      "Blood colour",
+      "Cell volume",
+      "DNA concentration"
+    ],
+    "answer": "Receptor distribution"
+  },
+  {
+    "id": 142,
+    "question": "A non-target cell generally lacks the appropriate:",
+    "options": [
+      "Receptor",
+      "Nucleus",
+      "Cytoplasm",
+      "Membrane"
+    ],
+    "answer": "Receptor"
+  },
+  {
+    "id": 143,
+    "question": "What is the most direct consequence of antagonist binding?",
+    "options": [
+      "Reduced receptor activation",
+      "Extra hormone production",
+      "Increased receptor numbers",
+      "Enhanced second messenger formation"
+    ],
+    "answer": "Reduced receptor activation"
+  },
+  {
+    "id": 144,
+    "question": "Which receptor component is responsible for sensing the hormone outside the cell?",
+    "options": [
+      "Extracellular domain",
+      "Intracellular domain",
+      "Nuclear DNA",
+      "Mitochondrial membrane"
+    ],
+    "answer": "Extracellular domain"
+  },
+  {
+    "id": 145,
+    "question": "Which receptor component initiates intracellular signalling following hormone binding?",
+    "options": [
+      "Intracellular domain",
+      "Extracellular domain",
+      "Chromosome",
+      "Nucleolus"
+    ],
+    "answer": "Intracellular domain"
+  },
+  {
+    "id": 146,
+    "question": "Which characteristic is shared by membrane and nuclear receptors?",
+    "options": [
+      "Both bind hormones to initiate effects",
+      "Both are located only on the membrane",
+      "Both generate second messengers directly",
+      "Both function exclusively in the nucleus"
+    ],
+    "answer": "Both bind hormones to initiate effects"
+  },
+  {
+    "id": 147,
+    "question": "Why are receptors essential to hormonal communication?",
+    "options": [
+      "They allow cells to detect specific hormones",
+      "They produce all hormones",
+      "They transport oxygen",
+      "They prevent homeostasis"
+    ],
+    "answer": "They allow cells to detect specific hormones"
+  },
+  {
+    "id": 148,
+    "question": "The binding of a ligand to a receptor is most likely to trigger:",
+    "options": [
+      "A cellular response",
+      "DNA removal",
+      "Immediate cell death",
+      "Chromosome duplication"
+    ],
+    "answer": "A cellular response"
+  },
+  {
+    "id": 149,
+    "question": "Which concept best explains why hormones can circulate widely but only affect selected tissues?",
+    "options": [
+      "Receptor specificity",
+      "Diffusion",
+      "Protein degradation",
+      "Blood pressure"
+    ],
+    "answer": "Receptor specificity"
+  },
+  {
+    "id": 150,
+    "question": "Which statement best summarizes the receptor section of the lecture?",
+    "options": [
+      "Hormones act by binding specific receptors that initiate cellular responses",
+      "Hormones act independently of receptors",
+      "All receptors function identically",
+      "Hormonal communication does not require target cells"
+    ],
+    "answer": "Hormones act by binding specific receptors that initiate cellular responses"
+  },
+
+  {
+    "id": 151,
+    "question": "Second messengers are produced when a hormone binds to a:",
+    "options": [
+      "Ribosome",
+      "Receptor",
+      "Chromosome",
+      "Mitochondrion"
+    ],
+    "answer": "Receptor"
+  },
+  {
+    "id": 152,
+    "question": "What is the primary role of second messengers?",
+    "options": [
+      "Transport oxygen",
+      "Transmit signals within cells",
+      "Replicate DNA",
+      "Synthesize hormones"
+    ],
+    "answer": "Transmit signals within cells"
+  },
+  {
+    "id": 153,
+    "question": "Second messengers operate primarily:",
+    "options": [
+      "Inside cells",
+      "Only in blood plasma",
+      "Outside the body",
+      "Inside the nucleus only"
+    ],
+    "answer": "Inside cells"
+  },
+  {
+    "id": 154,
+    "question": "Which receptor type is most commonly associated with second messenger generation?",
+    "options": [
+      "Nuclear receptor",
+      "Membrane receptor",
+      "DNA receptor",
+      "Mitochondrial receptor"
+    ],
+    "answer": "Membrane receptor"
+  },
+  {
+    "id": 155,
+    "question": "Second messengers help convert extracellular signals into:",
+    "options": [
+      "Intracellular responses",
+      "Hormones",
+      "Receptors",
+      "DNA mutations"
+    ],
+    "answer": "Intracellular responses"
+  },
+  {
+    "id": 156,
+    "question": "What immediately precedes second messenger production?",
+    "options": [
+      "Protein synthesis",
+      "Hormone-receptor binding",
+      "Gene transcription",
+      "Cell division"
+    ],
+    "answer": "Hormone-receptor binding"
+  },
+  {
+    "id": 157,
+    "question": "Which statement best describes a second messenger cascade?",
+    "options": [
+      "A sequence of intracellular signalling events",
+      "Hormone synthesis in glands",
+      "Transport of receptors",
+      "Hormone degradation"
+    ],
+    "answer": "A sequence of intracellular signalling events"
+  },
+  {
+    "id": 158,
+    "question": "A major advantage of second messenger cascades is:",
+    "options": [
+      "Signal amplification",
+      "Hormone destruction",
+      "Receptor removal",
+      "Blood clotting"
+    ],
+    "answer": "Signal amplification"
+  },
+  {
+    "id": 159,
+    "question": "Signal amplification means that:",
+    "options": [
+      "A small signal can generate a larger cellular response",
+      "Hormones become larger molecules",
+      "Receptors increase in size",
+      "Cells divide faster"
+    ],
+    "answer": "A small signal can generate a larger cellular response"
+  },
+  {
+    "id": 160,
+    "question": "Which molecule was presented as a second messenger example?",
+    "options": [
+      "cAMP",
+      "DNA",
+      "Albumin",
+      "TSH"
+    ],
+    "answer": "cAMP"
+  },
+  {
+    "id": 161,
+    "question": "cAMP functions primarily as a:",
+    "options": [
+      "Second messenger",
+      "Hormone receptor",
+      "Binding protein",
+      "Transcription factor"
+    ],
+    "answer": "Second messenger"
+  },
+  {
+    "id": 162,
+    "question": "In the lecture example, cAMP activates a:",
+    "options": [
+      "Protein kinase",
+      "Ribosome",
+      "Hormone",
+      "Chromosome"
+    ],
+    "answer": "Protein kinase"
+  },
+  {
+    "id": 163,
+    "question": "What is the primary function of a protein kinase?",
+    "options": [
+      "Phosphorylate proteins",
+      "Create hormones",
+      "Destroy receptors",
+      "Produce DNA"
+    ],
+    "answer": "Phosphorylate proteins"
+  },
+  {
+    "id": 164,
+    "question": "Protein phosphorylation refers to:",
+    "options": [
+      "Addition of a phosphate group",
+      "Removal of DNA",
+      "Hormone degradation",
+      "Protein digestion"
+    ],
+    "answer": "Addition of a phosphate group"
+  },
+  {
+    "id": 165,
+    "question": "Protein kinases commonly use which molecule as a phosphate source?",
+    "options": [
+      "ATP",
+      "RNA",
+      "TSH",
+      "Albumin"
+    ],
+    "answer": "ATP"
+  },
+  {
+    "id": 166,
+    "question": "A phosphorylated protein is called a:",
+    "options": [
+      "Phosphoprotein",
+      "Transport protein",
+      "Ligand",
+      "Agonist"
+    ],
+    "answer": "Phosphoprotein"
+  },
+  {
+    "id": 167,
+    "question": "Why does phosphorylation matter?",
+    "options": [
+      "It can alter protein activity",
+      "It always destroys proteins",
+      "It prevents signalling",
+      "It removes hormones"
+    ],
+    "answer": "It can alter protein activity"
+  },
+  {
+    "id": 168,
+    "question": "The production of additional second messengers downstream is an example of:",
+    "options": [
+      "Signal amplification",
+      "Hormone clearance",
+      "Negative feedback",
+      "Receptor down-regulation"
+    ],
+    "answer": "Signal amplification"
+  },
+  {
+    "id": 169,
+    "question": "Which of the following is an intracellular signalling molecule?",
+    "options": [
+      "cAMP",
+      "Albumin",
+      "Insulin receptor",
+      "Hemoglobin"
+    ],
+    "answer": "cAMP"
+  },
+  {
+    "id": 170,
+    "question": "A second messenger cascade allows one activated receptor to influence:",
+    "options": [
+      "Many downstream molecules",
+      "Only one molecule",
+      "No cellular processes",
+      "Only hormone synthesis"
+    ],
+    "answer": "Many downstream molecules"
+  },
+  {
+    "id": 171,
+    "question": "Which event occurs after cAMP activates protein kinase?",
+    "options": [
+      "Target proteins are phosphorylated",
+      "Hormones are destroyed",
+      "Receptors disappear",
+      "DNA leaves the nucleus"
+    ],
+    "answer": "Target proteins are phosphorylated"
+  },
+  {
+    "id": 172,
+    "question": "Second messenger signalling ultimately contributes to:",
+    "options": [
+      "Cellular responses",
+      "Chromosome duplication",
+      "Blood clotting only",
+      "Hormone secretion only"
+    ],
+    "answer": "Cellular responses"
+  },
+  {
+    "id": 173,
+    "question": "Which statement best describes the relationship between receptors and second messengers?",
+    "options": [
+      "Activated receptors often generate second messengers",
+      "Second messengers generate receptors",
+      "Receptors destroy second messengers",
+      "Second messengers replace receptors"
+    ],
+    "answer": "Activated receptors often generate second messengers"
+  },
+  {
+    "id": 174,
+    "question": "What is the main purpose of signal amplification?",
+    "options": [
+      "Increase the impact of receptor activation",
+      "Reduce hormone action",
+      "Prevent cellular responses",
+      "Destroy proteins"
+    ],
+    "answer": "Increase the impact of receptor activation"
+  },
+  {
+    "id": 175,
+    "question": "Which type of receptor signalling is usually associated with relatively rapid intracellular effects?",
+    "options": [
+      "Membrane receptor signalling",
+      "Nuclear receptor signalling",
+      "DNA receptor signalling",
+      "Chromosomal signalling"
+    ],
+    "answer": "Membrane receptor signalling"
+  },
+  {
+    "id": 176,
+    "question": "What is a likely outcome of kinase activation?",
+    "options": [
+      "Modification of multiple proteins",
+      "Immediate receptor degradation",
+      "ATP destruction",
+      "Loss of gene expression"
+    ],
+    "answer": "Modification of multiple proteins"
+  },
+  {
+    "id": 177,
+    "question": "Which molecule directly activates protein kinase in the lecture example?",
+    "options": [
+      "cAMP",
+      "Albumin",
+      "DNA",
+      "ACTH"
+    ],
+    "answer": "cAMP"
+  },
+  {
+    "id": 178,
+    "question": "Second messenger generation most directly follows activation of a:",
+    "options": [
+      "Membrane receptor",
+      "Nuclear receptor",
+      "Binding protein",
+      "Gene"
+    ],
+    "answer": "Membrane receptor"
+  },
+  {
+    "id": 179,
+    "question": "Which sequence is most accurate?",
+    "options": [
+      "Hormone → receptor → second messenger → cellular response",
+      "Hormone → DNA → receptor → response",
+      "Receptor → hormone → response",
+      "Hormone → ATP → receptor"
+    ],
+    "answer": "Hormone → receptor → second messenger → cellular response"
+  },
+  {
+    "id": 180,
+    "question": "Signal amplification allows a single receptor activation event to:",
+    "options": [
+      "Influence many downstream targets",
+      "Prevent phosphorylation",
+      "Stop cellular signalling",
+      "Remove ATP"
+    ],
+    "answer": "Influence many downstream targets"
+  },
+  {
+    "id": 181,
+    "question": "The term cascade implies:",
+    "options": [
+      "A chain of sequential signalling events",
+      "A single isolated event",
+      "Hormone storage",
+      "Protein breakdown"
+    ],
+    "answer": "A chain of sequential signalling events"
+  },
+  {
+    "id": 182,
+    "question": "Which receptor type is most closely linked to transcription factor activation rather than second messenger generation?",
+    "options": [
+      "Nuclear receptor",
+      "Membrane receptor",
+      "Transport receptor",
+      "Surface glycoprotein"
+    ],
+    "answer": "Nuclear receptor"
+  },
+  {
+    "id": 183,
+    "question": "Compared with membrane receptor signalling, nuclear receptor signalling is more directly associated with:",
+    "options": [
+      "Gene expression",
+      "cAMP production",
+      "Protein kinase activation",
+      "Signal amplification cascades"
+    ],
+    "answer": "Gene expression"
+  },
+  {
+    "id": 184,
+    "question": "Which statement best describes cAMP?",
+    "options": [
+      "It functions as an intracellular signalling molecule",
+      "It is a membrane receptor",
+      "It is a thyroid hormone",
+      "It is a transport protein"
+    ],
+    "answer": "It functions as an intracellular signalling molecule"
+  },
+  {
+    "id": 185,
+    "question": "What is the central idea of second messenger signalling?",
+    "options": [
+      "Extracellular hormone signals are converted into intracellular responses",
+      "Hormones act without receptors",
+      "All signals act directly on DNA",
+      "Receptors function independently of hormones"
+    ],
+    "answer": "Extracellular hormone signals are converted into intracellular responses"
+  },
+
+  {
+    "id": 186,
+    "question": "Which of the following was identified as a major mechanism regulating hormone action?",
+    "options": [
+      "Changing hormone availability",
+      "Changing chromosome number",
+      "Changing blood type",
+      "Changing mitochondrial DNA"
+    ],
+    "answer": "Changing hormone availability"
+  },
+  {
+    "id": 187,
+    "question": "Hormone availability can be altered by:",
+    "options": [
+      "Release, binding proteins and clearance",
+      "Blood groups and chromosomes",
+      "Cell size and colour",
+      "DNA replication and mitosis"
+    ],
+    "answer": "Release, binding proteins and clearance"
+  },
+  {
+    "id": 188,
+    "question": "Which process directly increases the amount of hormone available in circulation?",
+    "options": [
+      "Hormone release",
+      "Hormone degradation",
+      "Receptor antagonism",
+      "Receptor down-regulation"
+    ],
+    "answer": "Hormone release"
+  },
+  {
+    "id": 189,
+    "question": "Hormone clearance refers to:",
+    "options": [
+      "Removal of hormone from circulation",
+      "Hormone release into circulation",
+      "Receptor activation",
+      "Binding protein synthesis"
+    ],
+    "answer": "Removal of hormone from circulation"
+  },
+  {
+    "id": 190,
+    "question": "What is the half-life of a hormone?",
+    "options": [
+      "The time required for hormone concentration to fall by half",
+      "The time required for hormone synthesis",
+      "The duration of receptor activation",
+      "The time required for target-cell binding"
+    ],
+    "answer": "The time required for hormone concentration to fall by half"
+  },
+  {
+    "id": 191,
+    "question": "A hormone with a longer half-life will generally:",
+    "options": [
+      "Remain active for longer",
+      "Never bind receptors",
+      "Be less stable",
+      "Be unable to circulate"
+    ],
+    "answer": "Remain active for longer"
+  },
+  {
+    "id": 192,
+    "question": "Which hormone listed in the lecture has the longest half-life?",
+    "options": [
+      "T4",
+      "TSH",
+      "T3",
+      "ACTH"
+    ],
+    "answer": "T4"
+  },
+  {
+    "id": 193,
+    "question": "Approximately what is the half-life of T4 according to the lecture?",
+    "options": [
+      "6.5 days",
+      "60 minutes",
+      "1.3 days",
+      "6.5 hours"
+    ],
+    "answer": "6.5 days"
+  },
+  {
+    "id": 194,
+    "question": "Approximately what is the half-life of T3?",
+    "options": [
+      "1.3 days",
+      "6.5 days",
+      "60 minutes",
+      "13 days"
+    ],
+    "answer": "1.3 days"
+  },
+  {
+    "id": 195,
+    "question": "Approximately what is the half-life of TSH?",
+    "options": [
+      "60 minutes",
+      "6.5 days",
+      "1.3 days",
+      "24 hours"
+    ],
+    "answer": "60 minutes"
+  },
+  {
+    "id": 196,
+    "question": "Which sequence lists the hormones in order of increasing half-life?",
+    "options": [
+      "TSH → T3 → T4",
+      "T4 → T3 → TSH",
+      "T3 → T4 → TSH",
+      "TSH → T4 → T3"
+    ],
+    "answer": "TSH → T3 → T4"
+  },
+  {
+    "id": 197,
+    "question": "Why does a longer half-life generally increase hormone activity?",
+    "options": [
+      "The hormone remains in circulation longer",
+      "The hormone becomes an agonist",
+      "The hormone gains receptors",
+      "The hormone enters the nucleus"
+    ],
+    "answer": "The hormone remains in circulation longer"
+  },
+  {
+    "id": 198,
+    "question": "What may occur if hormone breakdown is impaired?",
+    "options": [
+      "Hormone activity may increase",
+      "Hormone production stops immediately",
+      "All receptors disappear",
+      "Signal amplification ceases"
+    ],
+    "answer": "Hormone activity may increase"
+  },
+  {
+    "id": 199,
+    "question": "According to the lecture, liver failure may lead to hyperaldosteronism because:",
+    "options": [
+      "Aldosterone is not broken down effectively",
+      "TSH increases dramatically",
+      "Insulin production ceases",
+      "The pituitary enlarges"
+    ],
+    "answer": "Aldosterone is not broken down effectively"
+  },
+  {
+    "id": 200,
+    "question": "Many hormones circulate in blood bound to:",
+    "options": [
+      "Proteins",
+      "DNA",
+      "Ribosomes",
+      "Phospholipids"
+    ],
+    "answer": "Proteins"
+  },
+  {
+    "id": 201,
+    "question": "Which protein was specifically mentioned as a hormone-binding protein?",
+    "options": [
+      "Albumin",
+      "Actin",
+      "Myosin",
+      "Collagen"
+    ],
+    "answer": "Albumin"
+  },
+  {
+    "id": 202,
+    "question": "Bound hormones exist in equilibrium with:",
+    "options": [
+      "Free hormones",
+      "DNA-bound hormones",
+      "Destroyed hormones",
+      "Inactive receptors"
+    ],
+    "answer": "Free hormones"
+  },
+  {
+    "id": 203,
+    "question": "The transition between bound and free hormone is best described as:",
+    "options": [
+      "Dynamic",
+      "Permanent",
+      "Irreversible",
+      "Random"
+    ],
+    "answer": "Dynamic"
+  },
+  {
+    "id": 204,
+    "question": "Which form of a hormone can most readily bind receptors?",
+    "options": [
+      "Free hormone",
+      "Protein-bound hormone",
+      "Degraded hormone",
+      "Stored hormone"
+    ],
+    "answer": "Free hormone"
+  },
+  {
+    "id": 205,
+    "question": "Hormone-binding proteins generally have what effect on hormone activity?",
+    "options": [
+      "Decrease it",
+      "Increase it",
+      "Eliminate it completely",
+      "Have no effect"
+    ],
+    "answer": "Decrease it"
+  },
+  {
+    "id": 206,
+    "question": "Hormone-binding proteins generally have what effect on hormone half-life?",
+    "options": [
+      "Increase it",
+      "Decrease it",
+      "Eliminate it",
+      "No effect"
+    ],
+    "answer": "Increase it"
+  },
+  {
+    "id": 207,
+    "question": "Why does protein binding reduce hormone activity?",
+    "options": [
+      "Less free hormone is available to bind receptors",
+      "Receptors are destroyed",
+      "Hormones become antagonists",
+      "Second messengers are blocked"
+    ],
+    "answer": "Less free hormone is available to bind receptors"
+  },
+  {
+    "id": 208,
+    "question": "Why does protein binding increase hormone half-life?",
+    "options": [
+      "Protein-bound hormones are cleared more slowly",
+      "Protein-bound hormones bind more receptors",
+      "Protein-bound hormones become agonists",
+      "Protein-bound hormones replicate"
+    ],
+    "answer": "Protein-bound hormones are cleared more slowly"
+  },
+  {
+    "id": 209,
+    "question": "Steroid hormones commonly circulate:",
+    "options": [
+      "Bound to binding proteins",
+      "Inside red blood cells",
+      "Only as free hormones",
+      "Inside lysosomes"
+    ],
+    "answer": "Bound to binding proteins"
+  },
+  {
+    "id": 210,
+    "question": "Which statement best describes a hormone-binding protein?",
+    "options": [
+      "A protein that transports hormones in circulation",
+      "A receptor agonist",
+      "A second messenger",
+      "A transcription factor"
+    ],
+    "answer": "A protein that transports hormones in circulation"
+  },
+  {
+    "id": 211,
+    "question": "The magnitude of a hormone's effect depends on hormone concentration and:",
+    "options": [
+      "Receptor number",
+      "Blood group",
+      "Cell colour",
+      "Chromosome count"
+    ],
+    "answer": "Receptor number"
+  },
+  {
+    "id": 212,
+    "question": "Increasing receptor number would generally:",
+    "options": [
+      "Increase responsiveness",
+      "Decrease responsiveness",
+      "Prevent signalling",
+      "Increase clearance"
+    ],
+    "answer": "Increase responsiveness"
+  },
+  {
+    "id": 213,
+    "question": "Reducing receptor number would generally:",
+    "options": [
+      "Decrease responsiveness",
+      "Increase responsiveness",
+      "Increase hormone release",
+      "Increase half-life"
+    ],
+    "answer": "Decrease responsiveness"
+  },
+  {
+    "id": 214,
+    "question": "What term describes an increase in receptor number?",
+    "options": [
+      "Up-regulation",
+      "Down-regulation",
+      "Amplification",
+      "Clearance"
+    ],
+    "answer": "Up-regulation"
+  },
+  {
+    "id": 215,
+    "question": "What term describes a decrease in receptor number?",
+    "options": [
+      "Down-regulation",
+      "Up-regulation",
+      "Activation",
+      "Potentiation"
+    ],
+    "answer": "Down-regulation"
+  },
+  {
+    "id": 216,
+    "question": "High levels of an agonist hormone often cause:",
+    "options": [
+      "Receptor down-regulation",
+      "Receptor up-regulation",
+      "Hormone degradation to stop",
+      "New endocrine glands to form"
+    ],
+    "answer": "Receptor down-regulation"
+  },
+  {
+    "id": 217,
+    "question": "Why might receptor down-regulation occur?",
+    "options": [
+      "To reduce responsiveness to persistent stimulation",
+      "To increase hormone synthesis",
+      "To increase receptor specificity",
+      "To increase ATP production"
+    ],
+    "answer": "To reduce responsiveness to persistent stimulation"
+  },
+  {
+    "id": 218,
+    "question": "Which mechanism can alter hormone activity without changing hormone concentration?",
+    "options": [
+      "Changing receptor number",
+      "Changing blood glucose",
+      "Changing oxygen levels",
+      "Changing DNA sequence"
+    ],
+    "answer": "Changing receptor number"
+  },
+  {
+    "id": 219,
+    "question": "An antagonist is a compound that:",
+    "options": [
+      "Binds a receptor without activating it",
+      "Activates a receptor strongly",
+      "Produces hormones",
+      "Destroys target cells"
+    ],
+    "answer": "Binds a receptor without activating it"
+  },
+  {
+    "id": 220,
+    "question": "If an antagonist occupies a receptor, the normal hormone:",
+    "options": [
+      "Cannot bind effectively",
+      "Binds more strongly",
+      "Becomes a second messenger",
+      "Changes into an agonist"
+    ],
+    "answer": "Cannot bind effectively"
+  },
+  {
+    "id": 221,
+    "question": "The main effect of receptor antagonists is to:",
+    "options": [
+      "Reduce hormone action",
+      "Increase hormone production",
+      "Increase receptor number",
+      "Increase half-life"
+    ],
+    "answer": "Reduce hormone action"
+  },
+  {
+    "id": 222,
+    "question": "Which drug was presented as a partial agonist of the oestrogen receptor?",
+    "options": [
+      "Tamoxifen",
+      "RU486",
+      "Insulin",
+      "Glucagon"
+    ],
+    "answer": "Tamoxifen"
+  },
+  {
+    "id": 223,
+    "question": "Tamoxifen is used clinically to treat:",
+    "options": [
+      "Breast cancer",
+      "Diabetes mellitus",
+      "Hyperthyroidism",
+      "Hypertension"
+    ],
+    "answer": "Breast cancer"
+  },
+  {
+    "id": 224,
+    "question": "RU486 acts primarily as an antagonist of the:",
+    "options": [
+      "Progesterone receptor",
+      "Insulin receptor",
+      "Glucagon receptor",
+      "TSH receptor"
+    ],
+    "answer": "Progesterone receptor"
+  },
+  {
+    "id": 225,
+    "question": "According to the lecture, RU486 is used to:",
+    "options": [
+      "Cause abortion",
+      "Treat diabetes",
+      "Treat hypothyroidism",
+      "Increase growth hormone secretion"
+    ],
+    "answer": "Cause abortion"
+  },
+
+  {
+    "id": 226,
+    "question": "Which of the following would directly reduce the availability of free hormone?",
+    "options": [
+      "Increased binding protein concentration",
+      "Increased receptor number",
+      "Reduced receptor occupancy",
+      "Increased agonist efficacy"
+    ],
+    "answer": "Increased binding protein concentration"
+  },
+  {
+    "id": 227,
+    "question": "Which statement best describes the relationship between free and bound hormone?",
+    "options": [
+      "They exist in dynamic equilibrium",
+      "Bound hormone can never become free hormone",
+      "Free hormone cannot bind proteins",
+      "They are completely independent pools"
+    ],
+    "answer": "They exist in dynamic equilibrium"
+  },
+  {
+    "id": 228,
+    "question": "A rise in hormone-binding proteins would most likely cause an immediate decrease in:",
+    "options": [
+      "Free hormone concentration",
+      "Total hormone concentration",
+      "Hormone half-life",
+      "Binding capacity"
+    ],
+    "answer": "Free hormone concentration"
+  },
+  {
+    "id": 229,
+    "question": "Which form of hormone is most biologically active at the receptor level?",
+    "options": [
+      "Free hormone",
+      "Protein-bound hormone",
+      "Stored hormone",
+      "Metabolised hormone"
+    ],
+    "answer": "Free hormone"
+  },
+  {
+    "id": 230,
+    "question": "An increase in receptor number with no change in hormone concentration would generally:",
+    "options": [
+      "Increase hormone responsiveness",
+      "Decrease hormone responsiveness",
+      "Eliminate signalling",
+      "Decrease hormone half-life"
+    ],
+    "answer": "Increase hormone responsiveness"
+  },
+  {
+    "id": 231,
+    "question": "Which factor was emphasized in the lecture as determining the size of a hormonal effect?",
+    "options": [
+      "Hormone concentration and receptor number",
+      "Blood volume and pH",
+      "Chromosome number and ATP",
+      "Protein synthesis and calcium"
+    ],
+    "answer": "Hormone concentration and receptor number"
+  },
+  {
+    "id": 232,
+    "question": "Which situation would most likely produce reduced responsiveness despite normal hormone levels?",
+    "options": [
+      "Receptor down-regulation",
+      "Receptor up-regulation",
+      "Increased hormone release",
+      "Reduced clearance"
+    ],
+    "answer": "Receptor down-regulation"
+  },
+  {
+    "id": 233,
+    "question": "What is the most likely consequence of receptor up-regulation?",
+    "options": [
+      "Greater sensitivity to a hormone",
+      "Reduced hormone binding",
+      "Reduced responsiveness",
+      "Shorter hormone half-life"
+    ],
+    "answer": "Greater sensitivity to a hormone"
+  },
+  {
+    "id": 234,
+    "question": "Which regulatory mechanism alters responsiveness rather than circulating hormone concentration?",
+    "options": [
+      "Changing receptor number",
+      "Changing hormone release",
+      "Changing hormone degradation",
+      "Changing hormone clearance"
+    ],
+    "answer": "Changing receptor number"
+  },
+  {
+    "id": 235,
+    "question": "Persistent exposure to high agonist concentrations often leads to:",
+    "options": [
+      "Fewer receptors on target cells",
+      "More receptors on target cells",
+      "Increased hormone synthesis",
+      "Reduced hormone breakdown"
+    ],
+    "answer": "Fewer receptors on target cells"
+  },
+  {
+    "id": 236,
+    "question": "Which statement best explains receptor down-regulation?",
+    "options": [
+      "Target cells become less responsive after sustained stimulation",
+      "Hormones are produced more rapidly",
+      "Hormones gain higher affinity for receptors",
+      "Second messengers become inactive"
+    ],
+    "answer": "Target cells become less responsive after sustained stimulation"
+  },
+  {
+    "id": 237,
+    "question": "A patient has normal hormone levels but unusually high receptor expression. What is the most likely outcome?",
+    "options": [
+      "Enhanced hormonal effect",
+      "Reduced hormonal effect",
+      "No hormonal effect",
+      "Reduced hormone half-life"
+    ],
+    "answer": "Enhanced hormonal effect"
+  },
+  {
+    "id": 238,
+    "question": "Which regulatory mechanism specifically prevents hormones from binding to receptors?",
+    "options": [
+      "Receptor antagonism",
+      "Hormone clearance",
+      "Hormone release",
+      "Protein binding"
+    ],
+    "answer": "Receptor antagonism"
+  },
+  {
+    "id": 239,
+    "question": "How does an antagonist differ from an agonist?",
+    "options": [
+      "It binds the receptor without activating it",
+      "It increases hormone release",
+      "It increases receptor number",
+      "It functions as a second messenger"
+    ],
+    "answer": "It binds the receptor without activating it"
+  },
+  {
+    "id": 240,
+    "question": "What is the most direct consequence of antagonist occupancy of a receptor?",
+    "options": [
+      "Reduced access for the natural hormone",
+      "Increased receptor expression",
+      "More second messenger production",
+      "Longer hormone half-life"
+    ],
+    "answer": "Reduced access for the natural hormone"
+  },
+  {
+    "id": 241,
+    "question": "Which clinical example from the lecture involved an oestrogen receptor-targeting drug?",
+    "options": [
+      "Tamoxifen",
+      "RU486",
+      "ACTH",
+      "Angiotensin II"
+    ],
+    "answer": "Tamoxifen"
+  },
+  {
+    "id": 242,
+    "question": "Which clinical example from the lecture involved a progesterone receptor antagonist?",
+    "options": [
+      "RU486",
+      "Tamoxifen",
+      "Insulin",
+      "Glucagon"
+    ],
+    "answer": "RU486"
+  },
+  {
+    "id": 243,
+    "question": "Which combination would be expected to produce the greatest hormone activity?",
+    "options": [
+      "High free hormone concentration and high receptor number",
+      "High binding protein concentration and low receptor number",
+      "Low free hormone concentration and low receptor number",
+      "High antagonist concentration and low receptor number"
+    ],
+    "answer": "High free hormone concentration and high receptor number"
+  },
+  {
+    "id": 244,
+    "question": "Which combination would be expected to produce the weakest hormone response?",
+    "options": [
+      "Low receptor number and high antagonist occupancy",
+      "High receptor number and high free hormone concentration",
+      "Normal receptor number and normal hormone levels",
+      "Low binding protein concentration and high free hormone concentration"
+    ],
+    "answer": "Low receptor number and high antagonist occupancy"
+  },
+  {
+    "id": 245,
+    "question": "Which statement best summarizes regulation of hormone action?",
+    "options": [
+      "Hormone effects can be altered by changing availability, receptor number, or receptor binding",
+      "Hormone action depends only on hormone synthesis",
+      "Only receptor number influences hormone effects",
+      "Hormone concentration is the sole determinant of activity"
+    ],
+    "answer": "Hormone effects can be altered by changing availability, receptor number, or receptor binding"
+  },
+
+  {
+    "id": 246,
+    "question": "Which structure sits at the top of the hypothalamic-pituitary endocrine hierarchy?",
+    "options": [
+      "Hypothalamus",
+      "Anterior pituitary",
+      "Posterior pituitary",
+      "Thyroid gland"
+    ],
+    "answer": "Hypothalamus"
+  },
+  {
+    "id": 247,
+    "question": "The hypothalamus communicates with the anterior pituitary primarily through a:",
+    "options": [
+      "Vascular connection",
+      "Neural connection",
+      "Direct receptor connection",
+      "Lymphatic connection"
+    ],
+    "answer": "Vascular connection"
+  },
+  {
+    "id": 248,
+    "question": "The vascular connection between the hypothalamus and anterior pituitary is known as the:",
+    "options": [
+      "Hypophyseal portal system",
+      "Coronary circulation",
+      "Hepatic portal system",
+      "Renal circulation"
+    ],
+    "answer": "Hypophyseal portal system"
+  },
+  {
+    "id": 249,
+    "question": "The hypothalamus communicates with the posterior pituitary primarily through:",
+    "options": [
+      "Neural connections",
+      "Portal blood vessels",
+      "Hormone-binding proteins",
+      "Lymphatic vessels"
+    ],
+    "answer": "Neural connections"
+  },
+  {
+    "id": 250,
+    "question": "Which pituitary lobe receives hypothalamic releasing hormones through the portal circulation?",
+    "options": [
+      "Anterior pituitary",
+      "Posterior pituitary",
+      "Intermediate pituitary",
+      "Adrenal gland"
+    ],
+    "answer": "Anterior pituitary"
+  },
+  {
+    "id": 251,
+    "question": "Which hormone is released from the hypothalamus to stimulate TSH secretion?",
+    "options": [
+      "TRH",
+      "ACTH",
+      "TSH",
+      "ADH"
+    ],
+    "answer": "TRH"
+  },
+  {
+    "id": 252,
+    "question": "TRH stands for:",
+    "options": [
+      "Thyrotropin-releasing hormone",
+      "Thyroid-regulating hormone",
+      "Thyroxine-releasing hormone",
+      "Target-response hormone"
+    ],
+    "answer": "Thyrotropin-releasing hormone"
+  },
+  {
+    "id": 253,
+    "question": "Which hypothalamic hormone stimulates ACTH release?",
+    "options": [
+      "CRH",
+      "TRH",
+      "GnRH",
+      "GHRH"
+    ],
+    "answer": "CRH"
+  },
+  {
+    "id": 254,
+    "question": "CRH stands for:",
+    "options": [
+      "Corticotrophin-releasing hormone",
+      "Cortisol-regulating hormone",
+      "Calcium-releasing hormone",
+      "Cell-response hormone"
+    ],
+    "answer": "Corticotrophin-releasing hormone"
+  },
+  {
+    "id": 255,
+    "question": "Which hypothalamic hormone regulates gonadotrophin secretion?",
+    "options": [
+      "GnRH",
+      "GHRH",
+      "CRH",
+      "TSH"
+    ],
+    "answer": "GnRH"
+  },
+  {
+    "id": 256,
+    "question": "GnRH stands for:",
+    "options": [
+      "Gonadotrophin-releasing hormone",
+      "Growth-regulating hormone",
+      "General-releasing hormone",
+      "Gland-regulating hormone"
+    ],
+    "answer": "Gonadotrophin-releasing hormone"
+  },
+  {
+    "id": 257,
+    "question": "Which hypothalamic hormone stimulates growth hormone release?",
+    "options": [
+      "GHRH",
+      "CRH",
+      "TRH",
+      "FSH"
+    ],
+    "answer": "GHRH"
+  },
+  {
+    "id": 258,
+    "question": "GHRH stands for:",
+    "options": [
+      "Growth hormone-releasing hormone",
+      "General hormone-regulating hormone",
+      "Growth hormone-response hormone",
+      "Gland hormone-releasing hormone"
+    ],
+    "answer": "Growth hormone-releasing hormone"
+  },
+  {
+    "id": 259,
+    "question": "The primary role of hypothalamic releasing hormones is to:",
+    "options": [
+      "Stimulate pituitary hormone release",
+      "Act directly on peripheral organs",
+      "Block receptor activity",
+      "Increase hormone clearance"
+    ],
+    "answer": "Stimulate pituitary hormone release"
+  },
+  {
+    "id": 260,
+    "question": "Which hormone is released by the anterior pituitary in response to TRH?",
+    "options": [
+      "TSH",
+      "ACTH",
+      "ADH",
+      "Oxytocin"
+    ],
+    "answer": "TSH"
+  },
+  {
+    "id": 261,
+    "question": "Which hormone is released by the anterior pituitary in response to CRH?",
+    "options": [
+      "ACTH",
+      "TSH",
+      "LH",
+      "ADH"
+    ],
+    "answer": "ACTH"
+  },
+  {
+    "id": 262,
+    "question": "Which hormones are released in response to GnRH?",
+    "options": [
+      "LH and FSH",
+      "ACTH and TSH",
+      "ADH and oxytocin",
+      "T3 and T4"
+    ],
+    "answer": "LH and FSH"
+  },
+  {
+    "id": 263,
+    "question": "ACTH is secreted from the:",
+    "options": [
+      "Anterior pituitary",
+      "Posterior pituitary",
+      "Hypothalamus",
+      "Adrenal gland"
+    ],
+    "answer": "Anterior pituitary"
+  },
+  {
+    "id": 264,
+    "question": "TSH is secreted from the:",
+    "options": [
+      "Anterior pituitary",
+      "Posterior pituitary",
+      "Thyroid gland",
+      "Hypothalamus"
+    ],
+    "answer": "Anterior pituitary"
+  },
+  {
+    "id": 265,
+    "question": "Which pituitary hormone primarily targets the adrenal gland?",
+    "options": [
+      "ACTH",
+      "TSH",
+      "FSH",
+      "LH"
+    ],
+    "answer": "ACTH"
+  },
+  {
+    "id": 266,
+    "question": "Which pituitary hormone primarily targets the thyroid gland?",
+    "options": [
+      "TSH",
+      "ACTH",
+      "LH",
+      "ADH"
+    ],
+    "answer": "TSH"
+  },
+  {
+    "id": 267,
+    "question": "LH and FSH primarily target the:",
+    "options": [
+      "Gonads",
+      "Adrenal glands",
+      "Kidneys",
+      "Liver"
+    ],
+    "answer": "Gonads"
+  },
+  {
+    "id": 268,
+    "question": "Which hormone is associated with the posterior pituitary?",
+    "options": [
+      "ADH",
+      "ACTH",
+      "TSH",
+      "LH"
+    ],
+    "answer": "ADH"
+  },
+  {
+    "id": 269,
+    "question": "Which pair of hormones is associated with the posterior pituitary?",
+    "options": [
+      "ADH and oxytocin",
+      "TSH and ACTH",
+      "LH and FSH",
+      "T3 and T4"
+    ],
+    "answer": "ADH and oxytocin"
+  },
+  {
+    "id": 270,
+    "question": "The posterior pituitary is controlled primarily by:",
+    "options": [
+      "Neural input from the hypothalamus",
+      "Portal circulation",
+      "Thyroid hormones",
+      "Adrenal hormones"
+    ],
+    "answer": "Neural input from the hypothalamus"
+  },
+
+  {
+    "id": 271,
+    "question": "What is the primary role of the anterior pituitary within endocrine axes?",
+    "options": [
+      "Release tropic hormones that regulate peripheral glands",
+      "Directly produce cortisol",
+      "Release thyroid hormones",
+      "Store steroid hormones"
+    ],
+    "answer": "Release tropic hormones that regulate peripheral glands"
+  },
+  {
+    "id": 272,
+    "question": "A tropic hormone is best defined as a hormone that:",
+    "options": [
+      "Acts on another endocrine gland",
+      "Acts directly on all tissues",
+      "Functions only as a neurotransmitter",
+      "Degrades circulating hormones"
+    ],
+    "answer": "Acts on another endocrine gland"
+  },
+  {
+    "id": 273,
+    "question": "Which gland is directly stimulated by ACTH?",
+    "options": [
+      "Adrenal gland",
+      "Thyroid gland",
+      "Pituitary gland",
+      "Pineal gland"
+    ],
+    "answer": "Adrenal gland"
+  },
+  {
+    "id": 274,
+    "question": "Which gland is directly stimulated by TSH?",
+    "options": [
+      "Thyroid gland",
+      "Adrenal gland",
+      "Parathyroid gland",
+      "Pineal gland"
+    ],
+    "answer": "Thyroid gland"
+  },
+  {
+    "id": 275,
+    "question": "Which endocrine axis is primarily associated with cortisol production?",
+    "options": [
+      "CRH → ACTH → Cortisol",
+      "TRH → TSH → T4",
+      "GnRH → LH/FSH → Testosterone",
+      "GHRH → GH → IGF"
+    ],
+    "answer": "CRH → ACTH → Cortisol"
+  },
+  {
+    "id": 276,
+    "question": "Which effector hormone is produced by the adrenal gland in response to ACTH?",
+    "options": [
+      "Cortisol",
+      "T3",
+      "Oxytocin",
+      "IGF"
+    ],
+    "answer": "Cortisol"
+  },
+  {
+    "id": 277,
+    "question": "Cortisol was described in the lecture as being involved in:",
+    "options": [
+      "Metabolism and stress",
+      "Calcium regulation",
+      "Acid secretion",
+      "Red blood cell formation"
+    ],
+    "answer": "Metabolism and stress"
+  },
+  {
+    "id": 278,
+    "question": "Which endocrine axis ultimately influences thyroid hormone secretion?",
+    "options": [
+      "TRH → TSH → T3/T4",
+      "CRH → ACTH → Cortisol",
+      "GnRH → LH/FSH → Testosterone",
+      "GHRH → GH → IGF"
+    ],
+    "answer": "TRH → TSH → T3/T4"
+  },
+  {
+    "id": 279,
+    "question": "Which hormones are the principal effector hormones of the thyroid axis?",
+    "options": [
+      "T3 and T4",
+      "TSH and TRH",
+      "ACTH and cortisol",
+      "LH and FSH"
+    ],
+    "answer": "T3 and T4"
+  },
+  {
+    "id": 280,
+    "question": "Which endocrine axis is most directly associated with testosterone and oestrogen production?",
+    "options": [
+      "GnRH → LH/FSH axis",
+      "CRH → ACTH axis",
+      "TRH → TSH axis",
+      "GHRH → GH axis"
+    ],
+    "answer": "GnRH → LH/FSH axis"
+  },
+  {
+    "id": 281,
+    "question": "Which pituitary hormones act on the gonads?",
+    "options": [
+      "LH and FSH",
+      "TSH and ACTH",
+      "ADH and oxytocin",
+      "TRH and CRH"
+    ],
+    "answer": "LH and FSH"
+  },
+  {
+    "id": 282,
+    "question": "Which hormones were identified as major gonadal effector hormones?",
+    "options": [
+      "Testosterone and oestrogen",
+      "Cortisol and aldosterone",
+      "T3 and T4",
+      "ADH and oxytocin"
+    ],
+    "answer": "Testosterone and oestrogen"
+  },
+  {
+    "id": 283,
+    "question": "Which endocrine axis is most closely associated with IGF production?",
+    "options": [
+      "GHRH → Growth hormone → IGF",
+      "CRH → ACTH → Cortisol",
+      "TRH → TSH → T4",
+      "GnRH → LH/FSH → Oestrogen"
+    ],
+    "answer": "GHRH → Growth hormone → IGF"
+  },
+  {
+    "id": 284,
+    "question": "IGF was identified in the lecture as being associated with:",
+    "options": [
+      "Linear growth",
+      "Stress responses",
+      "Blood pressure regulation",
+      "Acid secretion"
+    ],
+    "answer": "Linear growth"
+  },
+  {
+    "id": 285,
+    "question": "In a typical endocrine axis, hypothalamic hormones primarily stimulate:",
+    "options": [
+      "Pituitary hormone release",
+      "Target tissues directly",
+      "Blood protein synthesis",
+      "Hormone degradation"
+    ],
+    "answer": "Pituitary hormone release"
+  },
+  {
+    "id": 286,
+    "question": "The pituitary hormones of endocrine axes primarily stimulate:",
+    "options": [
+      "Peripheral endocrine glands",
+      "DNA replication",
+      "Blood clotting",
+      "Receptor synthesis"
+    ],
+    "answer": "Peripheral endocrine glands"
+  },
+  {
+    "id": 287,
+    "question": "Which structure is considered a peripheral endocrine gland within these axes?",
+    "options": [
+      "Thyroid gland",
+      "Hypothalamus",
+      "Anterior pituitary",
+      "Posterior pituitary"
+    ],
+    "answer": "Thyroid gland"
+  },
+  {
+    "id": 288,
+    "question": "Which structure functions between the hypothalamus and peripheral glands?",
+    "options": [
+      "Pituitary gland",
+      "Kidney",
+      "Heart",
+      "Pancreas"
+    ],
+    "answer": "Pituitary gland"
+  },
+  {
+    "id": 289,
+    "question": "The overall organization of endocrine axes is best described as:",
+    "options": [
+      "Hierarchical",
+      "Random",
+      "Independent",
+      "Unregulated"
+    ],
+    "answer": "Hierarchical"
+  },
+  {
+    "id": 290,
+    "question": "Which sequence best represents a complete endocrine axis?",
+    "options": [
+      "Hypothalamus → Pituitary → Peripheral gland → Effector hormone",
+      "Pituitary → Hypothalamus → Effector hormone",
+      "Peripheral gland → Hypothalamus → Pituitary",
+      "Hormone → Receptor → Hypothalamus"
+    ],
+    "answer": "Hypothalamus → Pituitary → Peripheral gland → Effector hormone"
+  },
+  {
+    "id": 291,
+    "question": "What is the main role of negative feedback in endocrine axes?",
+    "options": [
+      "Maintain appropriate hormone levels",
+      "Increase hormone secretion indefinitely",
+      "Prevent receptor formation",
+      "Stimulate portal blood flow"
+    ],
+    "answer": "Maintain appropriate hormone levels"
+  },
+  {
+    "id": 292,
+    "question": "Negative feedback can occur at the level of the:",
+    "options": [
+      "Hypothalamus and/or pituitary",
+      "Red blood cell only",
+      "Portal vein only",
+      "Receptor only"
+    ],
+    "answer": "Hypothalamus and/or pituitary"
+  },
+  {
+    "id": 293,
+    "question": "Which hormone can participate in negative feedback within the HPA axis?",
+    "options": [
+      "Cortisol",
+      "TRH",
+      "TSH",
+      "ADH"
+    ],
+    "answer": "Cortisol"
+  },
+  {
+    "id": 294,
+    "question": "Why are endocrine axes considered homeostatic systems?",
+    "options": [
+      "They use feedback to stabilize hormone levels",
+      "They eliminate hormone secretion",
+      "They prevent receptor binding",
+      "They function without regulation"
+    ],
+    "answer": "They use feedback to stabilize hormone levels"
+  },
+  {
+    "id": 295,
+    "question": "Which endocrine axis is associated with metabolic rate regulation?",
+    "options": [
+      "TRH → TSH → T3/T4",
+      "CRH → ACTH → Cortisol",
+      "GnRH → LH/FSH",
+      "GHRH → GH → IGF"
+    ],
+    "answer": "TRH → TSH → T3/T4"
+  },
+  {
+    "id": 296,
+    "question": "Which endocrine axis is associated with reproductive hormone regulation?",
+    "options": [
+      "GnRH → LH/FSH",
+      "CRH → ACTH",
+      "TRH → TSH",
+      "ADH → Kidney"
+    ],
+    "answer": "GnRH → LH/FSH"
+  },
+  {
+    "id": 297,
+    "question": "Which endocrine axis is associated with stress-responsive hormone secretion?",
+    "options": [
+      "CRH → ACTH → Cortisol",
+      "TRH → TSH → T4",
+      "GnRH → LH/FSH",
+      "GHRH → GH → IGF"
+    ],
+    "answer": "CRH → ACTH → Cortisol"
+  },
+  {
+    "id": 298,
+    "question": "Which structure releases the hormones that are ultimately responsible for endocrine feedback regulation?",
+    "options": [
+      "Peripheral endocrine glands",
+      "Portal system",
+      "Posterior pituitary",
+      "Hypophyseal vessels"
+    ],
+    "answer": "Peripheral endocrine glands"
+  },
+  {
+    "id": 299,
+    "question": "The term effector hormone refers to a hormone that:",
+    "options": [
+      "Acts on target tissues to produce physiological effects",
+      "Stimulates pituitary secretion",
+      "Travels through the portal system",
+      "Functions as a receptor"
+    ],
+    "answer": "Acts on target tissues to produce physiological effects"
+  },
+  {
+    "id": 300,
+    "question": "Which of the following is an effector hormone rather than a pituitary hormone?",
+    "options": [
+      "Cortisol",
+      "ACTH",
+      "TSH",
+      "LH"
+    ],
+    "answer": "Cortisol"
+  },
+  {
+    "id": 301,
+    "question": "Which of the following is an effector hormone rather than a hypothalamic hormone?",
+    "options": [
+      "T4",
+      "TRH",
+      "CRH",
+      "GnRH"
+    ],
+    "answer": "T4"
+  },
+  {
+    "id": 302,
+    "question": "Which endocrine axis ends with testosterone or oestrogen production?",
+    "options": [
+      "GnRH → LH/FSH axis",
+      "CRH → ACTH axis",
+      "TRH → TSH axis",
+      "GHRH → GH axis"
+    ],
+    "answer": "GnRH → LH/FSH axis"
+  },
+  {
+    "id": 303,
+    "question": "A decrease in effector hormone levels would typically reduce:",
+    "options": [
+      "Negative feedback inhibition",
+      "Pituitary function completely",
+      "Portal blood flow",
+      "Hypothalamic existence"
+    ],
+    "answer": "Negative feedback inhibition"
+  },
+  {
+    "id": 304,
+    "question": "Which statement best characterizes hypothalamic-pituitary endocrine regulation?",
+    "options": [
+      "Multiple levels of hormonal control linked by feedback loops",
+      "Single hormones acting independently",
+      "Only neural communication",
+      "Only local signalling"
+    ],
+    "answer": "Multiple levels of hormonal control linked by feedback loops"
+  },
+  {
+    "id": 305,
+    "question": "Which statement best summarizes the hypothalamic-pituitary axis section?",
+    "options": [
+      "The hypothalamus regulates pituitary hormones that regulate peripheral glands, with feedback maintaining stability",
+      "The pituitary directly controls all tissues without feedback",
+      "Endocrine glands function independently of the brain",
+      "Posterior pituitary hormones regulate all endocrine functions"
+    ],
+    "answer": "The hypothalamus regulates pituitary hormones that regulate peripheral glands, with feedback maintaining stability"
+  },
+
+  {
+    "id": 306,
+    "question": "The adrenal gland is anatomically attached to the:",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Pancreas",
+      "Thyroid gland"
+    ],
+    "answer": "Kidney"
+  },
+  {
+    "id": 307,
+    "question": "Which statement best describes the adrenal gland?",
+    "options": [
+      "Different regions produce different hormones",
+      "All regions produce identical hormones",
+      "It functions only as a neural organ",
+      "It only secretes adrenaline"
+    ],
+    "answer": "Different regions produce different hormones"
+  },
+  {
+    "id": 308,
+    "question": "The two major regions of the adrenal gland are the:",
+    "options": [
+      "Cortex and medulla",
+      "Anterior and posterior lobes",
+      "Glomerulus and tubule",
+      "Hypothalamus and pituitary"
+    ],
+    "answer": "Cortex and medulla"
+  },
+  {
+    "id": 309,
+    "question": "Which region of the adrenal gland produces corticosteroids?",
+    "options": [
+      "Adrenal cortex",
+      "Adrenal medulla",
+      "Kidney cortex",
+      "Posterior pituitary"
+    ],
+    "answer": "Adrenal cortex"
+  },
+  {
+    "id": 310,
+    "question": "Which region of the adrenal gland produces catecholamines?",
+    "options": [
+      "Adrenal medulla",
+      "Adrenal cortex",
+      "Anterior pituitary",
+      "Hypothalamus"
+    ],
+    "answer": "Adrenal medulla"
+  },
+  {
+    "id": 311,
+    "question": "Which of the following is produced by the adrenal cortex?",
+    "options": [
+      "Cortisol",
+      "Noradrenaline",
+      "Adrenaline",
+      "Oxytocin"
+    ],
+    "answer": "Cortisol"
+  },
+  {
+    "id": 312,
+    "question": "Which of the following is produced by the adrenal medulla?",
+    "options": [
+      "Adrenaline",
+      "Aldosterone",
+      "Cortisol",
+      "ACTH"
+    ],
+    "answer": "Adrenaline"
+  },
+  {
+    "id": 313,
+    "question": "Which hormone is classified as a corticosteroid?",
+    "options": [
+      "Cortisol",
+      "Adrenaline",
+      "Noradrenaline",
+      "TSH"
+    ],
+    "answer": "Cortisol"
+  },
+  {
+    "id": 314,
+    "question": "Which hormone is classified as a mineralocorticoid?",
+    "options": [
+      "Aldosterone",
+      "Cortisol",
+      "Adrenaline",
+      "ACTH"
+    ],
+    "answer": "Aldosterone"
+  },
+  {
+    "id": 315,
+    "question": "Which pair of hormones is produced by the adrenal medulla?",
+    "options": [
+      "Adrenaline and noradrenaline",
+      "Cortisol and aldosterone",
+      "TSH and ACTH",
+      "LH and FSH"
+    ],
+    "answer": "Adrenaline and noradrenaline"
+  },
+  {
+    "id": 316,
+    "question": "Adrenaline secretion is primarily stimulated by:",
+    "options": [
+      "The sympathetic nervous system",
+      "TSH",
+      "ACTH",
+      "TRH"
+    ],
+    "answer": "The sympathetic nervous system"
+  },
+  {
+    "id": 317,
+    "question": "Which adrenal hormone is most directly linked to neural stimulation?",
+    "options": [
+      "Adrenaline",
+      "Cortisol",
+      "Aldosterone",
+      "IGF"
+    ],
+    "answer": "Adrenaline"
+  },
+  {
+    "id": 318,
+    "question": "The release of adrenaline illustrates integration between the endocrine system and the:",
+    "options": [
+      "Nervous system",
+      "Digestive system",
+      "Skeletal system",
+      "Lymphatic system"
+    ],
+    "answer": "Nervous system"
+  },
+  {
+    "id": 319,
+    "question": "Which hormone directly stimulates cortisol release from the adrenal cortex?",
+    "options": [
+      "ACTH",
+      "CRH",
+      "TSH",
+      "LH"
+    ],
+    "answer": "ACTH"
+  },
+  {
+    "id": 320,
+    "question": "Cortisol secretion is most closely associated with which endocrine axis?",
+    "options": [
+      "Hypothalamic-pituitary-adrenal axis",
+      "Hypothalamic-pituitary-thyroid axis",
+      "Hypothalamic-pituitary-gonadal axis",
+      "Growth hormone axis"
+    ],
+    "answer": "Hypothalamic-pituitary-adrenal axis"
+  },
+  {
+    "id": 321,
+    "question": "Which hypothalamic hormone is at the top of the cortisol axis?",
+    "options": [
+      "CRH",
+      "TRH",
+      "GnRH",
+      "GHRH"
+    ],
+    "answer": "CRH"
+  },
+  {
+    "id": 322,
+    "question": "Which sequence correctly represents the cortisol axis?",
+    "options": [
+      "CRH → ACTH → Cortisol",
+      "TRH → TSH → T4",
+      "GnRH → LH → Testosterone",
+      "GHRH → GH → IGF"
+    ],
+    "answer": "CRH → ACTH → Cortisol"
+  },
+  {
+    "id": 323,
+    "question": "According to the lecture, cortisol is most strongly associated with:",
+    "options": [
+      "Stress responses and metabolism",
+      "Calcium storage",
+      "Acid secretion",
+      "Red blood cell production"
+    ],
+    "answer": "Stress responses and metabolism"
+  },
+  {
+    "id": 324,
+    "question": "Which hormone stimulates aldosterone secretion?",
+    "options": [
+      "Angiotensin II",
+      "TSH",
+      "LH",
+      "CRH"
+    ],
+    "answer": "Angiotensin II"
+  },
+  {
+    "id": 325,
+    "question": "Aldosterone secretion is linked most closely to regulation of:",
+    "options": [
+      "Blood pressure and sodium balance",
+      "Metabolic rate",
+      "Growth",
+      "Acid secretion"
+    ],
+    "answer": "Blood pressure and sodium balance"
+  },
+  {
+    "id": 326,
+    "question": "Which adrenal hormone is regulated primarily by Angiotensin II rather than ACTH?",
+    "options": [
+      "Aldosterone",
+      "Cortisol",
+      "Adrenaline",
+      "Noradrenaline"
+    ],
+    "answer": "Aldosterone"
+  },
+  {
+    "id": 327,
+    "question": "Which adrenal hormones are primarily regulated through hormonal pathways?",
+    "options": [
+      "Cortisol and aldosterone",
+      "Adrenaline and noradrenaline",
+      "TSH and ACTH",
+      "LH and FSH"
+    ],
+    "answer": "Cortisol and aldosterone"
+  },
+  {
+    "id": 328,
+    "question": "Which adrenal hormones are primarily regulated through neural pathways?",
+    "options": [
+      "Adrenaline and noradrenaline",
+      "Cortisol and aldosterone",
+      "Cortisol and adrenaline",
+      "Aldosterone and noradrenaline"
+    ],
+    "answer": "Adrenaline and noradrenaline"
+  },
+  {
+    "id": 329,
+    "question": "Which statement best contrasts the adrenal cortex and medulla?",
+    "options": [
+      "The cortex is mainly hormonally regulated, whereas the medulla is strongly neurally regulated",
+      "Both are regulated identically",
+      "The medulla regulates the cortex",
+      "The cortex has no endocrine function"
+    ],
+    "answer": "The cortex is mainly hormonally regulated, whereas the medulla is strongly neurally regulated"
+  },
+  {
+    "id": 330,
+    "question": "Noradrenaline belongs to which hormone class?",
+    "options": [
+      "Catecholamines",
+      "Mineralocorticoids",
+      "Corticosteroids",
+      "Peptide hormones"
+    ],
+    "answer": "Catecholamines"
+  },
+  {
+    "id": 331,
+    "question": "Adrenaline belongs to which hormone class?",
+    "options": [
+      "Catecholamines",
+      "Steroid hormones",
+      "Peptide hormones",
+      "Growth factors"
+    ],
+    "answer": "Catecholamines"
+  },
+  {
+    "id": 332,
+    "question": "Cortisol belongs to which hormone class?",
+    "options": [
+      "Corticosteroids",
+      "Catecholamines",
+      "Peptide hormones",
+      "Tyrosine hormones"
+    ],
+    "answer": "Corticosteroids"
+  },
+  {
+    "id": 333,
+    "question": "Aldosterone belongs to which hormone class?",
+    "options": [
+      "Mineralocorticoids",
+      "Catecholamines",
+      "Growth factors",
+      "Pituitary hormones"
+    ],
+    "answer": "Mineralocorticoids"
+  },
+  {
+    "id": 334,
+    "question": "Which adrenal hormone would be expected to increase rapidly following acute sympathetic activation?",
+    "options": [
+      "Adrenaline",
+      "Cortisol",
+      "Aldosterone",
+      "TSH"
+    ],
+    "answer": "Adrenaline"
+  },
+  {
+    "id": 335,
+    "question": "Which adrenal hormone functions as the major effector hormone of the HPA axis?",
+    "options": [
+      "Cortisol",
+      "ACTH",
+      "CRH",
+      "Aldosterone"
+    ],
+    "answer": "Cortisol"
+  },
+  {
+    "id": 336,
+    "question": "Which hormone is released from the pituitary immediately before cortisol secretion?",
+    "options": [
+      "ACTH",
+      "TSH",
+      "LH",
+      "ADH"
+    ],
+    "answer": "ACTH"
+  },
+  {
+    "id": 337,
+    "question": "Which structure produces ACTH?",
+    "options": [
+      "Anterior pituitary",
+      "Adrenal cortex",
+      "Adrenal medulla",
+      "Hypothalamus"
+    ],
+    "answer": "Anterior pituitary"
+  },
+  {
+    "id": 338,
+    "question": "Which hormone provides the link between the renin-angiotensin system and the adrenal gland?",
+    "options": [
+      "Angiotensin II",
+      "ACTH",
+      "CRH",
+      "TSH"
+    ],
+    "answer": "Angiotensin II"
+  },
+  {
+    "id": 339,
+    "question": "Why is the adrenal gland an important teaching example in endocrinology?",
+    "options": [
+      "It contains regions regulated by both neural and hormonal signals",
+      "It produces every hormone in the body",
+      "It functions without feedback",
+      "It controls all pituitary hormones"
+    ],
+    "answer": "It contains regions regulated by both neural and hormonal signals"
+  },
+  {
+    "id": 340,
+    "question": "Which statement best summarizes the adrenal section of the lecture?",
+    "options": [
+      "Different regions of the adrenal gland produce distinct hormones regulated by different control systems",
+      "All adrenal hormones are controlled by ACTH",
+      "The adrenal gland functions only through neural signalling",
+      "The adrenal cortex and medulla produce identical hormones"
+    ],
+    "answer": "Different regions of the adrenal gland produce distinct hormones regulated by different control systems"
+  },
+
+  {
+    "id": 341,
+    "question": "What is the primary physiological role of thyroid hormones according to the lecture?",
+    "options": [
+      "Regulation of metabolism",
+      "Regulation of blood clotting",
+      "Regulation of calcium storage",
+      "Regulation of red blood cell production"
+    ],
+    "answer": "Regulation of metabolism"
+  },
+  {
+    "id": 342,
+    "question": "The lecture describes thyroid hormones as influencing the body's:",
+    "options": [
+      "Speed dial",
+      "Immune memory",
+      "Growth plate",
+      "Stress threshold"
+    ],
+    "answer": "Speed dial"
+  },
+  {
+    "id": 343,
+    "question": "One major effect of thyroid hormones is to increase:",
+    "options": [
+      "Oxygen consumption",
+      "Blood calcium",
+      "Insulin secretion",
+      "Blood volume"
+    ],
+    "answer": "Oxygen consumption"
+  },
+  {
+    "id": 344,
+    "question": "Thyroid hormones increase oxygen consumption in:",
+    "options": [
+      "Almost all tissues",
+      "Only skeletal muscle",
+      "Only the brain",
+      "Only endocrine glands"
+    ],
+    "answer": "Almost all tissues"
+  },
+  {
+    "id": 345,
+    "question": "The thyroid gland secretes primarily which hormone?",
+    "options": [
+      "T4",
+      "T3",
+      "TSH",
+      "TRH"
+    ],
+    "answer": "T4"
+  },
+  {
+    "id": 346,
+    "question": "Which thyroid hormone is considered the biologically active form?",
+    "options": [
+      "T3",
+      "T4",
+      "TSH",
+      "Reverse T3"
+    ],
+    "answer": "T3"
+  },
+  {
+    "id": 347,
+    "question": "Which thyroid hormone is secreted in greater quantities by the thyroid gland?",
+    "options": [
+      "T4",
+      "T3",
+      "Reverse T3",
+      "TSH"
+    ],
+    "answer": "T4"
+  },
+  {
+    "id": 348,
+    "question": "Cells activate T4 primarily by converting it into:",
+    "options": [
+      "T3",
+      "TSH",
+      "TRH",
+      "ACTH"
+    ],
+    "answer": "T3"
+  },
+  {
+    "id": 349,
+    "question": "The process that converts T4 into T3 is called:",
+    "options": [
+      "Deiodination",
+      "Phosphorylation",
+      "Glycosylation",
+      "Oxidation"
+    ],
+    "answer": "Deiodination"
+  },
+  {
+    "id": 350,
+    "question": "Reverse T3 is best described as:",
+    "options": [
+      "A biologically inactive form of thyroid hormone",
+      "The most active thyroid hormone",
+      "A pituitary hormone",
+      "A thyroid receptor"
+    ],
+    "answer": "A biologically inactive form of thyroid hormone"
+  },
+  {
+    "id": 351,
+    "question": "During starvation, the body tends to produce a greater proportion of:",
+    "options": [
+      "Reverse T3",
+      "T3",
+      "TSH",
+      "TRH"
+    ],
+    "answer": "Reverse T3"
+  },
+  {
+    "id": 352,
+    "question": "Increasing production of reverse T3 during starvation helps:",
+    "options": [
+      "Reduce thyroid hormone action",
+      "Increase metabolic rate",
+      "Stimulate ACTH release",
+      "Increase cortisol synthesis"
+    ],
+    "answer": "Reduce thyroid hormone action"
+  },
+  {
+    "id": 353,
+    "question": "Which thyroid hormone directly binds nuclear receptors?",
+    "options": [
+      "T3",
+      "T4",
+      "TSH",
+      "TRH"
+    ],
+    "answer": "T3"
+  },
+  {
+    "id": 354,
+    "question": "Binding of T3 to nuclear receptors primarily affects:",
+    "options": [
+      "Gene expression",
+      "Blood glucose concentration",
+      "Hormone clearance",
+      "Portal blood flow"
+    ],
+    "answer": "Gene expression"
+  },
+  {
+    "id": 355,
+    "question": "According to the lecture, T3 can also act on:",
+    "options": [
+      "Mitochondrial receptors",
+      "Red blood cells",
+      "DNA polymerase",
+      "Albumin"
+    ],
+    "answer": "Mitochondrial receptors"
+  },
+  {
+    "id": 356,
+    "question": "T3 action at mitochondrial receptors contributes primarily to:",
+    "options": [
+      "Increased energy metabolism",
+      "Reduced ATP use",
+      "Hormone degradation",
+      "Calcium storage"
+    ],
+    "answer": "Increased energy metabolism"
+  },
+  {
+    "id": 357,
+    "question": "Which cellular enzyme activity is directly stimulated by T3?",
+    "options": [
+      "Na/K ATPase",
+      "DNA polymerase",
+      "RNA polymerase",
+      "Pepsin"
+    ],
+    "answer": "Na/K ATPase"
+  },
+  {
+    "id": 358,
+    "question": "Stimulation of Na/K ATPase by T3 contributes to:",
+    "options": [
+      "Increased metabolic activity",
+      "Reduced oxygen consumption",
+      "Hormone degradation",
+      "Reduced ATP use"
+    ],
+    "answer": "Increased metabolic activity"
+  },
+  {
+    "id": 359,
+    "question": "Which hormone is released by the hypothalamus to initiate the thyroid axis?",
+    "options": [
+      "TRH",
+      "TSH",
+      "T4",
+      "ACTH"
+    ],
+    "answer": "TRH"
+  },
+  {
+    "id": 360,
+    "question": "TRH directly stimulates secretion of:",
+    "options": [
+      "TSH",
+      "T3",
+      "T4",
+      "ACTH"
+    ],
+    "answer": "TSH"
+  },
+  {
+    "id": 361,
+    "question": "TSH is released from the:",
+    "options": [
+      "Anterior pituitary",
+      "Posterior pituitary",
+      "Thyroid gland",
+      "Hypothalamus"
+    ],
+    "answer": "Anterior pituitary"
+  },
+  {
+    "id": 362,
+    "question": "TSH acts directly on the:",
+    "options": [
+      "Thyroid gland",
+      "Adrenal gland",
+      "Gonads",
+      "Kidney"
+    ],
+    "answer": "Thyroid gland"
+  },
+  {
+    "id": 363,
+    "question": "Which sequence correctly represents the thyroid axis?",
+    "options": [
+      "TRH → TSH → T3/T4",
+      "CRH → ACTH → Cortisol",
+      "GnRH → LH/FSH → Testosterone",
+      "GHRH → GH → IGF"
+    ],
+    "answer": "TRH → TSH → T3/T4"
+  },
+  {
+    "id": 364,
+    "question": "Which hormones are secreted by the thyroid gland in response to TSH?",
+    "options": [
+      "T3 and T4",
+      "TRH and TSH",
+      "ACTH and cortisol",
+      "LH and FSH"
+    ],
+    "answer": "T3 and T4"
+  },
+  {
+    "id": 365,
+    "question": "Which hormone was specifically noted to inhibit TSH release?",
+    "options": [
+      "T3",
+      "TRH",
+      "ACTH",
+      "ADH"
+    ],
+    "answer": "T3"
+  },
+  {
+    "id": 366,
+    "question": "The thyroid axis is regulated primarily through:",
+    "options": [
+      "Negative feedback",
+      "Positive feedback",
+      "Feed-forward only",
+      "Neural inhibition only"
+    ],
+    "answer": "Negative feedback"
+  },
+  {
+    "id": 367,
+    "question": "Negative feedback in the thyroid axis helps maintain:",
+    "options": [
+      "Stable thyroid hormone levels",
+      "Stable cortisol levels",
+      "Stable blood pressure",
+      "Stable calcium levels"
+    ],
+    "answer": "Stable thyroid hormone levels"
+  },
+  {
+    "id": 368,
+    "question": "Which hormone functions as the pituitary hormone in the thyroid axis?",
+    "options": [
+      "TSH",
+      "TRH",
+      "T3",
+      "T4"
+    ],
+    "answer": "TSH"
+  },
+  {
+    "id": 369,
+    "question": "Which hormone functions as the hypothalamic hormone in the thyroid axis?",
+    "options": [
+      "TRH",
+      "TSH",
+      "T3",
+      "T4"
+    ],
+    "answer": "TRH"
+  },
+  {
+    "id": 370,
+    "question": "Which hormones function as the effector hormones of the thyroid axis?",
+    "options": [
+      "T3 and T4",
+      "TRH and TSH",
+      "ACTH and cortisol",
+      "LH and FSH"
+    ],
+    "answer": "T3 and T4"
+  },
+  {
+    "id": 371,
+    "question": "A patient shows normal TRH, low TSH and low T3/T4. According to the lecture example, the most likely problem is in the:",
+    "options": [
+      "Pituitary gland",
+      "Hypothalamus",
+      "Thyroid gland",
+      "Adrenal gland"
+    ],
+    "answer": "Pituitary gland"
+  },
+  {
+    "id": 372,
+    "question": "A patient shows high TRH, high TSH and low T3/T4. The most likely problem is in the:",
+    "options": [
+      "Thyroid gland",
+      "Pituitary gland",
+      "Hypothalamus",
+      "Posterior pituitary"
+    ],
+    "answer": "Thyroid gland"
+  },
+  {
+    "id": 373,
+    "question": "A patient shows low TRH, low TSH and low T3/T4. The most likely problem is in the:",
+    "options": [
+      "Hypothalamus",
+      "Pituitary gland",
+      "Thyroid gland",
+      "Adrenal cortex"
+    ],
+    "answer": "Hypothalamus"
+  },
+  {
+    "id": 374,
+    "question": "Why are thyroid-axis hormone patterns diagnostically useful?",
+    "options": [
+      "They help identify where dysfunction occurs within the axis",
+      "They directly measure receptor number",
+      "They determine hormone half-life",
+      "They identify binding proteins"
+    ],
+    "answer": "They help identify where dysfunction occurs within the axis"
+  },
+  {
+    "id": 375,
+    "question": "Which statement best summarizes thyroid hormone physiology?",
+    "options": [
+      "T4 is converted to active T3, which regulates metabolism through multiple cellular mechanisms",
+      "T3 is converted to active T4, which regulates blood pressure",
+      "TSH is the primary thyroid hormone acting on tissues",
+      "Reverse T3 is the most biologically active thyroid hormone"
+    ],
+    "answer": "T4 is converted to active T3, which regulates metabolism through multiple cellular mechanisms"
+  },
+
+  {
+    "id": 376,
+    "question": "Which thyroid hormone has the longest half-life according to the lecture?",
+    "options": [
+      "T4",
+      "T3",
+      "TSH",
+      "Reverse T3"
+    ],
+    "answer": "T4"
+  },
+  {
+    "id": 377,
+    "question": "Which thyroid-related molecule has a half-life of approximately 1.3 days?",
+    "options": [
+      "T3",
+      "T4",
+      "TSH",
+      "TRH"
+    ],
+    "answer": "T3"
+  },
+  {
+    "id": 378,
+    "question": "Which hormone in the thyroid axis has a half-life of approximately 60 minutes?",
+    "options": [
+      "TSH",
+      "T3",
+      "T4",
+      "Reverse T3"
+    ],
+    "answer": "TSH"
+  },
+  {
+    "id": 379,
+    "question": "Which sequence correctly orders thyroid-axis hormones from shortest to longest half-life?",
+    "options": [
+      "TSH → T3 → T4",
+      "T4 → T3 → TSH",
+      "T3 → TSH → T4",
+      "TSH → T4 → T3"
+    ],
+    "answer": "TSH → T3 → T4"
+  },
+  {
+    "id": 380,
+    "question": "Why does T4 exert prolonged effects compared with T3?",
+    "options": [
+      "It has a longer half-life",
+      "It binds nuclear receptors more strongly",
+      "It is produced by the pituitary",
+      "It inhibits receptor binding"
+    ],
+    "answer": "It has a longer half-life"
+  },
+  {
+    "id": 381,
+    "question": "Many circulating thyroid hormones are transported bound to:",
+    "options": [
+      "Binding proteins",
+      "Second messengers",
+      "Receptors",
+      "Transcription factors"
+    ],
+    "answer": "Binding proteins"
+  },
+  {
+    "id": 382,
+    "question": "What is the primary effect of thyroid hormone-binding proteins on free hormone concentration?",
+    "options": [
+      "They reduce it",
+      "They increase it",
+      "They eliminate it",
+      "They have no effect"
+    ],
+    "answer": "They reduce it"
+  },
+  {
+    "id": 383,
+    "question": "What is the primary effect of thyroid hormone-binding proteins on hormone half-life?",
+    "options": [
+      "They increase it",
+      "They decrease it",
+      "They eliminate it",
+      "They make it unpredictable"
+    ],
+    "answer": "They increase it"
+  },
+  {
+    "id": 384,
+    "question": "Most receptor-mediated thyroid hormone action is produced by:",
+    "options": [
+      "Free hormone",
+      "Protein-bound hormone",
+      "Stored hormone",
+      "Degraded hormone"
+    ],
+    "answer": "Free hormone"
+  },
+  {
+    "id": 385,
+    "question": "Which statement best describes T4?",
+    "options": [
+      "It serves largely as a circulating precursor to T3",
+      "It is the principal hypothalamic hormone",
+      "It inhibits thyroid function directly",
+      "It functions only as a binding protein"
+    ],
+    "answer": "It serves largely as a circulating precursor to T3"
+  },
+  {
+    "id": 386,
+    "question": "Why is conversion of T4 to T3 physiologically important?",
+    "options": [
+      "T3 is the more biologically active hormone",
+      "T4 cannot enter the bloodstream",
+      "T4 cannot bind proteins",
+      "T3 is required for TSH synthesis"
+    ],
+    "answer": "T3 is the more biologically active hormone"
+  },
+  {
+    "id": 387,
+    "question": "A defect in deiodination would most directly impair production of:",
+    "options": [
+      "T3",
+      "TRH",
+      "TSH",
+      "ACTH"
+    ],
+    "answer": "T3"
+  },
+  {
+    "id": 388,
+    "question": "An increase in reverse T3 production would most likely result in:",
+    "options": [
+      "Reduced thyroid hormone effects",
+      "Increased metabolic rate",
+      "Increased TSH secretion",
+      "Enhanced cortisol release"
+    ],
+    "answer": "Reduced thyroid hormone effects"
+  },
+  {
+    "id": 389,
+    "question": "Which hormone provides the strongest direct negative feedback within the thyroid axis according to the lecture?",
+    "options": [
+      "T3",
+      "TRH",
+      "TSH",
+      "Reverse T3"
+    ],
+    "answer": "T3"
+  },
+  {
+    "id": 390,
+    "question": "If circulating T3 levels increase substantially, what would be expected to happen to TSH secretion?",
+    "options": [
+      "It would decrease",
+      "It would increase",
+      "It would remain unchanged",
+      "It would convert into TRH"
+    ],
+    "answer": "It would decrease"
+  },
+  {
+    "id": 391,
+    "question": "If thyroid hormone levels fall, the hypothalamus would most likely respond by increasing secretion of:",
+    "options": [
+      "TRH",
+      "ACTH",
+      "ADH",
+      "LH"
+    ],
+    "answer": "TRH"
+  },
+  {
+    "id": 392,
+    "question": "Which axis pattern would be most consistent with a healthy thyroid gland responding appropriately to hypothalamic and pituitary stimulation?",
+    "options": [
+      "Normal thyroid hormone production following TSH release",
+      "High TSH with absent thyroid hormone production",
+      "Low TSH despite low T3/T4",
+      "High T3 with absent feedback"
+    ],
+    "answer": "Normal thyroid hormone production following TSH release"
+  },
+  {
+    "id": 393,
+    "question": "A patient has low T3/T4 and elevated TRH and TSH. What does this pattern suggest?",
+    "options": [
+      "The thyroid gland is failing to respond adequately",
+      "The pituitary gland is failing",
+      "The hypothalamus is failing",
+      "The posterior pituitary is failing"
+    ],
+    "answer": "The thyroid gland is failing to respond adequately"
+  },
+  {
+    "id": 394,
+    "question": "A patient has low TRH, low TSH and low T3/T4. Which structure is the most likely site of dysfunction?",
+    "options": [
+      "Hypothalamus",
+      "Thyroid gland",
+      "Adrenal gland",
+      "Kidney"
+    ],
+    "answer": "Hypothalamus"
+  },
+  {
+    "id": 395,
+    "question": "A patient has normal TRH but low TSH and low T3/T4. Which structure is the most likely site of dysfunction?",
+    "options": [
+      "Pituitary gland",
+      "Hypothalamus",
+      "Thyroid gland",
+      "Adrenal cortex"
+    ],
+    "answer": "Pituitary gland"
+  },
+  {
+    "id": 396,
+    "question": "The diagnostic value of endocrine axis measurements depends largely on understanding:",
+    "options": [
+      "Feedback relationships between glands",
+      "Blood group inheritance",
+      "Chromosome structure",
+      "Protein digestion"
+    ],
+    "answer": "Feedback relationships between glands"
+  },
+  {
+    "id": 397,
+    "question": "Which mechanism allows thyroid hormones to alter protein synthesis?",
+    "options": [
+      "Activation of nuclear receptors and gene expression",
+      "Direct destruction of mRNA",
+      "Conversion of ATP into DNA",
+      "Inhibition of transcription factors"
+    ],
+    "answer": "Activation of nuclear receptors and gene expression"
+  },
+  {
+    "id": 398,
+    "question": "Which mechanism contributes most directly to the broad, body-wide effects of thyroid hormones?",
+    "options": [
+      "Increased metabolic activity in many tissues",
+      "Selective action on a single gland",
+      "Restriction to the bloodstream",
+      "Exclusive action in the liver"
+    ],
+    "answer": "Increased metabolic activity in many tissues"
+  },
+  {
+    "id": 399,
+    "question": "Which statement best explains why thyroid hormones have widespread physiological effects?",
+    "options": [
+      "They influence cellular metabolism across many tissues",
+      "They are the only hormones in the body",
+      "They directly produce all other hormones",
+      "They function independently of receptors"
+    ],
+    "answer": "They influence cellular metabolism across many tissues"
+  },
+  {
+    "id": 400,
+    "question": "Which statement best summarizes the thyroid axis section as a whole?",
+    "options": [
+      "TRH stimulates TSH, which stimulates T3/T4 production, and thyroid hormones regulate metabolism while participating in negative feedback",
+      "TSH stimulates TRH, which stimulates T3 production",
+      "The thyroid gland functions independently of the hypothalamus and pituitary",
+      "Reverse T3 is the principal active thyroid hormone controlling metabolism"
+    ],
+    "answer": "TRH stimulates TSH, which stimulates T3/T4 production, and thyroid hormones regulate metabolism while participating in negative feedback"
+  },
+
+ 
+  {
+    "id": 401,
+    "question": "Which endocrine gland is responsible for coordinating multiple hormonal axes in the body?",
+    "options": [
+      "Pituitary gland",
+      "Pineal gland",
+      "Parathyroid gland",
+      "Pancreas"
+    ],
+    "answer": "Pituitary gland"
+  },
+  {
+    "id": 402,
+    "question": "Which endocrine gland primarily regulates metabolic rate?",
+    "options": [
+      "Thyroid gland",
+      "Adrenal gland",
+      "Pineal gland",
+      "Parathyroid gland"
+    ],
+    "answer": "Thyroid gland"
+  },
+  {
+    "id": 403,
+    "question": "Which endocrine gland primarily regulates plasma calcium through parathyroid hormone?",
+    "options": [
+      "Parathyroid gland",
+      "Thyroid gland",
+      "Pineal gland",
+      "Pituitary gland"
+    ],
+    "answer": "Parathyroid gland"
+  },
+  {
+    "id": 404,
+    "question": "Which endocrine gland secretes melatonin?",
+    "options": [
+      "Pineal gland",
+      "Thyroid gland",
+      "Pancreas",
+      "Adrenal gland"
+    ],
+    "answer": "Pineal gland"
+  },
+  {
+    "id": 405,
+    "question": "Melatonin is primarily associated with regulation of:",
+    "options": [
+      "Biological rhythms",
+      "Blood glucose",
+      "Blood calcium",
+      "Acid secretion"
+    ],
+    "answer": "Biological rhythms"
+  },
+  {
+    "id": 406,
+    "question": "Which endocrine gland secretes both insulin and glucagon?",
+    "options": [
+      "Pancreas",
+      "Pituitary gland",
+      "Adrenal gland",
+      "Thyroid gland"
+    ],
+    "answer": "Pancreas"
+  },
+  {
+    "id": 407,
+    "question": "Insulin and glucagon are primarily involved in regulating:",
+    "options": [
+      "Metabolism and plasma nutrients",
+      "Blood clotting",
+      "Sleep cycles",
+      "Calcium storage"
+    ],
+    "answer": "Metabolism and plasma nutrients"
+  },
+  {
+    "id": 408,
+    "question": "Which endocrine organs produce testosterone and oestrogen?",
+    "options": [
+      "Gonads",
+      "Adrenal glands",
+      "Parathyroid glands",
+      "Kidneys"
+    ],
+    "answer": "Gonads"
+  },
+  {
+    "id": 409,
+    "question": "Which organ was identified as producing atrial natriuretic peptide (ANP)?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Pancreas",
+      "Thyroid gland"
+    ],
+    "answer": "Heart"
+  },
+  {
+    "id": 410,
+    "question": "ANP primarily contributes to regulation of:",
+    "options": [
+      "Blood volume",
+      "Blood glucose",
+      "Metabolic rate",
+      "Acid secretion"
+    ],
+    "answer": "Blood volume"
+  },
+  {
+    "id": 411,
+    "question": "Which statement best illustrates that not all endocrine hormones originate from classical endocrine glands?",
+    "options": [
+      "The heart secretes ANP",
+      "The thyroid secretes T4",
+      "The adrenal cortex secretes cortisol",
+      "The pancreas secretes insulin"
+    ],
+    "answer": "The heart secretes ANP"
+  },
+  {
+    "id": 412,
+    "question": "Which organ contributes to endocrine regulation of blood pressure through the renin-angiotensin system?",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Heart",
+      "Pituitary gland"
+    ],
+    "answer": "Kidney"
+  },
+  {
+    "id": 413,
+    "question": "Which hormone produced by the kidney stimulates red blood cell production?",
+    "options": [
+      "Erythropoietin",
+      "Leptin",
+      "Gastrin",
+      "Melatonin"
+    ],
+    "answer": "Erythropoietin"
+  },
+  {
+    "id": 414,
+    "question": "The kidney contributes to calcium regulation through production of:",
+    "options": [
+      "Active vitamin D",
+      "Melatonin",
+      "Insulin",
+      "ACTH"
+    ],
+    "answer": "Active vitamin D"
+  },
+  {
+    "id": 415,
+    "question": "Which non-gland organ was highlighted as having important endocrine roles in blood pressure, red blood cell production and calcium regulation?",
+    "options": [
+      "Kidney",
+      "Heart",
+      "Liver",
+      "Intestine"
+    ],
+    "answer": "Kidney"
+  },
+  {
+    "id": 416,
+    "question": "The intestine was described as releasing hormones involved in:",
+    "options": [
+      "Digestion and metabolism",
+      "Blood clotting",
+      "Sleep regulation",
+      "Bone growth only"
+    ],
+    "answer": "Digestion and metabolism"
+  },
+  {
+    "id": 417,
+    "question": "Which tissue was identified as secreting leptin?",
+    "options": [
+      "Adipose tissue",
+      "Muscle tissue",
+      "Bone tissue",
+      "Thyroid tissue"
+    ],
+    "answer": "Adipose tissue"
+  },
+  {
+    "id": 418,
+    "question": "Leptin is an example demonstrating that endocrine function occurs in:",
+    "options": [
+      "Adipose tissue",
+      "Only endocrine glands",
+      "Only the brain",
+      "Only the pancreas"
+    ],
+    "answer": "Adipose tissue"
+  },
+  {
+    "id": 419,
+    "question": "Which organ was listed as having endocrine functions related to growth-hormone-associated physiology?",
+    "options": [
+      "Liver",
+      "Heart",
+      "Kidney",
+      "Parathyroid gland"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "id": 420,
+    "question": "Which statement best summarizes the endocrine role of non-gland organs?",
+    "options": [
+      "Many organs participate in hormonal regulation despite not being classical endocrine glands",
+      "Only endocrine glands release hormones",
+      "Hormones are produced exclusively by the pituitary",
+      "Non-gland organs only respond to hormones"
+    ],
+    "answer": "Many organs participate in hormonal regulation despite not being classical endocrine glands"
+  },
+  {
+    "id": 421,
+    "question": "A hormone acting on neighbouring cells is demonstrating:",
+    "options": [
+      "Paracrine signalling",
+      "Autocrine signalling",
+      "Endocrine signalling",
+      "Neural signalling"
+    ],
+    "answer": "Paracrine signalling"
+  },
+  {
+    "id": 422,
+    "question": "Which molecule was presented as a paracrine signalling example?",
+    "options": [
+      "Endothelin",
+      "Insulin",
+      "ACTH",
+      "TSH"
+    ],
+    "answer": "Endothelin"
+  },
+  {
+    "id": 423,
+    "question": "Endothelin released from arterial endothelium acts primarily on:",
+    "options": [
+      "Underlying smooth muscle",
+      "The thyroid gland",
+      "The pituitary gland",
+      "Red blood cells"
+    ],
+    "answer": "Underlying smooth muscle"
+  },
+  {
+    "id": 424,
+    "question": "What effect of endothelin was described in the lecture?",
+    "options": [
+      "Smooth-muscle constriction",
+      "Smooth-muscle relaxation",
+      "Insulin secretion",
+      "ACTH secretion"
+    ],
+    "answer": "Smooth-muscle constriction"
+  },
+  {
+    "id": 425,
+    "question": "A hormone acting on the same cell that secreted it is demonstrating:",
+    "options": [
+      "Autocrine signalling",
+      "Paracrine signalling",
+      "Endocrine signalling",
+      "Portal signalling"
+    ],
+    "answer": "Autocrine signalling"
+  },
+  {
+    "id": 426,
+    "question": "Which molecules were given as examples of autocrine signalling?",
+    "options": [
+      "Cytokines",
+      "Catecholamines",
+      "Thyroid hormones",
+      "Mineralocorticoids"
+    ],
+    "answer": "Cytokines"
+  },
+  {
+    "id": 427,
+    "question": "The lecture suggested that autocrine signalling can contribute to cancer because cells may:",
+    "options": [
+      "Produce their own growth signals",
+      "Stop expressing receptors",
+      "Lose nuclei",
+      "Deactivate second messengers"
+    ],
+    "answer": "Produce their own growth signals"
+  },
+  {
+    "id": 428,
+    "question": "Most cells were described as secreting signalling molecules into their:",
+    "options": [
+      "Local environment",
+      "Nucleus only",
+      "Mitochondria only",
+      "DNA"
+    ],
+    "answer": "Local environment"
+  },
+  {
+    "id": 429,
+    "question": "Which statement best contrasts endocrine and paracrine signalling?",
+    "options": [
+      "Endocrine acts at a distance, whereas paracrine acts locally",
+      "Paracrine acts at a distance, whereas endocrine acts locally",
+      "They are identical processes",
+      "Neither uses hormones"
+    ],
+    "answer": "Endocrine acts at a distance, whereas paracrine acts locally"
+  },
+  {
+    "id": 430,
+    "question": "Which statement best contrasts autocrine and paracrine signalling?",
+    "options": [
+      "Autocrine acts on the secreting cell, whereas paracrine acts on neighbouring cells",
+      "Autocrine acts on distant cells, whereas paracrine acts on the secreting cell",
+      "Autocrine requires the bloodstream, whereas paracrine does not",
+      "There is no difference"
+    ],
+    "answer": "Autocrine acts on the secreting cell, whereas paracrine acts on neighbouring cells"
+  },
+  {
+    "id": 431,
+    "question": "Which hormone in the summary table was described as decreasing blood glucose?",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Cortisol",
+      "Adrenaline"
+    ],
+    "answer": "Insulin"
+  },
+  {
+    "id": 432,
+    "question": "Which hormone in the summary table was described as increasing blood glucose?",
+    "options": [
+      "Glucagon",
+      "Insulin",
+      "Growth hormone",
+      "Aldosterone"
+    ],
+    "answer": "Glucagon"
+  },
+  {
+    "id": 433,
+    "question": "Which hormone was associated with linear growth in the summary table?",
+    "options": [
+      "Growth hormone",
+      "ACTH",
+      "ANP",
+      "Gastrin"
+    ],
+    "answer": "Growth hormone"
+  },
+  {
+    "id": 434,
+    "question": "Which hormone was associated with the fight-or-flight response?",
+    "options": [
+      "Adrenaline",
+      "Progesterone",
+      "Gastrin",
+      "Parathyroid hormone"
+    ],
+    "answer": "Adrenaline"
+  },
+  {
+    "id": 435,
+    "question": "Which hormone was associated with stress responses in the summary table?",
+    "options": [
+      "Cortisol",
+      "Glucagon",
+      "Melatonin",
+      "ANP"
+    ],
+    "answer": "Cortisol"
+  },
+  {
+    "id": 436,
+    "question": "Which hormone was identified as the principal male sex hormone?",
+    "options": [
+      "Testosterone",
+      "Progesterone",
+      "Cortisol",
+      "TH"
+    ],
+    "answer": "Testosterone"
+  },
+  {
+    "id": 437,
+    "question": "Which hormone was identified as a principal female sex hormone?",
+    "options": [
+      "Oestrogen",
+      "Aldosterone",
+      "Adrenaline",
+      "Insulin"
+    ],
+    "answer": "Oestrogen"
+  },
+  {
+    "id": 438,
+    "question": "Which hormone was associated with the menstrual cycle and pregnancy?",
+    "options": [
+      "Progesterone",
+      "Cortisol",
+      "ACTH",
+      "ANP"
+    ],
+    "answer": "Progesterone"
+  },
+  {
+    "id": 439,
+    "question": "Which hormone was associated with metabolic rate?",
+    "options": [
+      "Thyroid hormones",
+      "ANP",
+      "Gastrin",
+      "Leptin"
+    ],
+    "answer": "Thyroid hormones"
+  },
+  {
+    "id": 440,
+    "question": "Which hormone was described as having various physiological roles and being derived from fatty acids?",
+    "options": [
+      "Prostaglandins",
+      "Insulin",
+      "ACTH",
+      "ANP"
+    ],
+    "answer": "Prostaglandins"
+  },
+  {
+    "id": 441,
+    "question": "Angiotensin II was identified as playing a major role in:",
+    "options": [
+      "Blood pressure control",
+      "Blood glucose control",
+      "Sleep regulation",
+      "Growth regulation"
+    ],
+    "answer": "Blood pressure control"
+  },
+  {
+    "id": 442,
+    "question": "Which hormone increases blood sodium according to the summary table?",
+    "options": [
+      "Aldosterone",
+      "Cortisol",
+      "Glucagon",
+      "ANP"
+    ],
+    "answer": "Aldosterone"
+  },
+  {
+    "id": 443,
+    "question": "ANP was identified as having which major physiological effect?",
+    "options": [
+      "Decrease blood volume",
+      "Increase blood glucose",
+      "Increase metabolic rate",
+      "Stimulate acid secretion"
+    ],
+    "answer": "Decrease blood volume"
+  },
+  {
+    "id": 444,
+    "question": "Gastrin was associated with:",
+    "options": [
+      "Acid secretion",
+      "Blood pressure regulation",
+      "Growth",
+      "Sleep regulation"
+    ],
+    "answer": "Acid secretion"
+  },
+  {
+    "id": 445,
+    "question": "Which statement best reflects the lecture's message regarding endocrine regulation?",
+    "options": [
+      "Hormonal regulation occurs in many organs, not just classical endocrine glands",
+      "Only glands participate in hormonal regulation",
+      "Only the pituitary secretes hormones",
+      "Paracrine signalling is absent in normal physiology"
+    ],
+    "answer": "Hormonal regulation occurs in many organs, not just classical endocrine glands"
+  },
+  {
+    "id": 446,
+    "question": "Which group consists entirely of non-classical endocrine organs described in the lecture?",
+    "options": [
+      "Heart, kidney, intestine and adipose tissue",
+      "Pituitary, thyroid, parathyroid and adrenal gland",
+      "Pituitary, heart, thyroid and pineal gland",
+      "Adrenal gland, kidney, pineal gland and thyroid"
+    ],
+    "answer": "Heart, kidney, intestine and adipose tissue"
+  },
+  {
+    "id": 447,
+    "question": "Which group consists entirely of classical endocrine glands?",
+    "options": [
+      "Pituitary, thyroid, adrenal and pineal glands",
+      "Heart, kidney, intestine and liver",
+      "Adipose tissue, liver, kidney and heart",
+      "Pancreas, kidney, liver and heart"
+    ],
+    "answer": "Pituitary, thyroid, adrenal and pineal glands"
+  },
+  {
+    "id": 448,
+    "question": "A secretion affecting neighbouring cells without entering the circulation is most likely:",
+    "options": [
+      "Paracrine",
+      "Endocrine",
+      "Autocrine",
+      "Neural"
+    ],
+    "answer": "Paracrine"
+  },
+  {
+    "id": 449,
+    "question": "A secretion affecting the same cell that released it is most likely:",
+    "options": [
+      "Autocrine",
+      "Paracrine",
+      "Endocrine",
+      "Portal"
+    ],
+    "answer": "Autocrine"
+  },
+  {
+    "id": 450,
+    "question": "Which statement best summarizes the endocrine and non-endocrine organ section of the lecture?",
+    "options": [
+      "Hormonal communication is widespread throughout the body and involves both classical endocrine glands and many other organs and tissues",
+      "Only endocrine glands participate in hormonal signalling",
+      "Autocrine and paracrine signalling are unimportant compared with endocrine signalling",
+      "The endocrine system is restricted to the pituitary and hypothalamus"
+    ],
+    "answer": "Hormonal communication is widespread throughout the body and involves both classical endocrine glands and many other organs and tissues"
+  },
+
+  {
+    "id": 451,
+    "question": "Many peptide hormones are stored within endocrine cells in:",
+    "options": [
+      "Intracellular vesicles",
+      "Mitochondria",
+      "Nuclei",
+      "Lysosomes"
+    ],
+    "answer": "Intracellular vesicles"
+  },
+  {
+    "id": 452,
+    "question": "After secretion, many peptide hormones initially enter the:",
+    "options": [
+      "Interstitial space",
+      "Nucleus",
+      "Mitochondrial matrix",
+      "Golgi apparatus"
+    ],
+    "answer": "Interstitial space"
+  },
+  {
+    "id": 453,
+    "question": "From the interstitial space, endocrine hormones typically enter the:",
+    "options": [
+      "Bloodstream",
+      "Nucleus",
+      "Ribosome",
+      "Lysosome"
+    ],
+    "answer": "Bloodstream"
+  },
+  {
+    "id": 454,
+    "question": "The typical endocrine pathway is best described as:",
+    "options": [
+      "Endocrine cell → interstitial space → blood → target cell",
+      "Blood → receptor → hormone → gland",
+      "Hormone → nucleus → blood",
+      "Target cell → blood → gland"
+    ],
+    "answer": "Endocrine cell → interstitial space → blood → target cell"
+  },
+  {
+    "id": 455,
+    "question": "In the endocrine circulation model, non-target cells do not respond because they:",
+    "options": [
+      "Lack the appropriate receptor",
+      "Lack blood supply",
+      "Contain no cytoplasm",
+      "Destroy all hormones immediately"
+    ],
+    "answer": "Lack the appropriate receptor"
+  },
+  {
+    "id": 456,
+    "question": "An endocrine hormone can circulate throughout the body yet only affect selected tissues because of:",
+    "options": [
+      "Receptor expression",
+      "Cell size",
+      "Blood volume",
+      "Oxygen concentration"
+    ],
+    "answer": "Receptor expression"
+  },
+  {
+    "id": 457,
+    "question": "Which statement best describes the typical endocrine hormone model presented in the lecture?",
+    "options": [
+      "Hormones reach many cells, but only target cells respond",
+      "Hormones only travel to a single organ",
+      "Hormones affect every cell equally",
+      "Hormones act without receptors"
+    ],
+    "answer": "Hormones reach many cells, but only target cells respond"
+  },
+  {
+    "id": 458,
+    "question": "Which receptor type is most commonly used by membrane-impermeable hormones?",
+    "options": [
+      "Membrane receptors",
+      "Nuclear receptors",
+      "DNA receptors",
+      "Mitochondrial receptors"
+    ],
+    "answer": "Membrane receptors"
+  },
+  {
+    "id": 459,
+    "question": "Which receptor type is most commonly used by steroid hormones?",
+    "options": [
+      "Nuclear receptors",
+      "Membrane receptors",
+      "Surface transporters",
+      "Second messengers"
+    ],
+    "answer": "Nuclear receptors"
+  },
+  {
+    "id": 460,
+    "question": "Steroid hormones typically interact with nuclear receptors because they are:",
+    "options": [
+      "Lipophilic and membrane permeable",
+      "Stored in vesicles",
+      "Large proteins",
+      "Unable to enter cells"
+    ],
+    "answer": "Lipophilic and membrane permeable"
+  },
+  {
+    "id": 461,
+    "question": "Which signalling pathway is most strongly associated with second messenger generation?",
+    "options": [
+      "Membrane receptor signalling",
+      "Nuclear receptor signalling",
+      "Endocrine clearance",
+      "Protein binding"
+    ],
+    "answer": "Membrane receptor signalling"
+  },
+  {
+    "id": 462,
+    "question": "Which signalling pathway is most strongly associated with mRNA and protein synthesis?",
+    "options": [
+      "Nuclear receptor signalling",
+      "Membrane receptor signalling",
+      "Paracrine signalling",
+      "Autocrine signalling"
+    ],
+    "answer": "Nuclear receptor signalling"
+  },
+  {
+    "id": 463,
+    "question": "Which of the following best distinguishes nuclear receptor signalling from membrane receptor signalling?",
+    "options": [
+      "Nuclear receptors directly influence gene expression",
+      "Nuclear receptors generate cAMP",
+      "Nuclear receptors only occur outside cells",
+      "Nuclear receptors cannot bind hormones"
+    ],
+    "answer": "Nuclear receptors directly influence gene expression"
+  },
+  {
+    "id": 464,
+    "question": "A partial agonist is a ligand that:",
+    "options": [
+      "Activates a receptor, but not to the full extent of a full agonist",
+      "Cannot bind a receptor",
+      "Functions only as an antagonist",
+      "Destroys receptors"
+    ],
+    "answer": "Activates a receptor, but not to the full extent of a full agonist"
+  },
+  {
+    "id": 465,
+    "question": "Tamoxifen was described in the lecture as a:",
+    "options": [
+      "Partial agonist of the oestrogen receptor",
+      "Full antagonist of the insulin receptor",
+      "Partial agonist of the glucagon receptor",
+      "Full agonist of the progesterone receptor"
+    ],
+    "answer": "Partial agonist of the oestrogen receptor"
+  },
+  {
+    "id": 466,
+    "question": "If binding protein concentration increases substantially, hormone half-life would most likely:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Become zero",
+      "Remain unchanged in all cases"
+    ],
+    "answer": "Increase"
+  },
+  {
+    "id": 467,
+    "question": "If binding protein concentration increases substantially, free hormone concentration would most likely:",
+    "options": [
+      "Decrease",
+      "Increase",
+      "Double",
+      "Remain unchanged"
+    ],
+    "answer": "Decrease"
+  },
+  {
+    "id": 468,
+    "question": "A patient develops very high levels of circulating hormone-binding proteins. Which outcome is most likely?",
+    "options": [
+      "Reduced hormone activity but prolonged hormone persistence",
+      "Increased activity and decreased half-life",
+      "Elimination of hormone signalling",
+      "Immediate receptor destruction"
+    ],
+    "answer": "Reduced hormone activity but prolonged hormone persistence"
+  },
+  {
+    "id": 469,
+    "question": "Insulin is classified in the lecture summary table as a:",
+    "options": [
+      "Protein hormone",
+      "Tyrosine derivative",
+      "Cholesterol derivative",
+      "Fatty-acid derivative"
+    ],
+    "answer": "Protein hormone"
+  },
+  {
+    "id": 470,
+    "question": "Glucagon is classified as a:",
+    "options": [
+      "Protein hormone",
+      "Tyrosine derivative",
+      "Cholesterol derivative",
+      "Mineralocorticoid"
+    ],
+    "answer": "Protein hormone"
+  },
+  {
+    "id": 471,
+    "question": "Growth hormone is derived from:",
+    "options": [
+      "Protein",
+      "Tyrosine",
+      "Cholesterol",
+      "Fatty acids"
+    ],
+    "answer": "Protein"
+  },
+  {
+    "id": 472,
+    "question": "Gastrin is classified in the lecture as a:",
+    "options": [
+      "Protein hormone",
+      "Tyrosine derivative",
+      "Steroid hormone",
+      "Catecholamine"
+    ],
+    "answer": "Protein hormone"
+  },
+  {
+    "id": 473,
+    "question": "Adrenaline is classified as a:",
+    "options": [
+      "Tyrosine derivative",
+      "Protein hormone",
+      "Cholesterol derivative",
+      "Fatty-acid derivative"
+    ],
+    "answer": "Tyrosine derivative"
+  },
+  {
+    "id": 474,
+    "question": "Thyroid hormones are classified as:",
+    "options": [
+      "Tyrosine derivatives",
+      "Protein hormones",
+      "Cholesterol derivatives",
+      "Peptide hormones"
+    ],
+    "answer": "Tyrosine derivatives"
+  },
+  {
+    "id": 475,
+    "question": "Which pair consists entirely of tyrosine-derived hormones?",
+    "options": [
+      "Adrenaline and thyroid hormones",
+      "Insulin and glucagon",
+      "Cortisol and aldosterone",
+      "Growth hormone and gastrin"
+    ],
+    "answer": "Adrenaline and thyroid hormones"
+  },
+  {
+    "id": 476,
+    "question": "Cortisol is derived from:",
+    "options": [
+      "Cholesterol",
+      "Tyrosine",
+      "Protein",
+      "Fatty acids"
+    ],
+    "answer": "Cholesterol"
+  },
+  {
+    "id": 477,
+    "question": "Testosterone is classified as a:",
+    "options": [
+      "Cholesterol derivative",
+      "Protein hormone",
+      "Tyrosine derivative",
+      "Peptide"
+    ],
+    "answer": "Cholesterol derivative"
+  },
+  {
+    "id": 478,
+    "question": "Oestrogen is derived from:",
+    "options": [
+      "Cholesterol",
+      "Protein",
+      "Tyrosine",
+      "Glycogen"
+    ],
+    "answer": "Cholesterol"
+  },
+  {
+    "id": 479,
+    "question": "Progesterone belongs to which hormone class?",
+    "options": [
+      "Cholesterol derivatives",
+      "Protein hormones",
+      "Tyrosine derivatives",
+      "Fatty-acid derivatives"
+    ],
+    "answer": "Cholesterol derivatives"
+  },
+  {
+    "id": 480,
+    "question": "Aldosterone is classified as a:",
+    "options": [
+      "Cholesterol derivative",
+      "Tyrosine derivative",
+      "Protein hormone",
+      "Cytokine"
+    ],
+    "answer": "Cholesterol derivative"
+  },
+  {
+    "id": 481,
+    "question": "Which group contains only cholesterol-derived hormones?",
+    "options": [
+      "Cortisol, testosterone, oestrogen, progesterone",
+      "Insulin, glucagon, gastrin, GH",
+      "Adrenaline, T3, T4",
+      "ANP, EPO, leptin"
+    ],
+    "answer": "Cortisol, testosterone, oestrogen, progesterone"
+  },
+  {
+    "id": 482,
+    "question": "Prostaglandins are derived from:",
+    "options": [
+      "Fatty acids",
+      "Proteins",
+      "Tyrosine",
+      "Cholesterol"
+    ],
+    "answer": "Fatty acids"
+  },
+  {
+    "id": 483,
+    "question": "Which hormone class includes prostaglandins?",
+    "options": [
+      "Fatty-acid derivatives",
+      "Protein hormones",
+      "Tyrosine derivatives",
+      "Steroid hormones"
+    ],
+    "answer": "Fatty-acid derivatives"
+  },
+  {
+    "id": 484,
+    "question": "Which pair consists entirely of protein hormones?",
+    "options": [
+      "Insulin and glucagon",
+      "Adrenaline and T4",
+      "Cortisol and aldosterone",
+      "Testosterone and oestrogen"
+    ],
+    "answer": "Insulin and glucagon"
+  },
+  {
+    "id": 485,
+    "question": "Which pair consists entirely of cholesterol-derived hormones?",
+    "options": [
+      "Cortisol and aldosterone",
+      "Insulin and glucagon",
+      "Adrenaline and T3",
+      "Growth hormone and gastrin"
+    ],
+    "answer": "Cortisol and aldosterone"
+  },
+  {
+    "id": 486,
+    "question": "Which hormone class includes both testosterone and oestrogen?",
+    "options": [
+      "Cholesterol derivatives",
+      "Protein hormones",
+      "Tyrosine derivatives",
+      "Fatty-acid derivatives"
+    ],
+    "answer": "Cholesterol derivatives"
+  },
+  {
+    "id": 487,
+    "question": "Which hormone class includes both insulin and growth hormone?",
+    "options": [
+      "Protein hormones",
+      "Tyrosine derivatives",
+      "Cholesterol derivatives",
+      "Catecholamines"
+    ],
+    "answer": "Protein hormones"
+  },
+  {
+    "id": 488,
+    "question": "Which hormone class includes both T3 and adrenaline?",
+    "options": [
+      "Tyrosine derivatives",
+      "Protein hormones",
+      "Steroid hormones",
+      "Growth factors"
+    ],
+    "answer": "Tyrosine derivatives"
+  },
+  {
+    "id": 489,
+    "question": "Which hormone class was represented by the largest number of hormones in the summary table?",
+    "options": [
+      "Cholesterol derivatives",
+      "Protein hormones",
+      "Tyrosine derivatives",
+      "Fatty-acid derivatives"
+    ],
+    "answer": "Cholesterol derivatives"
+  },
+  {
+    "id": 490,
+    "question": "Which hormone was derived from cholesterol and associated with stress responses?",
+    "options": [
+      "Cortisol",
+      "Adrenaline",
+      "Insulin",
+      "T4"
+    ],
+    "answer": "Cortisol"
+  },
+  {
+    "id": 491,
+    "question": "Which hormone was derived from tyrosine and associated with fight-or-flight responses?",
+    "options": [
+      "Adrenaline",
+      "Progesterone",
+      "Insulin",
+      "ACTH"
+    ],
+    "answer": "Adrenaline"
+  },
+  {
+    "id": 492,
+    "question": "Which hormone was derived from protein and associated with blood glucose reduction?",
+    "options": [
+      "Insulin",
+      "Cortisol",
+      "Adrenaline",
+      "Aldosterone"
+    ],
+    "answer": "Insulin"
+  },
+  {
+    "id": 493,
+    "question": "Which hormone was derived from cholesterol and associated with increased blood sodium?",
+    "options": [
+      "Aldosterone",
+      "T3",
+      "Insulin",
+      "Gastrin"
+    ],
+    "answer": "Aldosterone"
+  },
+  {
+    "id": 494,
+    "question": "Which statement about hormones was emphasized in the lecture summary?",
+    "options": [
+      "Hormones often have multiple physiological roles",
+      "Every hormone has only one function",
+      "Hormones act without receptors",
+      "Hormones are only produced by glands"
+    ],
+    "answer": "Hormones often have multiple physiological roles"
+  },
+  {
+    "id": 495,
+    "question": "Which statement best integrates homeostasis, hormones and receptors?",
+    "options": [
+      "Hormones bind receptors to help coordinate physiological regulation",
+      "Receptors maintain homeostasis independently of hormones",
+      "Homeostasis occurs without cell communication",
+      "Hormones function without target cells"
+    ],
+    "answer": "Hormones bind receptors to help coordinate physiological regulation"
+  },
+  {
+    "id": 496,
+    "question": "Which statement best explains why second messengers were introduced in this lecture?",
+    "options": [
+      "They help receptors translate hormone binding into cellular responses",
+      "They replace hormones in circulation",
+      "They transport hormones between organs",
+      "They synthesize receptors"
+    ],
+    "answer": "They help receptors translate hormone binding into cellular responses"
+  },
+  {
+    "id": 497,
+    "question": "Which statement best captures the relationship between negative feedback and hormone secretion?",
+    "options": [
+      "Negative feedback helps keep hormone levels and physiological variables within appropriate ranges",
+      "Negative feedback continuously increases hormone release",
+      "Negative feedback eliminates endocrine signalling",
+      "Negative feedback prevents receptor binding"
+    ],
+    "answer": "Negative feedback helps keep hormone levels and physiological variables within appropriate ranges"
+  },
+  {
+    "id": 498,
+    "question": "Which combination represents the central theme of the lecture?",
+    "options": [
+      "Hormones, receptors and feedback regulation maintain homeostasis",
+      "Hormones are independent of receptors",
+      "Feedback loops eliminate hormonal actions",
+      "Homeostasis occurs without communication"
+    ],
+    "answer": "Hormones, receptors and feedback regulation maintain homeostasis"
+  },
+  {
+    "id": 499,
+    "question": "Which statement best summarizes endocrine signalling in general?",
+    "options": [
+      "Chemical messengers influence target cells through specific receptors",
+      "All hormones act on every cell equally",
+      "Hormones function without receptors",
+      "Only neural communication regulates physiology"
+    ],
+    "answer": "Chemical messengers influence target cells through specific receptors"
+  },
+  {
+    "id": 500,
+    "question": "Which statement best summarizes the entire endocrine lecture?",
+    "options": [
+      "Hormones are chemical messengers that act through receptors and feedback systems to regulate physiology and maintain homeostasis",
+      "Hormones act independently of receptors and feedback",
+      "Homeostasis is maintained solely by the nervous system",
+      "Endocrine glands function without interaction with other organs"
+    ],
+    "answer": "Hormones are chemical messengers that act through receptors and feedback systems to regulate physiology and maintain homeostasis"
+  }
+
+]

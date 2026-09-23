@@ -1,0 +1,93 @@
+/* MCQ container styling */
+.activity-container[data-activity="mcq"] {
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  background: #fafafa;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Prompt */
+.activity-container[data-activity="mcq"] .mcq-prompt {
+  font-weight: bold;
+  margin-bottom: 0.75rem;
+  font-size: 1.1rem;
+}
+
+/* Option buttons */
+.activity-container[data-activity="mcq"] .mcq-option {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 0.5rem 0.75rem;
+  margin-bottom: 0.4rem;
+  border: 1px solid #bbb;
+  border-radius: 5px;
+  background: #fff;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+/* Hover effect */
+.activity-container[data-activity="mcq"] .mcq-option:hover {
+  background: #f0f0f0;
+  border-color: #888;
+}
+
+/* Selected state */
+.activity-container[data-activity="mcq"] .mcq-option.selected {
+  background: #e0f0ff;
+  border-color: #3399ff;
+}
+
+/* Correct state */
+.activity-container[data-activity="mcq"] .mcq-option.correct {
+  background: #d4edda;
+  border-color: #28a745;
+  color: #155724;
+}
+
+/* Wrong state */
+.activity-container[data-activity="mcq"] .mcq-option.wrong {
+  background: #f8d7da;
+  border-color: #dc3545;
+  color: #721c24;
+}
+
+/* Submit & Retry buttons */
+.activity-container[data-activity="mcq"] .mcq-submit,
+.activity-container[data-activity="mcq"] .mcq-retry {
+  padding: 0.45rem 0.8rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 0.5rem;
+  font-weight: bold;
+  transition: all 0.2s ease;
+}
+
+.activity-container[data-activity="mcq"] .mcq-submit {
+  background: #3399ff;
+  color: white;
+}
+
+.activity-container[data-activity="mcq"] .mcq-submit:hover {
+  background: #2277dd;
+}
+
+.activity-container[data-activity="mcq"] .mcq-retry {
+  background: #ffc107;
+  color: #212529;
+}
+
+.activity-container[data-activity="mcq"] .mcq-retry:hover {
+  background: #e0a800;
+}
+
+/* Feedback / Explanation text */
+.activity-container[data-activity="mcq"] .mcq-explanation {
+  margin-top: 0.5rem;
+  font-style: italic;
+  color: #333;
+}

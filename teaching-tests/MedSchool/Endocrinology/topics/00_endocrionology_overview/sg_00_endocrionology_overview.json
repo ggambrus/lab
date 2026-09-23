@@ -1,0 +1,2346 @@
+[
+  {
+    "topic": "Cell Biology Foundations for Endocrinology",
+    "flashcards": [
+      {
+        "question": "What is a cell?",
+        "answer": "The basic structural and functional unit of life."
+      },
+      {
+        "question": "What is the plasma membrane?",
+        "answer": "A selectively permeable boundary that surrounds cells."
+      },
+      {
+        "question": "What is the primary function of the plasma membrane?",
+        "answer": "To regulate movement of substances into and out of cells."
+      },
+      {
+        "question": "What is the cytoplasm?",
+        "answer": "The material inside the cell between the plasma membrane and nucleus."
+      },
+      {
+        "question": "What is the nucleus?",
+        "answer": "The organelle that contains most of the cell's genetic material."
+      },
+      {
+        "question": "What is DNA?",
+        "answer": "The molecule that stores genetic information."
+      },
+      {
+        "question": "What is a gene?",
+        "answer": "A segment of DNA that contains instructions for producing a functional product."
+      },
+      {
+        "question": "What is transcription?",
+        "answer": "The process of copying information from DNA into RNA."
+      },
+      {
+        "question": "What is mRNA?",
+        "answer": "Messenger RNA that carries genetic instructions from DNA to ribosomes."
+      },
+      {
+        "question": "What is translation?",
+        "answer": "The process of producing proteins from mRNA instructions."
+      },
+      {
+        "question": "What is a protein?",
+        "answer": "A molecule made of amino acids that performs cellular functions."
+      },
+      {
+        "question": "What is a transcription factor?",
+        "answer": "A protein that regulates gene expression by influencing transcription."
+      },
+      {
+        "question": "Why are transcription factors important to nuclear hormone receptors?",
+        "answer": "Activated nuclear receptors often function as transcription factors."
+      },
+      {
+        "question": "What does gene expression mean?",
+        "answer": "The process by which genetic information is used to produce functional products such as proteins."
+      },
+      {
+        "question": "Why can hormone-induced gene expression alter cellular behavior?",
+        "answer": "Because newly synthesized proteins can change cellular function."
+      },
+      {
+        "question": "What is a receptor protein?",
+        "answer": "A protein that detects and binds signaling molecules."
+      },
+      {
+        "question": "Why are proteins central to endocrinology?",
+        "answer": "Many hormones, receptors, enzymes and signaling molecules are proteins."
+      },
+      {
+        "question": "What is a vesicle?",
+        "answer": "A membrane-bound structure used for storage and transport inside cells."
+      },
+      {
+        "question": "Why are secretory vesicles important for peptide hormones?",
+        "answer": "They store peptide hormones before release."
+      },
+      {
+        "question": "What is exocytosis?",
+        "answer": "The release of substances from a cell through vesicle fusion with the plasma membrane."
+      }
+    ]
+  },
+
+  {
+    "topic": "Anterior Pituitary and Posterior Pituitary Foundations",
+    "flashcards": [
+      {
+        "question": "What is the pituitary gland?",
+        "answer": "A small endocrine gland located beneath the hypothalamus that regulates multiple endocrine systems."
+      },
+      {
+        "question": "Why is the pituitary gland sometimes called the master gland?",
+        "answer": "Because many of its hormones regulate other endocrine glands."
+      },
+      {
+        "question": "What are the two major divisions of the pituitary gland?",
+        "answer": "The anterior pituitary and posterior pituitary."
+      },
+      {
+        "question": "What is another name for the anterior pituitary?",
+        "answer": "The adenohypophysis."
+      },
+      {
+        "question": "What is another name for the posterior pituitary?",
+        "answer": "The neurohypophysis."
+      },
+      {
+        "question": "How does the anterior pituitary communicate with the hypothalamus?",
+        "answer": "Through the hypophyseal portal blood system."
+      },
+      {
+        "question": "How does the posterior pituitary communicate with the hypothalamus?",
+        "answer": "Through direct neural connections."
+      },
+      {
+        "question": "What is the fundamental difference between anterior and posterior pituitary control?",
+        "answer": "The anterior pituitary is controlled mainly by hormones, whereas the posterior pituitary is controlled mainly by neurons."
+      },
+      {
+        "question": "Which pituitary lobe releases TSH?",
+        "answer": "The anterior pituitary."
+      },
+      {
+        "question": "Which pituitary lobe releases ACTH?",
+        "answer": "The anterior pituitary."
+      },
+      {
+        "question": "Which pituitary lobe releases LH?",
+        "answer": "The anterior pituitary."
+      },
+      {
+        "question": "Which pituitary lobe releases FSH?",
+        "answer": "The anterior pituitary."
+      },
+      {
+        "question": "Which pituitary lobe releases growth hormone?",
+        "answer": "The anterior pituitary."
+      },
+      {
+        "question": "Which pituitary lobe releases ADH?",
+        "answer": "The posterior pituitary."
+      },
+      {
+        "question": "Which pituitary lobe releases oxytocin?",
+        "answer": "The posterior pituitary."
+      },
+      {
+        "question": "Where are ADH and oxytocin synthesized?",
+        "answer": "In hypothalamic neurons."
+      },
+      {
+        "question": "Why is the posterior pituitary considered neuroendocrine tissue?",
+        "answer": "Because it releases hormones produced by neurons."
+      },
+      {
+        "question": "What is the overall role of the pituitary gland?",
+        "answer": "To integrate hypothalamic signals and regulate multiple endocrine organs."
+      }
+    ]
+  },
+  {
+    "topic": "Hypophyseal Portal System",
+    "flashcards": [
+      {
+        "question": "What is the hypophyseal portal system?",
+        "answer": "A specialized vascular system connecting the hypothalamus and anterior pituitary."
+      },
+      {
+        "question": "What is a portal system?",
+        "answer": "A blood vessel arrangement connecting two capillary beds."
+      },
+      {
+        "question": "Why is the hypophyseal portal system important?",
+        "answer": "It allows hypothalamic hormones to reach the anterior pituitary rapidly and efficiently."
+      },
+      {
+        "question": "What type of hormones travel through the hypophyseal portal system?",
+        "answer": "Hypothalamic releasing and inhibiting hormones."
+      },
+      {
+        "question": "Why is direct vascular communication advantageous?",
+        "answer": "It prevents dilution of hypothalamic hormones in the general circulation."
+      },
+      {
+        "question": "Which pituitary lobe receives blood from the portal system?",
+        "answer": "The anterior pituitary."
+      },
+      {
+        "question": "Does the posterior pituitary depend on the portal system for hormone delivery?",
+        "answer": "No."
+      },
+      {
+        "question": "Why is portal circulation often described as efficient endocrine communication?",
+        "answer": "Because very small hormone quantities can strongly influence pituitary cells."
+      },
+      {
+        "question": "What would happen if hypothalamic hormones were diluted throughout the body first?",
+        "answer": "Much larger amounts would be required to regulate the pituitary."
+      },
+      {
+        "question": "What endocrine relationship is enabled by the hypophyseal portal system?",
+        "answer": "Direct regulation of the anterior pituitary by the hypothalamus."
+      }
+    ]
+  },
+  {
+    "topic": "Endocrine Histology and Secretory Cells",
+    "flashcards": [
+      {
+        "question": "What is histology?",
+        "answer": "The study of microscopic tissue structure."
+      },
+      {
+        "question": "What is endocrine tissue?",
+        "answer": "Tissue specialized for hormone production and secretion."
+      },
+      {
+        "question": "What distinguishes endocrine tissue from exocrine tissue histologically?",
+        "answer": "Endocrine tissue lacks ducts and releases products into the bloodstream."
+      },
+      {
+        "question": "Why are endocrine glands highly vascularized?",
+        "answer": "Because hormones must enter the bloodstream efficiently."
+      },
+      {
+        "question": "What does vascularized mean?",
+        "answer": "Having an extensive blood supply."
+      },
+      {
+        "question": "Why do endocrine cells often lie close to capillaries?",
+        "answer": "To facilitate hormone release into the circulation."
+      },
+      {
+        "question": "What is a capillary?",
+        "answer": "A very small blood vessel where exchange occurs."
+      },
+      {
+        "question": "Why are capillaries important in endocrinology?",
+        "answer": "They provide routes for hormone entry into and exit from tissues."
+      },
+      {
+        "question": "What is secretion granule storage?",
+        "answer": "The accumulation of hormone-containing vesicles before release."
+      },
+      {
+        "question": "Which hormones are commonly stored in secretory granules?",
+        "answer": "Peptide and protein hormones."
+      },
+      {
+        "question": "Why are peptide hormones often stored before release?",
+        "answer": "To allow rapid secretion when stimulated."
+      },
+      {
+        "question": "Why are many steroid hormones not heavily stored?",
+        "answer": "They are often synthesized when needed and diffuse from cells."
+      },
+      {
+        "question": "What is endocrine cell specialization?",
+        "answer": "The adaptation of endocrine cells for producing specific hormones."
+      },
+      {
+        "question": "Why do different endocrine glands produce different hormones?",
+        "answer": "Because their cells express different biosynthetic enzymes."
+      },
+      {
+        "question": "What is hormone biosynthesis?",
+        "answer": "The process by which hormones are produced."
+      }
+    ]
+  },
+  {
+    "topic": "Peptide Hormone Synthesis",
+    "flashcards": [
+      {
+        "question": "What is peptide hormone synthesis?",
+        "answer": "The production of hormone molecules from amino-acid chains."
+      },
+      {
+        "question": "What are amino acids?",
+        "answer": "The building blocks of proteins and peptide hormones."
+      },
+      {
+        "question": "What is a preprohormone?",
+        "answer": "The initial inactive precursor of a peptide hormone."
+      },
+      {
+        "question": "What is a prohormone?",
+        "answer": "A partially processed hormone precursor."
+      },
+      {
+        "question": "What is a mature hormone?",
+        "answer": "The biologically active form released from endocrine cells."
+      },
+      {
+        "question": "What is the sequence of peptide hormone production?",
+        "answer": "Preprohormone → prohormone → active hormone."
+      },
+      {
+        "question": "Why are many hormones synthesized as inactive precursors?",
+        "answer": "To allow controlled processing and storage."
+      },
+      {
+        "question": "Where are proteins synthesized?",
+        "answer": "At ribosomes."
+      },
+      {
+        "question": "What is a ribosome?",
+        "answer": "A cellular structure responsible for protein synthesis."
+      },
+      {
+        "question": "What organelle modifies and packages many peptide hormones?",
+        "answer": "The Golgi apparatus."
+      },
+      {
+        "question": "Why are peptide hormones packaged into vesicles?",
+        "answer": "For storage and regulated secretion."
+      },
+      {
+        "question": "What triggers peptide hormone release from vesicles?",
+        "answer": "Appropriate physiological stimulation."
+      },
+      {
+        "question": "How are peptide hormones released?",
+        "answer": "By exocytosis."
+      },
+      {
+        "question": "Why can peptide hormones be secreted rapidly?",
+        "answer": "Because they are already synthesized and stored."
+      },
+      {
+        "question": "Which hormones in the lecture are peptide or protein hormones?",
+        "answer": "Insulin, glucagon, growth hormone, gastrin and angiotensin II."
+      }
+    ]
+  },
+  {
+    "topic": "Steroid Hormone Synthesis",
+    "flashcards": [
+      {
+        "question": "What are steroid hormones?",
+        "answer": "Hormones synthesized from cholesterol."
+      },
+      {
+        "question": "What molecule serves as the precursor of all steroid hormones?",
+        "answer": "Cholesterol."
+      },
+      {
+        "question": "What is steroidogenesis?",
+        "answer": "The synthesis of steroid hormones."
+      },
+      {
+        "question": "Why are steroid hormones lipophilic?",
+        "answer": "Because they are derived from cholesterol."
+      },
+      {
+        "question": "What endocrine organs produce steroid hormones discussed in the lecture?",
+        "answer": "The adrenal gland, ovaries, placenta and testes."
+      },
+      {
+        "question": "Which steroid hormone is involved in stress responses?",
+        "answer": "Cortisol."
+      },
+      {
+        "question": "Which steroid hormone regulates blood sodium?",
+        "answer": "Aldosterone."
+      },
+      {
+        "question": "Which steroid hormone is a major male sex hormone?",
+        "answer": "Testosterone."
+      },
+      {
+        "question": "Which steroid hormone is a major female sex hormone?",
+        "answer": "Oestrogen."
+      },
+      {
+        "question": "Which steroid hormone is important for pregnancy and the menstrual cycle?",
+        "answer": "Progesterone."
+      },
+      {
+        "question": "Why do steroid hormones commonly bind plasma proteins?",
+        "answer": "Because they are poorly soluble in water."
+      },
+      {
+        "question": "Why do steroid hormones usually use nuclear receptors?",
+        "answer": "Because they can cross cell membranes."
+      },
+      {
+        "question": "Do steroid hormones generally act by changing gene expression?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Why are steroid hormone effects often relatively prolonged?",
+        "answer": "Because they alter protein synthesis and gene expression."
+      },
+      {
+        "question": "What links cholesterol metabolism and endocrinology?",
+        "answer": "Cholesterol is the precursor of steroid hormones."
+      }
+    ]
+  },
+
+  {
+    "topic": "Neuroendocrine Integration",
+    "flashcards": [
+      {
+        "question": "What is neuroendocrine integration?",
+        "answer": "The coordination of nervous system and endocrine system activity."
+      },
+      {
+        "question": "How do the endocrine and nervous systems differ in communication speed?",
+        "answer": "The nervous system is generally faster, whereas endocrine signaling is usually slower."
+      },
+      {
+        "question": "How do the endocrine and nervous systems differ in duration of effects?",
+        "answer": "Endocrine effects often last longer than nervous system effects."
+      },
+      {
+        "question": "What makes the hypothalamus a neuroendocrine structure?",
+        "answer": "It links neural information to hormonal regulation."
+      },
+      {
+        "question": "Why is the hypothalamus important for homeostasis?",
+        "answer": "It monitors physiological conditions and coordinates endocrine responses."
+      },
+      {
+        "question": "Which pituitary lobe receives direct neural connections from the hypothalamus?",
+        "answer": "The posterior pituitary."
+      },
+      {
+        "question": "Which pituitary lobe receives hormonal signals through the portal circulation?",
+        "answer": "The anterior pituitary."
+      },
+      {
+        "question": "What is a neurohormone?",
+        "answer": "A hormone released by a neuron into the circulation."
+      },
+      {
+        "question": "Why is neuroendocrine communication useful?",
+        "answer": "It allows rapid detection of changes and coordinated hormonal responses."
+      },
+      {
+        "question": "What advantage does hormonal signaling have over neural signaling?",
+        "answer": "Hormones can coordinate activity across many tissues simultaneously."
+      },
+      {
+        "question": "What advantage does neural signaling have over hormonal signaling?",
+        "answer": "Neural signaling is often faster and more precise."
+      },
+      {
+        "question": "Why are both endocrine and nervous systems required for homeostasis?",
+        "answer": "They provide complementary mechanisms for regulation and adaptation."
+      },
+      {
+        "question": "Which adrenal hormone is released downstream of nervous system activation?",
+        "answer": "Adrenaline."
+      },
+      {
+        "question": "Why is adrenaline considered part of neuroendocrine regulation?",
+        "answer": "Its release is stimulated by neural activity."
+      },
+      {
+        "question": "What is the overall goal of neuroendocrine integration?",
+        "answer": "Maintaining physiological stability and adapting to changing conditions."
+      }
+    ]
+  },
+  {
+    "topic": "Blood Glucose Physiology Beyond the Lecture",
+    "flashcards": [
+      {
+        "question": "What is glucose?",
+        "answer": "A simple sugar that serves as a major energy source for cells."
+      },
+      {
+        "question": "Why is blood glucose tightly regulated?",
+        "answer": "Because many tissues depend on a stable supply of glucose."
+      },
+      {
+        "question": "What happens to blood glucose after a carbohydrate-rich meal?",
+        "answer": "Blood glucose levels typically increase."
+      },
+      {
+        "question": "Why does insulin release increase after eating?",
+        "answer": "To help restore blood glucose toward normal levels."
+      },
+      {
+        "question": "What is glycogen?",
+        "answer": "A storage form of glucose found primarily in liver and muscle."
+      },
+      {
+        "question": "What is glycogenesis?",
+        "answer": "The synthesis of glycogen from glucose."
+      },
+      {
+        "question": "What is glycogenolysis?",
+        "answer": "The breakdown of glycogen into glucose."
+      },
+      {
+        "question": "What is gluconeogenesis?",
+        "answer": "The synthesis of glucose from non-carbohydrate sources."
+      },
+      {
+        "question": "Why is glucagon important during fasting?",
+        "answer": "It helps maintain blood glucose levels."
+      },
+      {
+        "question": "What is fasting?",
+        "answer": "A period during which food is not consumed."
+      },
+      {
+        "question": "Why does the body need mechanisms to raise blood glucose?",
+        "answer": "To prevent excessively low glucose concentrations."
+      },
+      {
+        "question": "Why does the body need mechanisms to lower blood glucose?",
+        "answer": "To prevent excessively high glucose concentrations."
+      },
+      {
+        "question": "How do insulin and glucagon exemplify homeostatic regulation?",
+        "answer": "They act in opposite directions to stabilize blood glucose."
+      },
+      {
+        "question": "What is metabolic homeostasis?",
+        "answer": "The maintenance of stable energy availability and nutrient balance."
+      },
+      {
+        "question": "Why does blood glucose regulation illustrate negative feedback?",
+        "answer": "The response counteracts the change that triggered it."
+      }
+    ]
+  },
+  {
+    "topic": "Homeostatic Variables and Set Points",
+    "flashcards": [
+      {
+        "question": "What is a physiological variable?",
+        "answer": "A measurable characteristic of the internal environment."
+      },
+      {
+        "question": "What is a set point?",
+        "answer": "The target value around which a physiological variable is regulated."
+      },
+      {
+        "question": "What is homeostatic control?",
+        "answer": "The regulation of physiological variables around set points."
+      },
+      {
+        "question": "Is homeostasis the maintenance of an absolutely fixed value?",
+        "answer": "No, small fluctuations around a set point are normal."
+      },
+      {
+        "question": "Why are small fluctuations in physiological variables acceptable?",
+        "answer": "Because biological systems are dynamic rather than static."
+      },
+      {
+        "question": "What is a controlled variable?",
+        "answer": "A physiological factor maintained within an acceptable range."
+      },
+      {
+        "question": "What are examples of homeostatically regulated variables from the lecture?",
+        "answer": "Blood glucose, hormone levels, blood pressure and blood calcium."
+      },
+      {
+        "question": "What is a regulatory system?",
+        "answer": "A system that detects changes and initiates corrective responses."
+      },
+      {
+        "question": "What is a sensor in physiological regulation?",
+        "answer": "A mechanism that detects changes in a variable."
+      },
+      {
+        "question": "What is an effector?",
+        "answer": "A structure that produces a corrective response."
+      },
+      {
+        "question": "What is the relationship between sensors and effectors?",
+        "answer": "Sensors detect changes, whereas effectors produce responses."
+      },
+      {
+        "question": "Why are regulatory systems essential for survival?",
+        "answer": "Because physiological variables must remain within viable limits."
+      },
+      {
+        "question": "What happens when a homeostatic variable deviates substantially from its normal range?",
+        "answer": "Physiological dysfunction may occur."
+      },
+      {
+        "question": "Why can endocrine systems regulate many different variables simultaneously?",
+        "answer": "Different hormones target different physiological processes."
+      },
+      {
+        "question": "What is the ultimate goal of homeostasis?",
+        "answer": "Maintaining internal conditions compatible with life."
+      }
+    ]
+  },
+  {
+    "topic": "Hormone-Receptor Pharmacology",
+    "flashcards": [
+      {
+        "question": "What is pharmacology?",
+        "answer": "The study of drugs and their effects on biological systems."
+      },
+      {
+        "question": "Why are receptors important drug targets?",
+        "answer": "Because altering receptor activity can change physiological responses."
+      },
+      {
+        "question": "What is receptor affinity?",
+        "answer": "The tendency of a ligand to bind a receptor."
+      },
+      {
+        "question": "What is receptor activation?",
+        "answer": "The process by which receptor binding triggers a cellular response."
+      },
+      {
+        "question": "Can two ligands bind the same receptor but produce different effects?",
+        "answer": "Yes."
+      },
+      {
+        "question": "What distinguishes an agonist from an antagonist?",
+        "answer": "An agonist activates a receptor, whereas an antagonist blocks activation."
+      },
+      {
+        "question": "What is receptor occupancy?",
+        "answer": "The proportion of receptors currently bound by a ligand."
+      },
+      {
+        "question": "Why can receptor antagonists reduce hormone action?",
+        "answer": "They compete with hormones for receptor binding."
+      },
+      {
+        "question": "What is a hormone analogue?",
+        "answer": "A compound designed to resemble a natural hormone."
+      },
+      {
+        "question": "Why might a synthetic drug mimic a hormone?",
+        "answer": "To activate the same receptor and produce similar effects."
+      },
+      {
+        "question": "Can receptor blockers have therapeutic effects?",
+        "answer": "Yes, many medicines work by blocking receptors."
+      },
+      {
+        "question": "Why might excessive receptor activation be harmful?",
+        "answer": "It can produce exaggerated physiological responses."
+      },
+      {
+        "question": "Why might receptor blockade be clinically useful?",
+        "answer": "It can prevent unwanted hormone actions."
+      },
+      {
+        "question": "Why is receptor specificity important in drug design?",
+        "answer": "It reduces unwanted effects on non-target tissues."
+      },
+      {
+        "question": "What is the fundamental interaction underlying both endocrinology and pharmacology?",
+        "answer": "Ligand-receptor binding."
+      }
+    ]
+  },
+  {
+    "topic": "Endocrine Pathophysiology Foundations",
+    "flashcards": [
+      {
+        "question": "What is pathophysiology?",
+        "answer": "The study of abnormal physiological processes associated with disease."
+      },
+      {
+        "question": "What is an endocrine disorder?",
+        "answer": "A disease involving abnormal hormone production, regulation or action."
+      },
+      {
+        "question": "What is hormone deficiency?",
+        "answer": "An inadequate amount of a hormone."
+      },
+      {
+        "question": "What is hormone excess?",
+        "answer": "An excessive amount of a hormone."
+      },
+      {
+        "question": "Can endocrine disorders arise from receptor abnormalities?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Can endocrine disorders arise from altered hormone clearance?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Why might a patient have symptoms despite normal hormone concentrations?",
+        "answer": "Receptor function may be altered."
+      },
+      {
+        "question": "Why can liver disease affect endocrine function?",
+        "answer": "Because hormone breakdown may be impaired."
+      },
+      {
+        "question": "Why can endocrine disorders occur at multiple levels of an endocrine axis?",
+        "answer": "Because hypothalamus, pituitary and target glands all contribute to regulation."
+      },
+      {
+        "question": "What is primary endocrine disease?",
+        "answer": "Disease originating in the target endocrine gland."
+      },
+      {
+        "question": "What is secondary endocrine disease?",
+        "answer": "Disease originating in regulatory structures such as the pituitary."
+      },
+      {
+        "question": "Why are hormone measurements often interpreted together rather than individually?",
+        "answer": "Because endocrine systems operate through interconnected feedback loops."
+      },
+      {
+        "question": "How can negative feedback aid diagnosis?",
+        "answer": "Hormone patterns can reveal the location of dysfunction."
+      },
+      {
+        "question": "Why is systems thinking important in endocrinology?",
+        "answer": "Because hormones act within interconnected regulatory networks."
+      },
+      {
+        "question": "What is the major clinical principle underlying endocrine diagnosis?",
+        "answer": "Identify where regulation within the endocrine axis has failed."
+      }
+    ]
+  },	
+
+  {
+    "topic": "Thyroid Biochemistry and Iodine Physiology",
+    "flashcards": [
+      {
+        "question": "What is iodine?",
+        "answer": "An essential trace element required for thyroid hormone synthesis."
+      },
+      {
+        "question": "Why is iodine necessary for thyroid function?",
+        "answer": "Because T3 and T4 contain iodine atoms."
+      },
+      {
+        "question": "How many iodine atoms does T3 contain?",
+        "answer": "Three."
+      },
+      {
+        "question": "How many iodine atoms does T4 contain?",
+        "answer": "Four."
+      },
+      {
+        "question": "What gland concentrates iodine from the bloodstream?",
+        "answer": "The thyroid gland."
+      },
+      {
+        "question": "Why is the thyroid able to produce hormones containing iodine?",
+        "answer": "Because it actively accumulates iodine."
+      },
+      {
+        "question": "What amino acid forms the backbone of thyroid hormones?",
+        "answer": "Tyrosine."
+      },
+      {
+        "question": "What is the relationship between tyrosine and thyroid hormones?",
+        "answer": "Thyroid hormones are synthesized from iodinated tyrosine residues."
+      },
+      {
+        "question": "Why are thyroid hormones classified as tyrosine derivatives?",
+        "answer": "Because they originate from modified tyrosine molecules."
+      },
+      {
+        "question": "What does thyroid hormone synthesis require besides tyrosine?",
+        "answer": "Iodine."
+      },
+      {
+        "question": "Why is dietary iodine important?",
+        "answer": "Adequate iodine intake is necessary for normal thyroid hormone production."
+      },
+      {
+        "question": "What is a trace element?",
+        "answer": "A mineral required by the body in very small amounts."
+      },
+      {
+        "question": "Can thyroid hormone synthesis occur without iodine?",
+        "answer": "No."
+      },
+      {
+        "question": "Why are thyroid hormones unusual compared with most hormones?",
+        "answer": "They are tyrosine derivatives yet act primarily through nuclear receptors."
+      },
+      {
+        "question": "Why are T3 and T4 important despite being produced in relatively small quantities?",
+        "answer": "They have widespread effects on metabolism throughout the body."
+      }
+    ]
+  },
+  {
+    "topic": "Deiodinases and Peripheral Thyroid Hormone Conversion",
+    "flashcards": [
+      {
+        "question": "What is a deiodinase?",
+        "answer": "An enzyme that removes iodine atoms from thyroid hormones."
+      },
+      {
+        "question": "Why are deiodinases important?",
+        "answer": "They regulate conversion between different thyroid hormone forms."
+      },
+      {
+        "question": "What hormone is commonly converted into T3?",
+        "answer": "T4."
+      },
+      {
+        "question": "Which hormone is considered the major circulating precursor?",
+        "answer": "T4."
+      },
+      {
+        "question": "What is meant by peripheral conversion?",
+        "answer": "The conversion of hormones outside the gland that produced them."
+      },
+      {
+        "question": "Why is peripheral conversion important in thyroid physiology?",
+        "answer": "Because much active T3 is produced outside the thyroid gland."
+      },
+      {
+        "question": "What is the primary active thyroid hormone?",
+        "answer": "T3."
+      },
+      {
+        "question": "What is reverse T3?",
+        "answer": "A biologically inactive thyroid hormone metabolite."
+      },
+      {
+        "question": "How is reverse T3 produced?",
+        "answer": "Through an alternative pathway of T4 metabolism."
+      },
+      {
+        "question": "Why might production of reverse T3 increase during starvation?",
+        "answer": "To reduce metabolic activity and conserve energy."
+      },
+      {
+        "question": "What does thyroid hormone conversion illustrate about endocrine regulation?",
+        "answer": "Hormone activity can be controlled outside the endocrine gland itself."
+      },
+      {
+        "question": "Can hormone activation occur in target tissues?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Why is T4 sometimes viewed as a prohormone?",
+        "answer": "Because much of its activity depends on conversion to T3."
+      },
+      {
+        "question": "How does peripheral hormone conversion increase regulatory flexibility?",
+        "answer": "Different tissues can locally regulate hormone activity."
+      },
+      {
+        "question": "What is hormone metabolism?",
+        "answer": "The chemical modification and breakdown of hormones."
+      }
+    ]
+  },
+  {
+    "topic": "Thyroid Transport Proteins and Hormone Distribution",
+    "flashcards": [
+      {
+        "question": "Why are thyroid hormones often bound to transport proteins in blood?",
+        "answer": "Because transport proteins improve distribution and prolong half-life."
+      },
+      {
+        "question": "What is a transport protein?",
+        "answer": "A protein that carries substances through the bloodstream."
+      },
+      {
+        "question": "What is a circulating hormone reservoir?",
+        "answer": "A pool of hormone stored temporarily in bound form."
+      },
+      {
+        "question": "Why is bound hormone considered a reservoir?",
+        "answer": "Because it can be released into the free hormone pool."
+      },
+      {
+        "question": "What is free hormone?",
+        "answer": "Hormone not bound to transport proteins."
+      },
+      {
+        "question": "Which form of hormone is most biologically active?",
+        "answer": "The free form."
+      },
+      {
+        "question": "What is protein binding equilibrium?",
+        "answer": "The dynamic balance between bound and free hormone."
+      },
+      {
+        "question": "Why does equilibrium matter physiologically?",
+        "answer": "It helps stabilize hormone availability."
+      },
+      {
+        "question": "How can transport proteins increase hormone half-life?",
+        "answer": "By protecting hormones from rapid metabolism and excretion."
+      },
+      {
+        "question": "What is hormone distribution?",
+        "answer": "The movement of hormones throughout the body."
+      },
+      {
+        "question": "Why do transport proteins increase endocrine stability?",
+        "answer": "They buffer sudden changes in free hormone concentration."
+      },
+      {
+        "question": "Can changes in binding proteins affect measured hormone concentrations?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Why do clinicians often distinguish between total and free hormone levels?",
+        "answer": "Because only free hormone directly affects target tissues."
+      },
+      {
+        "question": "What is endocrine buffering?",
+        "answer": "Mechanisms that reduce sudden fluctuations in hormone activity."
+      },
+      {
+        "question": "How do binding proteins contribute to endocrine buffering?",
+        "answer": "They help regulate the amount of free hormone available."
+      }
+    ]
+  },
+  {
+    "topic": "Stress Physiology and the HPA Axis",
+    "flashcards": [
+      {
+        "question": "What does HPA stand for?",
+        "answer": "Hypothalamic-pituitary-adrenal."
+      },
+      {
+        "question": "What is the HPA axis?",
+        "answer": "A major endocrine system involved in stress regulation."
+      },
+      {
+        "question": "Which hypothalamic hormone initiates HPA axis activity?",
+        "answer": "CRH."
+      },
+      {
+        "question": "What does CRH stand for?",
+        "answer": "Corticotrophin-releasing hormone."
+      },
+      {
+        "question": "Which pituitary hormone is stimulated by CRH?",
+        "answer": "ACTH."
+      },
+      {
+        "question": "What does ACTH stand for?",
+        "answer": "Adrenocorticotropic hormone."
+      },
+      {
+        "question": "Which gland is stimulated by ACTH?",
+        "answer": "The adrenal cortex."
+      },
+      {
+        "question": "Which hormone is released from the adrenal cortex following ACTH stimulation?",
+        "answer": "Cortisol."
+      },
+      {
+        "question": "What is cortisol?",
+        "answer": "A steroid hormone involved in stress responses and metabolism."
+      },
+      {
+        "question": "Why is cortisol considered a stress hormone?",
+        "answer": "Its secretion increases during many physiological stressors."
+      },
+      {
+        "question": "What type of feedback regulates the HPA axis?",
+        "answer": "Negative feedback."
+      },
+      {
+        "question": "Which hormone provides negative feedback to the hypothalamus and pituitary in the HPA axis?",
+        "answer": "Cortisol."
+      },
+      {
+        "question": "Why is feedback regulation important in the HPA axis?",
+        "answer": "To prevent excessive cortisol production."
+      },
+      {
+        "question": "What is physiological stress?",
+        "answer": "A challenge that disrupts normal internal balance."
+      },
+      {
+        "question": "What is the overall purpose of HPA activation?",
+        "answer": "To help the body adapt to physiological demands."
+      },
+      {
+        "question": "How does the HPA axis illustrate hierarchical endocrine control?",
+        "answer": "The hypothalamus regulates the pituitary, which regulates the adrenal gland."
+      },
+      {
+        "question": "What endocrine principle is demonstrated by the HPA axis?",
+        "answer": "Multi-level hormonal regulation with feedback control."
+      },
+      {
+        "question": "Why is cortisol classified as a steroid hormone?",
+        "answer": "Because it is synthesized from cholesterol."
+      }
+    ]
+  },
+  {
+    "topic": "Sympathetic Nervous System and Adrenaline",
+    "flashcards": [
+      {
+        "question": "What is the sympathetic nervous system?",
+        "answer": "A division of the autonomic nervous system involved in rapid responses to challenges."
+      },
+      {
+        "question": "Which adrenal region responds directly to sympathetic stimulation?",
+        "answer": "The adrenal medulla."
+      },
+      {
+        "question": "Which hormone is a major product of the adrenal medulla?",
+        "answer": "Adrenaline."
+      },
+      {
+        "question": "What is noradrenaline?",
+        "answer": "A catecholamine closely related to adrenaline."
+      },
+      {
+        "question": "What are catecholamines?",
+        "answer": "Hormones derived from tyrosine that participate in rapid physiological responses."
+      },
+      {
+        "question": "How do catecholamines differ from steroid hormones?",
+        "answer": "Catecholamines act rapidly through membrane receptors, whereas steroid hormones often act through nuclear receptors."
+      },
+      {
+        "question": "Why can adrenaline act quickly?",
+        "answer": "It uses membrane receptor signaling pathways."
+      },
+      {
+        "question": "What is meant by the fight-or-flight response?",
+        "answer": "A coordinated physiological reaction to challenge or threat."
+      },
+      {
+        "question": "Why is adrenaline considered a neuroendocrine hormone?",
+        "answer": "Its release is triggered by neural signals."
+      },
+      {
+        "question": "How does adrenaline illustrate cooperation between endocrine and nervous systems?",
+        "answer": "Neural activation triggers hormonal responses."
+      },
+      {
+        "question": "Why are rapid hormonal responses sometimes necessary?",
+        "answer": "To help the body respond quickly to changing conditions."
+      },
+      {
+        "question": "What is autonomic regulation?",
+        "answer": "Control of involuntary physiological processes."
+      },
+      {
+        "question": "Which is generally faster: adrenaline signaling or cortisol signaling?",
+        "answer": "Adrenaline signaling."
+      },
+      {
+        "question": "Which is generally longer lasting: adrenaline signaling or cortisol signaling?",
+        "answer": "Cortisol signaling."
+      },
+      {
+        "question": "What major concept connects adrenaline and cortisol?",
+        "answer": "Both contribute to adaptation and stress responses."
+      }
+    ]
+  },
+
+  {
+    "topic": "Calcium Physiology Foundations",
+    "flashcards": [
+      {
+        "question": "Why is calcium important in the human body?",
+        "answer": "It is essential for cell signaling, muscle contraction, nerve function and bone structure."
+      },
+      {
+        "question": "Where is most calcium stored in the body?",
+        "answer": "In bones and teeth."
+      },
+      {
+        "question": "What is plasma calcium?",
+        "answer": "The concentration of calcium circulating in the bloodstream."
+      },
+      {
+        "question": "Why is plasma calcium tightly regulated?",
+        "answer": "Because cellular and physiological functions depend on stable calcium levels."
+      },
+      {
+        "question": "What happens when plasma calcium falls below normal?",
+        "answer": "Homeostatic mechanisms are activated to restore calcium levels."
+      },
+      {
+        "question": "Which hormone is released when plasma calcium becomes low?",
+        "answer": "Parathyroid hormone (PTH)."
+      },
+      {
+        "question": "Which gland produces parathyroid hormone?",
+        "answer": "The parathyroid glands."
+      },
+      {
+        "question": "What is the primary function of parathyroid hormone?",
+        "answer": "To increase plasma calcium concentration."
+      },
+      {
+        "question": "How does calcium homeostasis illustrate negative feedback?",
+        "answer": "Low calcium stimulates responses that increase calcium and reduce the original stimulus."
+      },
+      {
+        "question": "What is a mineral?",
+        "answer": "An inorganic nutrient required for normal biological function."
+      },
+      {
+        "question": "Is calcium considered a mineral?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Why is calcium important for excitable tissues?",
+        "answer": "It contributes to signaling in nerves and muscles."
+      },
+      {
+        "question": "What is calcium homeostasis?",
+        "answer": "The maintenance of calcium concentrations within an appropriate physiological range."
+      },
+      {
+        "question": "What organ systems contribute significantly to calcium homeostasis?",
+        "answer": "The skeletal system, kidneys, intestine and endocrine system."
+      },
+      {
+        "question": "Why can abnormalities in calcium regulation have widespread effects?",
+        "answer": "Because calcium participates in many physiological processes."
+      }
+    ]
+  },
+  {
+    "topic": "Parathyroid Hormone Physiology",
+    "flashcards": [
+      {
+        "question": "What does PTH stand for?",
+        "answer": "Parathyroid hormone."
+      },
+      {
+        "question": "What is the primary stimulus for PTH release?",
+        "answer": "Low plasma calcium."
+      },
+      {
+        "question": "What endocrine principle is demonstrated by PTH secretion?",
+        "answer": "Negative feedback regulation."
+      },
+      {
+        "question": "How does PTH contribute to calcium homeostasis?",
+        "answer": "It acts to increase calcium availability in the body."
+      },
+      {
+        "question": "What happens to PTH secretion when calcium levels rise sufficiently?",
+        "answer": "PTH secretion decreases."
+      },
+      {
+        "question": "Why is suppression of PTH secretion important?",
+        "answer": "To prevent excessive calcium elevation."
+      },
+      {
+        "question": "How do endocrine cells know when to release PTH?",
+        "answer": "They detect changes in blood calcium concentration."
+      },
+      {
+        "question": "What is endocrine sensing?",
+        "answer": "Detection of physiological changes by specialized endocrine cells."
+      },
+      {
+        "question": "Can PTH secretion change rapidly?",
+        "answer": "Yes, endocrine secretion often adjusts in response to physiological need."
+      },
+      {
+        "question": "Why is PTH considered a homeostatic hormone?",
+        "answer": "Because it helps maintain stable calcium concentrations."
+      },
+      {
+        "question": "Does PTH directly lower blood calcium?",
+        "answer": "No, its overall role is to increase blood calcium."
+      },
+      {
+        "question": "What general physiological problem would occur if PTH could not be produced?",
+        "answer": "Normal calcium homeostasis would be difficult to maintain."
+      },
+      {
+        "question": "Which endocrine gland is responsible for sensing plasma calcium changes?",
+        "answer": "The parathyroid gland."
+      },
+      {
+        "question": "What variable controls PTH secretion most directly?",
+        "answer": "Plasma calcium concentration."
+      },
+      {
+        "question": "How does PTH exemplify endocrine feedback regulation?",
+        "answer": "The hormone is released in response to a disturbance and helps correct it."
+      }
+    ]
+  },
+  {
+    "topic": "Vitamin D Physiology",
+    "flashcards": [
+      {
+        "question": "Is vitamin D technically a vitamin or a hormone-like molecule?",
+        "answer": "It behaves as a hormone-like regulatory molecule."
+      },
+      {
+        "question": "Why is vitamin D important?",
+        "answer": "It helps regulate calcium balance."
+      },
+      {
+        "question": "What vitamin D-related product was mentioned in the lecture?",
+        "answer": "1,25 vitamin D."
+      },
+      {
+        "question": "Which organ produces 1,25 vitamin D?",
+        "answer": "The kidney."
+      },
+      {
+        "question": "What is the primary function of 1,25 vitamin D mentioned in the lecture?",
+        "answer": "Promoting calcium absorption."
+      },
+      {
+        "question": "Why is calcium absorption physiologically important?",
+        "answer": "It contributes to maintaining calcium homeostasis."
+      },
+      {
+        "question": "Can vitamin D influence plasma calcium levels?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Why is the kidney important in endocrine regulation of calcium?",
+        "answer": "It produces active vitamin D."
+      },
+      {
+        "question": "What is hormone activation?",
+        "answer": "The conversion of a precursor molecule into a biologically active form."
+      },
+      {
+        "question": "Why is active vitamin D considered part of endocrine regulation?",
+        "answer": "Because it acts as a signaling molecule affecting calcium physiology."
+      },
+      {
+        "question": "What relationship exists between vitamin D and parathyroid hormone?",
+        "answer": "Both contribute to regulation of calcium homeostasis."
+      },
+      {
+        "question": "Why are endocrine regulators of calcium interconnected?",
+        "answer": "Because control of calcium requires coordinated responses across multiple organs."
+      },
+      {
+        "question": "What does endocrine integration mean in calcium physiology?",
+        "answer": "Multiple organs and hormones working together to regulate calcium."
+      },
+      {
+        "question": "Why might disruption of vitamin D physiology affect calcium levels?",
+        "answer": "Because vitamin D contributes to calcium absorption."
+      },
+      {
+        "question": "What is the overall purpose of vitamin D regulation?",
+        "answer": "Supporting calcium balance and physiological stability."
+      }
+    ]
+  },
+  {
+    "topic": "Bone as a Dynamic Endocrine Organ",
+    "flashcards": [
+      {
+        "question": "Is bone merely a structural tissue?",
+        "answer": "No, bone is also metabolically active."
+      },
+      {
+        "question": "Why is bone important for calcium physiology?",
+        "answer": "It stores most of the body's calcium."
+      },
+      {
+        "question": "What is bone remodeling?",
+        "answer": "The continuous process of bone breakdown and rebuilding."
+      },
+      {
+        "question": "Is bone a static tissue?",
+        "answer": "No, bone is constantly remodeled."
+      },
+      {
+        "question": "Why is continuous bone remodeling beneficial?",
+        "answer": "It helps maintain structural integrity and mineral balance."
+      },
+      {
+        "question": "What is mineral storage?",
+        "answer": "The accumulation of inorganic minerals within tissues."
+      },
+      {
+        "question": "Why are bones important mineral reservoirs?",
+        "answer": "They store large amounts of calcium."
+      },
+      {
+        "question": "How does bone contribute to homeostasis?",
+        "answer": "It can participate in regulation of body mineral balance."
+      },
+      {
+        "question": "What is the relationship between bone and plasma calcium?",
+        "answer": "Bone serves as a major reservoir for calcium used in physiological regulation."
+      },
+      {
+        "question": "Why can the skeleton be viewed as part of endocrine physiology?",
+        "answer": "Because bone participates in hormonally regulated calcium homeostasis."
+      },
+      {
+        "question": "What is a tissue reservoir?",
+        "answer": "A tissue that stores substances for later physiological use."
+      },
+      {
+        "question": "Why is bone considered a calcium reservoir?",
+        "answer": "Because most body calcium is stored there."
+      },
+      {
+        "question": "How does bone physiology illustrate integration across body systems?",
+        "answer": "The skeletal, endocrine and renal systems all contribute to calcium regulation."
+      },
+      {
+        "question": "Why must bone mineral content be regulated carefully?",
+        "answer": "Because calcium is needed both structurally and physiologically."
+      },
+      {
+        "question": "What major principle does bone physiology demonstrate?",
+        "answer": "Homeostasis often requires cooperation among multiple organs."
+      }
+    ]
+  },
+  {
+    "topic": "Integrated Comparative Endocrinology",
+    "flashcards": [
+      {
+        "question": "What is the key difference between endocrine and autocrine signaling?",
+        "answer": "Endocrine signaling acts at a distance, whereas autocrine signaling acts on the same cell."
+      },
+      {
+        "question": "What is the key difference between endocrine and paracrine signaling?",
+        "answer": "Endocrine signaling uses the bloodstream, whereas paracrine signaling acts locally."
+      },
+      {
+        "question": "What is the key difference between membrane and nuclear receptors?",
+        "answer": "Membrane receptors signal through intracellular cascades, whereas nuclear receptors directly regulate gene expression."
+      },
+      {
+        "question": "What is the key difference between peptide and steroid hormones?",
+        "answer": "Peptide hormones are generally water-soluble whereas steroid hormones are lipophilic."
+      },
+      {
+        "question": "What is the key difference between T3 and T4?",
+        "answer": "T3 is the major active thyroid hormone whereas T4 is primarily a precursor."
+      },
+      {
+        "question": "What is the key difference between insulin and glucagon?",
+        "answer": "Insulin lowers blood glucose whereas glucagon raises blood glucose."
+      },
+      {
+        "question": "What is the key difference between agonists and antagonists?",
+        "answer": "Agonists activate receptors whereas antagonists block receptor activation."
+      },
+      {
+        "question": "What is the key difference between the anterior and posterior pituitary?",
+        "answer": "The anterior pituitary is regulated mainly by blood-borne hypothalamic hormones whereas the posterior pituitary is regulated mainly by neurons."
+      },
+      {
+        "question": "What is the key difference between cortisol and adrenaline signaling?",
+        "answer": "Cortisol acts mainly through steroid hormone mechanisms whereas adrenaline acts mainly through membrane receptor signaling."
+      },
+      {
+        "question": "What is the key difference between bound hormone and free hormone?",
+        "answer": "Free hormone is generally available for receptor binding whereas bound hormone acts as a reservoir."
+      },
+      {
+        "question": "What is the common principle linking insulin, thyroid hormone and cortisol regulation?",
+        "answer": "Negative feedback control."
+      },
+      {
+        "question": "What is the common principle linking endocrine axes throughout the body?",
+        "answer": "Hierarchical regulation and feedback control."
+      },
+      {
+        "question": "What is the common principle linking receptors, second messengers and transcription factors?",
+        "answer": "Signal transduction."
+      },
+      {
+        "question": "What is the common principle linking hormone secretion and homeostasis?",
+        "answer": "Hormones help maintain stable internal conditions."
+      },
+      {
+        "question": "What is the overarching theme of endocrinology?",
+        "answer": "Coordinated chemical communication that maintains physiological balance."
+      }
+    ]
+  },
+
+  {
+    "topic": "Advanced Hormone Clearance and Elimination",
+    "flashcards": [
+      {
+        "question": "What is hormone clearance?",
+        "answer": "The removal of hormones from the circulation."
+      },
+      {
+        "question": "Why is hormone clearance physiologically important?",
+        "answer": "It determines how long a hormone remains active."
+      },
+      {
+        "question": "What is endocrine elimination?",
+        "answer": "The process by which hormones are broken down and removed from the body."
+      },
+      {
+        "question": "Which organ was highlighted in the lecture as important for hormone breakdown?",
+        "answer": "The liver."
+      },
+      {
+        "question": "Why can liver disease alter endocrine function?",
+        "answer": "Because hormones may not be metabolized efficiently."
+      },
+      {
+        "question": "What happens to hormone activity when clearance decreases?",
+        "answer": "Hormone activity generally increases because hormones remain in circulation longer."
+      },
+      {
+        "question": "What happens to hormone concentration when secretion exceeds clearance?",
+        "answer": "Hormone concentration rises."
+      },
+      {
+        "question": "What happens to hormone concentration when clearance exceeds secretion?",
+        "answer": "Hormone concentration falls."
+      },
+      {
+        "question": "Why is hormone half-life closely related to clearance?",
+        "answer": "Clearance strongly influences how long hormones remain in circulation."
+      },
+      {
+        "question": "What does endocrine balance require regarding secretion and clearance?",
+        "answer": "Appropriate regulation of both processes."
+      },
+      {
+        "question": "What is hormone metabolism?",
+        "answer": "The chemical modification and breakdown of hormone molecules."
+      },
+      {
+        "question": "Why are active hormones eventually metabolized?",
+        "answer": "To prevent continuous stimulation of target tissues."
+      },
+      {
+        "question": "What does endocrine turnover refer to?",
+        "answer": "The continual production and removal of hormones."
+      },
+      {
+        "question": "Why is hormone turnover necessary?",
+        "answer": "It allows hormone levels to change in response to physiological needs."
+      },
+      {
+        "question": "How does impaired clearance disrupt homeostasis?",
+        "answer": "It can prolong hormone action and alter regulatory balance."
+      }
+    ]
+  },
+  {
+    "topic": "Endocrine Feedback Loops in Depth",
+    "flashcards": [
+      {
+        "question": "What is a feedback loop?",
+        "answer": "A regulatory process in which the output influences the system generating it."
+      },
+      {
+        "question": "What is negative feedback?",
+        "answer": "A response that opposes the original stimulus."
+      },
+      {
+        "question": "What is positive feedback?",
+        "answer": "A response that amplifies the original stimulus."
+      },
+      {
+        "question": "Which type of feedback predominates in endocrine physiology?",
+        "answer": "Negative feedback."
+      },
+      {
+        "question": "Why is negative feedback useful biologically?",
+        "answer": "It promotes stability around physiological set points."
+      },
+      {
+        "question": "Why is negative feedback often compared to a thermostat?",
+        "answer": "Because both systems counter deviations from a target level."
+      },
+      {
+        "question": "What is a long-loop feedback system?",
+        "answer": "Feedback from a peripheral hormone to higher regulatory centers."
+      },
+      {
+        "question": "In endocrine axes, what commonly provides long-loop feedback?",
+        "answer": "The final hormone produced by the target gland."
+      },
+      {
+        "question": "Why can endocrine axes remain stable despite changing conditions?",
+        "answer": "Because feedback mechanisms continuously adjust hormone secretion."
+      },
+      {
+        "question": "What is endocrine self-regulation?",
+        "answer": "The adjustment of hormone release through feedback mechanisms."
+      },
+      {
+        "question": "Why can disruption of feedback loops produce disease?",
+        "answer": "Because hormone production may become inappropriately high or low."
+      },
+      {
+        "question": "How does cortisol regulate the HPA axis?",
+        "answer": "By negatively feeding back to the hypothalamus and pituitary."
+      },
+      {
+        "question": "How does T3 regulate the thyroid axis?",
+        "answer": "By inhibiting TRH and TSH secretion through negative feedback."
+      },
+      {
+        "question": "What common principle links insulin, cortisol and thyroid hormone regulation?",
+        "answer": "All participate in feedback-controlled physiological regulation."
+      },
+      {
+        "question": "Why is feedback considered a central principle of endocrinology?",
+        "answer": "Because it is essential for maintaining homeostasis."
+      }
+    ]
+  },
+  {
+    "topic": "Hormone Sensitivity and Receptor Dynamics",
+    "flashcards": [
+      {
+        "question": "What is hormone sensitivity?",
+        "answer": "The responsiveness of tissues to a hormone."
+      },
+      {
+        "question": "Can hormone sensitivity change independently of hormone concentration?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Why can receptor number influence hormone sensitivity?",
+        "answer": "More receptors generally allow greater responsiveness."
+      },
+      {
+        "question": "What is receptor density?",
+        "answer": "The number of receptors present on or within a cell."
+      },
+      {
+        "question": "What is receptor up-regulation?",
+        "answer": "An increase in receptor number."
+      },
+      {
+        "question": "What is receptor down-regulation?",
+        "answer": "A decrease in receptor number."
+      },
+      {
+        "question": "Why can chronic hormone exposure lead to receptor down-regulation?",
+        "answer": "Cells may reduce receptor numbers to limit overstimulation."
+      },
+      {
+        "question": "How does receptor down-regulation affect responsiveness?",
+        "answer": "It decreases responsiveness."
+      },
+      {
+        "question": "How does receptor up-regulation affect responsiveness?",
+        "answer": "It increases responsiveness."
+      },
+      {
+        "question": "What is desensitization?",
+        "answer": "A reduction in responsiveness despite continued hormone presence."
+      },
+      {
+        "question": "Can receptor availability regulate hormone action?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Why can two tissues respond differently to the same hormone?",
+        "answer": "They may express different receptor numbers or signaling pathways."
+      },
+      {
+        "question": "What is receptor responsiveness?",
+        "answer": "The ability of a receptor system to generate a response following activation."
+      },
+      {
+        "question": "Why are receptor dynamics important clinically?",
+        "answer": "Changes in receptor function can alter physiology and treatment responses."
+      },
+      {
+        "question": "What does endocrine responsiveness depend upon besides hormone concentration?",
+        "answer": "Receptor number, receptor function and signaling mechanisms."
+      }
+    ]
+  },
+  {
+    "topic": "Systems-Level Endocrinology",
+    "flashcards": [
+      {
+        "question": "What is systems physiology?",
+        "answer": "The study of how multiple organs interact to maintain function."
+      },
+      {
+        "question": "Why is endocrinology considered a systems science?",
+        "answer": "Hormones coordinate activity across multiple organs."
+      },
+      {
+        "question": "What is physiological integration?",
+        "answer": "The coordination of different body systems."
+      },
+      {
+        "question": "Can a single hormone influence multiple organ systems?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Why are endocrine effects often widespread?",
+        "answer": "Because hormones travel through the bloodstream."
+      },
+      {
+        "question": "What is a target organ?",
+        "answer": "An organ containing cells that respond to a particular hormone."
+      },
+      {
+        "question": "Why is receptor distribution important at the systems level?",
+        "answer": "It determines which tissues can respond to a hormone."
+      },
+      {
+        "question": "What is endocrine coordination?",
+        "answer": "The synchronization of physiological processes through hormones."
+      },
+      {
+        "question": "How do endocrine organs communicate with one another?",
+        "answer": "Through hormones and feedback loops."
+      },
+      {
+        "question": "Why do endocrine disorders often affect multiple body systems?",
+        "answer": "Because hormones influence many tissues simultaneously."
+      },
+      {
+        "question": "What is hierarchical control in endocrinology?",
+        "answer": "Regulation occurring across multiple levels such as hypothalamus, pituitary and target gland."
+      },
+      {
+        "question": "Why are endocrine axes examples of hierarchical control?",
+        "answer": "Because regulation occurs through several linked endocrine structures."
+      },
+      {
+        "question": "What is physiological coordination?",
+        "answer": "The organization of multiple body processes into a coherent response."
+      },
+      {
+        "question": "What is the ultimate goal of endocrine coordination?",
+        "answer": "Maintaining homeostasis."
+      },
+      {
+        "question": "Why must endocrine regulation be integrated across organ systems?",
+        "answer": "Because physiological variables are interconnected."
+      }
+    ]
+  },
+  {
+    "topic": "Clinical Reasoning Foundations for Endocrinology",
+    "flashcards": [
+      {
+        "question": "Why do clinicians often measure multiple hormones in an endocrine axis?",
+        "answer": "To identify where dysfunction occurs."
+      },
+      {
+        "question": "What does axis-based diagnosis involve?",
+        "answer": "Determining which component of an endocrine pathway is abnormal."
+      },
+      {
+        "question": "Why are endocrine diseases often classified as primary, secondary or tertiary?",
+        "answer": "To identify the level at which dysfunction occurs."
+      },
+      {
+        "question": "What is primary endocrine disease?",
+        "answer": "Disease affecting the target endocrine gland."
+      },
+      {
+        "question": "What is secondary endocrine disease?",
+        "answer": "Disease affecting the pituitary gland."
+      },
+      {
+        "question": "What is tertiary endocrine disease?",
+        "answer": "Disease affecting the hypothalamus."
+      },
+      {
+        "question": "Why is negative feedback useful diagnostically?",
+        "answer": "It creates characteristic hormone patterns."
+      },
+      {
+        "question": "What does an endocrine profile refer to?",
+        "answer": "A collection of hormone measurements used for assessment."
+      },
+      {
+        "question": "Why can hormone measurements not always be interpreted in isolation?",
+        "answer": "Because hormones exist within regulatory networks."
+      },
+      {
+        "question": "What key question underlies most endocrine diagnosis?",
+        "answer": "Where in the regulatory pathway has dysfunction occurred?"
+      },
+      {
+        "question": "Why is understanding physiology important for diagnosis?",
+        "answer": "Normal physiology explains abnormal findings."
+      },
+      {
+        "question": "What is differential diagnosis?",
+        "answer": "The process of distinguishing among possible causes of a condition."
+      },
+      {
+        "question": "How do endocrine feedback loops aid differential diagnosis?",
+        "answer": "Different defects produce different hormonal patterns."
+      },
+      {
+        "question": "Why is mechanism-based thinking important in endocrinology?",
+        "answer": "Because endocrine disorders are best understood through underlying regulatory processes."
+      },
+      {
+        "question": "What overarching skill does endocrine problem solving require?",
+        "answer": "Analysis of physiological relationships and feedback systems."
+      }
+    ]
+  },
+
+  {
+    "topic": "Growth Hormone and IGF Physiology",
+    "flashcards": [
+      {
+        "question": "What is growth hormone (GH)?",
+        "answer": "A protein hormone produced by the anterior pituitary that contributes to growth and metabolism."
+      },
+      {
+        "question": "Which gland secretes growth hormone?",
+        "answer": "The anterior pituitary."
+      },
+      {
+        "question": "What does GHRH stand for?",
+        "answer": "Growth hormone-releasing hormone."
+      },
+      {
+        "question": "Which structure secretes GHRH?",
+        "answer": "The hypothalamus."
+      },
+      {
+        "question": "What is the primary effect of GHRH?",
+        "answer": "Stimulation of growth hormone secretion."
+      },
+      {
+        "question": "What does IGF stand for?",
+        "answer": "Insulin-like growth factor."
+      },
+      {
+        "question": "What physiological process is IGF strongly associated with?",
+        "answer": "Linear growth."
+      },
+      {
+        "question": "Why is IGF considered part of a hormonal axis?",
+        "answer": "Its production occurs downstream of growth hormone signaling."
+      },
+      {
+        "question": "What is linear growth?",
+        "answer": "An increase in body length or height."
+      },
+      {
+        "question": "Why is growth regulation an endocrine process?",
+        "answer": "Because hormones coordinate growth across multiple tissues."
+      },
+      {
+        "question": "What endocrine principle is illustrated by the GH-IGF pathway?",
+        "answer": "A hormone stimulating production of another regulatory hormone."
+      },
+      {
+        "question": "Why is growth hormonally regulated rather than purely local?",
+        "answer": "Growth requires coordinated control across the body."
+      },
+      {
+        "question": "What type of hormone is growth hormone?",
+        "answer": "A protein hormone."
+      },
+      {
+        "question": "How does the GH axis resemble other endocrine axes?",
+        "answer": "It involves hypothalamic, pituitary and peripheral signaling."
+      },
+      {
+        "question": "Why is growth considered a systems-level physiological process?",
+        "answer": "Because it involves coordinated activity of many tissues."
+      }
+    ]
+  },
+
+  {
+    "topic": "Reproductive Endocrinology Foundations",
+    "flashcards": [
+      {
+        "question": "What is reproductive endocrinology?",
+        "answer": "The study of hormones regulating reproductive physiology."
+      },
+      {
+        "question": "What does GnRH stand for?",
+        "answer": "Gonadotrophin-releasing hormone."
+      },
+      {
+        "question": "Which structure secretes GnRH?",
+        "answer": "The hypothalamus."
+      },
+      {
+        "question": "What is the primary function of GnRH?",
+        "answer": "To stimulate release of reproductive pituitary hormones."
+      },
+      {
+        "question": "Which pituitary hormones are stimulated by GnRH?",
+        "answer": "LH and FSH."
+      },
+      {
+        "question": "What does LH stand for?",
+        "answer": "Luteinising hormone."
+      },
+      {
+        "question": "What does FSH stand for?",
+        "answer": "Follicle-stimulating hormone."
+      },
+      {
+        "question": "What are the gonads?",
+        "answer": "The reproductive organs, including testes and ovaries."
+      },
+      {
+        "question": "Which major hormone is produced by the testes?",
+        "answer": "Testosterone."
+      },
+      {
+        "question": "Which major hormones are produced by the ovaries?",
+        "answer": "Oestrogen and progesterone."
+      },
+      {
+        "question": "What type of hormone is testosterone?",
+        "answer": "A steroid hormone."
+      },
+      {
+        "question": "What type of hormone is oestrogen?",
+        "answer": "A steroid hormone."
+      },
+      {
+        "question": "What type of hormone is progesterone?",
+        "answer": "A steroid hormone."
+      },
+      {
+        "question": "What precursor molecule gives rise to reproductive steroid hormones?",
+        "answer": "Cholesterol."
+      },
+      {
+        "question": "Why do reproductive hormones generally use nuclear receptors?",
+        "answer": "Because they are steroid hormones and membrane permeable."
+      },
+      {
+        "question": "What endocrine axis regulates reproductive hormones?",
+        "answer": "The hypothalamic-pituitary-gonadal axis."
+      },
+      {
+        "question": "What does HPG stand for?",
+        "answer": "Hypothalamic-pituitary-gonadal."
+      },
+      {
+        "question": "How is the HPG axis regulated?",
+        "answer": "Primarily through feedback regulation."
+      },
+      {
+        "question": "Why are reproductive hormones examples of endocrine signaling?",
+        "answer": "They coordinate physiological processes across multiple organs."
+      },
+      {
+        "question": "What endocrine principle links testosterone, oestrogen and cortisol?",
+        "answer": "All are steroid hormones derived from cholesterol."
+      }
+    ]
+  },
+
+  {
+    "topic": "Renin-Angiotensin-Aldosterone System (RAAS)",
+    "flashcards": [
+      {
+        "question": "What does RAAS stand for?",
+        "answer": "Renin-Angiotensin-Aldosterone System."
+      },
+      {
+        "question": "What physiological variable is RAAS strongly associated with?",
+        "answer": "Blood pressure regulation."
+      },
+      {
+        "question": "Which organ initiates RAAS activity?",
+        "answer": "The kidney."
+      },
+      {
+        "question": "What molecule released from the kidney begins the RAAS cascade?",
+        "answer": "Renin."
+      },
+      {
+        "question": "Why is RAAS considered a cascade?",
+        "answer": "Because one signal activates a sequence of downstream events."
+      },
+      {
+        "question": "Which hormone mentioned in the lecture is produced by the RAAS pathway?",
+        "answer": "Angiotensin II."
+      },
+      {
+        "question": "What is the primary role of angiotensin II?",
+        "answer": "Regulation of blood pressure."
+      },
+      {
+        "question": "What is the primary stimulus for RAAS activation mentioned in the lecture?",
+        "answer": "Low blood pressure."
+      },
+      {
+        "question": "What hormone release can be stimulated by angiotensin II?",
+        "answer": "Aldosterone secretion."
+      },
+      {
+        "question": "Where is aldosterone produced?",
+        "answer": "The adrenal gland."
+      },
+      {
+        "question": "What is aldosterone?",
+        "answer": "A mineralocorticoid steroid hormone."
+      },
+      {
+        "question": "What is the primary role of aldosterone in the lecture?",
+        "answer": "Increasing blood sodium."
+      },
+      {
+        "question": "Why can aldosterone influence blood pressure?",
+        "answer": "Because sodium balance influences fluid balance."
+      },
+      {
+        "question": "What organ systems cooperate in RAAS?",
+        "answer": "Renal, cardiovascular and endocrine systems."
+      },
+      {
+        "question": "Why is RAAS considered an example of integrated physiology?",
+        "answer": "Multiple organs contribute to a single regulatory outcome."
+      },
+      {
+        "question": "What endocrine principle does RAAS demonstrate?",
+        "answer": "Multi-step hormonal amplification."
+      },
+      {
+        "question": "Why is angiotensin II considered a regulatory hormone?",
+        "answer": "It helps coordinate responses to low blood pressure."
+      },
+      {
+        "question": "How does RAAS contribute to homeostasis?",
+        "answer": "It helps stabilize blood pressure."
+      }
+    ]
+  },
+
+  {
+    "topic": "Gastrointestinal Endocrinology Foundations",
+    "flashcards": [
+      {
+        "question": "What is gastrointestinal endocrinology?",
+        "answer": "The study of hormones produced by the digestive system."
+      },
+      {
+        "question": "Which gastrointestinal hormone was highlighted in the lecture as responding to increased stomach pH?",
+        "answer": "Gastrin."
+      },
+      {
+        "question": "Which cells produce gastrin?",
+        "answer": "G cells in the stomach."
+      },
+      {
+        "question": "What is the primary function of gastrin mentioned in the lecture?",
+        "answer": "Stimulating acid secretion."
+      },
+      {
+        "question": "What is stomach pH?",
+        "answer": "A measure of the acidity of stomach contents."
+      },
+      {
+        "question": "Which gastrointestinal hormone was highlighted as responding to digestion products?",
+        "answer": "Cholecystokinin."
+      },
+      {
+        "question": "What is the abbreviation CCK short for?",
+        "answer": "Cholecystokinin."
+      },
+      {
+        "question": "Where is CCK secreted according to the lecture?",
+        "answer": "The duodenum."
+      },
+      {
+        "question": "What physiological event stimulates CCK release?",
+        "answer": "The presence of products of digestion."
+      },
+      {
+        "question": "What is the duodenum?",
+        "answer": "The first section of the small intestine."
+      },
+      {
+        "question": "Why is the intestine considered an endocrine organ?",
+        "answer": "Because it produces hormones that regulate digestion and metabolism."
+      },
+      {
+        "question": "What endocrine principle is illustrated by gastrin secretion?",
+        "answer": "Hormones can be released in response to changes in the local environment."
+      },
+      {
+        "question": "What endocrine principle is illustrated by CCK secretion?",
+        "answer": "Digestion products can act as physiological stimuli."
+      },
+      {
+        "question": "Why is gastrointestinal endocrinology important?",
+        "answer": "It coordinates digestive processes with nutrient availability."
+      },
+      {
+        "question": "What common feature do gastrin and CCK share?",
+        "answer": "Both are hormones involved in digestive regulation."
+      }
+    ]
+  },
+
+  {
+    "topic": "Master Concept Integration and Exam Traps",
+    "flashcards": [
+      {
+        "question": "What is the single most important theme underlying endocrinology?",
+        "answer": "Maintenance of homeostasis through regulated chemical communication."
+      },
+      {
+        "question": "What common mistake do students make regarding hormones?",
+        "answer": "Assuming each hormone has only one function."
+      },
+      {
+        "question": "Can one hormone affect multiple tissues simultaneously?",
+        "answer": "Yes, if those tissues express the appropriate receptor."
+      },
+      {
+        "question": "Does hormone concentration alone determine physiological response?",
+        "answer": "No, receptor availability and signaling pathways are also important."
+      },
+      {
+        "question": "Can normal hormone levels coexist with abnormal physiological responses?",
+        "answer": "Yes, if receptor function is abnormal."
+      },
+      {
+        "question": "What is the most common regulatory mechanism in endocrinology?",
+        "answer": "Negative feedback."
+      },
+      {
+        "question": "What exam clue often indicates negative feedback regulation?",
+        "answer": "A hormone reducing the stimulus that originally caused its release."
+      },
+      {
+        "question": "What is the most important distinction between secretion and action?",
+        "answer": "A hormone can be secreted but still fail to act if receptors are absent or blocked."
+      },
+      {
+        "question": "Why does endocrine physiology often require systems thinking?",
+        "answer": "Because multiple organs contribute to a single physiological response."
+      },
+      {
+        "question": "What is the most important clinical lesson of endocrine axes?",
+        "answer": "Disease may arise at multiple regulatory levels."
+      },
+      {
+        "question": "Why is it dangerous to interpret a hormone value in isolation?",
+        "answer": "Because endocrine systems operate through interconnected feedback loops."
+      },
+      {
+        "question": "What is the most common biological purpose of endocrine regulation?",
+        "answer": "Maintaining internal stability despite changing external conditions."
+      },
+      {
+        "question": "Why are endocrine disorders often systemic rather than localized?",
+        "answer": "Hormones commonly affect many tissues."
+      },
+      {
+        "question": "What is the most common mistake when thinking about receptors?",
+        "answer": "Assuming all cells respond equally to a hormone."
+      },
+      {
+        "question": "What determines whether a cell can respond to a hormone?",
+        "answer": "Expression of the appropriate receptor."
+      }
+    ]
+  },
+  {
+    "topic": "Compare and Contrast Master Cards",
+    "flashcards": [
+      {
+        "question": "Compare endocrine and nervous signaling.",
+        "answer": "Endocrine signaling uses hormones and blood, tends to be slower and often longer-lasting; nervous signaling uses electrical and chemical signals and is generally faster."
+      },
+      {
+        "question": "Compare endocrine and paracrine signaling.",
+        "answer": "Endocrine signaling affects distant cells; paracrine signaling affects nearby cells."
+      },
+      {
+        "question": "Compare paracrine and autocrine signaling.",
+        "answer": "Paracrine signaling affects neighboring cells; autocrine signaling affects the same cell that released the signal."
+      },
+      {
+        "question": "Compare peptide and steroid hormones.",
+        "answer": "Peptide hormones are generally water-soluble and act via membrane receptors; steroid hormones are lipophilic and typically act via nuclear receptors."
+      },
+      {
+        "question": "Compare membrane and nuclear receptors.",
+        "answer": "Membrane receptors signal through intracellular cascades; nuclear receptors typically regulate gene expression directly."
+      },
+      {
+        "question": "Compare T3 and T4.",
+        "answer": "T3 is the major biologically active thyroid hormone; T4 is produced in larger amounts and commonly serves as a precursor."
+      },
+      {
+        "question": "Compare insulin and glucagon.",
+        "answer": "Insulin lowers blood glucose, whereas glucagon raises blood glucose."
+      },
+      {
+        "question": "Compare cortisol and adrenaline.",
+        "answer": "Cortisol is a steroid hormone involved in longer-term stress responses; adrenaline is a catecholamine involved in rapid responses."
+      },
+      {
+        "question": "Compare agonists and antagonists.",
+        "answer": "Agonists bind and activate receptors; antagonists bind receptors but block activation."
+      },
+      {
+        "question": "Compare receptor up-regulation and down-regulation.",
+        "answer": "Up-regulation increases receptor number and responsiveness; down-regulation decreases receptor number and responsiveness."
+      },
+      {
+        "question": "Compare free hormone and bound hormone.",
+        "answer": "Free hormone is available for receptor binding; bound hormone serves as a circulating reservoir."
+      },
+      {
+        "question": "Compare anterior and posterior pituitary function.",
+        "answer": "The anterior pituitary is regulated mainly by hypothalamic hormones; the posterior pituitary releases hormones synthesized in hypothalamic neurons."
+      },
+      {
+        "question": "Compare endocrine glands and target tissues.",
+        "answer": "Endocrine glands produce hormones; target tissues respond to hormones."
+      },
+      {
+        "question": "Compare homeostasis and feedback regulation.",
+        "answer": "Homeostasis is the goal of physiological stability; feedback regulation is a mechanism used to achieve it."
+      },
+      {
+        "question": "Compare hormone secretion and hormone clearance.",
+        "answer": "Secretion adds hormone to circulation; clearance removes hormone from circulation."
+      }
+    ]
+  },
+
+  {
+    "topic": "Integrated Clinical Reasoning Challenges",
+    "flashcards": [
+      {
+        "question": "If a hormone level is normal but the physiological effect is reduced, what mechanism should be considered?",
+        "answer": "Reduced receptor number or receptor dysfunction."
+      },
+      {
+        "question": "If a hormone remains elevated because it is not cleared properly, what endocrine concept is involved?",
+        "answer": "Reduced hormone clearance."
+      },
+      {
+        "question": "Why might two patients with identical hormone concentrations show different responses?",
+        "answer": "Differences in receptors or intracellular signaling."
+      },
+      {
+        "question": "What does elevated TRH and elevated TSH with low T3/T4 suggest?",
+        "answer": "A thyroid gland problem."
+      },
+      {
+        "question": "What does low TRH, low TSH and low T3/T4 suggest?",
+        "answer": "A hypothalamic problem."
+      },
+      {
+        "question": "What does low TSH despite low thyroid hormones suggest?",
+        "answer": "A pituitary disorder."
+      },
+      {
+        "question": "Why are feedback loops useful diagnostically?",
+        "answer": "Different defects create characteristic hormone patterns."
+      },
+      {
+        "question": "Why is endocrine diagnosis often described as pathway diagnosis?",
+        "answer": "Because clinicians determine where along an endocrine axis dysfunction occurs."
+      },
+      {
+        "question": "If hormone levels are normal but receptors are blocked by a drug, can physiological effects still occur normally?",
+        "answer": "No."
+      },
+      {
+        "question": "Why is receptor pharmacology important clinically?",
+        "answer": "Many therapies work by activating or blocking hormone receptors."
+      },
+      {
+        "question": "What is usually more informative: one hormone measurement or multiple hormone measurements across an axis?",
+        "answer": "Multiple measurements across an axis."
+      },
+      {
+        "question": "Why is knowledge of normal physiology essential in endocrinology?",
+        "answer": "Because abnormalities are identified by understanding normal regulatory mechanisms."
+      },
+      {
+        "question": "What endocrine principle explains why target gland diseases can affect pituitary hormone levels?",
+        "answer": "Negative feedback."
+      },
+      {
+        "question": "Why may endocrine diseases spread their effects throughout the body?",
+        "answer": "Because hormones act on multiple tissues."
+      },
+      {
+        "question": "What overarching skill is required for endocrine problem solving?",
+        "answer": "Tracing physiological cause-and-effect relationships through feedback systems."
+      }
+    ]
+  },
+
+  {
+    "topic": "High-Yield Synthesis Cards",
+    "flashcards": [
+      {
+        "question": "Summarize endocrine signaling in one sentence.",
+        "answer": "Hormones are chemical messengers that coordinate physiological activity to maintain homeostasis."
+      },
+      {
+        "question": "Summarize receptor function in one sentence.",
+        "answer": "Receptors determine which cells can respond to a hormone."
+      },
+      {
+        "question": "Summarize negative feedback in one sentence.",
+        "answer": "Negative feedback reduces deviations from physiological set points."
+      },
+      {
+        "question": "Summarize membrane receptor signaling.",
+        "answer": "Hormone binding activates intracellular second messenger pathways."
+      },
+      {
+        "question": "Summarize nuclear receptor signaling.",
+        "answer": "Hormone binding influences gene expression and protein synthesis."
+      },
+      {
+        "question": "Summarize thyroid hormone physiology.",
+        "answer": "Thyroid hormones regulate metabolism, with T3 serving as the primary active hormone."
+      },
+      {
+        "question": "Summarize insulin physiology.",
+        "answer": "Insulin contributes to regulation of blood glucose by lowering elevated glucose levels."
+      },
+      {
+        "question": "Summarize glucagon physiology.",
+        "answer": "Glucagon contributes to blood glucose regulation by increasing glucose availability."
+      },
+      {
+        "question": "Summarize cortisol physiology.",
+        "answer": "Cortisol is a steroid hormone involved in metabolism and stress responses."
+      },
+      {
+        "question": "Summarize adrenaline physiology.",
+        "answer": "Adrenaline mediates rapid physiological responses through neuroendocrine signaling."
+      },
+      {
+        "question": "Summarize PTH physiology.",
+        "answer": "Parathyroid hormone helps maintain calcium homeostasis."
+      },
+      {
+        "question": "Summarize vitamin D physiology.",
+        "answer": "Active vitamin D promotes calcium absorption and contributes to calcium regulation."
+      },
+      {
+        "question": "Summarize endocrine axes.",
+        "answer": "Endocrine axes involve hierarchical regulation from hypothalamus to pituitary to target organs."
+      },
+      {
+        "question": "Summarize hormone binding proteins.",
+        "answer": "Binding proteins increase half-life while reducing the proportion of free hormone."
+      },
+      {
+        "question": "Summarize the central principle of the entire lecture.",
+        "answer": "Hormones, receptors and feedback loops work together to maintain homeostasis."
+      }
+    ]
+  },
+
+  {
+    "topic": "Ultimate One-Step Oral Exam Cards",
+    "flashcards": [
+      {
+        "question": "What is homeostasis?",
+        "answer": "Maintenance of stable internal physiological conditions."
+      },
+      {
+        "question": "What are hormones?",
+        "answer": "Chemical messengers that regulate target cells."
+      },
+      {
+        "question": "What are receptors?",
+        "answer": "Proteins that bind hormones and mediate cellular responses."
+      },
+      {
+        "question": "What is negative feedback?",
+        "answer": "A response that opposes the original stimulus."
+      },
+      {
+        "question": "What is endocrine signaling?",
+        "answer": "Hormonal communication over long distances through the bloodstream."
+      },
+      {
+        "question": "What is paracrine signaling?",
+        "answer": "Hormonal communication between neighboring cells."
+      },
+      {
+        "question": "What is autocrine signaling?",
+        "answer": "Hormonal communication in which a cell acts on itself."
+      },
+      {
+        "question": "What is a ligand?",
+        "answer": "A molecule that binds a receptor."
+      },
+      {
+        "question": "What is an agonist?",
+        "answer": "A ligand that binds and activates a receptor."
+      },
+      {
+        "question": "What is an antagonist?",
+        "answer": "A ligand that binds a receptor but blocks activation."
+      },
+      {
+        "question": "What is a second messenger?",
+        "answer": "An intracellular signaling molecule produced after receptor activation."
+      },
+      {
+        "question": "What is hormone half-life?",
+        "answer": "The time required for circulating hormone concentration to fall by half."
+      },
+      {
+        "question": "What is hormone clearance?",
+        "answer": "The removal of hormones from circulation."
+      },
+      {
+        "question": "What is receptor down-regulation?",
+        "answer": "A decrease in receptor number and responsiveness."
+      },
+      {
+        "question": "What is the ultimate purpose of endocrinology?",
+        "answer": "Coordinating physiological function to maintain homeostasis."
+      }
+    ]
+  }
+]

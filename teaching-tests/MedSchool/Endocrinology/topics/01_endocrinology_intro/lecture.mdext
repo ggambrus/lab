@@ -1,0 +1,1894 @@
+Homeostasis and Feedback
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: To stay alive our bodies need to maintain {homeostasis}. Homeostasis is {balance}.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Homeostasis refers to maintaining internal balance|True
+item:Homeostasis is required for survival|True
+item:Homeostasis means physiological variables never change|False
+item:Homeostasis requires regulation of body systems|True
+[end activity]
+
+[activity:connect]
+prompt: Match the term to its description.
+item: Homeostasis | Maintenance of internal balance
+item: Endocrine system | Hormonal communication
+item: Nervous system | Neural communication
+item: Hormone | Chemical messenger
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Communication systems|Endocrine system; Nervous system
+Outcomes|Homeostasis; Balance; Regulation; Survival
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: To maintain homeostasis different parts of the body must {talk} to each other. This communication is performed by the {endocrine system} and the {nervous system}.
+[end activity]
+
+[activity:mcq]
+prompt: Which systems are primarily responsible for coordinating body functions to maintain homeostasis?
+wrong: Digestive and skeletal systems
+wrong: Respiratory and urinary systems
+wrong: Muscular and reproductive systems
+correct: Endocrine and nervous systems
+explanation: Communication between body systems relies primarily on endocrine and nervous signalling.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:The nervous system contributes to communication between body regions|True
+item:The endocrine system contributes to communication between body regions|True
+item:Hormones are part of endocrine communication|True
+item:Body systems can maintain homeostasis without communication|False
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Hormones allow {cells} to communicate with each other. This communication allows the body to {regulate} itself and maintain {homeostasis}.
+[end activity]
+
+[activity:connect]
+prompt: Match the item with its function.
+item: Hormone | Chemical messenger
+item: Endocrine system | Hormone signalling
+item: Nervous system | Neural signalling
+item: Homeostasis | Internal stability
+[end activity]
+
+[activity:mcq]
+prompt: Which statement best describes a hormone?
+wrong: A type of receptor
+wrong: An intracellular enzyme
+wrong: A structural protein
+correct: A chemical messenger
+explanation: Hormones function by transmitting information between cells.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Homeostasis is commonly maintained by {negative feedback} loops that keep a {stimulus} close to a desired level.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Negative feedback promotes physiological stability|True
+item:Negative feedback usually pushes a variable farther away from normal|False
+item:A thermostat is an example of negative feedback control|True
+item:Many hormones participate in negative feedback systems|True
+[end activity]
+
+[activity:arrange]
+prompt: Arrange these stages in ascending order from the start of a negative feedback loop to restoration of balance.
+item: Stimulus changes
+item: Hormonal response is triggered
+item: Physiological response occurs
+item: Stimulus moves toward normal
+[end activity]
+
+[activity:connect]
+prompt: Match the stimulus to the hormonal response.
+item: High blood glucose | Insulin
+item: Low blood glucose | Glucagon
+item: Low blood pressure | Angiotensin II
+item: Increased stomach pH | Gastrin
+item: Low blood calcium | Parathyroid hormone
+item: Products of digestion | Cholecystokinin
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Stimuli|High blood glucose; Low blood glucose; Low blood pressure; Increased stomach pH; Low blood calcium; Products of digestion
+Hormones|Insulin; Glucagon; Angiotensin II; Gastrin; Parathyroid hormone; Cholecystokinin
+[end activity]
+
+[activity:mcq]
+prompt: Following consumption of a sugary meal, which hormone would be released as part of a negative feedback response?
+wrong: Glucagon
+wrong: Angiotensin II
+wrong: Gastrin
+correct: Insulin
+explanation: Elevated blood glucose stimulates insulin release.
+[end activity]
+
+[activity:mcq]
+prompt: Which hormone is most directly associated with correcting low blood glucose?
+wrong: Insulin
+wrong: Gastrin
+wrong: Cholecystokinin
+correct: Glucagon
+explanation: Glucagon acts to increase blood glucose concentration.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Insulin release is stimulated by increased blood glucose|True
+item:Glucagon release is stimulated by low blood glucose|True
+item:Insulin normally lowers blood glucose|True
+item:Negative feedback increases deviations from the set point|False
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Blood glucose regulation is a classic example of {negative feedback}. Increased plasma {glucose} stimulates {insulin} release, which helps restore glucose levels toward normal.
+[end activity]
+
+Hormones and Signalling
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Hormones are {chemical messengers} made by cells in the body. They are often secreted in response to a {stimulus} and induce effects in {target cells}.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Hormones are chemical messengers|True
+item:Hormones are always released continuously regardless of conditions|False
+item:Hormones are often secreted in response to a stimulus|True
+item:Hormones act on target cells|True
+[end activity]
+
+[activity:connect]
+prompt: Match the signalling type with its target.
+item: Endocrine signalling | Distant cells
+item: Paracrine signalling | Neighbouring cells
+item: Autocrine signalling | Same cell
+item: Hormone secretion | Cellular communication
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Signalling types|Endocrine; Paracrine; Autocrine
+Targets|Distant cells; Neighbouring cells; Same cell
+[end activity]
+
+[activity:mcq]
+prompt: Which type of hormonal signalling acts on distant cells?
+wrong: Autocrine
+wrong: Paracrine
+wrong: Juxtacrine
+correct: Endocrine
+explanation: Endocrine hormones travel to and affect distant target cells.
+[end activity]
+
+[activity:mcq]
+prompt: Which type of hormonal signalling acts on neighbouring cells?
+wrong: Endocrine
+wrong: Neural
+wrong: Autocrine
+correct: Paracrine
+explanation: Paracrine hormones act locally on nearby cells.
+[end activity]
+
+[activity:mcq]
+prompt: Autocrine signalling occurs when a hormone acts on:
+wrong: A distant organ
+wrong: A neighbouring tissue
+wrong: The bloodstream
+correct: The same cell that released it
+explanation: Autocrine signals affect the cell that produced them.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Endocrine hormones act on {distant} cells, paracrine hormones act on {neighbouring} cells, and autocrine hormones act on the {same} cell that secreted them.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:An endocrine hormone may affect cells far from its site of release|True
+item:Paracrine signalling typically acts over long distances|False
+item:Autocrine signalling can affect the secreting cell itself|True
+item:A hormone can only have endocrine actions|False
+[end activity]
+
+[activity:connect]
+prompt: Match the example target relationship to the signalling type.
+item: Cell affects itself | Autocrine
+item: Cell affects neighbouring cells | Paracrine
+item: Cell affects distant tissues | Endocrine
+item: Hormone reaches organs via circulation | Endocrine
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Endocrine signalling|Distant cells; Long-range communication; Blood-borne hormones
+Paracrine signalling|Neighbouring cells; Local communication
+Autocrine signalling|Acts on secreting cell; Self-signalling
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Hormones induce effects only in {target} cells. Cells lacking the appropriate {receptor} will generally not respond to a hormone.
+[end activity]
+
+[activity:mcq]
+prompt: Why do hormones affect some cells but not others?
+wrong: Some cells destroy hormones immediately
+wrong: Some cells are larger than others
+wrong: Hormones only enter certain organs
+correct: Only some cells express the appropriate receptor
+explanation: Hormone responsiveness depends on receptor expression.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:All cells respond to every hormone in the body|False
+item:Target cells possess appropriate receptors|True
+item:Receptor expression determines whether a cell can respond|True
+item:Hormones can only act on cells with suitable receptors|True
+[end activity]
+
+[activity:connect]
+prompt: Match the term with its description.
+item: Target cell | Cell expressing an appropriate receptor
+item: Non-target cell | Cell lacking the appropriate receptor
+item: Receptor | Protein that binds a hormone
+item: Hormone | Chemical messenger
+[end activity]
+
+[activity:mcq]
+prompt: A hormone reaches two tissues. Only one tissue responds. What is the most likely explanation?
+wrong: The hormone only reached one tissue
+wrong: One tissue destroyed the hormone
+wrong: One tissue produced too much hormone
+correct: Only one tissue expressed the appropriate receptor
+explanation: Receptor expression determines responsiveness.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Hormonal communication depends on both the {hormone} and the appropriate {receptor}. Without receptor binding, the hormone cannot produce its intended {effect}.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Hormones require receptors to exert effects|True
+item:Target and non-target cells respond identically to hormones|False
+item:Hormonal signalling depends on receptor availability|True
+item:Receptors determine cellular responsiveness|True
+[end activity]
+
+Receptors
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Hormones must bind {receptors} on target cells to have an effect. Receptors are {proteins} that bind specific hormones.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Receptors are proteins|True
+item:A hormone can produce effects without binding a receptor|False
+item:Hormones bind receptors on target cells|True
+item:All receptors bind all hormones equally well|False
+[end activity]
+
+[activity:connect]
+prompt: Match the receptor type to its location.
+item: Membrane receptor | Plasma membrane
+item: Nuclear receptor | Cytoplasm or nucleus
+item: Membrane receptor hormone | Usually not membrane permeable
+item: Nuclear receptor hormone | Membrane permeable
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Membrane receptors|Transmembrane protein; Extracellular domain; Intracellular domain; Second messenger generation
+Nuclear receptors|Transcription factor activation; Gene expression; Located in cytoplasm or nucleus; Bind membrane-permeable hormones
+[end activity]
+
+[activity:mcq]
+prompt: Why does insulin not normally activate glucagon receptors?
+wrong: Insulin is too large to enter the bloodstream
+wrong: Glucagon receptors are found only in the brain
+wrong: Insulin immediately breaks down glucagon receptors
+correct: Receptors bind specific hormones
+explanation: Hormone action depends on receptor specificity.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Receptor specificity helps determine hormone action|True
+item:Insulin normally binds glucagon receptors|False
+item:Cells without the correct receptor generally do not respond|True
+item:A receptor can distinguish between different hormones|True
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Hormones affect only cells expressing the appropriate {receptor}. Cells lacking that receptor are {non-target} cells and generally do not respond.
+[end activity]
+
+[activity:connect]
+prompt: Match the term to its description.
+item: Target cell | Expresses the appropriate receptor
+item: Non-target cell | Lacks the appropriate receptor
+item: Receptor specificity | Selective hormone binding
+item: Hormone-receptor complex | Initiates cellular effects
+[end activity]
+
+[activity:mcq]
+prompt: What happens when a hormone binds its receptor on a target cell?
+wrong: The receptor is immediately destroyed
+wrong: The hormone becomes a receptor
+wrong: Gene expression always stops
+correct: A biological effect is initiated in the target cell
+explanation: Hormone-receptor binding initiates cellular responses.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Membrane receptors possess an extracellular domain that binds the {hormone} and an intracellular domain that initiates production of {second messengers}.
+[end activity]
+
+[activity:connect]
+prompt: Match the membrane receptor component to its role.
+item: Extracellular domain | Binds hormone
+item: Intracellular domain | Initiates signalling
+item: Second messenger cascade | Produces intracellular effects
+item: Membrane receptor | Transmembrane protein
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Membrane receptors span the plasma membrane|True
+item:Membrane receptors generate second messenger signalling|True
+item:Membrane receptors are located exclusively inside the nucleus|False
+item:Membrane receptor activation can alter gene expression|True
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Membrane receptor features|Transmembrane protein; Extracellular hormone binding; Intracellular signalling; Second messenger cascade
+Cellular outcomes|Protein activation; Gene expression; Physiological effect; Signal amplification
+[end activity]
+
+[activity:mcq]
+prompt: Which feature is most characteristic of membrane receptors?
+wrong: Direct DNA binding
+wrong: Location only inside the nucleus
+wrong: Requirement for membrane-permeable hormones
+correct: Generation of second messenger signals
+explanation: Membrane receptors commonly signal through intracellular second messengers.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Nuclear receptors are located in the {cytoplasm} or {nucleus}. Hormone binding activates a transcription factor complex that initiates {gene expression}.
+[end activity]
+
+[activity:connect]
+prompt: Match the characteristic to the correct receptor type.
+item: Activates second messenger cascades | Membrane receptor
+item: Activates transcription factors | Nuclear receptor
+item: Binds membrane-impermeable hormones | Membrane receptor
+item: Binds membrane-permeable hormones | Nuclear receptor
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Nuclear receptors can initiate gene expression|True
+item:Nuclear receptors bind hormones that cross biological membranes|True
+item:Nuclear receptors are always found on the plasma membrane|False
+item:Nuclear receptor signalling often influences protein synthesis|True
+[end activity]
+
+[activity:mcq]
+prompt: Why can steroid hormones commonly use nuclear receptors?
+wrong: They are proteins
+wrong: They are carried only in vesicles
+wrong: They activate membrane channels directly
+correct: They can cross biological membranes
+explanation: Lipophilic hormones can enter cells and interact with nuclear receptors.
+[end activity]
+
+[activity:connect]
+prompt: Match the term to its definition.
+item: Ligand | Molecule that binds a receptor
+item: Agonist | Binds and activates a receptor
+item: Antagonist | Binds without activating a receptor
+item: Hormone | Natural receptor agonist
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Agonists|Hormones; Receptor activation; Stimulate effect; Mimic hormone action
+Antagonists|Bind receptor; No activation; Block hormone action; Prevent signalling
+[end activity]
+
+[activity:mcq]
+prompt: Which statement best describes an agonist?
+wrong: It destroys receptors
+wrong: It prevents all receptor binding
+wrong: It degrades hormones
+correct: It binds and activates a receptor
+explanation: Agonists stimulate receptor-mediated responses.
+[end activity]
+
+[activity:mcq]
+prompt: Which statement best describes an antagonist?
+wrong: It enhances receptor activation
+wrong: It increases hormone secretion
+wrong: It functions as a second messenger
+correct: It binds a receptor without producing the normal effect
+explanation: Antagonists occupy receptors but fail to activate them.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Hormones are typically receptor agonists|True
+item:Antagonists can prevent hormone action|True
+item:A ligand is anything that binds a receptor|True
+item:Agonists and antagonists produce identical effects|False
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: A {ligand} binds a receptor. An {agonist} binds and activates the receptor, whereas an {antagonist} binds but does not stimulate the normal response.
+[end activity]
+
+Second Messengers
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Second messengers are produced when a {hormone} binds a {receptor}. They transmit signals within the {cell} and help generate the required response.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Second messengers are intracellular signalling molecules|True
+item:Second messengers are generated after hormone-receptor binding|True
+item:Second messengers act outside the cell|False
+item:Second messengers help produce cellular responses|True
+[end activity]
+
+[activity:connect]
+prompt: Match the component to its role.
+item: Hormone | Initiates signalling
+item: Receptor | Detects hormone
+item: Second messenger | Transmits intracellular signal
+item: Target cell response | Physiological effect
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Extracellular events|Hormone release; Hormone binding; Receptor activation
+Intracellular events|Second messenger production; Protein activation; Cellular response
+[end activity]
+
+[activity:mcq]
+prompt: What triggers the production of second messengers?
+wrong: Hormone breakdown
+wrong: Protein synthesis
+wrong: Gene transcription
+correct: Hormone binding to a receptor
+explanation: Receptor activation initiates second messenger generation.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Second messengers allow information from the cell surface to be transmitted throughout the {cytoplasm}, coordinating an appropriate cellular {response}.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Second messengers can spread signals within a cell|True
+item:Second messengers are only found outside cells|False
+item:Second messengers contribute to hormone action|True
+item:Second messengers participate in intracellular communication|True
+[end activity]
+
+[activity:connect]
+prompt: Match the event with its outcome.
+item: Hormone binds receptor | Second messenger generation
+item: Second messenger generation | Intracellular signalling
+item: Intracellular signalling | Protein activation
+item: Protein activation | Cellular effect
+[end activity]
+
+[activity:arrange]
+prompt: Arrange these events in ascending order from hormone detection to cellular response.
+item: Hormone binds receptor
+item: Second messenger generation
+item: Intracellular signalling cascade
+item: Cellular response
+[end activity]
+
+[activity:mcq]
+prompt: Which statement best describes the role of second messengers?
+wrong: They replace hormones in the bloodstream
+wrong: They prevent receptor activation
+wrong: They destroy signalling proteins
+correct: They relay signals within the cell
+explanation: Second messengers transmit information from activated receptors to intracellular targets.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Second messenger cascades work by producing new {second messengers}, allowing the signal to be progressively {amplified}.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Second messenger cascades amplify signals|True
+item:One signalling event can produce multiple downstream events|True
+item:Signal amplification reduces the impact of signalling|False
+item:Cascades help small signals produce large effects|True
+[end activity]
+
+[activity:connect]
+prompt: Match the term to its description.
+item: Cascade | Sequential signalling process
+item: Amplification | Increase in signal strength
+item: cAMP | Second messenger
+item: Protein kinase | Enzyme regulated by signalling pathways
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Second messengers|cAMP
+Signalling proteins|Protein kinase; Phosphoprotein
+Energy molecules|ATP
+[end activity]
+
+[activity:mcq]
+prompt: What is the major consequence of a second messenger cascade?
+wrong: Hormones become receptors
+wrong: ATP production stops
+wrong: Receptors disappear immediately
+correct: A small signal can generate a much larger effect
+explanation: Cascades amplify signalling by generating multiple downstream events.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: In the lecture example, {cAMP} activates a protein {kinase}, which can subsequently modify multiple target proteins.
+[end activity]
+
+[activity:connect]
+prompt: Match the molecule with its function.
+item: cAMP | Activates signalling proteins
+item: Protein kinase | Phosphorylates proteins
+item: ATP | Provides phosphate groups
+item: Phosphoprotein | Modified target protein
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:cAMP functions as a second messenger|True
+item:Protein kinases can phosphorylate proteins|True
+item:ATP participates in phosphorylation reactions|True
+item:Phosphorylation can alter protein activity|True
+[end activity]
+
+[activity:mcq]
+prompt: Protein kinases primarily act by:
+wrong: Breaking down receptors
+wrong: Producing hormones
+wrong: Removing all cellular phosphate groups
+correct: Phosphorylating proteins
+explanation: Protein kinases transfer phosphate groups to target proteins.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: During signal amplification, a single activated protein kinase may modify multiple target proteins, helping generate a larger physiological {effect}.
+[end activity]
+
+[activity:connect]
+prompt: Match the receptor type with its major signalling mechanism.
+item: Membrane receptor | Second messenger cascade
+item: Nuclear receptor | Gene expression
+item: Membrane receptor hormone | Usually membrane impermeable
+item: Steroid hormone | Commonly uses nuclear receptors
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Membrane receptor signalling|Second messenger generation; cAMP; Protein kinase activation; Rapid intracellular signalling
+Nuclear receptor signalling|Gene expression; Transcription factor activation; Protein synthesis; Membrane-permeable hormones
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Membrane receptors often signal through second messengers|True
+item:Nuclear receptors commonly regulate gene expression|True
+item:Second messenger cascades are a key feature of membrane receptor signalling|True
+item:Membrane and nuclear receptors always use identical signalling mechanisms|False
+[end activity]
+
+[activity:mcq]
+prompt: Which receptor type is most strongly associated with second messenger generation?
+wrong: Nuclear receptor
+wrong: Cytoplasmic transcription factor
+wrong: DNA binding complex
+correct: Membrane receptor
+explanation: Membrane receptors characteristically initiate second messenger cascades.
+[end activity]
+
+[activity:arrange]
+prompt: Arrange these events in ascending order for a typical membrane receptor signalling pathway.
+item: Hormone binds membrane receptor
+item: Second messenger generation
+item: Protein kinase activation
+item: Cellular response
+[end activity]
+
+Regulation of Hormone Action
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Hormone action can be regulated by changing hormone {availability}, changing the number of {receptors}, or preventing hormone binding to the {receptor}.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Hormone action can be regulated at several levels|True
+item:Only receptor number affects hormone activity|False
+item:Hormone availability influences hormone action|True
+item:Blocking receptor binding can alter hormone effects|True
+[end activity]
+
+[activity:connect]
+prompt: Match the regulatory mechanism to what it affects.
+item: Hormone release | Hormone availability
+item: Hormone clearance | Hormone availability
+item: Receptor number | Cellular responsiveness
+item: Receptor antagonist | Hormone binding
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Hormone availability|Release; Binding proteins; Breakdown; Clearance
+Receptor-related regulation|Receptor number; Down-regulation; Up-regulation; Antagonists
+[end activity]
+
+[activity:mcq]
+prompt: Which of the following is NOT listed as a mechanism regulating hormone action?
+wrong: Hormone breakdown
+wrong: Binding proteins
+wrong: Receptor number
+correct: DNA replication
+explanation: The lecture describes hormone availability, receptor number and receptor antagonists as regulatory mechanisms.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Hormone availability can be altered through changes in hormone {release}, hormone {breakdown}, and hormone {clearance}.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Changing hormone release can alter hormone activity|True
+item:Changing hormone clearance can alter hormone activity|True
+item:Hormone breakdown has no influence on hormone concentration|False
+item:Hormone availability contributes to physiological effects|True
+[end activity]
+
+[activity:connect]
+prompt: Match the term to its description.
+item: Release | Entry of hormone into circulation
+item: Clearance | Removal from circulation
+item: Breakdown | Hormone metabolism
+item: Availability | Amount of hormone accessible to tissues
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: The half-life of a hormone is the time required for its concentration in the blood to fall by {half}.
+[end activity]
+
+[activity:mcq]
+prompt: What does hormone half-life describe?
+wrong: The time required to produce a hormone
+wrong: The time required for receptor binding
+wrong: The time required for a hormone to enter a cell
+correct: The time required for hormone concentration to decrease by half
+explanation: Half-life describes the rate at which hormone levels decline.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:A longer half-life generally prolongs hormone activity|True
+item:Half-life influences hormone effects|True
+item:All hormones have identical half-lives|False
+item:Half-life refers to hormone concentration in blood|True
+[end activity]
+
+[activity:connect]
+prompt: Match the hormone to its approximate half-life.
+item: T4 | 6.5 days
+item: T3 | 1.3 days
+item: TSH | 60 minutes
+[end activity]
+
+[activity:arrange]
+prompt: Arrange these hormones in ascending order of half-life.
+item: TSH
+item: T3
+item: T4
+[end activity]
+
+[activity:mcq]
+prompt: Which hormone listed in the lecture has the longest half-life?
+wrong: TSH
+wrong: T3
+correct: T4
+explanation: T4 has a substantially longer half-life than T3 or TSH.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: In liver failure, reduced hormone {breakdown} can increase hormone levels and prolong hormone {activity}.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Impaired hormone breakdown can increase hormone action|True
+item:Liver function can influence hormone clearance|True
+item:Half-life is unrelated to hormone activity|False
+item:Hormones with longer half-lives remain in circulation longer|True
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Many hormones circulate bound to {proteins}. Hormones continuously shift between {bound} and free states.
+[end activity]
+
+[activity:connect]
+prompt: Match the term to its description.
+item: Albumin | Hormone-binding protein
+item: Free hormone | Available to interact with receptors
+item: Bound hormone | Attached to a carrier protein
+item: Equilibrium | Dynamic movement between bound and free forms
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Binding proteins|Albumin; Thyroid hormone binding proteins
+Hormone states|Bound hormone; Free hormone; Receptor-bound hormone
+[end activity]
+
+[activity:mcq]
+prompt: Which form of a hormone is most directly able to bind cellular receptors?
+wrong: Protein-bound hormone only
+wrong: Storage vesicle hormone
+wrong: Metabolised hormone
+correct: Free hormone
+explanation: Free hormone is available to interact with receptors.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Many hormones circulate attached to proteins|True
+item:Hormones may alternate between bound and free states|True
+item:Albumin can function as a hormone-binding protein|True
+item:Binding proteins eliminate hormones from the body|False
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Binding proteins generally decrease hormone {activity} but increase hormone {half-life}.
+[end activity]
+
+[activity:mcq]
+prompt: Increasing binding protein levels would most likely:
+wrong: Increase activity and decrease half-life
+wrong: Decrease activity and decrease half-life
+wrong: Increase activity and increase half-life
+correct: Decrease activity and increase half-life
+explanation: Bound hormones are less available to receptors but remain in circulation longer.
+[end activity]
+
+[activity:connect]
+prompt: Match the effect to the consequence.
+item: Increased binding proteins | Increased half-life
+item: Increased binding proteins | Reduced free hormone
+item: Reduced free hormone | Reduced activity
+item: Longer circulation time | Increased half-life
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: The magnitude of a hormone's effect depends on both hormone {concentration} and receptor {number}.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Receptor number influences hormone responsiveness|True
+item:Hormone concentration is the only determinant of effect size|False
+item:Both receptor number and hormone concentration are important|True
+item:Changes in receptor number can alter hormone activity|True
+[end activity]
+
+[activity:connect]
+prompt: Match the concept to its outcome.
+item: Increased receptor number | Greater responsiveness
+item: Reduced receptor number | Reduced responsiveness
+item: Down-regulation | Fewer receptors
+item: High agonist levels | Often receptor down-regulation
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Increased responsiveness|More receptors; Receptor up-regulation
+Reduced responsiveness|Fewer receptors; Receptor down-regulation
+[end activity]
+
+[activity:mcq]
+prompt: High levels of an agonist hormone often cause:
+wrong: Increased hormone breakdown only
+wrong: Immediate loss of all signalling
+wrong: Increased receptor specificity
+correct: Receptor down-regulation
+explanation: Sustained agonist exposure commonly reduces receptor number.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Receptor {down-regulation} decreases receptor number and can reduce the response to a hormone.
+[end activity]
+
+[activity:connect]
+prompt: Match the term with its definition.
+item: Agonist | Activates receptor
+item: Antagonist | Binds receptor without activating it
+item: Receptor blockade | Prevents hormone binding
+item: Hormone effect | Receptor-mediated response
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Antagonists bind receptors|True
+item:Antagonists prevent normal hormone signalling|True
+item:Antagonists activate receptors in the same way as agonists|False
+item:Preventing receptor binding can reduce hormone action|True
+[end activity]
+
+[activity:mcq]
+prompt: Why can receptor antagonists reduce hormone action?
+wrong: They destroy the hormone before release
+wrong: They increase receptor number
+wrong: They increase second messenger production
+correct: They occupy the receptor without activating it
+explanation: Antagonists block access of the normal hormone to the receptor.
+[end activity]
+
+[activity:connect]
+prompt: Match the drug to its receptor action.
+item: Tamoxifen | Oestrogen receptor partial agonist
+item: RU486 | Progesterone receptor antagonist
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Agonist-related|Hormone activation; Receptor stimulation; Tamoxifen partial agonist
+Antagonist-related|RU486; Receptor blockade; Prevented signalling
+[end activity]
+
+Hypothalamic-Pituitary Axis
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: The hypothalamus has a vascular connection to the {anterior pituitary} and a neural connection to the {posterior pituitary}.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:The hypothalamus communicates with the anterior pituitary through blood vessels|True
+item:The hypothalamus communicates with the posterior pituitary through neurons|True
+item:The anterior and posterior pituitary receive identical inputs|False
+item:The hypothalamus plays a central role in endocrine regulation|True
+[end activity]
+
+[activity:connect]
+prompt: Match the structure with its connection type.
+item: Anterior pituitary | Vascular connection
+item: Posterior pituitary | Neural connection
+item: Hypophyseal portal system | Blood vessel connection
+item: Hypothalamus | Endocrine control centre
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Anterior pituitary pathway|Hypophyseal portal system; TRH; CRH; Pituitary hormone release
+Posterior pituitary pathway|Neural connection; ADH; Oxytocin
+[end activity]
+
+[activity:mcq]
+prompt: Which pituitary lobe receives hypothalamic hormones through the hypophyseal portal system?
+wrong: Posterior pituitary
+wrong: Adrenal cortex
+wrong: Thyroid gland
+correct: Anterior pituitary
+explanation: Hypothalamic releasing hormones are delivered directly to the anterior pituitary through the portal circulation.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Hypothalamic hormones such as {TRH} and {CRH} stimulate hormone release from the anterior pituitary.
+[end activity]
+
+[activity:connect]
+prompt: Match the hypothalamic hormone with its full name.
+item: TRH | Thyrotropin-releasing hormone
+item: CRH | Corticotrophin-releasing hormone
+item: GnRH | Gonadotrophin-releasing hormone
+item: GHRH | Growth hormone-releasing hormone
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:TRH is produced by the hypothalamus|True
+item:CRH is produced by the hypothalamus|True
+item:GnRH is produced by the thyroid gland|False
+item:GHRH stimulates a pituitary response|True
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Hypothalamic hormones|TRH; CRH; GnRH; GHRH
+Pituitary hormones|TSH; ACTH; LH; FSH
+[end activity]
+
+[activity:mcq]
+prompt: What is the primary role of hypothalamic releasing hormones?
+wrong: Direct stimulation of target organs
+wrong: Hormone breakdown
+wrong: Receptor down-regulation
+correct: Stimulation of pituitary hormone release
+explanation: Hypothalamic hormones regulate the secretion of pituitary hormones.
+[end activity]
+
+[activity:connect]
+prompt: Match the hypothalamic hormone with the pituitary hormone it stimulates.
+item: TRH | TSH
+item: CRH | ACTH
+item: GnRH | LH and FSH
+item: GHRH | Growth hormone
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: The anterior pituitary releases hormones such as {TSH} and {ACTH} in response to hypothalamic stimulation.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:The anterior pituitary is regulated by hypothalamic hormones|True
+item:ACTH is a pituitary hormone|True
+item:TSH is a hypothalamic hormone|False
+item:The pituitary acts as an intermediate regulatory gland|True
+[end activity]
+
+[activity:connect]
+prompt: Match the pituitary hormone with its target organ.
+item: ACTH | Adrenal gland
+item: TSH | Thyroid gland
+item: LH | Gonads
+item: FSH | Gonads
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Pituitary hormones|ACTH; TSH; LH; FSH
+Target organs|Adrenal gland; Thyroid gland; Gonads
+[end activity]
+
+[activity:mcq]
+prompt: Which pituitary hormone primarily targets the adrenal gland?
+wrong: TSH
+wrong: LH
+wrong: FSH
+correct: ACTH
+explanation: ACTH stimulates adrenal hormone production.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: The posterior pituitary releases {ADH} and {oxytocin}, which are controlled through neural connections with the hypothalamus.
+[end activity]
+
+[activity:connect]
+prompt: Match the hormone with the pituitary lobe most closely associated with its release.
+item: ADH | Posterior pituitary
+item: Oxytocin | Posterior pituitary
+item: TSH | Anterior pituitary
+item: ACTH | Anterior pituitary
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:ADH is associated with the posterior pituitary|True
+item:Oxytocin is associated with the posterior pituitary|True
+item:ACTH is released from the posterior pituitary|False
+item:Neural signalling is important for posterior pituitary hormone release|True
+[end activity]
+
+[activity:arrange]
+prompt: Arrange these events in ascending order for a typical endocrine axis.
+item: Hypothalamic hormone release
+item: Pituitary hormone release
+item: Peripheral gland stimulation
+item: Effector hormone release
+item: Physiological effect
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: In endocrine axes, the hypothalamus stimulates the {pituitary}, which stimulates a peripheral {gland}, leading to release of an effector {hormone}.
+[end activity]
+
+[activity:connect]
+prompt: Match the axis component with its role.
+item: Hypothalamus | Releasing hormones
+item: Pituitary | Tropic hormones
+item: Peripheral gland | Effector hormone production
+item: Target tissue | Physiological response
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Control centres|Hypothalamus; Pituitary
+Peripheral endocrine organs|Adrenal gland; Thyroid gland; Gonads; Liver
+[end activity]
+
+[activity:mcq]
+prompt: Which sequence best represents the organisation of a classical endocrine axis?
+wrong: Peripheral gland → Pituitary → Hypothalamus
+wrong: Target tissue → Peripheral gland → Pituitary
+wrong: Pituitary → Hypothalamus → Peripheral gland
+correct: Hypothalamus → Pituitary → Peripheral gland
+explanation: Endocrine axes are organised hierarchically from hypothalamus to pituitary to peripheral gland.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Hormone levels within hypothalamic-pituitary axes are regulated largely through {negative feedback}, helping maintain stable hormone concentrations.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Negative feedback contributes to homeostatic hormone regulation|True
+item:Effector hormones can participate in negative feedback|True
+item:Endocrine axes operate independently of feedback regulation|False
+item:Negative feedback can act at the hypothalamus or pituitary|True
+[end activity]
+
+[activity:connect]
+prompt: Match the hormone axis with its major effector hormone.
+item: CRH → ACTH axis | Cortisol
+item: TRH → TSH axis | T3 and T4
+item: GnRH → LH/FSH axis | Testosterone and oestrogen
+item: GHRH axis | IGF
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Hypothalamic hormones|CRH; TRH; GnRH; GHRH
+Effector hormones|Cortisol; T3; T4; Testosterone; Oestrogen; IGF
+[end activity]
+
+[activity:mcq]
+prompt: Which hormone is the major effector hormone of the CRH → ACTH axis?
+wrong: T4
+wrong: Testosterone
+wrong: IGF
+correct: Cortisol
+explanation: CRH stimulates ACTH release, which ultimately promotes cortisol secretion.
+[end activity]
+
+Adrenal Hormones
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: The adrenal gland is attached to the {kidney}. Different regions of the adrenal gland produce different {hormones}.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:The adrenal gland contains more than one hormone-producing region|True
+item:All adrenal hormones are produced by the same cells|False
+item:The adrenal gland is located near the kidney|True
+item:Different regions of the adrenal gland have different functions|True
+[end activity]
+
+[activity:connect]
+prompt: Match the adrenal region with its hormone group.
+item: Adrenal cortex | Corticosteroids
+item: Adrenal cortex | Mineralocorticoids
+item: Adrenal medulla | Adrenaline
+item: Adrenal medulla | Noradrenaline
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Adrenal cortex|Cortisol; Aldosterone; Corticosteroids; Mineralocorticoids
+Adrenal medulla|Adrenaline; Noradrenaline; Catecholamines
+[end activity]
+
+[activity:mcq]
+prompt: Which adrenal region produces adrenaline?
+wrong: Adrenal cortex
+wrong: Kidney cortex
+wrong: Anterior pituitary
+correct: Adrenal medulla
+explanation: The adrenal medulla produces adrenaline and noradrenaline.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: The adrenal {cortex} produces corticosteroids and mineralocorticoids, whereas the adrenal {medulla} produces adrenaline and noradrenaline.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Cortisol is produced by the adrenal cortex|True
+item:Aldosterone is produced by the adrenal cortex|True
+item:Adrenaline is produced by the adrenal medulla|True
+item:Noradrenaline is produced by the anterior pituitary|False
+[end activity]
+
+[activity:connect]
+prompt: Match the hormone with its adrenal region.
+item: Cortisol | Adrenal cortex
+item: Aldosterone | Adrenal cortex
+item: Adrenaline | Adrenal medulla
+item: Noradrenaline | Adrenal medulla
+[end activity]
+
+[activity:mcq]
+prompt: Which hormone is classified as a mineralocorticoid?
+wrong: Adrenaline
+wrong: Noradrenaline
+wrong: Cortisol
+correct: Aldosterone
+explanation: Aldosterone is the principal mineralocorticoid discussed in the lecture.
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Cortex hormones|Cortisol; Aldosterone
+Medulla hormones|Adrenaline; Noradrenaline
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Adrenaline release is stimulated primarily by {neural} signals from the {sympathetic nervous system}.
+[end activity]
+
+[activity:connect]
+prompt: Match the hormone with its primary stimulus.
+item: Adrenaline | Neural stimulation
+item: Cortisol | ACTH
+item: Aldosterone | Angiotensin II
+item: Noradrenaline | Neural stimulation
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Adrenaline release is linked to nervous system activity|True
+item:Cortisol release is stimulated by ACTH|True
+item:Aldosterone release is stimulated by Angiotensin II|True
+item:All adrenal hormones are released through identical mechanisms|False
+[end activity]
+
+[activity:mcq]
+prompt: Which adrenal hormone is most directly associated with sympathetic nervous system activation?
+wrong: Cortisol
+wrong: Aldosterone
+wrong: ACTH
+correct: Adrenaline
+explanation: Adrenaline secretion is triggered by neural input from the sympathetic nervous system.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Cortisol secretion is stimulated by {ACTH} as part of the hypothalamic-pituitary-adrenal ({HPA}) axis.
+[end activity]
+
+[activity:connect]
+prompt: Match the component with its role in cortisol regulation.
+item: CRH | Hypothalamic hormone
+item: ACTH | Pituitary hormone
+item: Adrenal cortex | Cortisol secretion
+item: Cortisol | Effector hormone
+[end activity]
+
+[activity:arrange]
+prompt: Arrange these events in ascending order for the HPA axis.
+item: CRH release
+item: ACTH release
+item: Adrenal cortex stimulation
+item: Cortisol secretion
+[end activity]
+
+[activity:mcq]
+prompt: Which hormone directly stimulates cortisol secretion?
+wrong: CRH
+wrong: Aldosterone
+wrong: Adrenaline
+correct: ACTH
+explanation: ACTH acts directly on the adrenal cortex to promote cortisol release.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Cortisol is an effector hormone of the HPA axis|True
+item:ACTH is released by the pituitary|True
+item:CRH is secreted by the adrenal gland|False
+item:Cortisol secretion involves a multistep endocrine pathway|True
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Aldosterone secretion is stimulated primarily by {Angiotensin II}, linking adrenal function to blood pressure regulation.
+[end activity]
+
+[activity:connect]
+prompt: Match the hormone with its primary physiological association.
+item: Cortisol | Stress and metabolism
+item: Aldosterone | Sodium regulation
+item: Adrenaline | Sympathetic activation
+item: Noradrenaline | Catecholamine signalling
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Hormonal stimulation|ACTH; Angiotensin II; Cortisol release; Aldosterone release
+Neural stimulation|Sympathetic nervous system; Adrenaline release; Noradrenaline release
+[end activity]
+
+[activity:mcq]
+prompt: Which pair correctly matches a hormone with its major stimulus?
+wrong: Cortisol | Sympathetic nervous system
+wrong: Aldosterone | ACTH
+wrong: Adrenaline | Angiotensin II
+correct: Aldosterone | Angiotensin II
+explanation: Aldosterone secretion is stimulated primarily by Angiotensin II.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Cortisol and aldosterone are released through hormonal stimulation|True
+item:Adrenaline is released through neural stimulation|True
+item:The adrenal cortex and medulla respond predominantly to the same signals|False
+item:Different adrenal hormones are controlled by different regulatory systems|True
+[end activity]
+
+[activity:connect]
+prompt: Match the hormone category to its example.
+item: Corticosteroid | Cortisol
+item: Mineralocorticoid | Aldosterone
+item: Catecholamine | Adrenaline
+item: Catecholamine | Noradrenaline
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Hormones linked to endocrine axes|Cortisol; ACTH; CRH
+Hormones linked to sympathetic activation|Adrenaline; Noradrenaline
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: The adrenal gland contains both a {cortex} and a {medulla}, allowing it to respond to both hormonal and neural signals.
+[end activity]
+
+[activity:mcq]
+prompt: What is a key theme of adrenal regulation presented in the lecture?
+wrong: Every adrenal hormone responds to the same regulator
+wrong: Neural regulation is unimportant
+wrong: The medulla and cortex have identical functions
+correct: Different adrenal regions respond to different control mechanisms
+explanation: The cortex is primarily hormonally regulated, whereas the medulla is strongly influenced by neural input.
+[end activity]
+
+Thyroid Hormones and Thyroid Axis
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Thyroid hormones control {metabolism} and are sometimes described as the body's {speed dial}.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Thyroid hormones influence metabolic rate|True
+item:Thyroid hormones decrease oxygen consumption in most tissues|False
+item:Thyroid hormones play a major role in energy metabolism|True
+item:The thyroid gland is part of an endocrine axis|True
+[end activity]
+
+[activity:connect]
+prompt: Match the term with its description.
+item: Thyroid hormones | Control metabolism
+item: T3 | Active thyroid hormone
+item: T4 | Major hormone released by thyroid gland
+item: Metabolic rate | Speed of energy use
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Thyroid hormones|T3; T4
+Major effects|Increased metabolism; Increased oxygen consumption; Increased energy utilisation
+[end activity]
+
+[activity:mcq]
+prompt: Which statement best describes the primary role of thyroid hormones?
+wrong: Blood clotting
+wrong: Digestion of proteins
+wrong: Calcium storage
+correct: Regulation of metabolism
+explanation: Thyroid hormones are key regulators of metabolic activity.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Thyroid hormones increase {oxygen} consumption in most tissues, supporting greater energy production.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Most tissues consume more oxygen under thyroid hormone influence|True
+item:Thyroid hormones generally reduce metabolic activity|False
+item:Oxygen consumption is linked to energy production|True
+item:Thyroid hormones affect many tissues throughout the body|True
+[end activity]
+
+[activity:connect]
+prompt: Match the hormone with the correct description.
+item: T3 | Biologically active form
+item: T4 | Secreted in larger amounts
+item: Reverse T3 | Biologically inactive form
+item: Deiodination | Conversion of T4 to T3
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Active forms|T3
+Inactive forms|Reverse T3
+Precursor forms|T4
+Processes|Deiodination
+[end activity]
+
+[activity:mcq]
+prompt: Which thyroid hormone is considered the biologically active form?
+wrong: T4
+wrong: Reverse T3
+wrong: TSH
+correct: T3
+explanation: T3 is the biologically active thyroid hormone.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: The thyroid gland secretes much more {T4} than {T3}, but T3 is the biologically active form.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:The thyroid secretes more T4 than T3|True
+item:T4 must sometimes be converted to T3 to become fully active|True
+item:T3 is less active than T4|False
+item:Peripheral tissues can contribute to thyroid hormone activation|True
+[end activity]
+
+[activity:connect]
+prompt: Match the process with its outcome.
+item: Deiodination of T4 | Production of T3
+item: Production of reverse T3 | Reduced thyroid activity
+item: Thyroid secretion | Release of T3 and T4
+item: T3 binding receptors | Cellular response
+[end activity]
+
+[activity:mcq]
+prompt: What is the result of deiodinating T4?
+wrong: Production of TSH
+wrong: Production of ACTH
+wrong: Production of cortisol
+correct: Production of T3
+explanation: Cells convert T4 into active T3 by deiodination.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: During {starvation}, a higher proportion of {reverse T3} may be produced, reducing overall thyroid hormone activity.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Reverse T3 is biologically inactive|True
+item:Starvation can increase reverse T3 production|True
+item:Reverse T3 is the most active thyroid hormone|False
+item:Altered T3/reverse T3 production can regulate thyroid effects|True
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Thyroid hormone actions|Stimulates metabolism; Increases oxygen consumption; Influences protein expression; Increases energy metabolism
+Mechanisms|Nuclear receptor binding; Mitochondrial receptor binding; Na/K ATPase stimulation
+[end activity]
+
+[activity:connect]
+prompt: Match the mechanism with the outcome.
+item: T3 binding nuclear receptors | Gene expression
+item: T3 binding mitochondrial receptors | Increased energy metabolism
+item: T3 stimulation of Na/K ATPase | Increased cellular activity
+item: Thyroid hormone action | Increased metabolic rate
+[end activity]
+
+[activity:mcq]
+prompt: Thyroid hormones increase metabolic activity partly by stimulating:
+wrong: DNA degradation
+wrong: Receptor destruction
+wrong: Hormone clearance
+correct: Na/K ATPase activity
+explanation: T3 directly stimulates Na/K ATPase activity.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: T3 binds {nuclear receptors} to alter gene expression and also acts on {mitochondrial receptors} to influence energy metabolism.
+[end activity]
+
+[activity:arrange]
+prompt: Arrange these events in ascending order for the thyroid axis.
+item: TRH release
+item: TSH release
+item: T3 and T4 secretion
+item: Increased metabolic rate
+[end activity]
+
+[activity:connect]
+prompt: Match the hormone with its source.
+item: TRH | Hypothalamus
+item: TSH | Anterior pituitary
+item: T3 | Thyroid gland
+item: T4 | Thyroid gland
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Hypothalamic hormones|TRH
+Pituitary hormones|TSH
+Thyroid hormones|T3; T4
+[end activity]
+
+[activity:mcq]
+prompt: Which hormone directly stimulates the thyroid gland?
+wrong: TRH
+wrong: ACTH
+wrong: GnRH
+correct: TSH
+explanation: TSH acts directly on the thyroid gland to stimulate thyroid hormone secretion.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Thyrotropin-releasing hormone ({TRH}) is secreted by the hypothalamus and stimulates release of thyroid-stimulating hormone ({TSH}) from the pituitary.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:TRH is produced by the hypothalamus|True
+item:TSH is produced by the anterior pituitary|True
+item:T3 inhibits TSH release|True
+item:The thyroid gland releases T3 and T4 in response to TSH|True
+[end activity]
+
+[activity:connect]
+prompt: Match the hormone with its role in the axis.
+item: TRH | Stimulates TSH release
+item: TSH | Stimulates thyroid hormone release
+item: T3 | Negative feedback regulator
+item: T4 | Thyroid hormone precursor
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Stimulating signals|TRH; TSH
+Negative feedback signals|T3; T4
+[end activity]
+
+[activity:mcq]
+prompt: Which hormone exerts negative feedback on TSH release according to the lecture?
+wrong: ACTH
+wrong: CRH
+wrong: Adrenaline
+correct: T3
+explanation: T3 inhibits TSH release as part of negative feedback control.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: The thyroid axis is regulated by {negative feedback}, helping maintain appropriate circulating levels of thyroid {hormones}.
+[end activity]
+
+[activity:arrange]
+prompt: Arrange these components in ascending order through the thyroid axis.
+item: Hypothalamus
+item: Anterior pituitary
+item: Thyroid gland
+item: Increased metabolic rate
+[end activity]
+
+[activity:connect]
+prompt: Match each observation with the most likely location of the problem.
+item: Normal TRH, low TSH, low T3/T4 | Pituitary
+item: High TRH, high TSH, low T3/T4 | Thyroid gland
+item: Low TRH, low TSH, low T3/T4 | Hypothalamus
+[end activity]
+
+[activity:mcq]
+prompt: A patient has high TRH, high TSH and low T3/T4. Where is the most likely problem?
+wrong: Hypothalamus
+wrong: Pituitary
+wrong: Posterior pituitary
+correct: Thyroid gland
+explanation: The hypothalamus and pituitary are responding appropriately, suggesting failure of the thyroid gland.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Low TRH, low TSH and low T3/T4 suggests a hypothalamic problem|True
+item:Normal TRH with low TSH and low T3/T4 suggests a pituitary problem|True
+item:High TRH and high TSH with low T3/T4 suggests thyroid failure|True
+item:Clinical interpretation of endocrine axes relies on understanding feedback pathways|True
+[end activity]
+
+Endocrine Organs and Hormone Summary
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Many hormones are released from endocrine {glands}, but endocrine hormones can also be released by other {organs}.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:The body contains multiple endocrine glands|True
+item:Only endocrine glands can release hormones|False
+item:Hormones help regulate physiology throughout the body|True
+item:Several non-gland organs have endocrine functions|True
+[end activity]
+
+[activity:connect]
+prompt: Match the endocrine gland with one of its hormones.
+item: Thyroid gland | Thyroid hormones
+item: Parathyroid gland | Parathyroid hormone
+item: Pancreas | Insulin
+item: Pineal gland | Melatonin
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Endocrine glands|Pituitary; Thyroid; Parathyroid; Adrenal; Pineal; Gonads; Pancreas
+Hormones|Insulin; Melatonin; Thyroid hormones; Parathyroid hormone
+[end activity]
+
+[activity:mcq]
+prompt: Which gland is associated with secretion of melatonin?
+wrong: Thyroid gland
+wrong: Adrenal gland
+wrong: Pancreas
+correct: Pineal gland
+explanation: Melatonin is released by the pineal gland.
+[end activity]
+
+[activity:connect]
+prompt: Match the gland to its primary hormone from the lecture.
+item: Pancreas | Insulin
+item: Pancreas | Glucagon
+item: Parathyroid gland | Parathyroid hormone
+item: Thyroid gland | Thyroid hormones
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Insulin helps regulate metabolism and plasma nutrients|True
+item:Glucagon helps regulate metabolism and plasma nutrients|True
+item:Thyroid hormones influence metabolic rate|True
+item:Parathyroid hormone contributes to calcium regulation|True
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: The pancreas secretes {insulin} and {glucagon}, both of which contribute to metabolic regulation.
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Metabolic regulation hormones|Insulin; Glucagon; Thyroid hormones
+Calcium regulation hormones|Parathyroid hormone
+[end activity]
+
+[activity:connect]
+prompt: Match the gland with its major physiological role.
+item: Thyroid gland | Metabolic rate
+item: Parathyroid gland | Plasma calcium regulation
+item: Gonads | Sex hormone production
+item: Pineal gland | Biological rhythms
+[end activity]
+
+[activity:mcq]
+prompt: Which endocrine organ is most closely associated with biological rhythms?
+wrong: Thyroid gland
+wrong: Pancreas
+wrong: Adrenal cortex
+correct: Pineal gland
+explanation: Melatonin from the pineal gland is involved in biological rhythms.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: The gonads release {oestrogen} and {testosterone}, hormones important in reproduction and sexual development.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Testosterone is a gonadal hormone|True
+item:Oestrogen is a gonadal hormone|True
+item:The gonads are endocrine organs|True
+item:The pineal gland primarily regulates blood glucose|False
+[end activity]
+
+[activity:connect]
+prompt: Match the organ with its endocrine product.
+item: Heart | Atrial natriuretic peptide
+item: Kidney | Erythropoietin
+item: Adipose tissue | Leptin
+item: Liver | Growth-related functions
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Traditional endocrine glands|Adrenal gland; Thyroid gland; Pituitary gland; Pineal gland
+Other endocrine organs|Heart; Kidney; Liver; Intestine; Adipose tissue
+[end activity]
+
+[activity:mcq]
+prompt: Which organ produces atrial natriuretic peptide (ANP)?
+wrong: Kidney
+wrong: Liver
+wrong: Thyroid gland
+correct: Heart
+explanation: The heart produces ANP, which influences blood volume.
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: The heart secretes {atrial natriuretic peptide}, which contributes to regulation of blood {volume}.
+[end activity]
+
+[activity:connect]
+prompt: Match the organ with the physiological process it influences.
+item: Heart | Blood volume
+item: Kidney | Blood pressure
+item: Kidney | Red blood cell production
+item: Intestine | Digestion and metabolism
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:The kidney participates in endocrine regulation|True
+item:Erythropoietin contributes to red blood cell production|True
+item:The intestine releases hormones involved in digestion|True
+item:Only glands have endocrine functions|False
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Kidney-derived endocrine functions|Blood pressure regulation; Erythropoietin; Vitamin D activation
+Heart-derived endocrine functions|Atrial natriuretic peptide; Blood volume regulation
+[end activity]
+
+[activity:mcq]
+prompt: Which organ contributes to endocrine control of blood pressure through the renin-angiotensin system?
+wrong: Thyroid gland
+wrong: Pineal gland
+wrong: Adipose tissue
+correct: Kidney
+explanation: The kidney is involved in endocrine regulation of blood pressure.
+[end activity]
+
+[activity:connect]
+prompt: Match the tissue with its hormone.
+item: Adipose tissue | Leptin
+item: Heart | Atrial natriuretic peptide
+item: Kidney | Erythropoietin
+item: Stomach G cells | Gastrin
+[end activity]
+
+[activity:completetext]
+prompt: Complete the following text using the missing terms.
+text: Adipose tissue secretes {leptin}, demonstrating that endocrine signalling can occur outside classical endocrine glands.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Adipose tissue has endocrine functions|True
+item:Leptin is produced by adipose tissue|True
+item:The heart can function as an endocrine organ|True
+item:The kidney has no hormonal role|False
+[end activity]
+
+[activity:connect]
+prompt: Match the signalling type with the example from the lecture.
+item: Paracrine signalling | Endothelin acting on neighbouring smooth muscle
+item: Autocrine signalling | Cytokines acting on the secreting cell
+item: Endocrine signalling | Hormones acting on distant cells
+item: Cancer signalling example | Self-generated growth signals
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Paracrine signalling|Neighbouring cells; Endothelin; Local signalling
+Autocrine signalling|Cytokines; Self-signalling; Cancer growth signalling
+[end activity]
+
+[activity:mcq]
+prompt: Which signalling mode is exemplified by cytokines acting on the same cell that released them?
+wrong: Endocrine
+wrong: Paracrine
+wrong: Neural
+correct: Autocrine
+explanation: Autocrine signals act on the cell that produced them.
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Most cells can secrete signalling molecules into their local environment|True
+item:Paracrine signalling acts only through the bloodstream|False
+item:Endothelin was presented as a paracrine example|True
+item:Autocrine signalling can contribute to cancer progression|True
+[end activity]
+
+[activity:connect]
+prompt: Match the hormone with its site of production.
+item: Insulin | Pancreas
+item: Growth hormone | Pituitary
+item: Adrenaline | Adrenal medulla
+item: Cortisol | Adrenal cortex
+item: Testosterone | Testis
+item: Oestrogen | Ovary
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Protein hormones|Insulin; Glucagon; Growth hormone; Gastrin
+Tyrosine derivatives|Adrenaline; Thyroid hormones
+Cholesterol derivatives|Cortisol; Testosterone; Oestrogen; Progesterone; Aldosterone
+[end activity]
+
+[activity:mcq]
+prompt: Which hormone in the summary table is identified as a tyrosine derivative?
+wrong: Cortisol
+wrong: Testosterone
+wrong: Aldosterone
+correct: Adrenaline
+explanation: Adrenaline is derived from tyrosine.
+[end activity]
+
+[activity:connect]
+prompt: Match the hormone with its major role.
+item: Insulin | Decrease blood glucose
+item: Glucagon | Increase blood glucose
+item: Growth hormone | Linear growth
+item: Cortisol | Stress responses
+item: Thyroid hormones | Metabolic rate
+item: Aldosterone | Increase blood sodium
+[end activity]
+
+[activity:bucket]
+prompt: Place the items into the correct bucket.
+Metabolism-related hormones|Insulin; Glucagon; Thyroid hormones
+Growth-related hormones|Growth hormone; IGF
+Stress-related hormones|Cortisol; Adrenaline
+[end activity]
+
+[activity:mcq]
+prompt: Which hormone is most directly associated with increasing blood sodium according to the lecture summary?
+wrong: Cortisol
+wrong: Insulin
+wrong: Thyroid hormone
+correct: Aldosterone
+explanation: Aldosterone promotes sodium retention.
+[end activity]
+
+[activity:connect]
+prompt: Match the hormone with its major physiological role.
+item: ANP | Decrease blood volume
+item: Angiotensin II | Blood pressure control
+item: Gastrin | Acid secretion
+item: Progesterone | Pregnancy and menstrual cycle
+[end activity]
+
+[activity:survey]
+prompt: Are these statements true or false?
+options:True;False
+item:Angiotensin II contributes to blood pressure control|True
+item:ANP decreases blood volume|True
+item:Gastrin contributes to acid secretion|True
+item:Progesterone has roles in pregnancy|True
+[end activity]
+
+[activity:arrange]
+prompt: Arrange these levels of hormonal organisation in ascending order from local to whole-body signalling.
+item: Autocrine signalling
+item: Paracrine signalling
+item: Endocrine signalling
+item: Hypothalamic-pituitary endocrine axes
+[end activity]
+
