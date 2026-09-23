@@ -80,7 +80,7 @@
         }
         .connect-check {
             background: #4CAF50;
-            color: white;
+            color: black;
             font-weight: bold;
         }
         .connect-check:hover {
@@ -88,14 +88,14 @@
         }
         .clear-btn {
             background: #f44336;
-            color: white;
+            color: black;
         }
         .clear-btn:hover {
             background: #d32f2f;
         }
         .solution-btn {
             background: #2196F3;
-            color: white;
+            color: black;
         }
         .solution-btn:hover {
             background: #1976D2;
