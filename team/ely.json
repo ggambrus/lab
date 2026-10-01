@@ -46,6 +46,7 @@
 		],
 		
         "talks": [
+				{"title": "Generalisation of Familiarity-Related Neural Patterns to Emotional Facial Expressions", "venue": "The 48th European Conference on Visual Perception", "date": "25 August, 2026", "city":"Bournemouth","country": "United Kingdom"},
 				{"title": "The Neural Processing of Gender Information in Illusory Faces", "venue": "The 16th Annual BU Postgraduate Research Conference", "date": "27 November, 2024", "city":"Bournemouth","country": "United Kingdom"},
 				{"title": "The Neural Basis of Facial Expression Processing-Insights from Cross-Dataset Multivariate Pattern Analysis", "venue": "BU Cognition and Brain Sciences Seminar", "date": "10 April, 2024", "city":"Bournemouth","country": "United Kingdom"}
         ],
