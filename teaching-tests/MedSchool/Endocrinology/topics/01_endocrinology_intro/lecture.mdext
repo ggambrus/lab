@@ -1,5 +1,21 @@
 Homeostasis and Feedback
 
+
+[activity:imagecaption]
+prompt: Drag the names of the structures into the image of the hand
+image: assets/test/hand_bones_01.jpg
+200,950 |align-right|Pisiform
+260,1045|align-right|Triquertum
+170,1130|align-right|Lunate
+230,1210|align-right|Scaphoid
+930,800 |align-left|Hamate
+900,880 |align-left|Capitate
+890,960 |align-left|Trapezoid
+880,1040|align-left|Trapezium
+225,1410|align-right|Ulna
+715,1390 |align-left|Radius
+[end activity]
+
 [activity:completetext]
 prompt: Complete the following text using the missing terms.
 text: To stay alive our bodies need to maintain {homeostasis}. Homeostasis is {balance}.
