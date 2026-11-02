@@ -1,0 +1,9 @@
+{
+    "name": "Leah McNab",
+    "photo": "profile_images\/profile_3.png",
+    "education": [
+		{"degree"    : "BSc (Hons) in Psychology (in progress)",
+		 "university": "Bournemouth University",
+		 "logo"      : "images\/logo_BU_64x64.png"}
+    ]
+}

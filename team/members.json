@@ -42,7 +42,7 @@
     },
 	{
         "name": "Chloe Kelsey, MSc",
-        "title": "Student Researcher (MSc)",
+        "title": "Student Researcher (BSc, MSc, 2023-2026)",
 		"alumni": true,
 		"cooperation": false,
         "image": "profile_images\/CK.jpg",
@@ -56,6 +56,31 @@
             }		
 			]
     },
+
+	{
+        "name": "Sophie Harris",
+        "title": "Student Researcher (BSc)",
+		"alumni": false,
+		"cooperation": false,
+        "image": "profile_images\/SH.jpg",
+		"profile_page": "member.html#harris",
+        "bio": "",
+        "research_interests": "",
+        "publications": [ ]
+    },
+
+	{
+        "name": "Leah McNab",
+        "title": "Student Researcher (BSc)",
+		"alumni": false,
+		"cooperation": false,
+        "image": "profile_images\/LM.jpg",
+		"profile_page": "member.html#mcnab",
+        "bio": "",
+        "research_interests": "",
+        "publications": [ ]
+    },
+
 
 	{
         "name": "Flora Genis",
